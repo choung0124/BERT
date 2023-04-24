@@ -1,9 +1,6 @@
 import json
 import os
 import re
-import sys
-from torch.utils.data import Dataset
-from transformers import BertTokenizerFast
 
 def process_directory(dir_path):
     # Initialize lists to store the results
@@ -49,34 +46,3 @@ def process_directory(dir_path):
                         if subject_text in sentence and object_text in sentence:
                             relation_sentences.append({'relation': relation['rel_name'], 'sentence': sentence})
     return entity_sentences, relation_sentences
-
-class NERRE_Dataset(Dataset):
-    def __init__(self, sentences, ner_labels, re_labels):
-        self.sentences = sentences
-        self.ner_labels = ner_labels
-        self.re_labels = re_labels
-
-    def __len__(self):
-        return len(self.sentences)
-
-    def __getitem__(self, idx):
-        return self.sentences[idx], self.ner_labels[idx], self.re_labels[idx]
-
-if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python data_prep.py <directory_name>")
-        sys.exit(1)
-
-    dir_path = sys.argv[1]
-    entity_sentences, relation_sentences = process_directory(dir_path)
-
-    # Save the entity sentences and relation sentences as .txt files
-    with open('entity_sentences.txt', 'w') as file:
-        for entity_sentence in entity_sentences:
-            file.write(f"Entity: {entity_sentence['entity']}\n")
-            file.write(f"Sentence: {entity_sentence['sentence']}\n\n")
-
-    with open('relation_sentences.txt', 'w') as file:
-        for relation_sentence in relation_sentences:
-            file.write(f"Relation: {relation_sentence['relation']}\n")
-            file.write(f"Sentence: {relation_sentence['sentence']}\n\n")
