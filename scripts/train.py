@@ -1,6 +1,7 @@
 import torch
 from torch.utils.data import DataLoader
 from torch.cuda.amp import autocast, GradScaler
+import torch.nn as nn
 import torch.nn.functional as F
 from torch.optim import AdamW
 from tqdm import tqdm
