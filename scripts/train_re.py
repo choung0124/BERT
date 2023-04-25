@@ -12,7 +12,7 @@ def extract_subject_relation_object(line):
         print(f"Error: Unexpected line format: {line}")
         return None, None, None
 
-    return subject.strip(), obj.strip() relation.strip()
+    return subject.strip(), obj.strip(), relation.strip()
 
 # Set the directory containing the preprocessed data
 re_data_dir = "training_data"
