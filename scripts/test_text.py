@@ -3,6 +3,7 @@ import torch
 from transformers import BertTokenizerFast
 from model_definition import NER_RE_Model
 import re
+import pickle
 
 parser = argparse.ArgumentParser(description='Extract relationships from text')
 parser.add_argument('text', type=str, help='Text to extract relationships from')
@@ -13,7 +14,7 @@ tokenizer = BertTokenizerFast.from_pretrained('model')
 
 # Load the label dictionaries
 with open('model/label_dicts.pkl', 'rb') as f:
-    label_dicts = torch.load(f)
+    label_dicts = pickle.load(f)
 
 ner_label2idx, ner_idx2label = label_dicts['ner']
 re_label2idx, re_idx2label = label_dicts['re']
