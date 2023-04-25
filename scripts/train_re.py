@@ -4,7 +4,7 @@ from torch.utils.data import DataLoader, TensorDataset
 from transformers import BertTokenizer, BertForSequenceClassification
 
 # Set the directory containing the preprocessed data
-re_data_dir = "training_data/re"
+re_data_dir = "training_data"
 
 # Load the pre-trained BERT model and tokenizer
 tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
