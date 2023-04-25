@@ -25,7 +25,7 @@ for file_name in os.listdir(ner_data_dir):
         with open(os.path.join(ner_data_dir, file_name), "r") as f:
             lines = f.readlines()
             tokens = [line.split()[0] for line in lines]
-            labels = [line.split()[1] for line in lines]
+            labels = [line.split()[1] for line in lines if len(line.split()) > 1]
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
             ner_input_ids.append(encoded["input_ids"])
             ner_attention_masks.append(encoded["attention_mask"])
