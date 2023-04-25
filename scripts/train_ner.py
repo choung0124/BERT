@@ -45,7 +45,6 @@ for file_name in os.listdir(ner_data_dir):
             ner_attention_masks.append(encoded["attention_mask"])
             ner_labels.append(torch.tensor([label_to_id[label] for label in labels if label in label_to_id]))
 
-
 ner_input_ids = torch.cat(ner_input_ids, dim=0)
 ner_attention_masks = torch.cat(ner_attention_masks, dim=0)
 ner_labels = torch.cat(ner_labels, dim=0)
