@@ -80,7 +80,7 @@ else:
     exit()     
     
 # Concatenate the input IDs, attention masks, and labels into tensors
-re_input_ids = torch.cat(re_input_ids, dim=0)
+re_input_ids = torch.stack(re_input_ids, dim=0)
 re_attention_masks = torch.cat(re_attention_masks, dim=0)
 re_labels = torch.tensor(re_labels)
 
