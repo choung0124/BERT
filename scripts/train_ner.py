@@ -26,7 +26,13 @@ for file_name in os.listdir(ner_data_dir):
         with open(os.path.join(ner_data_dir, file_name), "r") as f:
             lines = f.readlines()
             tokens = [line.split()[0] for line in lines]
-            labels = [line.split()[1] for line in lines if len(line.split()) > 1]
+            labels = []
+            for line in lines:
+                try:
+                    label = line.split()[1]
+                    labels.append(label)
+                except IndexError:
+                    pass  # Ignore the line if it doesn't have at least two elements after splitting
             all_labels.extend(labels)
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
             ner_input_ids.append(encoded["input_ids"])
