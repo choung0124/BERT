@@ -90,5 +90,10 @@ if __name__ == "__main__":
     relation_to_id = load_mapping_from_json(args.relation_to_id_file)
         # Add your relation-to-ID mapping here
 
-    relationships = extract_relationship(input_text, ner_model, re_model, tokenizer, label_to_id, relation_to_id)
-    print(relationships)
+    if relationships:
+        print("Extracted relationships:")
+        for relationship in relationships:
+            subject_label, subject, relation, object_label, obj = relationship
+            print(f"{subject_label} ({subject}) --{relation}--> {object_label} ({obj})")
+    else:
+        print("No relationships found.")
