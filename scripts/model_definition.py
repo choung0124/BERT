@@ -18,3 +18,4 @@ class NER_RE_Model(nn.Module):
         re_logits = self.re_classifier(outputs.pooler_output)
         return {'ner_logits': ner_logits, 're_logits': re_logits}
 
+
