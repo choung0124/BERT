@@ -1,5 +1,5 @@
-import os
 import json
+import os
 import torch
 from tqdm import tqdm
 from torch.utils.data import DataLoader, TensorDataset
@@ -10,65 +10,90 @@ from transformers import logging
 logging.set_verbosity_error()
 warnings.filterwarnings("ignore", category=UserWarning, module="transformers.modeling_utils")
 
-# Set the directory containing the preprocessed data
-ner_data_dir = "training_data"
+def preprocess_ner(json_data):
+    ner_data = []
+    
+    for entity in json_data["entities"]:
+        ner_data.append((entity["span"]["begin"], entity["span"]["end"], entity["entityType"]))
+    
+    ner_data.sort(key=lambda x: x[0])
+    
+    text = json_data["text"]
+    ner_tags = []
+    current_idx = 0
+    
+    for begin, end, entity_type in ner_data:
+        while current_idx < begin:
+            ner_tags.append((text[current_idx], "O"))
+            current_idx += 1
+        
+        first = True
+        for i in range(begin, end):
+            ner_tags.append((text[i], f"B-{entity_type}" if first else f"I-{entity_type}"))
+            first = False
+            current_idx += 1
+    
+    while current_idx < len(text):
+        ner_tags.append((text[current_idx], "O"))
+        current_idx += 1
+    
+    return ner_tags
 
-# Load the pre-trained BERT model and tokenizer
+# Set the directory containing the JSON files
+json_directory = "test"
 
-# Set the hyperparameters for fine-tuning
+# Preprocessed data
+preprocessed_data = []
+
+# Iterate through all JSON files in the directory
+for file_name in os.listdir(json_directory):
+    if file_name.endswith(".json"):
+        json_path = os.path.join(json_directory, file_name)
+
+        # Load the JSON data
+        with open(json_path, "r") as json_file:
+            json_data = json.load(json_file)
+
+        # Preprocess the data for NER tasks
+        ner_data = preprocess_ner(json_data)
+        preprocessed_data.append(ner_data)
+
+# Hyperparameters
 num_epochs = 10
 batch_size = 16
 learning_rate = 2e-5
 
-# Tokenize the NER data and generate labels
-ner_input_ids = []
-ner_attention_masks = []
-ner_labels = []
-all_labels = []
-
-# Read all labels from the preprocessed data
-for file_name in os.listdir(ner_data_dir):
-    if file_name.endswith("_ner_data.txt"):
-        with open(os.path.join(ner_data_dir, file_name), "r") as f:
-            lines = f.readlines()
-            labels = [line.split()[1] for line in lines if len(line.split()) > 1]
-            all_labels.extend(labels)
-
-# Create a label-to-ID mapping
-label_to_id = {label: idx for idx, label in enumerate(set(all_labels))}
-
-num_unique_labels = len(label_to_id)
-
+# Load the pre-trained BERT model and tokenizer
 tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+
+# Initialize the BERT model for token classification
+all_labels = [tag for ner_data in preprocessed_data for _, tag in ner_data]
+num_unique_labels = len(set(all_labels))
 ner_model = BertForTokenClassification.from_pretrained("bert-base-uncased", num_labels=num_unique_labels)
 
+# Preprocess and tokenize the NER data
+ner_input_ids, ner_attention_masks, ner_labels = [], [], []
+label_to_id = {label: idx for idx, label in enumerate(set(all_labels))}
+
 # Tokenize and align the labels
-for file_name in os.listdir(ner_data_dir):
-    if file_name.endswith("_ner_data.txt"):
-        with open(os.path.join(ner_data_dir, file_name), "r") as f:
-            lines = f.readlines()
-            tokens = []
-            labels = []
-            for line in lines:
-                if len(line.split()) > 1:
-                    token = line.split()[0]
-                    label = line.split()[1]
-                    labels.append(label)
-                    sub_tokens = tokenizer.tokenize(token)
-                    tokens.extend(sub_tokens)
-            encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=512, return_tensors="pt")
-            ner_input_ids.append(encoded["input_ids"])
-            ner_attention_masks.append(encoded["attention_mask"])
-            
-            aligned_labels = []
-            for label in labels:
-                if label in label_to_id:
-                    label_id = label_to_id[label]
-                    sub_tokens = tokenizer.tokenize(label.split()[0])
-                    aligned_labels.extend([label_id] + [-100] * (len(sub_tokens) - 1))
-            padded_labels = aligned_labels[:512]  # Truncate to match the max_length
-            padded_labels.extend([-100] * (512 - len(padded_labels)))  # Pad to match the max_length
-            ner_labels.append(torch.tensor(padded_labels))
+for ner_data in preprocessed_data:
+    tokens, labels = zip(*ner_data)
+    sub_tokens_list = [tokenizer.tokenize(token) for token in tokens]
+    tokens = [sub_token for sub_tokens in sub_tokens_list for sub_token in sub_tokens]
+
+    encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=512, return_tensors="pt")
+    ner_input_ids.append(encoded["input_ids"])
+    ner_attention_masks.append(encoded["attention_mask"])
+
+    aligned_labels = []
+    for label in labels:
+        label_id = label_to_id[label]
+        sub_tokens = tokenizer.tokenize(label.split()[0])
+        aligned_labels.extend([label_id] + [-100] * (len(sub_tokens) - 1))
+
+    padded_labels = aligned_labels[:512]
+    padded_labels.extend([-100] * (512 - len(padded_labels)))
+    ner_labels.append(torch.tensor(padded_labels))
 
 ner_input_ids = torch.cat(ner_input_ids, dim=0)
 ner_attention_masks = torch.cat(ner_attention_masks, dim=0)
@@ -83,8 +108,7 @@ ner_dataset = TensorDataset(ner_input_ids, ner_attention_masks, ner_labels)
 ner_loader = DataLoader(ner_dataset, batch_size=batch_size)
 
 # Fine-tune the BERT NER model
-# Fine-tune the BERT NER model
-device = torch.device("cpu")
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 ner_model.to(device)
 
 optimizer = torch.optim.AdamW(ner_model.parameters(), lr=learning_rate)
@@ -93,11 +117,11 @@ total_steps = len(ner_loader) * num_epochs
 for epoch in range(num_epochs):
     print(f"Epoch {epoch + 1}/{num_epochs}")
     print("-" * 40)
-    
+
     ner_model.train()
     epoch_loss = 0
     num_batches = 0
-    
+
     # Add a progress bar for the batches
     for batch in tqdm(ner_loader, desc="Training", unit="batch"):
         input_ids, attention_masks, labels = tuple(t.to(device) for t in batch)
@@ -109,7 +133,7 @@ for epoch in range(num_epochs):
         loss.backward()
         optimizer.step()
         optimizer.zero_grad()
-    
+
     avg_epoch_loss = epoch_loss / num_batches
     print(f"Average training loss: {avg_epoch_loss:.4f}")
 
@@ -123,3 +147,4 @@ mapping_file = "label_to_id.json"
 
 with open(mapping_file, "w") as f:
     json.dump(label_to_id, f)
+
