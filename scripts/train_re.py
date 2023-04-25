@@ -48,8 +48,12 @@ for file_name in os.listdir(re_data_dir):
             tokens = tokenizer.tokenize(f"{subject} [SEP] {obj}")
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
             re_input_ids.append(encoded["input_ids"])
-            re_attention_masks.append(encoded["attention_mask"])
+            if relation not in relation_to_id:
+                print(f"Error: Relation '{relation}' not found in the relation_to_id dictionary")
+                continue
+
             re_labels.append(torch.tensor(relation_to_id[relation]))
+
 
 re_input_ids = torch.cat(re_input_ids, dim=0)
 re_attention_masks = torch.cat(re_attention_masks, dim=0)
