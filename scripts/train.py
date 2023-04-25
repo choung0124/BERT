@@ -25,6 +25,13 @@ def train_epoch(model, data_loader, optimizer, device):
         subject_labels = subject_labels.to(device)
         object_labels = object_labels.to(device)
         relation_labels = relation_labels.to(device)
+        
+        print("outputs['ner_logits'].shape:", outputs['ner_logits'].shape)
+        print("subject_labels.shape:", subject_labels.shape)
+        print("outputs['re_logits'].shape:", outputs['re_logits'].shape)
+        print("object_labels.shape:", object_labels.shape)
+        print("relation_labels.shape:", relation_labels.shape)
+
 
         optimizer.zero_grad()
         outputs = model(input_ids, attention_mask)
