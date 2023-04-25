@@ -1,3 +1,20 @@
+import os
+import torch
+from torch.utils.data import DataLoader, TensorDataset
+from transformers import BertTokenizer, BertForTokenClassification
+
+# Set the directory containing the preprocessed data
+ner_data_dir = "training_data"
+
+# Load the pre-trained BERT model and tokenizer
+tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+ner_model = BertForTokenClassification.from_pretrained("bert-base-uncased", num_labels=3)
+
+# Set the hyperparameters for fine-tuning
+num_epochs = 10
+batch_size = 16
+learning_rate = 2e-5
+
 # Tokenize the NER data and generate labels
 ner_input_ids = []
 ner_attention_masks = []
@@ -23,11 +40,11 @@ for file_name in os.listdir(ner_data_dir):
             if len(tokens) != len(labels):
                 print(f"Skipping {file_name} because the number of tokens ({len(tokens)}) is different from the number of labels ({len(labels)})")
                 continue
-            # Use the max length of 512 for encoding the input
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=512, return_tensors="pt")
             ner_input_ids.append(encoded["input_ids"])
             ner_attention_masks.append(encoded["attention_mask"])
             ner_labels.append(torch.tensor([label_to_id[label] for label in labels if label in label_to_id]))
+
 
 ner_input_ids = torch.cat(ner_input_ids, dim=0)
 ner_attention_masks = torch.cat(ner_attention_masks, dim=0)
