@@ -2,20 +2,7 @@ import os
 import torch
 from torch.utils.data import DataLoader, TensorDataset
 from transformers import BertTokenizer, BertForSequenceClassification
-
-# Function to extract subject, relation, and object from a line of text
-def extract_subject_relation_object(line):
-    # Assuming the line format is "subject relation object"
-    try:
-        subject, relation, obj = line.split(" ", 2)
-    except ValueError:
-        print(f"Error: Unexpected line format: {line}")
-        return None, None, None
-
-    return subject.strip(), relation.strip(), obj.strip()
-
-# Set the directory containing the preprocessed data
-re_data_dir = "training_data"
+import json
 
 # Set the hyperparameters for fine-tuning
 num_epochs = 10
@@ -24,9 +11,15 @@ learning_rate = 2e-5
 
 # Create a mapping from relation labels to their respective IDs
 relations = [
-    "relation_1",
-    "relation_2",
-    "relation_3"
+    "inhibits",
+    "treat",
+    "prevent",
+    "reduces",
+    "suppress",
+    "regulate",
+    "stimulate",
+    'associate",
+    "biomarker"
 ]
 relation_to_id = {relation: idx for idx, relation in enumerate(relations)}
 
@@ -38,30 +31,35 @@ re_input_ids = []
 re_attention_masks = []
 re_labels = []
 
-# Loop through all files in the training_data directory
-for file_name in os.listdir(re_data_dir):
-    if not file_name.endswith("_re_data.txt"):
+# Set the directory containing the JSON files
+json_directory = "test"
+
+# Loop through all JSON files in the directory
+for file_name in os.listdir(json_directory):
+    if not file_name.endswith(".json"):
         continue
 
-    # Read the relation data from the file
-    with open(os.path.join(re_data_dir, file_name), "r") as f:
-        for line in f:
-            subject, relation, obj = extract_subject_relation_object(line)
+    # Load the JSON data
+    json_path = os.path.join(json_directory, file_name)
+    with open(json_path, "r") as json_file:
+        json_data = json.load(json_file)
 
-            if relation is None or relation not in relation_to_id:
-                print(f"Warning: Skipping line with unexpected relation: {line}")
-                continue
+    # Preprocess the data for the RE task
+    entities = {entity["id"]: entity for entity in json_data["entities"]}
+    re_data = []
+    for relation in json_data["relation_info"]:
+        subject = entities[relation["subject"]]["text"]
+        obj = entities[relation["object"]]["text"]
+        re_data.append((subject, relation["rel_name"], obj))
 
-            # Tokenize and encode the relation
-            tokens = tokenizer.tokenize(f"{subject} [SEP] {obj}")
-            encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
+    # Tokenize and encode the RE data
+    for subject, relation, obj in re_data:
+        tokens = tokenizer.tokenize(f"{subject} [SEP] {obj}")
+        encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
+        re_input_ids.append(encoded["input_ids"])
+        re_attention_masks.append(encoded["attention_mask"])
+        re_labels.append(torch.tensor(relation_to_id[relation]))
 
-            # Add the encoded relation and its label to the lists
-            re_input_ids.append(encoded["input_ids"])
-            re_attention_masks.append(encoded["attention_mask"])
-            re_labels.append(torch.tensor(relation_to_id[relation]))
-
-        
 # Concatenate the input IDs, attention masks, and labels into tensors
 re_input_ids = torch.cat(re_input_ids, dim=0)
 re_attention_masks = torch.cat(re_attention_masks, dim=0)
