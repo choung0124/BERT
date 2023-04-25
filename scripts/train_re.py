@@ -21,7 +21,21 @@ re_attention_masks = []
 re_labels = []
 
 # Create a mapping from relation labels to their respective IDs
-relation_to_id = {relation: idx for idx, relation in enumerate(['No_relation', 'Has_relation'])}
+relation_to_id = {}
+
+# Open and read the training data file
+train_data_file = os.path.join(re_data_dir, "train_data.txt")
+with open(train_data_file, "r") as f:
+    lines = f.readlines()
+
+# Loop through each line of the training data
+for line in lines:
+    # Split the line into subject, object, relation
+    subject, obj, relation = line.strip().split("\t")
+    
+    # Add the relation to the dictionary if it doesn't exist yet
+    if relation not in relation_to_id:
+        relation_to_id[relation] = len(relation_to_id)
 
 # Tokenize and align the relations
 def extract_subject_relation_object(line):
