@@ -20,6 +20,18 @@ re_input_ids = []
 re_attention_masks = []
 re_labels = []
 
+# Read all relations from the preprocessed data
+all_relations = []
+for file_name in os.listdir(re_data_dir):
+    if file_name.endswith("_re_data.txt"):
+        with open(os.path.join(re_data_dir, file_name), "r") as f:
+            relation = f.readline().split()[1]
+            all_relations.append(relation)
+
+# Create a relation-to-ID mapping
+relation_to_id = {relation: idx for idx, relation in enumerate(set(all_relations))}
+
+# Tokenize and align the relations
 for file_name in os.listdir(re_data_dir):
     if file_name.endswith("_re_data.txt"):
         with open(os.path.join(re_data_dir, file_name), "r") as f:
@@ -28,7 +40,7 @@ for file_name in os.listdir(re_data_dir):
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
             re_input_ids.append(encoded["input_ids"])
             re_attention_masks.append(encoded["attention_mask"])
-            re_labels.append(torch.tensor(1 if relation == "related" else 0))
+            re_labels.append(torch.tensor(relation_to_id[relation]))
 
 re_input_ids = torch.cat(re_input_ids, dim=0)
 re_attention_masks = torch.cat(re_attention_masks, dim=0)
