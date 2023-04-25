@@ -91,4 +91,3 @@ def collate_fn(batch):
     return input_ids, attention_mask, subject_labels, object_labels, relation_labels, entity_positions
 
 
-
