@@ -9,6 +9,25 @@ import os
 
 from generate_label_dicts import generate_label_dicts
 
+def train_epoch(model, data_loader, optimizer, device):
+    model.train()
+    for batch in tqdm(data_loader):
+        input_ids, attention_mask, ner_label, re_label = batch
+        input_ids = input_ids.to(device)
+        attention_mask = attention_mask.to(device)
+        ner_labels = ner_label.to(device)
+        re_labels = re_label.to(device)
+
+        optimizer.zero_grad()
+        ner_logits, re_logits = model(input_ids, attention_mask)
+        loss_fn = torch.nn.CrossEntropyLoss()
+        ner_loss = loss_fn(ner_logits, ner_labels)
+        re_loss = loss_fn(re_logits, re_labels)
+        total_loss = ner_loss + re_loss
+        total_loss.backward()
+        optimizer.step()
+
+
 dir_path = "test"
 subject_label2idx, object_label2idx, re_label2idx, ner_label2idx = generate_label_dicts(dir_path)
 
