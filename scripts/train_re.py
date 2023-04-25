@@ -27,9 +27,13 @@ learning_rate = 2e-5
 # Create a mapping from relation labels to their respective IDs
 relations = [
     "inhibits",
+    "inhibit",
     "treat",
+    "treats",
     "prevent",
+    "prevents",
     "reduces",
+    "reduce",
     "suppress",
     "regulate",
     "stimulate",
