@@ -2,7 +2,7 @@ import os
 import torch
 from torch.utils.data import DataLoader, TensorDataset
 from transformers import BertTokenizer, BertForSequenceClassification
-import json
+
 
 def preprocess_re(json_data):
     re_data = []
@@ -17,6 +17,7 @@ def preprocess_re(json_data):
         re_data.append((subject, relation["rel_name"], obj))
 
     return re_data
+
 
 # Set the hyperparameters for fine-tuning
 num_epochs = 10
@@ -40,28 +41,30 @@ relation_to_id = {relation: idx for idx, relation in enumerate(relations)}
 tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
 re_model = BertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels=len(relation_to_id))
 
-# Load and preprocess the RE data
-with open("re_data.json", "r") as f:
-    json_data = json.load(f)
-re_data = preprocess_re(json_data)
-
 # Tokenize the RE data and create a training set
 re_input_ids = []
 re_attention_masks = []
 re_labels = []
 
-for data in re_data:
-    subject, relation, obj = data
+json_data_dir = "test"
+for file_name in os.listdir(json_data_dir):
+    if not file_name.endswith(".json"):
+        continue
 
-    # Tokenize and encode the relation
-    tokens = tokenizer.tokenize(f"{subject} [SEP] {obj}")
-    encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
+    with open(os.path.join(json_data_dir, file_name), "r") as f:
+        json_data = json.load(f)
+        re_data = preprocess_re(json_data)
 
-    if encoded["input_ids"].shape[1] > 0:
-        # Add the encoded relation and its label to the lists
-        re_input_ids.append(encoded["input_ids"])
-        re_attention_masks.append(encoded["attention_mask"])
-        re_labels.append(torch.tensor(relation_to_id[relation]))
+        for subject, relation, obj in re_data:
+            # Tokenize and encode the relation
+            tokens = tokenizer.tokenize(f"{subject} [SEP] {obj}")
+            encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
+
+            if encoded["input_ids"].shape[1] > 0:
+                # Add the encoded relation and its label to the lists
+                re_input_ids.append(encoded["input_ids"])
+                re_attention_masks.append(encoded["attention_mask"])
+                re_labels.append(torch.tensor(relation_to_id[relation]))
 
 # Concatenate the input IDs, attention masks, and labels into tensors
 re_input_ids = torch.cat(re_input_ids, dim=0)
@@ -87,6 +90,7 @@ for epoch in range(num_epochs):
         loss.backward()
         optimizer.step()
         optimizer.zero_grad()
+
 
 # Save the fine-tuned BERT RE model
 output_dir = "models/re"
