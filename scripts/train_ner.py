@@ -21,9 +21,18 @@ ner_attention_masks = []
 ner_labels = []
 all_labels = []
 
+# Read all labels from the preprocessed data
+for file_name in os.listdir(ner_data_dir):
+    if file_name.endswith("_ner_data.txt"):
+        with open(os.path.join(ner_data_dir, file_name), "r") as f:
+            lines = f.readlines()
+            labels = [line.split()[1] for line in lines if len(line.split()) > 1]
+            all_labels.extend(labels)
+
 # Create a label-to-ID mapping
 label_to_id = {label: idx for idx, label in enumerate(set(all_labels))}
 
+# Tokenize and align the labels
 for file_name in os.listdir(ner_data_dir):
     if file_name.endswith("_ner_data.txt"):
         with open(os.path.join(ner_data_dir, file_name), "r") as f:
@@ -37,10 +46,6 @@ for file_name in os.listdir(ner_data_dir):
                     labels.append(label)
                     sub_tokens = tokenizer.tokenize(token)
                     tokens.extend(sub_tokens)
-            all_labels.extend(labels)
-            if len(tokens) != len(labels):
-                print(f"Skipping {file_name} because the number of tokens ({len(tokens)}) is different from the number of labels ({len(labels)})")
-                continue
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=512, return_tensors="pt")
             ner_input_ids.append(encoded["input_ids"])
             ner_attention_masks.append(encoded["attention_mask"])
