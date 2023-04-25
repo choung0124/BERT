@@ -84,16 +84,20 @@ def collate_fn(batch):
 
     input_ids_padded = torch.zeros((batch_size, max_seq_len), dtype=torch.long)
     attention_mask_padded = torch.zeros((batch_size, max_seq_len), dtype=torch.long)
+    subject_labels_padded = torch.full((batch_size, max_seq_len), -100, dtype=torch.long)
+    object_labels_padded = torch.full((batch_size, max_seq_len), -100, dtype=torch.long)
 
     for i, ids in enumerate(input_ids):
         input_ids_padded[i, :len(ids)] = ids
         attention_mask_padded[i, :len(ids)] = 1
+        subject_start, object_start = entity_positions[i]
+        subject_labels_padded[i, subject_start] = subject_labels[i]
+        object_labels_padded[i, object_start] = object_labels[i]
 
-    subject_labels = torch.tensor(subject_labels, dtype=torch.long)
-    object_labels = torch.tensor(object_labels, dtype=torch.long)
     relation_labels = torch.tensor(relation_labels, dtype=torch.long)
 
-    return input_ids_padded, attention_mask_padded, subject_labels, object_labels, relation_labels, entity_positions
+    return input_ids_padded, attention_mask_padded, subject_labels_padded, object_labels_padded, relation_labels, entity_positions
+
 
 
 
