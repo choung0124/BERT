@@ -7,9 +7,9 @@ from transformers import BertTokenizer, BertForTokenClassification
 ner_data_dir = "training_data"
 
 # Load the pre-trained BERT model and tokenizer
-num_labels = len(set(all_labels))
+num_unique_labels = len(label_to_id)
 tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
-ner_model = BertForTokenClassification.from_pretrained("bert-base-uncased", num_labels=num_labels)
+ner_model = BertForTokenClassification.from_pretrained("bert-base-uncased", num_labels=num_unique_labels)
 
 # Set the hyperparameters for fine-tuning
 num_epochs = 10
