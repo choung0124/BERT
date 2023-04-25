@@ -14,12 +14,11 @@ import pickle
 from generate_label_dicts import generate_label_dicts
 
 def train_epoch(model, data_loader, optimizer, device):
-    model.train()
-    train_loss = 0.0
-    criterion = nn.CrossEntropyLoss()
+    model = model.train()
 
-    for batch in tqdm(data_loader):
-        input_ids, attention_mask, subject_labels, object_labels, relation_labels, entity_positions = batch
+    for batch in data_loader:
+        input_ids, attention_mask, subject_labels, object_labels, relation_labels, _ = batch
+
         input_ids = input_ids.to(device)
         attention_mask = attention_mask.to(device)
         subject_labels = subject_labels.to(device)
@@ -27,16 +26,24 @@ def train_epoch(model, data_loader, optimizer, device):
         relation_labels = relation_labels.to(device)
 
         optimizer.zero_grad()
-        outputs = model(input_ids, attention_mask)  # Ensure this line is correctly indented
-        print("outputs['ner_logits'].shape:", outputs['ner_logits'].shape)  # Make sure this line is after the outputs assignment
 
-        subject_loss = criterion(outputs['ner_logits'], subject_labels)
-        object_loss = criterion(outputs['re_logits'], object_labels)
-        relation_loss = criterion(outputs['re_logits'], relation_labels)
-        loss = subject_loss + object_loss + relation_loss
+        outputs = model(input_ids=input_ids, attention_mask=attention_mask)
+
+        # Reshape logits and labels tensors
+        ner_logits = outputs['ner_logits'].view(-1, outputs['ner_logits'].shape[-1])
+        subject_labels = subject_labels.view(-1)
+        object_labels = object_labels.view(-1)
+
+        criterion = nn.CrossEntropyLoss(ignore_index=-100)
+
+        subject_loss = criterion(ner_logits, subject_labels)
+        object_loss = criterion(ner_logits, object_labels)
+
+        loss = subject_loss + object_loss
+
         loss.backward()
         optimizer.step()
-
+        
         train_loss += loss.item()
 
     return train_loss / len(data_loader)
