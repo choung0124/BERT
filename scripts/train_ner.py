@@ -21,6 +21,9 @@ ner_attention_masks = []
 ner_labels = []
 all_labels = []
 
+# Create a label-to-ID mapping
+label_to_id = {label: idx for idx, label in enumerate(set(all_labels))}
+
 for file_name in os.listdir(ner_data_dir):
     if file_name.endswith("_ner_data.txt"):
         with open(os.path.join(ner_data_dir, file_name), "r") as f:
@@ -42,8 +45,6 @@ for file_name in os.listdir(ner_data_dir):
             ner_attention_masks.append(encoded["attention_mask"])
             ner_labels.append(torch.tensor([label_to_id[label] for label in labels if label in label_to_id]))
 
-# Create a label-to-ID mapping
-label_to_id = {label: idx for idx, label in enumerate(set(all_labels))}
 
 # Use the label-to-ID mapping for creating tensors
 for file_name in os.listdir(ner_data_dir):
