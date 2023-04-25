@@ -55,6 +55,7 @@ for epoch in range(num_epochs):
     train_epoch(model, train_data_loader, optimizer, device)
 
 model_dir = "model"
+# Save the pretrained BERT model
 model.bert.save_pretrained(model_dir)
 
 # Save the custom head
@@ -65,3 +66,13 @@ torch.save({
 
 # Save the tokenizer
 tokenizer.save_pretrained(model_dir)
+
+# Save the label dictionaries
+label_dicts = {
+    'ner': (ner_label2idx, ner_idx2label),
+    're': (re_label2idx, re_idx2label)
+}
+
+with open(os.path.join(model_dir, 'label_dicts.pkl'), 'wb') as f:
+    pickle.dump(label_dicts, f)
+
