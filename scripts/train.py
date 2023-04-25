@@ -13,17 +13,17 @@ from generate_label_dicts import generate_label_dicts
 def train_epoch(model, data_loader, optimizer, device):
     model.train()
     for batch in tqdm(data_loader):
-        input_ids, attention_mask, ner_label, re_label = batch
+        input_ids, attention_mask, ner_labels, re_labels = batch
         input_ids = input_ids.to(device)
         attention_mask = attention_mask.to(device)
-        ner_labels = ner_label.to(device)
-        re_labels = re_label.to(device)
+        ner_labels = ner_labels.to(device)
+        re_labels = re_labels.to(device)
 
         optimizer.zero_grad()
         ner_logits, re_logits = model(input_ids, attention_mask)
         loss_fn = torch.nn.CrossEntropyLoss()
-        ner_loss = loss_fn(ner_logits, ner_labels)
-        re_loss = loss_fn(re_logits, re_labels)
+        ner_loss = loss_fn(ner_logits.view(-1, ner_logits.shape[-1]), ner_labels.view(-1))
+        re_loss = loss_fn(re_logits.view(-1, re_logits.shape[-1]), re_labels.view(-1))
         total_loss = ner_loss + re_loss
         total_loss.backward()
         optimizer.step()
