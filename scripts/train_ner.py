@@ -15,27 +15,14 @@ num_epochs = 10
 batch_size = 16
 learning_rate = 2e-5
 
-# Create a label-to-ID mapping
-label_to_id = {}
-
-for file_name in os.listdir(ner_data_dir):
-    if file_name.endswith("_ner_data.txt"):
-        with open(os.path.join(ner_data_dir, file_name), "r") as f:
-            lines = f.readlines()
-            labels = []
-            for line in lines:
-                try:
-                    label = line.split()[1]
-                    labels.append(label)
-                except IndexError:
-                    pass  # Ignore the line if it doesn't have at least two elements after splitting
-            label_to_id.update({label: idx for idx, label in enumerate(set(labels))})
-
 # Tokenize the NER data and generate labels
 ner_input_ids = []
 ner_attention_masks = []
 ner_labels = []
 all_labels = []
+
+# Create a label-to-ID mapping
+label_to_id = {label: idx for idx, label in enumerate(set(all_labels))}
 
 for file_name in os.listdir(ner_data_dir):
     if file_name.endswith("_ner_data.txt"):
