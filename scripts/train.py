@@ -25,16 +25,11 @@ def train_epoch(model, data_loader, optimizer, device):
         subject_labels = subject_labels.to(device)
         object_labels = object_labels.to(device)
         relation_labels = relation_labels.to(device)
-        
-        print("outputs['ner_logits'].shape:", outputs['ner_logits'].shape)
-        print("subject_labels.shape:", subject_labels.shape)
-        print("outputs['re_logits'].shape:", outputs['re_logits'].shape)
-        print("object_labels.shape:", object_labels.shape)
-        print("relation_labels.shape:", relation_labels.shape)
-
 
         optimizer.zero_grad()
-        outputs = model(input_ids, attention_mask)
+        outputs = model(input_ids, attention_mask)  # Ensure this line is correctly indented
+        print("outputs['ner_logits'].shape:", outputs['ner_logits'].shape)  # Make sure this line is after the outputs assignment
+
         subject_loss = criterion(outputs['ner_logits'], subject_labels)
         object_loss = criterion(outputs['re_logits'], object_labels)
         relation_loss = criterion(outputs['re_logits'], relation_labels)
@@ -45,6 +40,7 @@ def train_epoch(model, data_loader, optimizer, device):
         train_loss += loss.item()
 
     return train_loss / len(data_loader)
+
 
 dir_path = "test"
 subject_label2idx, object_label2idx, re_label2idx, ner_label2idx = generate_label_dicts(dir_path)
