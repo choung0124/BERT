@@ -92,6 +92,8 @@ total_steps = len(re_loader) * num_epochs
 for epoch in range(num_epochs):
     for batch in re_loader:
         input_ids, attention_masks, labels = tuple(t.to(device) for t in batch)
+        print(input_ids.shape)
+        print(attention_masks.shape)
         outputs = re_model(input_ids, attention_mask=attention_masks, labels=labels)
         loss = outputs.loss
         loss.backward()
