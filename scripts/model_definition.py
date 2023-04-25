@@ -13,7 +13,8 @@ class NER_RE_Model(nn.Module):
 
     def forward(self, input_ids, attention_mask):
         outputs = self.bert(input_ids=input_ids, attention_mask=attention_mask)
-        pooled_output = outputs.pooler_output
-        ner_logits = self.ner_classifier(pooled_output)
-        re_logits = self.re_classifier(pooled_output)
+        last_hidden_state = outputs.last_hidden_state
+        ner_logits = self.ner_classifier(last_hidden_state)
+        re_logits = self.re_classifier(outputs.pooler_output)
         return {'ner_logits': ner_logits, 're_logits': re_logits}
+
