@@ -20,16 +20,8 @@ re_input_ids = []
 re_attention_masks = []
 re_labels = []
 
-# Read all relations from the preprocessed data
-all_relations = []
-for file_name in os.listdir(re_data_dir):
-    if file_name.endswith("_re_data.txt"):
-        with open(os.path.join(re_data_dir, file_name), "r") as f:
-            relation = f.readline().split()[1]
-            all_relations.append(relation)
-
-# Create a relation-to-ID mapping
-relation_to_id = {relation: idx for idx, relation in enumerate(set(all_relations))}
+# Create a mapping from relation labels to their respective IDs
+relation_to_id = {relation: idx for idx, relation in enumerate(['No_relation', 'Has_relation'])}
 
 # Tokenize and align the relations
 def extract_subject_relation_object(line):
