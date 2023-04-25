@@ -1,5 +1,6 @@
 import torch
 from torch.utils.data import DataLoader
+from torch.cuda.amp import autocast, GradScaler
 import torch.nn.functional as F
 from torch.optim import AdamW
 from tqdm import tqdm
@@ -14,6 +15,7 @@ from generate_label_dicts import generate_label_dicts
 def train_epoch(model, data_loader, optimizer, device):
     model.train()
     train_loss = 0.0
+    scaler = GradScaler()
     for batch in tqdm(data_loader):
         input_ids, attention_mask, subject_labels, object_labels, relation_labels, entity_positions = batch
         input_ids = input_ids.to(device)
@@ -23,13 +25,17 @@ def train_epoch(model, data_loader, optimizer, device):
         relation_labels = relation_labels.to(device)
 
         optimizer.zero_grad()
-        outputs = model(input_ids, attention_mask)
-        subject_loss = F.cross_entropy(outputs['ner_logits'], subject_labels)
-        object_loss = F.cross_entropy(outputs['ner_logits'], object_labels)
-        relation_loss = F.cross_entropy(outputs['re_logits'], relation_labels)
-        loss = subject_loss + object_loss + relation_loss
-        loss.backward()
-        optimizer.step()
+
+        with autocast():
+            outputs = model(input_ids, attention_mask)
+            subject_loss = F.cross_entropy(outputs['ner_logits'], subject_labels)
+            object_loss = F.cross_entropy(outputs['object_logits'], object_labels)
+            relation_loss = F.cross_entropy(outputs['relation_logits'], relation_labels)
+            loss = subject_loss + object_loss + relation_loss
+
+        scaler.scale(loss).backward()
+        scaler.step(optimizer)
+        scaler.update()
 
         train_loss += loss.item()
 
