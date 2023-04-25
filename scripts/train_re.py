@@ -7,18 +7,17 @@ from transformers import BertTokenizer, BertForSequenceClassification
 
 def preprocess_re(json_data):
     re_data = []
-    entities = {entity["id"]: entity for entity in json_data["entities"]}
+    entities = {entity["entityId"]: entity for entity in json_data["entities"]}
 
     for relation in json_data["relation_info"]:
         subject_id, obj_id = relation["subjectID"], relation["objectId"]
         if subject_id not in entities or obj_id not in entities:
             continue
-        subject = entities[subject_id]["text"]
-        obj = entities[obj_id]["text"]
+        subject = entities[subject_id]["entityName"]
+        obj = entities[obj_id]["entityName"]
         re_data.append((subject, relation["rel_name"], obj))
 
     return re_data
-
 
 # Set the hyperparameters for fine-tuning
 num_epochs = 10
