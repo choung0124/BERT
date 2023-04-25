@@ -62,7 +62,7 @@ for file_name in os.listdir(ner_data_dir):
 
 ner_input_ids = torch.cat(ner_input_ids, dim=0)
 ner_attention_masks = torch.cat(ner_attention_masks, dim=0)
-ner_labels = torch.cat(ner_labels, dim=0)
+ner_labels = torch.stack(ner_labels, dim=0)
 
 print(f"ner_input_ids shape: {ner_input_ids.shape}")
 print(f"ner_attention_masks shape: {ner_attention_masks.shape}")
