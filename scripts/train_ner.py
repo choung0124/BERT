@@ -1,6 +1,7 @@
 import os
 import json
 import torch
+from tqdm import tqdm
 from torch.utils.data import DataLoader, TensorDataset
 from transformers import BertTokenizer, BertForTokenClassification
 
@@ -77,20 +78,35 @@ ner_dataset = TensorDataset(ner_input_ids, ner_attention_masks, ner_labels)
 ner_loader = DataLoader(ner_dataset, batch_size=batch_size)
 
 # Fine-tune the BERT NER model
-device = torch.device("cpu")
+# Fine-tune the BERT NER model
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 ner_model.to(device)
 
 optimizer = torch.optim.AdamW(ner_model.parameters(), lr=learning_rate)
 total_steps = len(ner_loader) * num_epochs
 
 for epoch in range(num_epochs):
-    for batch in ner_loader:
+    print(f"Epoch {epoch + 1}/{num_epochs}")
+    print("-" * 40)
+    
+    ner_model.train()
+    epoch_loss = 0
+    num_batches = 0
+    
+    # Add a progress bar for the batches
+    for batch in tqdm(ner_loader, desc="Training", unit="batch"):
         input_ids, attention_masks, labels = tuple(t.to(device) for t in batch)
         outputs = ner_model(input_ids, attention_mask=attention_masks, labels=labels)
         loss = outputs.loss
+        epoch_loss += loss.item()
+        num_batches += 1
+
         loss.backward()
         optimizer.step()
         optimizer.zero_grad()
+    
+    avg_epoch_loss = epoch_loss / num_batches
+    print(f"Average training loss: {avg_epoch_loss:.4f}")
 
 # Save the fine-tuned BERT NER model
 output_dir = "models/ner"
