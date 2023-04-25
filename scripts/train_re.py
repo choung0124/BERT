@@ -6,11 +6,16 @@ from transformers import BertTokenizer, BertForSequenceClassification
 # Function to extract subject, relation, and object from a line of text
 def extract_subject_relation_object(line):
     # Update this function to extract subject, relation, and object from your dataset
-    # For example, if your dataset is in the format "subject [RELATION] object":
-    subject, relation_obj = line.split(": ")
-    relation, obj = relation_obj.split(" ", 1)
+    # For example, if your dataset is in the format "question: relation object":
+    try:
+        subject, relation_obj = line.split(": ")
+        relation, obj = relation_obj.split(" ", 1)
+    except ValueError:
+        print(f"Error: Unexpected line format: {line}")
+        return None, None, None
 
     return subject.strip(), relation.strip(), obj.strip()
+
 
 # Set the directory containing the preprocessed data
 re_data_dir = "training_data"
