@@ -1,5 +1,6 @@
 import torch
 from torch.utils.data import DataLoader
+import torch.nn.functional as F
 from torch.optim import AdamW
 from tqdm import tqdm
 from transformers import BertTokenizerFast
