@@ -20,11 +20,16 @@ class NERRE_Dataset(Dataset):
         return self.sentences[idx], self.subject_labels[idx], self.object_labels[idx], self.relation_labels[idx], self.entity_positions[idx]
 
 def process_directory(dir_path, subject_label2idx, object_label2idx, re_label2idx):
+    # Initialize lists to store the results
     processed_data = []
+
+    # Define a regular expression pattern to match sentence boundaries
     pattern = re.compile(r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s')
 
+    # Loop through each file in the directory
     for file_name in os.listdir(dir_path):
         if file_name.endswith('.json'):
+            # Read the JSON file and extract the content field from each object
             with open(os.path.join(dir_path, file_name), 'r') as file:
                 content = file.read()
                 data = json.loads(content)
@@ -32,6 +37,10 @@ def process_directory(dir_path, subject_label2idx, object_label2idx, re_label2id
                 entities = data['entities']
                 relations = data['relation_info']
 
+            # Create a dictionary for easy access to entity types
+            entity_type_dict = {entity['entityId']: entity['entityType'] for entity in entities}
+
+            # Find the sentence containing each relation
             for relation in relations:
                 subject_text = relation['subjectText']
                 object_text = relation['objectText']
@@ -39,13 +48,16 @@ def process_directory(dir_path, subject_label2idx, object_label2idx, re_label2id
                     sentences = pattern.split(text)
                     for sentence in sentences:
                         if subject_text in sentence and object_text in sentence:
-                            subject_label = subject_label2idx[relation['subjectType']]
-                            object_label = object_label2idx[relation['objectType']]
+                            subject_type = entity_type_dict[relation['subjectID']]
+                            object_type = entity_type_dict[relation['objectId']]
+                            subject_label = subject_label2idx[subject_type]
+                            object_label = object_label2idx[object_type]
                             re_label = re_label2idx[relation['rel_name']]
                             entity_positions = (text.find(subject_text), text.find(object_text))
                             processed_data.append((sentence, subject_label, object_label, re_label, entity_positions))
 
     return processed_data
+
 
 def tokenize_data(dataset):
     tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
