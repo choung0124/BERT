@@ -6,7 +6,7 @@ from torch.utils.data import DataLoader, TensorDataset
 from transformers import BertTokenizer, BertForTokenClassification, BertForSequenceClassification
 
 
-def extract_relationship(text, ner_model, re_model, tokenizer, label_to_id, relation_to_id):
+def extract_relationship(text, ner_model, re_model, tokenizer, label_to_id, relation_to_id, conf_threshold):
     tokens = tokenizer.tokenize(text)
     encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=512, return_tensors="pt")
     input_ids = encoded["input_ids"]
