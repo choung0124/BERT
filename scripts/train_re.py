@@ -32,15 +32,19 @@ for file_name in os.listdir(re_data_dir):
 relation_to_id = {relation: idx for idx, relation in enumerate(set(all_relations))}
 
 # Tokenize and align the relations
+def extract_subject_relation_object(line):
+    words = line.split()
+    relation = words[-1]
+    obj = words[-2]
+    subject = ' '.join(words[:-2])
+    return subject, relation, obj
+
 for file_name in os.listdir(re_data_dir):
     if file_name.endswith("_re_data.txt"):
         with open(os.path.join(re_data_dir, file_name), "r") as f:
             line = f.readline()
-            try:
-                subject, relation, obj = line.split()
-            except ValueError:
-                print(f"Error: Unexpected line format in {file_name} - {line}")
-                continue
+            subject, relation, obj = extract_subject_relation_object(line)
+
             tokens = tokenizer.tokenize(f"{subject} [SEP] {obj}")
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
             re_input_ids.append(encoded["input_ids"])
