@@ -17,13 +17,14 @@ def extract_relationship(text, ner_model, re_model, tokenizer, label_to_id, rela
     with torch.no_grad():
         logits = ner_model(input_ids, attention_mask=attention_mask).logits
         predictions = torch.argmax(logits, dim=-1).squeeze().tolist()
+        probabilities = torch.softmax(logits, dim=-1).squeeze().tolist()
 
     # Extract entities
     entities = []
     current_entity = []
     current_label = None
-    for token, prediction in zip(tokens, predictions):
-        if prediction != -100 and prediction in label_to_id.values():
+    for i, (token, prediction, probability) in enumerate(zip(tokens, predictions, probabilities)):
+        if prediction != -100 and probability[prediction] > conf_threshold and prediction in label_to_id.values():
             label = list(label_to_id.keys())[list(label_to_id.values()).index(prediction)]
             if label.startswith("B-"):
                 if current_entity:
@@ -60,6 +61,7 @@ def extract_relationship(text, ner_model, re_model, tokenizer, label_to_id, rela
                     relationships.append((subject_label, subject, relation, object_label, obj))
 
     return relationships
+
 
 def load_mapping_from_json(file_path):
     with open(file_path, "r") as f:
