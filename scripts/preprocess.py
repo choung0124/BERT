@@ -1,8 +1,6 @@
 import json
 import os
 
-import json
-
 def preprocess_ner(json_data):
     ner_data = []
     
@@ -43,6 +41,13 @@ def preprocess_re(json_data):
 # Set the directory containing the JSON files
 json_directory = "test"
 
+# Set the directory to save the preprocessed data
+output_directory = "training_data"
+
+# Create the output directory if it doesn't exist
+if not os.path.exists(output_directory):
+    os.makedirs(output_directory)
+
 # Iterate through all JSON files in the directory
 for file_name in os.listdir(json_directory):
     if file_name.endswith(".json"):
@@ -60,11 +65,13 @@ for file_name in os.listdir(json_directory):
         base_name = os.path.splitext(file_name)[0]
         ner_file_name = f"{base_name}_ner_data.txt"
         re_file_name = f"{base_name}_re_data.txt"
+        ner_file_path = os.path.join(output_directory, ner_file_name)
+        re_file_path = os.path.join(output_directory, re_file_name)
 
-        with open(ner_file_name, "w") as ner_file:
+        with open(ner_file_path, "w") as ner_file:
             for token, tag in ner_data:
                 ner_file.write(f"{token} {tag}\n")
 
-        with open(re_file_name, "w") as re_file:
+        with open(re_file_path, "w") as re_file:
             for subject, relation, obj in re_data:
                 re_file.write(f"{subject} {relation} {obj}\n")
