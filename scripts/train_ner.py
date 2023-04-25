@@ -19,17 +19,29 @@ learning_rate = 2e-5
 ner_input_ids = []
 ner_attention_masks = []
 ner_labels = []
+all_labels = []
 
 for file_name in os.listdir(ner_data_dir):
     if file_name.endswith("_ner_data.txt"):
         with open(os.path.join(ner_data_dir, file_name), "r") as f:
             lines = f.readlines()
             tokens = [line.split()[0] for line in lines]
-            labels = [line.split()[1] for line in lines if len(line.split()) > 1]
+            labels = [line.split()[1] for line in lines]
+            all_labels.extend(labels)
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
             ner_input_ids.append(encoded["input_ids"])
             ner_attention_masks.append(encoded["attention_mask"])
-            ner_labels.append(torch.tensor([tokenizer.vocab[label] for label in labels]))
+
+# Create a label-to-ID mapping
+label_to_id = {label: idx for idx, label in enumerate(set(all_labels))}
+
+# Use the label-to-ID mapping for creating tensors
+for file_name in os.listdir(ner_data_dir):
+    if file_name.endswith("_ner_data.txt"):
+        with open(os.path.join(ner_data_dir, file_name), "r") as f:
+            lines = f.readlines()
+            labels = [line.split()[1] for line in lines]
+            ner_labels.append(torch.tensor([label_to_id[label] for label in labels]))
 
 ner_input_ids = torch.cat(ner_input_ids, dim=0)
 ner_attention_masks = torch.cat(ner_attention_masks, dim=0)
