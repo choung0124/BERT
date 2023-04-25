@@ -48,14 +48,19 @@ for file_name in os.listdir(re_data_dir):
         for line in f:
             subject, relation, obj = extract_subject_relation_object(line)
 
+            if relation is None or relation not in relation_to_id:
+                print(f"Warning: Skipping line with unexpected relation: {line}")
+                continue
+
             # Tokenize and encode the relation
             tokens = tokenizer.tokenize(f"{subject} [SEP] {obj}")
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
-            
+
             # Add the encoded relation and its label to the lists
             re_input_ids.append(encoded["input_ids"])
             re_attention_masks.append(encoded["attention_mask"])
             re_labels.append(torch.tensor(relation_to_id[relation]))
+
         
 # Concatenate the input IDs, attention masks, and labels into tensors
 re_input_ids = torch.cat(re_input_ids, dim=0)
