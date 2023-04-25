@@ -30,11 +30,12 @@ def preprocess_ner(json_data):
     
     return ner_tags
 
+
 def preprocess_re(json_data):
     re_data = []
     
     for relation in json_data["relation_info"]:
-        re_data.append((relation["subjectText"], relation["rel_name"], relation["objectText"]))
+        re_data.append((relation["subjectText"], relation["objectText"], relation["rel_name"]))
     
     return re_data
 
