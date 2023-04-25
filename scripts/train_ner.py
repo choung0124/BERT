@@ -43,7 +43,11 @@ for file_name in os.listdir(ner_data_dir):
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=512, return_tensors="pt")
             ner_input_ids.append(encoded["input_ids"])
             ner_attention_masks.append(encoded["attention_mask"])
-            ner_labels.append(torch.tensor([label_to_id[label] for label in labels if label in label_to_id]))
+            padded_labels = [label_to_id[label] if label in label_to_id else -100 for label in labels]
+            padded_labels = padded_labels[:512]  # Truncate to match the max_length
+            padded_labels.extend([-100] * (512 - len(padded_labels)))  # Pad to match the max_length
+            ner_labels.append(torch.tensor(padded_labels))
+
 
 
 ner_input_ids = torch.cat(ner_input_ids, dim=0)
