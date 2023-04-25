@@ -71,9 +71,9 @@ for file_name in os.listdir(json_data_dir):
                 re_labels = torch.tensor(re_labels)
 
 if len(re_input_ids) > 0:
-    re_input_ids.append(encoded["input_ids"].squeeze(0))
-    re_attention_masks.append(encoded["attention_mask"].squeeze(0))
-    re_labels = torch.stack(re_labels)
+    re_input_ids = torch.stack(re_input_ids, dim=0)
+    re_attention_masks = torch.stack(re_attention_masks, dim=0)
+    re_labels = torch.cat(re_labels)
 else:
     print("No valid inputs found. Aborting training.")
     exit()
