@@ -98,7 +98,7 @@ os.makedirs(output_dir, exist_ok=True)
 ner_model.save_pretrained(output_dir)
 tokenizer.save_pretrained(output_dir)
 
-mapping_file = "models/ner/label_to_id.json"
+mapping_file = "label_to_id.json"
 
 with open(mapping_file, "w") as f:
     json.dump(label_to_id, f)
