@@ -37,13 +37,14 @@ for file_name in os.listdir(ner_data_dir):
                 except IndexError:
                     pass  # Ignore the line if it doesn't have at least two elements after splitting
             all_labels.extend(labels)
-            # Trim the tokens, attention masks, and labels to the same length
-            tokens = tokens[:128]
-            labels = labels[:128]
+            if len(tokens) != len(labels):
+                print(f"Skipping {file_name} because the number of tokens ({len(tokens)}) is different from the number of labels ({len(labels)})")
+                continue
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
             ner_input_ids.append(encoded["input_ids"])
             ner_attention_masks.append(encoded["attention_mask"])
             ner_labels.append(torch.tensor([label_to_id[label] for label in labels if label in label_to_id]))
+
 
 ner_input_ids = torch.cat(ner_input_ids, dim=0)
 ner_attention_masks = torch.cat(ner_attention_masks, dim=0)
