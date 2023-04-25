@@ -1,71 +1,93 @@
-import argparse
+import os
 import torch
-from transformers import BertTokenizerFast
-from model_definition import NER_RE_Model
-import re
-import pickle
+import json
+from torch.utils.data import DataLoader, TensorDataset
+from transformers import BertTokenizer, BertForTokenClassification, BertForSequenceClassification
 
-parser = argparse.ArgumentParser(description='Extract relationships from text')
-parser.add_argument('text', type=str, help='Text to extract relationships from')
-args = parser.parse_args()
 
-# Load the tokenizer
-tokenizer = BertTokenizerFast.from_pretrained('model')
+def extract_relationship(text, ner_model, re_model, tokenizer, label_to_id, relation_to_id):
+    tokens = tokenizer.tokenize(text)
+    encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=512, return_tensors="pt")
+    input_ids = encoded["input_ids"]
+    attention_mask = encoded["attention_mask"]
 
-# Load the label dictionaries
-with open('model/label_dicts.pkl', 'rb') as f:
-    label_dicts = pickle.load(f)
-
-ner_label2idx, ner_idx2label = label_dicts['ner']
-re_label2idx, re_idx2label = label_dicts['re']
-
-# Define a regular expression pattern to match sentence boundaries
-pattern = re.compile(r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s')
-
-# Split the text into sentences
-sentences = pattern.split(args.text)
-
-# Initialize lists to store the extracted relationships
-subject_texts = []
-object_texts = []
-re_labels = []
-
-# Iterate over each sentence and extract the relationships
-for sentence in sentences:
-    encoding = tokenizer(sentence, return_tensors='pt', padding='max_length', truncation=True, max_length=512)
-    input_ids = encoding['input_ids'].squeeze()
-    attention_mask = encoding['attention_mask'].squeeze()
-
-    # Run the model on the sentence
-    model = NER_RE_Model(len(ner_label2idx), len(re_label2idx), ner_label2idx, re_label2idx)
-    model.load_state_dict(torch.load('model/custom_head.pt'))
-    model.bert.requires_grad = False
-    model.eval()
+    # Predict NER labels
+    ner_model.eval()
     with torch.no_grad():
-        outputs = model(input_ids=input_ids.unsqueeze(0), attention_mask=attention_mask.unsqueeze(0))
+        logits = ner_model(input_ids, attention_mask=attention_mask).logits
+        predictions = torch.argmax(logits, dim=-1).squeeze().tolist()
 
-    # Extract the predicted subjects and objects
-    ner_logits = outputs['ner_logits'].squeeze(0)
-    subject_preds = torch.argmax(ner_logits[:, 1:len(ner_label2idx)-1], dim=-1) + 1
-    object_preds = torch.argmax(ner_logits[:, len(ner_label2idx)+1:len(ner_label2idx)+len(ner_label2idx)-1], dim=-1) + len(ner_label2idx) + 1
-    subject_positions = torch.where(subject_preds != 0)[0]
-    object_positions = torch.where(object_preds != 0)[0]
+    # Extract entities
+    entities = []
+    current_entity = []
+    current_label = None
+    for token, prediction in zip(tokens, predictions):
+        if prediction != -100 and prediction in label_to_id.values():
+            label = list(label_to_id.keys())[list(label_to_id.values()).index(prediction)]
+            if label.startswith("B-"):
+                if current_entity:
+                    entities.append((current_label, " ".join(current_entity)))
+                current_entity = [token]
+                current_label = label[2:]
+            elif label.startswith("I-") and current_label == label[2:]:
+                current_entity.append(token)
+        else:
+            if current_entity:
+                entities.append((current_label, " ".join(current_entity)))
+                current_entity = []
+                current_label = None
 
-    # Extract the predicted relationships
-    for subject_position in subject_positions:
-        subject_text = tokenizer.decode(input_ids[subject_position:object_positions[-1]+1], skip_special_tokens=True)
-        for object_position in object_positions:
-            if object_position > subject_position:
-                object_text = tokenizer.decode(input_ids[object_position:subject_position+len(subject_text)], skip_special_tokens=True)
-                input_ids_re, attention_mask_re = model.generate_inputs(subject_text, object_text)
+    # Extract relationships
+    relationships = []
+    for i, (subject_label, subject) in enumerate(entities):
+        for j, (object_label, obj) in enumerate(entities):
+            if i != j:
+                tokens = tokenizer.tokenize(f"{subject} [SEP] {obj}")
+                encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
+                input_ids = encoded["input_ids"]
+                attention_mask = encoded["attention_mask"]
+
+                # Predict relationship
+                re_model.eval()
                 with torch.no_grad():
-                    re_logits = model(input_ids=input_ids_re.unsqueeze(0), attention_mask=attention_mask_re.unsqueeze(0))['re_logits']
-                re_pred = torch.argmax(re_logits.squeeze(0))
-                if re_pred != 0:
-                    subject_texts.append(subject_text)
-                    object_texts.append(object_text)
-                    re_labels.append(re_idx2label[re_pred])
+                    logits = re_model(input_ids, attention_mask=attention_mask).logits
+                    predictions = torch.argmax(logits, dim=-1).squeeze().tolist()
 
-# Print the extracted relationships
-for i in range(len(subject_texts)):
-    print(f"{subject_texts[i]} - {re_labels[i]} - {object_texts[i]}")
+                # Add predicted relationship to the list
+                if predictions in relation_to_id.values():
+                    relation = list(relation_to_id.keys())[list(relation_to_id.values()).index(predictions)]
+                    relationships.append((subject_label, subject, relation, object_label, obj))
+
+    return relationships
+
+def load_mapping_from_json(file_path):
+    with open(file_path, "r") as f:
+        mapping = json.load(f)
+    return mapping
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Extract relationships from a given input text using fine-tuned NER and RE models.")
+    parser.add_argument("input_text", help="Input text to extract relationships from.")
+    parser.add_argument("--label_to_id_file", default="label_to_id.json", help="Path to the JSON file containing label-to-ID mapping for NER.")
+    parser.add_argument("--relation_to_id_file", default="relation_to_id.json", help="Path to the JSON file containing relation-to-ID mapping for RE.")
+    args = parser.parse_args()
+    input_text = args.input_text
+    # Load the fine-tuned NER model and tokenizer
+    ner_output_dir = "models/ner"
+    ner_model = BertForTokenClassification.from_pretrained(ner_output_dir)
+    tokenizer = BertTokenizer.from_pretrained(ner_output_dir)
+
+    # Load the fine-tuned RE model
+    re_output_dir = "models/re"
+    re_model = BertForSequenceClassification.from_pretrained(re_output_dir)
+
+    # Specify label-to-ID mapping for NER
+    label_to_id = load_mapping_from_json(args.label_to_id_file)
+        # Add your label-to-ID mapping here
+    
+    # Specify relation-to-ID mapping for RE
+    relation_to_id = load_mapping_from_json(args.relation_to_id_file)
+        # Add your relation-to-ID mapping here
+
+    relationships = extract_relationship(input_text, ner_model, re_model, tokenizer, label_to_id, relation_to_id)
+    print(relationships)
