@@ -7,16 +7,16 @@ import json
 def preprocess_re(json_data):
     re_data = []
     entities = {entity["id"]: entity for entity in json_data["entities"]}
-    
-    for relation in json_data["relation_info"]:
-        if relation["subjectID"] not in entities:
-            continue
-        subject = entities[relation["subjectID"]]["text"]
-        obj = entities[relation["objectId"]]["text"]
-        re_data.append((subject, relation["rel_name"], obj))
-    
-    return re_data
 
+    for relation in json_data["relation_info"]:
+        subject_id, obj_id = relation["subjectID"], relation["objectId"]
+        if subject_id not in entities or obj_id not in entities:
+            continue
+        subject = entities[subject_id]["text"]
+        obj = entities[obj_id]["text"]
+        re_data.append((subject, relation["rel_name"], obj))
+
+    return re_data
 
 # Set the hyperparameters for fine-tuning
 num_epochs = 10
