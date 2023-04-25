@@ -5,18 +5,14 @@ from transformers import BertTokenizer, BertForSequenceClassification
 
 # Function to extract subject, relation, and object from a line of text
 def extract_subject_relation_object(line):
-    words = line.split()
-    relation = words[-1]
-    obj = words[-2]
-    subject = ' '.join(words[:-2])
+    # Update this function to extract subject, relation, and object from your dataset
+    # For example, if your dataset is in the format "subject [RELATION] object":
+    subject, relation, obj = line.split(" [RELATION] ")
+
     return subject, relation, obj
 
 # Set the directory containing the preprocessed data
 re_data_dir = "training_data"
-
-# Load the pre-trained BERT model and tokenizer
-tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
-re_model = BertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels=2)
 
 # Set the hyperparameters for fine-tuning
 num_epochs = 10
@@ -24,7 +20,15 @@ batch_size = 16
 learning_rate = 2e-5
 
 # Create a mapping from relation labels to their respective IDs
-relation_to_id = {}
+relations = [
+    "relation_1",
+    "relation_2",
+    "relation_3"
+]
+relation_to_id = {relation: idx for idx, relation in enumerate(relations)}
+
+tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+re_model = BertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels=len(relation_to_id))
 
 # Tokenize the RE data and create a training set
 re_input_ids = []
@@ -38,25 +42,25 @@ for file_name in os.listdir(re_data_dir):
 
     # Read the relation data from the file
     with open(os.path.join(re_data_dir, file_name), "r") as f:
-        line = f.readline()
-        subject, relation, obj = extract_subject_relation_object(line)
+        for line in f:
+            subject, relation, obj = extract_subject_relation_object(line)
 
-        # Tokenize and encode the relation
-        tokens = tokenizer.tokenize(f"{subject} [SEP] {obj}")
-        encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
+            # Tokenize and encode the relation
+            tokens = tokenizer.tokenize(f"{subject} [SEP] {obj}")
+            encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
+            
+            # Add the encoded relation and its label to the lists
+            re_input_ids.append(encoded["input_ids"])
+            re_attention_masks.append(encoded["attention_mask"])
+            re_labels.append(torch.tensor(relation_to_id[relation]))
         
-        # Add the encoded relation and its label to the lists
-        re_input_ids.append(encoded["input_ids"])
-        if relation not in relation_to_id:
-            relation_to_id[relation] = len(relation_to_id)
-        re_labels.append(torch.tensor(relation_to_id[relation]))
-        
-# Concatenate the input IDs and attention masks into tensors
+# Concatenate the input IDs, attention masks, and labels into tensors
 re_input_ids = torch.cat(re_input_ids, dim=0)
-re_attention_masks = torch.ones_like(re_input_ids)
+re_attention_masks = torch.cat(re_attention_masks, dim=0)
+re_labels = torch.tensor(re_labels)
 
 # Create a DataLoader for the RE data
-re_dataset = TensorDataset(re_input_ids, re_attention_masks, torch.stack(re_labels))
+re_dataset = TensorDataset(re_input_ids, re_attention_masks, re_labels)
 re_loader = DataLoader(re_dataset, batch_size=batch_size)
 
 # Fine-tune the BERT RE model
