@@ -89,7 +89,8 @@ if __name__ == "__main__":
     # Specify relation-to-ID mapping for RE
     relation_to_id = load_mapping_from_json(args.relation_to_id_file)
         # Add your relation-to-ID mapping here
-
+    relationships = extract_relationship(input_text, ner_model, re_model, tokenizer, label_to_id, relation_to_id)
+    
     if relationships:
         print("Extracted relationships:")
         for relationship in relationships:
