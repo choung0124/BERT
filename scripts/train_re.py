@@ -7,12 +7,12 @@ from transformers import BertTokenizer, BertForSequenceClassification
 def extract_subject_relation_object(line):
     # Assuming the line format is "subject relation object"
     try:
-        subject, obj, relation = line.split(" ", 2)
+        subject, relation, obj = line.split(" ", 2)
     except ValueError:
         print(f"Error: Unexpected line format: {line}")
         return None, None, None
 
-    return subject.strip(), obj.strip(), relation.strip()
+    return subject.strip(), relation.strip(), obj.strip()
 
 # Set the directory containing the preprocessed data
 re_data_dir = "training_data"
