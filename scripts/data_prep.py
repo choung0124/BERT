@@ -5,6 +5,7 @@ import torch
 from torch.utils.data import Dataset
 from torch.utils.data import DataLoader
 from transformers import BertTokenizerFast
+import torch.nn.functional as F
 
 class NERRE_Dataset(Dataset):
     def __init__(self, sentences, subject_labels, object_labels, relation_labels, entity_positions):
