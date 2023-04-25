@@ -1,0 +1,3355 @@
+{
+    "sourcid": "PMC3687565",
+    "publisher": "BioMed Central",
+    "journal": "Cardiovascular Diabetology",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3687565/",
+    "text": "Comparative effect of clopidogrel and aspirin versus aspirin alone on laboratory parameters: a retrospective, observational, cohort study Background Clopidogrel and aspirin are antiplatelet agents that are recommended to reduce the risk of recurrent stroke and other cardiovascular events. Combination therapy of clopidogrel and aspirin has been shown to increase the risk of hemorrhage, but the effects of the drugs on laboratory parameters have not been well studied in patients in routine clinical practice. Therefore, we evaluated and compared the effects of combination therapy with clopidogrel plus aspirin and aspirin monotherapy on laboratory parameters using a clinical database. Methods We used data from the Clinical Data Warehouse of Nihon University School of Medicine obtained between November 2004 and April 2011, to identify cohorts of new users (n = 159) of clopidogrel (75 mg/day) plus aspirin (100 mg/day) and new users (n = 834) of aspirin alone (100 mg/day). We used a multivariable regression model and regression adjustment with the propensity score to adjust for differences in baseline covariates between settings, and compare the mean changes in serum levels of creatinine, aspartate aminotransferase, alanine aminotransferase and hematological parameters, including hemoglobin level, hematocrit, and white blood cell (WBC), red blood cell and platelet counts up to two months after the start of study drug administration.            Results After adjustment, the reduction of WBC count in clopidogrel plus aspirin users was significantly greater than that in aspirin alone users. All other tests showed no statistically significant difference in the mean change from baseline to during the exposure period between clopidogrel plus aspirin users and aspirin alone users. The combination of clopidogrel and aspirin increased the risk of gastrointestinal bleeding compared with aspirin alone, with a relative risk ranging from 2.06 (95% CI, 1.02 to 4.13; p = 0.043) for the multivariate model and 2.61 (95% CI, 1.18 to 5.80; p = 0.0184) for propensity adjustment.         Conclusion Our findings suggested that hematological adverse effects may be greater with combination therapy of clopidogrel plus aspirin than with aspirin monotherapy. Background Clopidogrel and aspirin are antiplatelet agents that are recommended to reduce the risk of recurrent stroke and other cardiovascular events. Combination therapy, typically with clopidogrel and aspirin, is commonly used for the prevention of cardiovascular events, when given for an appropriate indication and duration. Aspirin inhibits platelet cyclooxygenase by irreversible acetylation, thereby preventing the formation of thromboxane A2 which is a powerful stimulant of platelet aggregation. Clopidogrel, a thienopyridine, acts by inhibiting adenosine receptors, which inhibits the early step of platelet activation. Thus, the effect of combining aspirin and clopidogrel is synergistic in preventing platelet aggregation, and this combination may offer certain theoretical benefits over either agent alone. Some clinical trials have investigated the efficacy of the combination of clopidogrel and aspirin. The combination has been shown to reduce the risk of ischemic events in patients with myocardial infarction with or without ST-segment elevation, and after angioplasty or stenting. On the other hand, in the MATCH trial, combination therapy with clopidogrel plus aspirin in patients with a prior stroke or TIA showed no significant benefit in reducing major vascular events compared with clopidogrel alone. The CHARISMA trial has shown that the combination of clopidogrel and aspirin was not significantly more effective than aspirin alone in reducing the rate of myocardial infarction, stroke, or death from cardiovascular causes. Based on these clinical findings, combination therapy with aspirin and clopidogrel is recommended for treatment of acute coronary syndromes and the prevention of coronary events after placement of a stent as the most appropriate indications. The nature of antiplatelet therapy involves an inherent risk of bleeding complications. Although this combination of antiplatelet agents has been demonstrated to offer clinical benefits under certain conditions, it does raise the risk of bleeding complications. Thus, there is a consensus that dual antiplatelet therapy involves the issue of bleeding risk. Although previous reports have assessed the side effects of antiplatelet agents, they usually focused on the adverse events of antiplatelet agents, and few studies have focused on the effects of the drugs on laboratory parameters. Therefore, we evaluated and compared the effects of combination therapy with clopidogrel plus aspirin and aspirin monotherapy on laboratory parameters including creatinine, aspartate aminotransferase (AST), and alanine aminotransferase (ALT) levels and hematological parameters including red blood cell (RBC) count, white blood cell (WBC) count, platelet count, hemoglobin level and hematocrit, which are typically used in clinical practice for checking side effects of drugs. Methods Data source We obtained the study data from electronic medical records stored in the Nihon University School of Medicine (NUSM) Clinical Data Warehouse (CDW), which is a centralized data repository that integrates separate databases, including an order entry database and a laboratory results database, from the hospital information systems at three hospitals affiliated with NUSM, and is described elsewhere. The prescription database in the CDW contains information from approximately 0.6 million patients, and prescribing data are linked longitudinally to detailed clinical information such as patient demographics, diagnosis, and laboratory data. Several epidemiological studies examining the effects of drugs on laboratory parameters using NUSM's CDW have been published.   Study population The cohorts identified for the study included Japanese patients aged over 20 years who had been newly treated with clopidogrel (75 mg per day) plus aspirin (100 mg per day) or aspirin alone (100 mg per day) between November 2004 and April 2011 (detailed profile included in Additional file 1). We excluded patients who had received other antiplatelet drugs, anticoagulants or thrombolytics during the study period. We also excluded patients who had severe comorbid conditions: increased risk of bleeding including diagnosis of severe hepatic insufficiency, renal failure or current peptic ulceration, history of systemic bleeding, other history of bleeding diathesis or coagulopathy, or a contraindication to aspirin or clopidogrel during the study period. Consequently, we identified 159 new users of clopidogrel plus aspirin and 834 new users of aspirin alone. The ethics committee of Nihon University School of Medicine approved the study protocol.     Exposure and outcome In this study, the index date was defined as the date of first prescription of the study drugs. The baseline measurement period (non-exposure period) was defined as within six months before the index date in the clopidogrel plus aspirin and aspirin alone cohorts. The exposure period (outcome measurement period) was defined as between two weeks and two months after the start of treatment with clopidogrel plus aspirin or aspirin alone to evaluate the short-term effect of the study drugs. Blood test data (creatinine, AST, and ALT levels, and hematological parameters including RBC count, WBC count, platelet count, hemoglobin level and hematocrit) were collected for each individual at the date nearest the index date in the baseline period, and at the date nearest two months after the start of treatment in the exposure period. Consequently, the mean (95% confidence interval (CI)) exposure of clopidogrel plus aspirin and aspirin alone users was 36.0 (33.8-38.2) days and 36.7 (35.8-37.7) days, respectively. There was no statistically significant difference in mean exposure days between them. Information on bleeding episodes of patients who were newly diagnosed with intracranial hemorrhage or gastrointestinal (GI) bleeding in the exposure period was collected. Covariates For each individual, information on patient demographics (age and sex), medical history, current medication, and laboratory results was collected. Medical history included information on cerebrovascular disease (ICD-10 codes, I60-I69), ischemic heart disease (I20-I25), other heart disease (I30-I52), other peripheral vascular disease (I73), liver disease (K70-K77), kidney disease (N00-N19), gout (M10), thyroid gland disorders (E00-E07), hyperlipidemia (E78.0-E78.5), hypertension (I10), and diabetes mellitus (E10-E14) that had been diagnosed prior to the index date. We recorded current users of medication including antihypertensive agents, steroids, lipid-lowering drugs, insulin, oral antihyperglycemic agents, non-steroidal anti-inflammatory drugs (NSAIDs), proton pump inhibitors (PPIs), histamine2-receptor antagonists (H2 blockers), other anti-peptic ulcer agents, immunosuppressive drugs, diuretics, and anti-arrhythmic drugs, defined as patients who had received these agents in the 60 days preceding the index date.  Statistical analysis All analyses were performed with SAS software, version 9.2 (SAS Institute, Cary, NC). All reported p-values are two sided. A result was considered statistically significant if the p value was less than 0.05. To compare differences in baseline characteristics, we used t-test for continuous variables and chi-squared test for categorical data. Also, we used t-test to compare the mean values of laboratory parameters at baseline between clopidogrel plus aspirin users and aspirin alone users. The general linear model approach was performed to calculate multivariate-adjusted values of blood test parameters and to compare the adjusted least-squares means of changes from the baseline value to the exposure value between clopidogrel plus aspirin users and aspirin alone users. To reduce bias by controlling for baseline covariates between settings, two adjusted models are presented. The first model had regression (covariance) adjustment with the propensity score. This method is an effective tool to reduce bias in nonrandomized studies, and is described elsewhere. In brief, the propensity score for each subject was obtained by fitting a logistic regression model that includes the predictor variable (i.e., clopidogrel plus aspirin users or aspirin alone users) as an outcome and all baseline covariates including age, sex, comorbid diseases (cerebrovascular disease, ischemic heart disease, other heart disease, liver disease, kidney disease, gout, thyroid gland disorders, hyperlipidemia, hypertension, and diabetes mellitus) and previous drugs (including antihypertensive agents, steroids, lipid-lowering drugs, oral antihyperglycemic agents, NSAIDs, PPIs, H2 blockers, other anti-peptic ulcer agents, immunosuppressive drugs, anti-arrhythmic drugs and chemotherapeutic drugs), as listed in Table 1. With the propensity score included in the general linear model, we assessed and compared the adjusted least-squares means of changes in laboratory parameters during the exposure period from baseline between clopidogrel plus aspirin users and aspirin alone users. The second model adjusted for age, sex and the remaining covariates, which were selected using a backward stepwise elimination method (p < 0.10). To estimate the relative risk of intracranial hemorrhage or GI bleeding for clopidogrel plus aspirin users and aspirin alone users, we used the odds ratio and 95% CI from logistic regression in which we controlled for covariates using the two adjustment models described above.      Baseline characteristics of study population Characteristics\tClopidogrel plus aspirin\tAspirin alone\tp\t \t \t(n = 159)\t(n = 834)\t \t \tAge (years, mean +- SE)\t64.6 +- 1.0\t68.3 +- 0.4\t0.0005\t \tWomen\t32 (20.13%)\t329 (39.45%)\t<0.0001\t \tMedical history\t \t \t \t \t Cerebrovascular disease\t40 (25.16%)\t375 (44.96%)\t<0.0001\t \t Ischemic heart disease\t140 (88.05%)\t536 (64.27%)\t<0.0001\t \t Liver disease\t38 (23.9%)\t369 (44.24%)\t<0.0001\t \t Kidney disease\t57 (35.85%)\t378 (45.32%)\t0.0273\t \t Hypertension\t107 (67.3%)\t495 (59.35%)\t0.0603\t \t Diabetes mellitus\t122 (76.73%)\t606 (72.66%)\t0.2879\t \t Hyperlipidemia\t147 (92.45%)\t668 (80.10%)\t0.0002\t \tCurrent medication\t \t \t \t \t Insulin\t3 (1.89%)\t60 (7.19%)\t0.0119\t \t Oral hypoglycemic drug\t25 (15.72%)\t106 (12.71%)\t0.3035\t \t Lipid-lowering drug\t38 (23.9%)\t144 (17.27%)\t0.0476\t \t Antihypertensive drug\t51 (32.08%)\t590 (70.74%)\t<0.0001\t \t  ARB\t27 (16.98%)\t199 (23.86%)\t0.0579\t \t  ACEI\t4 (2.52%)\t49 (5.88%)\t0.0841\t \t  Beta-blocker\t7 (4.4%)\t53 (6.35%)\t0.3437\t \t  CCB\t39 (24.53%)\t524 (62.83%)\t<0.0001\t \t  Thiazide diuretic\t9 (5.66%)\t127 (15.23%)\t0.0013\t \t  Other\t14 (8.81%)\t80 (9.59%)\t0.756\t \t NSAID\t12 (7.55%)\t191 (22.9%)\t<0.0001\t \t Steroid\t4 (2.52%)\t82 (9.83%)\t0.0026\t \t H2 blocker\t17 (10.69%)\t455 (54.56%)\t<0.0001\t \t Proton pump inhibitor\t19 (11.95%)\t151 (18.11%)\t0.059\t \t Antiepileptic drug\t2 (1.26%)\t55 (6.59%)\t0.008\t \t Immunosuppressive drug\t0 (0%)\t18 (2.16%)\t0.0616\t \t Diuretic\t8 (5.03%)\t129 (15.47%)\t0.0005\t \t Antiarrhythmic drug\t12 (7.55%)\t104 (12.47%)\t0.0765                                                                                              Data are numbers of individuals (%) unless otherwise stated. The item of other peripheral vascular disease is not presented because its number was zero. Abbreviations: ARB angiotensin II receptor blocker, ACEI angiotensin-converting enzyme inhibitor, CCB calcium channel blocker, NSAID non-steroidal anti-inflammatory drug, H2 blocker histamine2-receptor antagonist. Results The study included 159 patients who had been newly treated with clopidogrel plus aspirin and 834 patients who had been newly treated with aspirin alone. Table 1 shows the baseline characteristics of the patients. In clopidogrel plus aspirin users, the mean age was 64.6 years and 20.1 percent were women. Aspirin alone users were older and were more likely to be women than clopidogrel plus aspirin users; the mean age was 68.3 years and 39.5 percent were women. More than two-thirds of each cohort had ischemic heart disease, hyperlipidemia or diabetes mellitus, suggesting raised risk of cardiovascular disease. Clopidogrel plus aspirin users were more likely to have ischemic heart disease and hyperlipidemia, and were less likely to have cerebrovascular disease, liver disease, and kidney disease than aspirin alone users. In current medications, clopidogrel plus aspirin users were more likely to utilize lipid-lowering drugs than aspirin alone users. On the other hand, aspirin alone users were more likely to utilize calcium channel blockers, thiazide diuretics, NSAIDs, H2 blockers, diuretics and anti-arrhythmic drugs. Table 2 shows the mean values in laboratory parameters at baseline. The mean hemoglobin level in clopidogrel plus aspirin users was higher than that in aspirin alone users. None of the other tests showed any statistically significant difference in mean values at baseline between clopidogrel plus aspirin users and aspirin alone users. Because differences in baseline covariates, including age, sex, comorbid diseases and current medication, between clopidogrel plus aspirin users and aspirin alone users may create potential bias, we used a multivariate regression model and regression adjustment with propensity score to control for potential confounding covariates in our observational study.     Baseline laboratory parameters of studied patients Laboratory test\tClopidogrel plus aspirin (n = 159)\tAspirin alone (n = 834)\tp\t \t \tmean (95% CI)\tmean (95% CI)\t \t \tCreatinine (mg/dl)\t0.93 (0.72, 1.14)\t1.12 (1.03, 1.22)\t0.0853\t \tALT (U/L)\t35.33 (33.15, 37.52)\t36.47 (35.52, 37.42)\t0.3490\t \tAST (U/L)\t35.14 (32.96, 37.32)\t36.56 (35.61, 37.51)\t0.2409\t \tWBC (103/muL)\t6.96 (6.30, 7.61)\t6.99 (6.74, 7.25)\t0.9210\t \tRBC (106/muL)\t4.16 (4.06, 4.270)\t4.07 (4.02, 4.12)\t0.1177\t \tPLT (103/muL)\t222.5 (205.3, 239.6)\t239.9 (232.4, 247.4)\t0.0675\t \tHemoglobin (g/dL)\t13.14 (12.81, 13.47)\t12.76 (12.61, 12.90)\t0.0369\t \tHematocrit (%)\t38.84 (37.89, 39.80)\t37.87 (37.45, 38.29)\t0.0664              Abbreviations: ALT alanine aminotransferase, AST asparate aminotransferase, WBC white blood cell count, RBC red blood cell count, PLT platelet count, CI confidence interval. Table 3 shows the mean changes in WBC count during the exposure period compared with the baseline period. In clopidogrel plus aspirin users, the reduction of WBC count was significantly greater than that in aspirin alone users before and after adjustment for covariates. The mean changes in other laboratory parameters were not significantly different in clopidogrel plus aspirin users in comparison to those in aspirin alone users (data are included in Additional file 2). Table 4 shows the prevalence of patients who had hemorrhagic events during the exposure period. The rate of GI bleeding was 3.14 percent in clopidogrel plus aspirin users, as compared with 0.67 percent in aspirin alone users, with a relative risk of 2.61 (95% CI, 1.18 to 5.80; p = 0.0184) for propensity adjustment and a relative risk of 2.06 (95% CI, 1.02 to 4.13; p = 0.043) for the multivariate model, suggesting that the risk of GI bleeding was increased in patients treated with the combination of clopidogrel and aspirin. The risk of intracranial hemorrhage was not significantly different between clopidogrel plus aspirin users and aspirin alone users.           Mean changes in laboratory test values during exposure period from baseline Laboratory test\tClopidogrel plus aspirin (n = 159)\tAspirin alone (n = 834)\tp\t \t \tmean (95% CI)\tmean (95% CI)\t \t \tDelta WBC (103/muL)\t \t \t \t \tUnadjusted\t-1.65 (-2.099, -1.202)\t-0.455 (-0.651, -0.259)\t<0.0001*\t \tPropensity adjustment\t-1.509 (-1.999, -1.018)\t-0.312 (-0.803, 0.179)\t0.0008*\t \tMultivariate model\t-1.832 (-2.317, -1.346)\t-0.435 (-0.634, 0.237)\t<0.0001*                                      Delta indicates mean change in laboratory test value during exposure period from baseline. Data that showed a significant difference are presented. Abbreviations: WBC white blood cell count, CI confidence interval. *: p < 0.05 (aspirin plus clopidogrel vs aspirin alone).  Prevalence of hemorrhagic events Hemorrhagic event\tClopidogrel plus aspirin (n = 159)\tAspirin alone (n = 834)\tPropensity adjustment\tMultivariate model\t \t \tno. (%)\tRelative risk (95% CI)\tP\tRelative risk (95% CI)\tP\t \tIntracranial hemorrhage\t5 (3.14%)\t17 (2.04%)\t1.71 (0.99, 2.94)\t0.0507\t1.23 (0.76, 2.01)\t0.4009\t \tGastrointestinal bleeding\t5 (3.14%)\t6 (0.72%)\t2.61 (1.18, 5.80)\t0.0184\t2.06 (1.02, 4.13)\t0.0430             Abbreviation: CI confidence interval. Discussion In this study, we evaluated and compared the effects of combination therapy of clopidogrel plus aspirin and aspirin monotherapy on laboratory parameters including creatinine, AST, ALT, hemoglobin level, hematocrit, WBC, RBC and PLT counts in a short-term administration period up to two months. We found that the reduction of WBC count in clopidogrel plus aspirin users was significantly greater than that in aspirin alone users. These results suggest that the hematological adverse effect on leukocytes is greater with combination therapy of clopidogrel plus aspirin than with aspirin monotherapy. A variety of hematological adverse reactions, including leukopenia, agranulocytosis, and thrombocytopenia, have been reported in patients receiving clopidogrel or aspirin. In the CAPRIE trial, the numbers of patients with a significant reduction in neutrophils were 0.10 percent and 0.17 percent in the clopidogrel and aspirin groups, respectively. In this study, the decrease in mean WBC count during the exposure period from baseline was significant both in clopidogrel plus aspirin users and in aspirin alone users (data are included in Additional file 3). Our findings support these previous studies suggesting that the use of these antiplatelet agents may be associated with leukopenia. Furthermore, our findings suggested the possibility that the addition of clopidogrel to aspirin may enhance the adverse effect of aspirin alone on WBC count, although the mechanism of myelotoxicity of these antiplatelet agents is not clear. Our study is expected to help physicians make decisions on drug selection because the adverse effect of an antiplatelet therapy on leukocytes may be of clinical concern, especially for patients with borderline low WBC count. The nature of antiplatelet therapy involves an inherent risk of bleeding complications. Some trials reported that the addition of aspirin to clopidogrel increases the risk of hemorrhage. Our study showed that GI bleeding occurred more frequently in patients receiving clopidogrel plus aspirin than in patients receiving aspirin alone. Although patients who had increased risk of bleeding, including diagnosis of severe hepatic insufficiency, renal failure, current peptic ulceration or history of systemic bleeding, were excluded from the study population, there was a possibility that some covariates at baseline might impact on the results of hemorrhagic events. For instance, the risk of GI bleeding is increased by administration of NSAIDs, advanced age and liver disease, but is reduced by administration of PPI and H2 blockers. In this study, we used two adjustment methods to control for these potential confounding covariates, and thereby found that the risk of GI bleeding was increased with combination therapy of clopidogrel and aspirin compared with aspirin alone, with a relative risk ranging from 2.06 with the multivariate model and 2.61 for propensity adjustment. Our results were similar to the results of two large-scale randomized clinical trials reporting that dual antiplatelet therapy with clopidogrel and aspirin increased the risk of GI bleeding approximately 2-fold compared with aspirin alone. Our study has several limitations. It was a retrospective observational study, which has some issues with respect to the potential for selection bias and confounding factors. However, these problems caused by non-randomized data could be solved by combination with robust statistics; for example, propensity score method. We used rigorous statistical methods to control for potential confounding variables between clopidogrel plus aspirin and aspirin alone users, including propensity adjustment and a multivariate regression model. However, their ability to control for differences was limited to variables that were available or measurable. Second, this study was an investigation to compare the effects of clopidogrel plus aspirin and aspirin alone on laboratory tests focusing on a short-term administration period up to two months, but was not a long-term study that analyzed longitudinal data, including repeated measures of laboratory parameters. Whether the duration of treatment (especially, long-term treatment) is associated with the outcome is of interest because long-term maintenance of dual therapy (for about one year) is reasonable in patients with ST-elevation myocardial infarction according to the ACC/AHA guidelines. We will examine this theme in our next study. Third, we did fix the daily dosage in both treatment groups: clopidogrel (75 mg per day) plus aspirin (100 mg per day) users and aspirin alone users (100 mg per day), because these dosages are typically widely used to initiate antiplatelet therapy. This study was not designed to assess the effects of clopidogrel and aspirin at each dosage, because it is difficult to determine whether or not pharmacodynamics is dose-dependent in clinical settings. Furthermore, this study was undertaken to compare the effects of clopidogrel plus aspirin and aspirin alone on laboratory test results in a Japanese population; the cohorts identified for the study included only Japanese patients. There are genetic polymorphisms in several CYP450 enzymes involved in the metabolism of clopidogrel, such as variants in CYP2C19, particularly CYP2C19*2, which are associated with variability in clopidogrel active metabolite bioavailability, antiplatelet effects, and clinical outcomes. Because the frequency of genetic variability differs among ethnic groups, it cannot be concluded whether the present findings can be extended to people of other races. The findings of our study, based on a non-randomized design, call for further studies, such as similar analyses of larger international databases or randomized clinical trials for confirmation.    Conclusion Our study showed that the reduction of WBC count in clopidogrel plus aspirin users was significantly greater than that in aspirin alone users, and that the combination of clopidogrel and aspirin increased the risk of GI bleeding compared with aspirin alone. Our findings suggest that hematological adverse effects are greater with combination therapy of clopidogrel plus aspirin than with aspirin monotherapy, and support the experience noted in clinical practice that the use of dual antiplatelet therapy requires regular checks of hematological parameters. Abbreviations ACEI: Angiotensin-converting enzyme inhibitor; ALT: Alanine aminotransferase; ARB: Angiotensin II receptor blocker; AST: Aspartate aminotransferase; CCB: Calcium channel blocker; CDW: Clinical Data Warehouse; CI: Confidence interval; GI: Gastrointestinal; H2 blocker: Histamine2-receptor antagonist; NSAID: Non-steroidal anti-inflammatory drug; NUSM: Nihon University School of Medicine; PLT: Platelet; PPI: Proton pump inhibitor; RBC: Red blood cell; TIA: Transient ischemic attack; WBC: White blood cell. Competing interests The authors declare that they have no competing interest. Authors' contributions   YT conceived the study, participated in its design and drafted the manuscript. YN performed the statistical analyses. YT, TN and SA interpreted the data. All authors have read and approved the final manuscript. Supplementary Material Guidelines for prevention of stroke in patients with ischemic stroke or transient ischemic attack: a statement for healthcare professionals from the American Heart Association/American Stroke Association Council on Stroke: co-sponsored by the Council on Cardiovascular Radiology and Intervention: the American Academy of Neurology affirms the value of this guideline ACCF/AHA focused update of the guideline for the management of patients with unstable angina/Non-ST-elevation myocardial infarction (updating the 2007 guideline and replacing the 2011 focused update): a report of the American College of Cardiology Foundation/American Heart Association Task Force on practice guidelines An appraisal of dual antiplatelet therapy with clopidogrel and aspirin for prevention of cardiovascular events Aspirin in the prevention and treatment of venous thromboembolism Short- and long-term oral antiplatelet therapy in acute coronary syndromes and percutaneous coronary intervention Effects of clopidogrel in addition to aspirin in patients with acute coronary syndromes without ST-segment elevation Effects of pretreatment with clopidogrel and aspirin followed by long-term therapy in patients undergoing percutaneous coronary intervention: the PCI-CURE study Addition of clopidogrel to aspirin and fibrinolytic therapy for myocardial infarction with ST-segment elevation Addition of clopidogrel to aspirin in 45,852 patients with acute myocardial infarction: randomised placebo-controlled trial Early and sustained dual oral antiplatelet therapy following percutaneous coronary intervention: a randomized controlled trial Aspirin and clopidogrel compared with clopidogrel alone after recent ischaemic stroke or transient ischaemic attack in high-risk patients (MATCH): randomised, double-blind, placebo-controlled trial Clopidogrel and aspirin versus aspirin alone for the prevention of atherothrombotic events Effect of clopidogrel added to aspirin in patients with atrial fibrillation Aspirin effect on the incidence of major adverse cardiovascular events in patients with diabetes mellitus: a systematic review and meta-analysis Association of clopidogrel pretreatment with mortality, cardiovascular events, and major bleeding among patients undergoing percutaneous coronary intervention: a systematic review and meta-analysis Utilization of health care databases for pharmacoepidemiology Effect of candesartan monotherapy on lipid metabolism in patients with hypertension: a retrospective longitudinal survey using data from electronic medical records Comparative effect of olmesartan and candesartan on lipid metabolism and renal function in patients with hypertension: a retrospective observational study Adverse effect profile of trichlormethiazide: a retrospective observational study Comparative effect of angiotensin II type I receptor blockers and calcium channel blockers on laboratory parameters in hypertensive patients with type 2 diabetes Good research practices for comparative effectiveness research: approaches to mitigate bias and confounding in the design of nonrandomized studies of treatment effects using secondary data sources: the International Society for Pharmacoeconomics and Outcomes Research Good Research Practices for Retrospective Database Analysis Task Force Report--Part I Propensity score methods for bias reduction in the comparison of a treatment to a non-randomized control group Propensity Score Stratification and Regression A randomised, blinded, trial of clopidogrel versus aspirin in patients at risk of ischaemic events (CAPRIE) Thienopyridines: Ticlopidine and Clopidogrel Febrile pancytopenia associated with clopidogrel Neutropenia associated with clopidogrel use in a patient with chronic renal failure who underwent percutaneous coronary and peripheral intervention Genetic determinants of response to clopidogrel and cardiovascular events Cytochrome p-450 polymorphisms and response to clopidogrel",
+    "entities": [
+        {
+            "entityId": "22_33",
+            "span": {
+                "begin": 22,
+                "end": 33
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "38_45",
+            "span": {
+                "begin": 38,
+                "end": 45
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "53_60",
+            "span": {
+                "begin": 53,
+                "end": 60
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "149_160",
+            "span": {
+                "begin": 149,
+                "end": 160
+            },
+            "entityType": "drug",
+            "entityName": "Clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "165_172",
+            "span": {
+                "begin": 165,
+                "end": 172
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "250_256",
+            "span": {
+                "begin": 250,
+                "end": 256
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "313_324",
+            "span": {
+                "begin": 313,
+                "end": 324
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "329_336",
+            "span": {
+                "begin": 329,
+                "end": 336
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "376_386",
+            "span": {
+                "begin": 376,
+                "end": 386
+            },
+            "entityType": "disease",
+            "entityName": "hemorrhage",
+            "id": "UMLS:C0019080"
+        },
+        {
+            "entityId": "472_480",
+            "span": {
+                "begin": 472,
+                "end": 480
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "588_599",
+            "span": {
+                "begin": 588,
+                "end": 599
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "605_612",
+            "span": {
+                "begin": 605,
+                "end": 612
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "617_624",
+            "span": {
+                "begin": 617,
+                "end": 624
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "875_886",
+            "span": {
+                "begin": 875,
+                "end": 886
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "904_911",
+            "span": {
+                "begin": 904,
+                "end": 911
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "952_959",
+            "span": {
+                "begin": 952,
+                "end": 959
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "1188_1198",
+            "span": {
+                "begin": 1188,
+                "end": 1198
+            },
+            "entityType": "drug",
+            "entityName": "creatinine",
+            "id": "UMLS:C0010294"
+        },
+        {
+            "entityId": "1200_1226",
+            "span": {
+                "begin": 1200,
+                "end": 1226
+            },
+            "entityType": "gene",
+            "entityName": "aspartate aminotransferase",
+            "id": "UMLS:C0004002"
+        },
+        {
+            "entityId": "1228_1252",
+            "span": {
+                "begin": 1228,
+                "end": 1252
+            },
+            "entityType": "gene",
+            "entityName": "alanine aminotransferase",
+            "id": "UMLS:C1415274"
+        },
+        {
+            "entityId": "1293_1303",
+            "span": {
+                "begin": 1293,
+                "end": 1303
+            },
+            "entityType": "gene",
+            "entityName": "hemoglobin",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "1327_1343",
+            "span": {
+                "begin": 1327,
+                "end": 1343
+            },
+            "entityType": "cell",
+            "entityName": "white blood cell",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "1345_1348",
+            "span": {
+                "begin": 1345,
+                "end": 1348
+            },
+            "entityType": "cell",
+            "entityName": "WBC",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "1351_1365",
+            "span": {
+                "begin": 1351,
+                "end": 1365
+            },
+            "entityType": "cell",
+            "entityName": "red blood cell",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "1370_1378",
+            "span": {
+                "begin": 1370,
+                "end": 1378
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "1503_1506",
+            "span": {
+                "begin": 1503,
+                "end": 1506
+            },
+            "entityType": "cell",
+            "entityName": "WBC",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "1516_1527",
+            "span": {
+                "begin": 1516,
+                "end": 1527
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "1533_1540",
+            "span": {
+                "begin": 1533,
+                "end": 1540
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "1586_1593",
+            "span": {
+                "begin": 1586,
+                "end": 1593
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "1741_1752",
+            "span": {
+                "begin": 1741,
+                "end": 1752
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "1758_1765",
+            "span": {
+                "begin": 1758,
+                "end": 1765
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "1776_1783",
+            "span": {
+                "begin": 1776,
+                "end": 1783
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "1816_1827",
+            "span": {
+                "begin": 1816,
+                "end": 1827
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "1832_1839",
+            "span": {
+                "begin": 1832,
+                "end": 1839
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "1862_1887",
+            "span": {
+                "begin": 1862,
+                "end": 1887
+            },
+            "entityType": "disease",
+            "entityName": "gastrointestinal bleeding",
+            "id": "UMLS:C0017181"
+        },
+        {
+            "entityId": "1902_1909",
+            "span": {
+                "begin": 1902,
+                "end": 1909
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "2208_2219",
+            "span": {
+                "begin": 2208,
+                "end": 2219
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "2225_2232",
+            "span": {
+                "begin": 2225,
+                "end": 2232
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "2243_2250",
+            "span": {
+                "begin": 2243,
+                "end": 2250
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "2275_2286",
+            "span": {
+                "begin": 2275,
+                "end": 2286
+            },
+            "entityType": "drug",
+            "entityName": "Clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "2291_2298",
+            "span": {
+                "begin": 2291,
+                "end": 2298
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "2376_2382",
+            "span": {
+                "begin": 2376,
+                "end": 2382
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "2452_2463",
+            "span": {
+                "begin": 2452,
+                "end": 2463
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "2468_2475",
+            "span": {
+                "begin": 2468,
+                "end": 2475
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "2594_2601",
+            "span": {
+                "begin": 2594,
+                "end": 2601
+            },
+            "entityType": "drug",
+            "entityName": "Aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "2611_2634",
+            "span": {
+                "begin": 2611,
+                "end": 2634
+            },
+            "entityType": "gene",
+            "entityName": "platelet cyclooxygenase",
+            "id": "UMLS:C1565830"
+        },
+        {
+            "entityId": "2700_2714",
+            "span": {
+                "begin": 2700,
+                "end": 2714
+            },
+            "entityType": "drug",
+            "entityName": "thromboxane A2",
+            "id": "UMLS:C0040057"
+        },
+        {
+            "entityId": "2748_2756",
+            "span": {
+                "begin": 2748,
+                "end": 2756
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "2770_2781",
+            "span": {
+                "begin": 2770,
+                "end": 2781
+            },
+            "entityType": "drug",
+            "entityName": "Clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "2785_2799",
+            "span": {
+                "begin": 2785,
+                "end": 2799
+            },
+            "entityType": "drug",
+            "entityName": "thienopyridine",
+            "id": "UMLS:C1120149"
+        },
+        {
+            "entityId": "2820_2839",
+            "span": {
+                "begin": 2820,
+                "end": 2839
+            },
+            "entityType": "gene",
+            "entityName": "adenosine receptors",
+            "id": "UMLS:C0001471"
+        },
+        {
+            "entityId": "2874_2882",
+            "span": {
+                "begin": 2874,
+                "end": 2882
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "2925_2932",
+            "span": {
+                "begin": 2925,
+                "end": 2932
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "2937_2948",
+            "span": {
+                "begin": 2937,
+                "end": 2948
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "2978_2986",
+            "span": {
+                "begin": 2978,
+                "end": 2986
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "3159_3170",
+            "span": {
+                "begin": 3159,
+                "end": 3170
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "3175_3182",
+            "span": {
+                "begin": 3175,
+                "end": 3182
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "3256_3264",
+            "span": {
+                "begin": 3256,
+                "end": 3264
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "3270_3291",
+            "span": {
+                "begin": 3270,
+                "end": 3291
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "3429_3440",
+            "span": {
+                "begin": 3429,
+                "end": 3440
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "3446_3453",
+            "span": {
+                "begin": 3446,
+                "end": 3453
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "3457_3465",
+            "span": {
+                "begin": 3457,
+                "end": 3465
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "3479_3485",
+            "span": {
+                "begin": 3479,
+                "end": 3485
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "3489_3492",
+            "span": {
+                "begin": 3489,
+                "end": 3492
+            },
+            "entityType": "disease",
+            "entityName": "TIA",
+            "id": "UMLS:C0917805"
+        },
+        {
+            "entityId": "3571_3582",
+            "span": {
+                "begin": 3571,
+                "end": 3582
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "3643_3654",
+            "span": {
+                "begin": 3643,
+                "end": 3654
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "3659_3666",
+            "span": {
+                "begin": 3659,
+                "end": 3666
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "3709_3716",
+            "span": {
+                "begin": 3709,
+                "end": 3716
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "3747_3768",
+            "span": {
+                "begin": 3747,
+                "end": 3768
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "3770_3776",
+            "span": {
+                "begin": 3770,
+                "end": 3776
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "3874_3881",
+            "span": {
+                "begin": 3874,
+                "end": 3881
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "3886_3897",
+            "span": {
+                "begin": 3886,
+                "end": 3897
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "3930_3954",
+            "span": {
+                "begin": 3930,
+                "end": 3954
+            },
+            "entityType": "disease",
+            "entityName": "acute coronary syndromes",
+            "id": "UMLS:C0948089"
+        },
+        {
+            "entityId": "3977_3992",
+            "span": {
+                "begin": 3977,
+                "end": 3992
+            },
+            "entityType": "disease",
+            "entityName": "coronary events",
+            "id": "UMLS:C0741923"
+        },
+        {
+            "entityId": "4722_4733",
+            "span": {
+                "begin": 4722,
+                "end": 4733
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "4739_4746",
+            "span": {
+                "begin": 4739,
+                "end": 4746
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "4751_4758",
+            "span": {
+                "begin": 4751,
+                "end": 4758
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "4806_4816",
+            "span": {
+                "begin": 4806,
+                "end": 4816
+            },
+            "entityType": "drug",
+            "entityName": "creatinine",
+            "id": "UMLS:C0010294"
+        },
+        {
+            "entityId": "4818_4844",
+            "span": {
+                "begin": 4818,
+                "end": 4844
+            },
+            "entityType": "gene",
+            "entityName": "aspartate aminotransferase",
+            "id": "UMLS:C0004002"
+        },
+        {
+            "entityId": "4846_4849",
+            "span": {
+                "begin": 4846,
+                "end": 4849
+            },
+            "entityType": "gene",
+            "entityName": "AST",
+            "id": "UMLS:C1415181"
+        },
+        {
+            "entityId": "4856_4880",
+            "span": {
+                "begin": 4856,
+                "end": 4880
+            },
+            "entityType": "gene",
+            "entityName": "alanine aminotransferase",
+            "id": "UMLS:C1415274"
+        },
+        {
+            "entityId": "4882_4885",
+            "span": {
+                "begin": 4882,
+                "end": 4885
+            },
+            "entityType": "gene",
+            "entityName": "ALT",
+            "id": "UMLS:C1415274"
+        },
+        {
+            "entityId": "4933_4947",
+            "span": {
+                "begin": 4933,
+                "end": 4947
+            },
+            "entityType": "cell",
+            "entityName": "red blood cell",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "4949_4952",
+            "span": {
+                "begin": 4949,
+                "end": 4952
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "4961_4977",
+            "span": {
+                "begin": 4961,
+                "end": 4977
+            },
+            "entityType": "cell",
+            "entityName": "white blood cell",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "4979_4982",
+            "span": {
+                "begin": 4979,
+                "end": 4982
+            },
+            "entityType": "cell",
+            "entityName": "WBC",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "4991_4999",
+            "span": {
+                "begin": 4991,
+                "end": 4999
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "5007_5017",
+            "span": {
+                "begin": 5007,
+                "end": 5017
+            },
+            "entityType": "gene",
+            "entityName": "hemoglobin",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "5629_5637",
+            "span": {
+                "begin": 5629,
+                "end": 5637
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5727_5734",
+            "span": {
+                "begin": 5727,
+                "end": 5734
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5981_5989",
+            "span": {
+                "begin": 5981,
+                "end": 5989
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6041_6052",
+            "span": {
+                "begin": 6041,
+                "end": 6052
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "6074_6081",
+            "span": {
+                "begin": 6074,
+                "end": 6081
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "6102_6109",
+            "span": {
+                "begin": 6102,
+                "end": 6109
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "6232_6240",
+            "span": {
+                "begin": 6232,
+                "end": 6240
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6358_6366",
+            "span": {
+                "begin": 6358,
+                "end": 6366
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6460_6481",
+            "span": {
+                "begin": 6460,
+                "end": 6481
+            },
+            "entityType": "disease",
+            "entityName": "hepatic insufficiency",
+            "id": "UMLS:C1306571"
+        },
+        {
+            "entityId": "6483_6496",
+            "span": {
+                "begin": 6483,
+                "end": 6496
+            },
+            "entityType": "disease",
+            "entityName": "renal failure",
+            "id": "UMLS:C0035078"
+        },
+        {
+            "entityId": "6508_6525",
+            "span": {
+                "begin": 6508,
+                "end": 6525
+            },
+            "entityType": "disease",
+            "entityName": "peptic ulceration",
+            "id": "UMLS:C0030920"
+        },
+        {
+            "entityId": "6574_6592",
+            "span": {
+                "begin": 6574,
+                "end": 6592
+            },
+            "entityType": "disease",
+            "entityName": "bleeding diathesis",
+            "id": "UMLS:C1458140"
+        },
+        {
+            "entityId": "6596_6608",
+            "span": {
+                "begin": 6596,
+                "end": 6608
+            },
+            "entityType": "disease",
+            "entityName": "coagulopathy",
+            "id": "UMLS:C0005779"
+        },
+        {
+            "entityId": "6635_6642",
+            "span": {
+                "begin": 6635,
+                "end": 6642
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "6646_6657",
+            "span": {
+                "begin": 6646,
+                "end": 6657
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "6728_6739",
+            "span": {
+                "begin": 6728,
+                "end": 6739
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "6745_6752",
+            "span": {
+                "begin": 6745,
+                "end": 6752
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "6774_6781",
+            "span": {
+                "begin": 6774,
+                "end": 6781
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "7115_7126",
+            "span": {
+                "begin": 7115,
+                "end": 7126
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "7132_7139",
+            "span": {
+                "begin": 7132,
+                "end": 7139
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "7144_7151",
+            "span": {
+                "begin": 7144,
+                "end": 7151
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "7298_7309",
+            "span": {
+                "begin": 7298,
+                "end": 7309
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "7315_7322",
+            "span": {
+                "begin": 7315,
+                "end": 7322
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "7326_7333",
+            "span": {
+                "begin": 7326,
+                "end": 7333
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "7411_7421",
+            "span": {
+                "begin": 7411,
+                "end": 7421
+            },
+            "entityType": "drug",
+            "entityName": "creatinine",
+            "id": "UMLS:C0010294"
+        },
+        {
+            "entityId": "7423_7426",
+            "span": {
+                "begin": 7423,
+                "end": 7426
+            },
+            "entityType": "gene",
+            "entityName": "AST",
+            "id": "UMLS:C1415181"
+        },
+        {
+            "entityId": "7432_7435",
+            "span": {
+                "begin": 7432,
+                "end": 7435
+            },
+            "entityType": "gene",
+            "entityName": "ALT",
+            "id": "UMLS:C1415274"
+        },
+        {
+            "entityId": "7483_7486",
+            "span": {
+                "begin": 7483,
+                "end": 7486
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "7494_7497",
+            "span": {
+                "begin": 7494,
+                "end": 7497
+            },
+            "entityType": "cell",
+            "entityName": "WBC",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "7505_7513",
+            "span": {
+                "begin": 7505,
+                "end": 7513
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "7521_7531",
+            "span": {
+                "begin": 7521,
+                "end": 7531
+            },
+            "entityType": "gene",
+            "entityName": "hemoglobin",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "7802_7813",
+            "span": {
+                "begin": 7802,
+                "end": 7813
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "7819_7826",
+            "span": {
+                "begin": 7819,
+                "end": 7826
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "7831_7838",
+            "span": {
+                "begin": 7831,
+                "end": 7838
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "8040_8048",
+            "span": {
+                "begin": 8040,
+                "end": 8048
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "8079_8102",
+            "span": {
+                "begin": 8079,
+                "end": 8102
+            },
+            "entityType": "disease",
+            "entityName": "intracranial hemorrhage",
+            "id": "UMLS:C0151699"
+        },
+        {
+            "entityId": "8106_8136",
+            "span": {
+                "begin": 8106,
+                "end": 8136
+            },
+            "entityType": "disease",
+            "entityName": "gastrointestinal (GI) bleeding",
+            "id": "UMLS:C0017181"
+        },
+        {
+            "entityId": "8222_8229",
+            "span": {
+                "begin": 8222,
+                "end": 8229
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "8373_8396",
+            "span": {
+                "begin": 8373,
+                "end": 8396
+            },
+            "entityType": "disease",
+            "entityName": "cerebrovascular disease",
+            "id": "UMLS:C0007820"
+        },
+        {
+            "entityId": "8422_8444",
+            "span": {
+                "begin": 8422,
+                "end": 8444
+            },
+            "entityType": "disease",
+            "entityName": "ischemic heart disease",
+            "id": "UMLS:C0010054"
+        },
+        {
+            "entityId": "8462_8475",
+            "span": {
+                "begin": 8462,
+                "end": 8475
+            },
+            "entityType": "disease",
+            "entityName": "heart disease",
+            "id": "UMLS:C0018799"
+        },
+        {
+            "entityId": "8493_8520",
+            "span": {
+                "begin": 8493,
+                "end": 8520
+            },
+            "entityType": "disease",
+            "entityName": "peripheral vascular disease",
+            "id": "UMLS:C0085096"
+        },
+        {
+            "entityId": "8528_8541",
+            "span": {
+                "begin": 8528,
+                "end": 8541
+            },
+            "entityType": "disease",
+            "entityName": "liver disease",
+            "id": "UMLS:C0267792"
+        },
+        {
+            "entityId": "8553_8567",
+            "span": {
+                "begin": 8553,
+                "end": 8567
+            },
+            "entityType": "disease",
+            "entityName": "kidney disease",
+            "id": "UMLS:C0022658"
+        },
+        {
+            "entityId": "8579_8583",
+            "span": {
+                "begin": 8579,
+                "end": 8583
+            },
+            "entityType": "disease",
+            "entityName": "gout",
+            "id": "UMLS:C0018099"
+        },
+        {
+            "entityId": "8591_8614",
+            "span": {
+                "begin": 8591,
+                "end": 8614
+            },
+            "entityType": "disease",
+            "entityName": "thyroid gland disorders",
+            "id": "UMLS:C0040128"
+        },
+        {
+            "entityId": "8626_8640",
+            "span": {
+                "begin": 8626,
+                "end": 8640
+            },
+            "entityType": "disease",
+            "entityName": "hyperlipidemia",
+            "id": "UMLS:C0020473"
+        },
+        {
+            "entityId": "8656_8668",
+            "span": {
+                "begin": 8656,
+                "end": 8668
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "8680_8697",
+            "span": {
+                "begin": 8680,
+                "end": 8697
+            },
+            "entityType": "disease",
+            "entityName": "diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "8832_8840",
+            "span": {
+                "begin": 8832,
+                "end": 8840
+            },
+            "entityType": "drug",
+            "entityName": "steroids",
+            "id": "UMLS:C0038317"
+        },
+        {
+            "entityId": "8864_8871",
+            "span": {
+                "begin": 8864,
+                "end": 8871
+            },
+            "entityType": "gene",
+            "entityName": "insulin",
+            "id": "UMLS:C0021641"
+        },
+        {
+            "entityId": "8908_8917",
+            "span": {
+                "begin": 8908,
+                "end": 8917
+            },
+            "entityType": "drug",
+            "entityName": "steroidal",
+            "id": "UMLS:C0038317"
+        },
+        {
+            "entityId": "8983_9002",
+            "span": {
+                "begin": 8983,
+                "end": 9002
+            },
+            "entityType": "gene",
+            "entityName": "histamine2-receptor",
+            "id": "UMLS:C1531432"
+        },
+        {
+            "entityId": "9016_9018",
+            "span": {
+                "begin": 9016,
+                "end": 9018
+            },
+            "entityType": "gene",
+            "entityName": "H2",
+            "id": "UMLS:C0919509"
+        },
+        {
+            "entityId": "9041_9053",
+            "span": {
+                "begin": 9041,
+                "end": 9053
+            },
+            "entityType": "disease",
+            "entityName": "peptic ulcer",
+            "id": "UMLS:C0030920"
+        },
+        {
+            "entityId": "9136_9144",
+            "span": {
+                "begin": 9136,
+                "end": 9144
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "9674_9685",
+            "span": {
+                "begin": 9674,
+                "end": 9685
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "9691_9698",
+            "span": {
+                "begin": 9691,
+                "end": 9698
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "9709_9716",
+            "span": {
+                "begin": 9709,
+                "end": 9716
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "9958_9969",
+            "span": {
+                "begin": 9958,
+                "end": 9969
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "9975_9982",
+            "span": {
+                "begin": 9975,
+                "end": 9982
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "9993_10000",
+            "span": {
+                "begin": 9993,
+                "end": 10000
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "10449_10460",
+            "span": {
+                "begin": 10449,
+                "end": 10460
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "10466_10473",
+            "span": {
+                "begin": 10466,
+                "end": 10473
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "10483_10490",
+            "span": {
+                "begin": 10483,
+                "end": 10490
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "10585_10608",
+            "span": {
+                "begin": 10585,
+                "end": 10608
+            },
+            "entityType": "disease",
+            "entityName": "cerebrovascular disease",
+            "id": "UMLS:C0007820"
+        },
+        {
+            "entityId": "10610_10632",
+            "span": {
+                "begin": 10610,
+                "end": 10632
+            },
+            "entityType": "disease",
+            "entityName": "ischemic heart disease",
+            "id": "UMLS:C0010054"
+        },
+        {
+            "entityId": "10640_10653",
+            "span": {
+                "begin": 10640,
+                "end": 10653
+            },
+            "entityType": "disease",
+            "entityName": "heart disease",
+            "id": "UMLS:C0018799"
+        },
+        {
+            "entityId": "10655_10668",
+            "span": {
+                "begin": 10655,
+                "end": 10668
+            },
+            "entityType": "disease",
+            "entityName": "liver disease",
+            "id": "UMLS:C0267792"
+        },
+        {
+            "entityId": "10670_10684",
+            "span": {
+                "begin": 10670,
+                "end": 10684
+            },
+            "entityType": "disease",
+            "entityName": "kidney disease",
+            "id": "UMLS:C0022658"
+        },
+        {
+            "entityId": "10686_10690",
+            "span": {
+                "begin": 10686,
+                "end": 10690
+            },
+            "entityType": "disease",
+            "entityName": "gout",
+            "id": "UMLS:C0018099"
+        },
+        {
+            "entityId": "10692_10715",
+            "span": {
+                "begin": 10692,
+                "end": 10715
+            },
+            "entityType": "disease",
+            "entityName": "thyroid gland disorders",
+            "id": "UMLS:C0040128"
+        },
+        {
+            "entityId": "10717_10731",
+            "span": {
+                "begin": 10717,
+                "end": 10731
+            },
+            "entityType": "disease",
+            "entityName": "hyperlipidemia",
+            "id": "UMLS:C0020473"
+        },
+        {
+            "entityId": "10733_10745",
+            "span": {
+                "begin": 10733,
+                "end": 10745
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "10751_10768",
+            "span": {
+                "begin": 10751,
+                "end": 10768
+            },
+            "entityType": "disease",
+            "entityName": "diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "10825_10833",
+            "span": {
+                "begin": 10825,
+                "end": 10833
+            },
+            "entityType": "drug",
+            "entityName": "steroids",
+            "id": "UMLS:C0038317"
+        },
+        {
+            "entityId": "10902_10904",
+            "span": {
+                "begin": 10902,
+                "end": 10904
+            },
+            "entityType": "gene",
+            "entityName": "H2",
+            "id": "UMLS:C0919509"
+        },
+        {
+            "entityId": "10926_10938",
+            "span": {
+                "begin": 10926,
+                "end": 10938
+            },
+            "entityType": "disease",
+            "entityName": "peptic ulcer",
+            "id": "UMLS:C0030920"
+        },
+        {
+            "entityId": "11252_11263",
+            "span": {
+                "begin": 11252,
+                "end": 11263
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "11269_11276",
+            "span": {
+                "begin": 11269,
+                "end": 11276
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "11287_11294",
+            "span": {
+                "begin": 11287,
+                "end": 11294
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "11487_11510",
+            "span": {
+                "begin": 11487,
+                "end": 11510
+            },
+            "entityType": "disease",
+            "entityName": "intracranial hemorrhage",
+            "id": "UMLS:C0151699"
+        },
+        {
+            "entityId": "11514_11525",
+            "span": {
+                "begin": 11514,
+                "end": 11525
+            },
+            "entityType": "disease",
+            "entityName": "GI bleeding",
+            "id": "UMLS:C0017181"
+        },
+        {
+            "entityId": "11530_11541",
+            "span": {
+                "begin": 11530,
+                "end": 11541
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "11547_11554",
+            "span": {
+                "begin": 11547,
+                "end": 11554
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "11565_11572",
+            "span": {
+                "begin": 11565,
+                "end": 11572
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "13716_13724",
+            "span": {
+                "begin": 13716,
+                "end": 13724
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13757_13768",
+            "span": {
+                "begin": 13757,
+                "end": 13768
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "13774_13781",
+            "span": {
+                "begin": 13774,
+                "end": 13781
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "13790_13798",
+            "span": {
+                "begin": 13790,
+                "end": 13798
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13831_13838",
+            "span": {
+                "begin": 13831,
+                "end": 13838
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "13896_13904",
+            "span": {
+                "begin": 13896,
+                "end": 13904
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13909_13920",
+            "span": {
+                "begin": 13909,
+                "end": 13920
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "13926_13933",
+            "span": {
+                "begin": 13926,
+                "end": 13933
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "13991_13996",
+            "span": {
+                "begin": 13991,
+                "end": 13996
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13998_14005",
+            "span": {
+                "begin": 13998,
+                "end": 14005
+            },
+            "entityType": "drug",
+            "entityName": "Aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "14056_14061",
+            "span": {
+                "begin": 14056,
+                "end": 14061
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "14067_14078",
+            "span": {
+                "begin": 14067,
+                "end": 14078
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "14084_14091",
+            "span": {
+                "begin": 14084,
+                "end": 14091
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "14149_14154",
+            "span": {
+                "begin": 14149,
+                "end": 14154
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "14196_14218",
+            "span": {
+                "begin": 14196,
+                "end": 14218
+            },
+            "entityType": "disease",
+            "entityName": "ischemic heart disease",
+            "id": "UMLS:C0010054"
+        },
+        {
+            "entityId": "14220_14234",
+            "span": {
+                "begin": 14220,
+                "end": 14234
+            },
+            "entityType": "disease",
+            "entityName": "hyperlipidemia",
+            "id": "UMLS:C0020473"
+        },
+        {
+            "entityId": "14238_14255",
+            "span": {
+                "begin": 14238,
+                "end": 14255
+            },
+            "entityType": "disease",
+            "entityName": "diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "14283_14305",
+            "span": {
+                "begin": 14283,
+                "end": 14305
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular disease",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "14307_14318",
+            "span": {
+                "begin": 14307,
+                "end": 14318
+            },
+            "entityType": "drug",
+            "entityName": "Clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "14324_14331",
+            "span": {
+                "begin": 14324,
+                "end": 14331
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "14363_14385",
+            "span": {
+                "begin": 14363,
+                "end": 14385
+            },
+            "entityType": "disease",
+            "entityName": "ischemic heart disease",
+            "id": "UMLS:C0010054"
+        },
+        {
+            "entityId": "14390_14404",
+            "span": {
+                "begin": 14390,
+                "end": 14404
+            },
+            "entityType": "disease",
+            "entityName": "hyperlipidemia",
+            "id": "UMLS:C0020473"
+        },
+        {
+            "entityId": "14435_14458",
+            "span": {
+                "begin": 14435,
+                "end": 14458
+            },
+            "entityType": "disease",
+            "entityName": "cerebrovascular disease",
+            "id": "UMLS:C0007820"
+        },
+        {
+            "entityId": "14460_14473",
+            "span": {
+                "begin": 14460,
+                "end": 14473
+            },
+            "entityType": "disease",
+            "entityName": "liver disease",
+            "id": "UMLS:C0267792"
+        },
+        {
+            "entityId": "14479_14493",
+            "span": {
+                "begin": 14479,
+                "end": 14493
+            },
+            "entityType": "disease",
+            "entityName": "kidney disease",
+            "id": "UMLS:C0022658"
+        },
+        {
+            "entityId": "14499_14506",
+            "span": {
+                "begin": 14499,
+                "end": 14506
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "14544_14555",
+            "span": {
+                "begin": 14544,
+                "end": 14555
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "14561_14568",
+            "span": {
+                "begin": 14561,
+                "end": 14568
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "14629_14636",
+            "span": {
+                "begin": 14629,
+                "end": 14636
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "14669_14676",
+            "span": {
+                "begin": 14669,
+                "end": 14676
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "14717_14724",
+            "span": {
+                "begin": 14717,
+                "end": 14724
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "14743_14751",
+            "span": {
+                "begin": 14743,
+                "end": 14751
+            },
+            "entityType": "drug",
+            "entityName": "thiazide",
+            "id": "UMLS:C0541746"
+        },
+        {
+            "entityId": "14898_14908",
+            "span": {
+                "begin": 14898,
+                "end": 14908
+            },
+            "entityType": "gene",
+            "entityName": "hemoglobin",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "14918_14929",
+            "span": {
+                "begin": 14918,
+                "end": 14929
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "14935_14942",
+            "span": {
+                "begin": 14935,
+                "end": 14942
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "14973_14980",
+            "span": {
+                "begin": 14973,
+                "end": 14980
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "15101_15112",
+            "span": {
+                "begin": 15101,
+                "end": 15112
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "15118_15125",
+            "span": {
+                "begin": 15118,
+                "end": 15125
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "15136_15143",
+            "span": {
+                "begin": 15136,
+                "end": 15143
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "15271_15282",
+            "span": {
+                "begin": 15271,
+                "end": 15282
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "15288_15295",
+            "span": {
+                "begin": 15288,
+                "end": 15295
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "15306_15313",
+            "span": {
+                "begin": 15306,
+                "end": 15313
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "16409_16412",
+            "span": {
+                "begin": 16409,
+                "end": 16412
+            },
+            "entityType": "cell",
+            "entityName": "WBC",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "16484_16495",
+            "span": {
+                "begin": 16484,
+                "end": 16495
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "16501_16508",
+            "span": {
+                "begin": 16501,
+                "end": 16508
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "16533_16536",
+            "span": {
+                "begin": 16533,
+                "end": 16536
+            },
+            "entityType": "cell",
+            "entityName": "WBC",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "16582_16589",
+            "span": {
+                "begin": 16582,
+                "end": 16589
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "16730_16741",
+            "span": {
+                "begin": 16730,
+                "end": 16741
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "16747_16754",
+            "span": {
+                "begin": 16747,
+                "end": 16754
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "16787_16794",
+            "span": {
+                "begin": 16787,
+                "end": 16794
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "16881_16889",
+            "span": {
+                "begin": 16881,
+                "end": 16889
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "16898_16916",
+            "span": {
+                "begin": 16898,
+                "end": 16916
+            },
+            "entityType": "disease",
+            "entityName": "hemorrhagic events",
+            "id": "mesh:D006474"
+        },
+        {
+            "entityId": "16957_16968",
+            "span": {
+                "begin": 16957,
+                "end": 16968
+            },
+            "entityType": "disease",
+            "entityName": "GI bleeding",
+            "id": "UMLS:C0017181"
+        },
+        {
+            "entityId": "16989_17000",
+            "span": {
+                "begin": 16989,
+                "end": 17000
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "17006_17013",
+            "span": {
+                "begin": 17006,
+                "end": 17013
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "17054_17061",
+            "span": {
+                "begin": 17054,
+                "end": 17061
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "17283_17294",
+            "span": {
+                "begin": 17283,
+                "end": 17294
+            },
+            "entityType": "disease",
+            "entityName": "GI bleeding",
+            "id": "UMLS:C0017181"
+        },
+        {
+            "entityId": "17312_17320",
+            "span": {
+                "begin": 17312,
+                "end": 17320
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "17353_17364",
+            "span": {
+                "begin": 17353,
+                "end": 17364
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "17369_17376",
+            "span": {
+                "begin": 17369,
+                "end": 17376
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "17390_17413",
+            "span": {
+                "begin": 17390,
+                "end": 17413
+            },
+            "entityType": "disease",
+            "entityName": "intracranial hemorrhage",
+            "id": "UMLS:C0151699"
+        },
+        {
+            "entityId": "17454_17465",
+            "span": {
+                "begin": 17454,
+                "end": 17465
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "17471_17478",
+            "span": {
+                "begin": 17471,
+                "end": 17478
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "17489_17496",
+            "span": {
+                "begin": 17489,
+                "end": 17496
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "18818_18829",
+            "span": {
+                "begin": 18818,
+                "end": 18829
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "18835_18842",
+            "span": {
+                "begin": 18835,
+                "end": 18842
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "18847_18854",
+            "span": {
+                "begin": 18847,
+                "end": 18854
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "18902_18912",
+            "span": {
+                "begin": 18902,
+                "end": 18912
+            },
+            "entityType": "drug",
+            "entityName": "creatinine",
+            "id": "UMLS:C0010294"
+        },
+        {
+            "entityId": "18914_18917",
+            "span": {
+                "begin": 18914,
+                "end": 18917
+            },
+            "entityType": "gene",
+            "entityName": "AST",
+            "id": "UMLS:C1415181"
+        },
+        {
+            "entityId": "18919_18922",
+            "span": {
+                "begin": 18919,
+                "end": 18922
+            },
+            "entityType": "gene",
+            "entityName": "ALT",
+            "id": "UMLS:C1415274"
+        },
+        {
+            "entityId": "18924_18934",
+            "span": {
+                "begin": 18924,
+                "end": 18934
+            },
+            "entityType": "gene",
+            "entityName": "hemoglobin",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "18954_18957",
+            "span": {
+                "begin": 18954,
+                "end": 18957
+            },
+            "entityType": "cell",
+            "entityName": "WBC",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "18959_18962",
+            "span": {
+                "begin": 18959,
+                "end": 18962
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "19065_19068",
+            "span": {
+                "begin": 19065,
+                "end": 19068
+            },
+            "entityType": "cell",
+            "entityName": "WBC",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "19078_19089",
+            "span": {
+                "begin": 19078,
+                "end": 19089
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "19095_19102",
+            "span": {
+                "begin": 19095,
+                "end": 19102
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "19148_19155",
+            "span": {
+                "begin": 19148,
+                "end": 19155
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "19232_19242",
+            "span": {
+                "begin": 19232,
+                "end": 19242
+            },
+            "entityType": "cell",
+            "entityName": "leukocytes",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "19282_19293",
+            "span": {
+                "begin": 19282,
+                "end": 19293
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "19299_19306",
+            "span": {
+                "begin": 19299,
+                "end": 19306
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "19317_19324",
+            "span": {
+                "begin": 19317,
+                "end": 19324
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "19394_19404",
+            "span": {
+                "begin": 19394,
+                "end": 19404
+            },
+            "entityType": "disease",
+            "entityName": "leukopenia",
+            "id": "UMLS:C0023530"
+        },
+        {
+            "entityId": "19406_19421",
+            "span": {
+                "begin": 19406,
+                "end": 19421
+            },
+            "entityType": "disease",
+            "entityName": "agranulocytosis",
+            "id": "UMLS:C0001824"
+        },
+        {
+            "entityId": "19427_19443",
+            "span": {
+                "begin": 19427,
+                "end": 19443
+            },
+            "entityType": "disease",
+            "entityName": "thrombocytopenia",
+            "id": "UMLS:C0040034"
+        },
+        {
+            "entityId": "19467_19475",
+            "span": {
+                "begin": 19467,
+                "end": 19475
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "19486_19497",
+            "span": {
+                "begin": 19486,
+                "end": 19497
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "19501_19508",
+            "span": {
+                "begin": 19501,
+                "end": 19508
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "19546_19554",
+            "span": {
+                "begin": 19546,
+                "end": 19554
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "19587_19598",
+            "span": {
+                "begin": 19587,
+                "end": 19598
+            },
+            "entityType": "cell",
+            "entityName": "neutrophils",
+            "id": "UMLS:C0027950"
+        },
+        {
+            "entityId": "19641_19652",
+            "span": {
+                "begin": 19641,
+                "end": 19652
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "19657_19664",
+            "span": {
+                "begin": 19657,
+                "end": 19664
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "19723_19726",
+            "span": {
+                "begin": 19723,
+                "end": 19726
+            },
+            "entityType": "cell",
+            "entityName": "WBC",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "19798_19809",
+            "span": {
+                "begin": 19798,
+                "end": 19809
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "19815_19822",
+            "span": {
+                "begin": 19815,
+                "end": 19822
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "19836_19843",
+            "span": {
+                "begin": 19836,
+                "end": 19843
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "20018_20028",
+            "span": {
+                "begin": 20018,
+                "end": 20028
+            },
+            "entityType": "disease",
+            "entityName": "leukopenia",
+            "id": "UMLS:C0023530"
+        },
+        {
+            "entityId": "20103_20114",
+            "span": {
+                "begin": 20103,
+                "end": 20114
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "20118_20125",
+            "span": {
+                "begin": 20118,
+                "end": 20125
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "20160_20167",
+            "span": {
+                "begin": 20160,
+                "end": 20167
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "20177_20180",
+            "span": {
+                "begin": 20177,
+                "end": 20180
+            },
+            "entityType": "cell",
+            "entityName": "WBC",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "20402_20412",
+            "span": {
+                "begin": 20402,
+                "end": 20412
+            },
+            "entityType": "cell",
+            "entityName": "leukocytes",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "20456_20464",
+            "span": {
+                "begin": 20456,
+                "end": 20464
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20626_20633",
+            "span": {
+                "begin": 20626,
+                "end": 20633
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "20637_20648",
+            "span": {
+                "begin": 20637,
+                "end": 20648
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "20671_20681",
+            "span": {
+                "begin": 20671,
+                "end": 20681
+            },
+            "entityType": "disease",
+            "entityName": "hemorrhage",
+            "id": "UMLS:C0019080"
+        },
+        {
+            "entityId": "20705_20716",
+            "span": {
+                "begin": 20705,
+                "end": 20716
+            },
+            "entityType": "disease",
+            "entityName": "GI bleeding",
+            "id": "UMLS:C0017181"
+        },
+        {
+            "entityId": "20745_20753",
+            "span": {
+                "begin": 20745,
+                "end": 20753
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20764_20775",
+            "span": {
+                "begin": 20764,
+                "end": 20775
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "20781_20788",
+            "span": {
+                "begin": 20781,
+                "end": 20788
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "20797_20805",
+            "span": {
+                "begin": 20797,
+                "end": 20805
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20816_20823",
+            "span": {
+                "begin": 20816,
+                "end": 20823
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "20840_20848",
+            "span": {
+                "begin": 20840,
+                "end": 20848
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20915_20936",
+            "span": {
+                "begin": 20915,
+                "end": 20936
+            },
+            "entityType": "disease",
+            "entityName": "hepatic insufficiency",
+            "id": "UMLS:C1306571"
+        },
+        {
+            "entityId": "20938_20951",
+            "span": {
+                "begin": 20938,
+                "end": 20951
+            },
+            "entityType": "disease",
+            "entityName": "renal failure",
+            "id": "UMLS:C0035078"
+        },
+        {
+            "entityId": "20961_20978",
+            "span": {
+                "begin": 20961,
+                "end": 20978
+            },
+            "entityType": "disease",
+            "entityName": "peptic ulceration",
+            "id": "UMLS:C0030920"
+        },
+        {
+            "entityId": "21141_21159",
+            "span": {
+                "begin": 21141,
+                "end": 21159
+            },
+            "entityType": "disease",
+            "entityName": "hemorrhagic events",
+            "id": "mesh:D006474"
+        },
+        {
+            "entityId": "21187_21198",
+            "span": {
+                "begin": 21187,
+                "end": 21198
+            },
+            "entityType": "disease",
+            "entityName": "GI bleeding",
+            "id": "UMLS:C0017181"
+        },
+        {
+            "entityId": "21258_21271",
+            "span": {
+                "begin": 21258,
+                "end": 21271
+            },
+            "entityType": "disease",
+            "entityName": "liver disease",
+            "id": "UMLS:C0267792"
+        },
+        {
+            "entityId": "21466_21477",
+            "span": {
+                "begin": 21466,
+                "end": 21477
+            },
+            "entityType": "disease",
+            "entityName": "GI bleeding",
+            "id": "UMLS:C0017181"
+        },
+        {
+            "entityId": "21520_21531",
+            "span": {
+                "begin": 21520,
+                "end": 21531
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "21536_21543",
+            "span": {
+                "begin": 21536,
+                "end": 21543
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "21558_21565",
+            "span": {
+                "begin": 21558,
+                "end": 21565
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "21808_21819",
+            "span": {
+                "begin": 21808,
+                "end": 21819
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "21824_21831",
+            "span": {
+                "begin": 21824,
+                "end": 21831
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "21854_21865",
+            "span": {
+                "begin": 21854,
+                "end": 21865
+            },
+            "entityType": "disease",
+            "entityName": "GI bleeding",
+            "id": "UMLS:C0017181"
+        },
+        {
+            "entityId": "21901_21908",
+            "span": {
+                "begin": 21901,
+                "end": 21908
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "22330_22341",
+            "span": {
+                "begin": 22330,
+                "end": 22341
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "22347_22354",
+            "span": {
+                "begin": 22347,
+                "end": 22354
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "22359_22366",
+            "span": {
+                "begin": 22359,
+                "end": 22366
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "22625_22636",
+            "span": {
+                "begin": 22625,
+                "end": 22636
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "22642_22649",
+            "span": {
+                "begin": 22642,
+                "end": 22649
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "22654_22661",
+            "span": {
+                "begin": 22654,
+                "end": 22661
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "23068_23076",
+            "span": {
+                "begin": 23068,
+                "end": 23076
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23082_23116",
+            "span": {
+                "begin": 23082,
+                "end": 23116
+            },
+            "entityType": "disease",
+            "entityName": "ST-elevation myocardial infarction",
+            "id": "UMLS:C1536220"
+        },
+        {
+            "entityId": "23261_23272",
+            "span": {
+                "begin": 23261,
+                "end": 23272
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "23294_23301",
+            "span": {
+                "begin": 23294,
+                "end": 23301
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "23329_23336",
+            "span": {
+                "begin": 23329,
+                "end": 23336
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "23502_23513",
+            "span": {
+                "begin": 23502,
+                "end": 23513
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "23518_23525",
+            "span": {
+                "begin": 23518,
+                "end": 23525
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "23716_23727",
+            "span": {
+                "begin": 23716,
+                "end": 23727
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "23733_23740",
+            "span": {
+                "begin": 23733,
+                "end": 23740
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "23745_23752",
+            "span": {
+                "begin": 23745,
+                "end": 23752
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "23872_23880",
+            "span": {
+                "begin": 23872,
+                "end": 23880
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23925_23939",
+            "span": {
+                "begin": 23925,
+                "end": 23939
+            },
+            "entityType": "gene",
+            "entityName": "CYP450 enzymes",
+            "id": "UMLS:C3540048"
+        },
+        {
+            "entityId": "23970_23981",
+            "span": {
+                "begin": 23970,
+                "end": 23981
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "24003_24010",
+            "span": {
+                "begin": 24003,
+                "end": 24010
+            },
+            "entityType": "gene",
+            "entityName": "CYP2C19",
+            "id": "UMLS:C1332828"
+        },
+        {
+            "entityId": "24025_24034",
+            "span": {
+                "begin": 24025,
+                "end": 24034
+            },
+            "entityType": "gene",
+            "entityName": "CYP2C19*2",
+            "id": "UMLS:C1332828"
+        },
+        {
+            "entityId": "24077_24088",
+            "span": {
+                "begin": 24077,
+                "end": 24088
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "24314_24320",
+            "span": {
+                "begin": 24314,
+                "end": 24320
+            },
+            "entityType": "species",
+            "entityName": "people",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "24584_24587",
+            "span": {
+                "begin": 24584,
+                "end": 24587
+            },
+            "entityType": "cell",
+            "entityName": "WBC",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "24597_24608",
+            "span": {
+                "begin": 24597,
+                "end": 24608
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "24614_24621",
+            "span": {
+                "begin": 24614,
+                "end": 24621
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "24667_24674",
+            "span": {
+                "begin": 24667,
+                "end": 24674
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "24716_24727",
+            "span": {
+                "begin": 24716,
+                "end": 24727
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "24732_24739",
+            "span": {
+                "begin": 24732,
+                "end": 24739
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "24762_24773",
+            "span": {
+                "begin": 24762,
+                "end": 24773
+            },
+            "entityType": "disease",
+            "entityName": "GI bleeding",
+            "id": "UMLS:C0017181"
+        },
+        {
+            "entityId": "24788_24795",
+            "span": {
+                "begin": 24788,
+                "end": 24795
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "24899_24910",
+            "span": {
+                "begin": 24899,
+                "end": 24910
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "24916_24923",
+            "span": {
+                "begin": 24916,
+                "end": 24923
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "24934_24941",
+            "span": {
+                "begin": 24934,
+                "end": 24941
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "165_172",
+            "subjectText": "aspirin",
+            "rel_name": "reduces",
+            "objectId": "250_256",
+            "objectText": "stroke"
+        },
+        {
+            "subjectID": "1533_1540",
+            "subjectText": "aspirin",
+            "rel_name": "reduces",
+            "objectId": "1503_1506",
+            "objectText": "WBC"
+        }
+    ]
+}

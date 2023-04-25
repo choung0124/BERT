@@ -1,0 +1,5473 @@
+{
+    "sourcid": "PMC3679760",
+    "publisher": "Hindawi Publishing Corporation",
+    "journal": "Evidence-based Complementary and Alternative Medicine : eCAM",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3679760/",
+    "text": "Wenxin-Keli Regulates the Calcium/Calmodulin-Dependent Protein Kinase II Signal Transduction Pathway and Inhibits Cardiac Arrhythmia in Rats with Myocardial Infarction Wenxin-Keli (WXKL) is a Chinese herbal compound reported to be of benefit in the treatment of cardiac arrhythmia, cardiac inflammation, and heart failure. Amiodarone is a noncompetitive inhibitor of the alpha- and beta-adrenergic receptors and prevents calcium influx in the slow-response cells of the sinoatrial and atrioventricular nodes. Overexpression of Ca2+/calmodulin-dependent protein kinase II (CaMKII) in transgenic mice results in heart failure and arrhythmias. We hypothesised that administration of WXKL and amiodarone can reduce the incidence of arrhythmias by regulating CaMKII signal transduction. A total of 100 healthy Sprague Dawley rats were used in the study. The rats were randomly divided into four groups (a sham group, a myocardial infarction (MI) group, a WXKL-treated group, and an amiodarone-treated group). A myocardial infarction model was established in these rats by ligating the left anterior descending coronary artery for 4 weeks. Western blotting was used to assess CaMKII, p-CaMKII (Thr-286), PLB, p-PLB (Thr-17), RYR2, and FK binding protein 12.6 (FKBP12.6) levels. The Ca2+ content in the sarcoplasmic reticulum (SR) and the calcium transient amplitude were studied by confocal imaging using the fluorescent indicator Fura-4. In conclusion, WXKL may inhibit heart failure and cardiac arrhythmias by regulating the CaMKII signal transduction pathway similar to amiodarone.  1. Introduction Cardiovascular diseases are the most common threat to human health worldwide and are the leading cause of morbidity in human populations. Epidemiological data show that at present the number of patients with heart failure has increased to 22.5 million globally and is still increasing at a rate of 2 million patients per year. The 5-year survival rate of patients with heart failure is similar to that of patients with malignant tumours, and mortality continues to increase despite advances in our understanding of the underlying mechanisms of the disease and the development of new treatments. Currently, more than a quarter of a million patients die of heart failure annually in the United States. The risk of sudden cardiac death in heart failure patients is six to nine times that of the general population, and approximately half of these patients die of ventricular arrhythmias. Although drugs that inhibit the adrenergic and renin-angiotensin aldosterone systems have improved the survival of individual patients receiving treatment, deaths from heart failure increased by 28% between the years 1994 and 2004. Treating arrhythmias in patients with structural heart disease using ion channel antagonist drugs does not reduce mortality. These data highlight the importance of finding suitable agents for treating both heart failure and arrhythmias. In the past, antiarrhythmic drug research mainly targeted the various types of ion channels in the cell membrane. With the rapid development of the biological sciences, finding new targets for anti-arrhythmic treatment at the level of cellular signal transduction has become a promising new avenue for research. The use of beta blockers for the management of heart failure is one example in which targeting a signalling pathway rather than an individual family of ion channels has proved effective. CaMKII has emerged as a key intracellular signalling molecule, that is, increasingly being recognised as a critical player in cardiac disease and arrhythmia. As we learn more about CaMKII and its effects in the heart, it appears that it also may be a potential therapeutic target. Intracellular CaMKII signal transduction pathways play a central role in the regulation of intracellular calcium. CaMKII is a multifunctional serine/threonine protein kinase, and its expression is increased in both ischemic and dilated cardiomyopathies. CaMKII regulates a wide variety of downstream targets in the heart, including sarcolemmal ion channels (e.g., L-type Ca and Na channels), SR Ca release channels, and PLB, and therefore is important in regulating SR Ca release and Ca reuptake. Thus, CaMKII is critical for the fine tuning of cardiac excitation-contraction coupling (ECC). Under physiological conditions, CaMKII phosphorylation can keep the calcium channel open and keep intracellular calcium at a moderate level. CaMKII mediates the activity of the L-type calcium channel (LTCC) and RyR via phosphorylation-dependent events, which are integral to normal ECC. When a cardiomyocyte is depolarised by a propagating action potential, calcium enters the cell via the LTCC. This initial calcium entry activates the ryanodine receptor, resulting in the release of calcium from the SR by a process termed calcium-induced calcium release. Release of calcium from the SR accounts for the majority of the intracellular calcium, that is, necessary for contraction and other functions of the cardiomyocyte. The majority of the cytosolic calcium is removed by sarcoplasmic reticulum calcium pump (SERCA), which is negatively regulated by PLB. The return of the cytosolic calcium to basal levels signals the beginning of diastole. Heart failure is associated with excess CaMKII activity. This excess CaMKII activity results in hyperphosphorylation of the LTCC, RyR, SERCA, and PLB proteins, which impairs cardiac function and predisposes the cardiac myocytes to after depolarisations. Hyperphosphorylation of a subunit of the LTCC results in increased ICa, which is a factor in the predisposition of the cardiac myocytes to EADs (which occurs at phases 2 and 3 of the action potential). Hyperphosphorylation events at the SR lead to the depletion of SR calcium stores, which results in impaired cytosolic calcium transients that in turn cause systolic and diastolic dysfunction. Furthermore, hyperphosphorylation of RyR2 results in an SR calcium leak that can lead to a net inward Na current via sodium-calcium exchanger (NCX) resulting in delayed after depolarisations (i.e., occurring after the completion of repolarisation). However, recent studies have found that, under conditions of heart failure, the ability of protein kinase A (PKA) to regulate the phosphorylation of the RyR2 protein is dependent on CaMKII activity. FKBP12.6 is a regulator of RyR2 channel activity, and binding of FKBPl2.6 to RyR2 causes the channel to maintain its closed state. In heart failure, enhanced sympathetic nerve excitation leads to increased CaMKII activity, which results in hyperphosphorylation of RyR2. This hyperphosphorylation causes the dissociation of FKBP12.6 from RyR2, which opens the channel, and the resulting increase in Ca2+ leakage causes triggered beat activity to increase. WXKL was developed at Guang'anmen Hospital, a facility of the Chinese Academy of Chinese Medical Sciences, and was the first Chinese-developed anti-arrhythmic medicine to be approved by the Chinese state. In clinical applications, WXKL has been shown to be effective in the treatment of chronic heart failure and arrhythmia. The main ingredients of WXKL consist of Codonopsis, Polygonatum, Panax, nard, and amber. A large number of clinical trials have confirmed that WXKL can increase coronary blood flow, reduce myocardial oxygen consumption, enhance myocardial compliance, improve myocardial hypoxia tolerance, relieve anterior and posterior cardiac loading, reduce myocardial tissue damage in patients with high blood pressure, and reduce the occurrence of arrhythmia. Findings also indicate that WXKL produces atrial-selective depression of INa-dependent parameters in canine isolated coronary-perfused preparations via a unique mechanism and is effective in both suppressing AF and preventing its induction. In the present study, the hypothesis that WXKL can reduce the incidence of arrhythmias by regulating the CaMKII signal transduction pathway was tested in vitro and in vivo, and its antiarrhythmic effects were compared to those of amiodarone. Amiodarone is a noncompetitive inhibitor of the alpha- and beta-adrenergic receptors and prevents calcium influx in slow-response cells. Amiodarone can expand blood vessels and slow the heart rate to reduce myocardial ischemia. Amiodarone can also directly prolong the duration of the action potential, the repolarisation time, and the refractory period through inhibition of the outward potassium current, and it is categorised as a class III anti-arrhythmic drug. It has been reported that the ability of amiodarone to suppress the activity of CaMKII may be a component of its anti-arrhythmic therapeutic mechanism. However, the multisystem side effects associated with amiodarone limit its long-term use in patients. 2. Material and Methods 2.1. WXKL Compound WXKL, consisting of Rhizoma nardostachyos, Codonopsis, Notoginseng, amber, and Rhizoma Polygonati, was provided by the BuChang Group, Xi'An, China. According to the national pharmacopoeia (National Pharmacopoeia Committee, 2005), the total amount of notoginseng saponin R1 (C47H80O18), ginseng saponin Rg1 (C42H72O14), and ginseng saponin Rb1 (C54H92O23) should not be less than 17 mg per bag (9 g). The powdered WXKL compound was dissolved in distilled water prior to use.         2.2. Animal Grouping and Administration of Drugs One hundred male Sprague Dawley rats (160 +- 20 g), purchased from the animal laboratory of the Academy of Medical Sciences, Beijing, China, were initially divided into two groups: a sham group (N = 25) and an MI group (N = 75). MI and sham rats were fed normally for 2 weeks before being prescreened by twelve-lead electrocardiogram (ECG). The MI rats with 6-8 leads having q waves were included in the study. The 75 MI rats were randomly assigned to three treatment groups: the MI group (N = 25), in which the rats were treated with the vehicle alone (distilled water, 1 mL/kg/day) for oral administration; the WXKL group (N = 25), in which the rats were treated with the WXKL compound (4 g/kg/day) for oral administration; and the amiodarone group (N = 25), in which the rats were treated with amiodarone (30 mg/kg/day) for oral administration. All animals used in this study received humane care in compliance with the National Institutes of Health Guide for the Care and Use of Laboratory Animals.           2.3. Establishment of the Myocardial Infarction Model and Sham-Operated Rats The rats were anaesthetised by intraperitoneal injection of a 1% solution of sodium pentobarbital (50 mg/kg). The procedures performed consisted of endotracheal intubation, positive pressure ventilation, preoperative recording by twelve-lead ECG, one-lead monitoring, local skin disinfection, chest opening, thoracotomy device setup and opening of the pericardium, and ligation of the pulmonary cone and the left atrial appendage 2-3 mm from the bottom of the left anterior descending coronary artery ligation. In the sham group, the left anterior descending artery was not ligated. Additional twelve-lead ECG recordings were made postoperatively. The rats were fed normally for 4 weeks before being euthanised and dissected to isolate the heart for the subsequent experiments.     2.4. Histological Examination Rat heart samples were cut into transverse sections and stained with haematoxylin and eosin (H&E). 2.5.   Inhibitor of CaMKII   Treatment with KN93 (Sigma Inc.), a specific inhibitor of CaMKII, was also found to significantly reduce the Ca transient amplitudes in cardiac myocytes, while treatment with KN92 (Sigma Inc.), which has the same structure as KN93 but no CaMKII-inhibiting activity, had no effect. 2.6. Western Blot Analysis All animals were euthanised after 4 weeks of drug administration, and their hearts were immediately harvested and stored in liquid nitrogen until Western blot analyses were performed. The following antibodies were used: rabbit polyclonal anti-CaMKII (1:500, Santa Cruz Biotechnology Inc.), rabbit polyclonal anti-phospho-CaMKII (Ser-286) (1:1000, Cell Signaling Technology Inc.), antiphospholamban (1:1000, Cell Signaling Technology Inc.), polyclonal anti-phospho-phospholamban (Ser-17) (1:1000, Santa Cruz Biotechnology Inc.), rabbit polyclonal anti-ryanodine receptor 2 (1:1000, Millipore Corporation.), and rabbit polyclonal anti-FKBP12.6 (1:500, Santa Cruz Biotechnology Inc.). Proteins were separated by 10% SDS-PAGE and transferred to nitrocellulose membranes, which were then incubated with antibodies at 4 C. The membranes were further incubated with horseradish peroxidase-conjugated anti-rabbit IgG (1:15,000) for 2 hours at room temperature. ECL visualisation was performed, and the Gene Gnome Gel Imaging System (Syngene Co.) was used to capture the resulting images. Image J (NIH image, Bethesda, MD, USA) was used to analyse the gel images.  2.7. Rat Cardiac Myocyte Isolation Excised rat hearts were mounted on a Langendorff perfusion apparatus and were retrogradely perfused with a nominally Ca-free Tyrode's solution (137 mM NaCl, 5.4 mM KCl, 21.2 mM MgCl2, 20 mM HEPES, 1.2 mM NaH2PO4 2H2O, 10 mM glucose, and 10 mM taurine) for 4 minutes at 37 C (pH 7.35). The hearts were then perfused with a digestion solution (25 muM CaCl2, 10 mM BDM, 1 mg/mL taurine, 1 mg/mL BSA, and 22-23 mg/mL type II collagenase enzyme (USA, Worthington, 47K9848)) for 20 minutes, at which point the heart became flaccid. Ventricular tissue was removed and cut into small pieces. The tissue was then dispersed until no solid cardiac tissue was left by intensively mixing the myocardial tissue and the enzymatic digestion solution at 37 C for 3 minutes using a constant temperature shaker at 30-50 RPM. To ensure thorough digestion, Ca reintroduction was performed through stepwise increases in Ca concentration from 25 muM to 500 muM. Following their isolation, cardiac myocytes were plated onto superfusion chambers that were coated with laminin to allow cell adhesion. The plated cells were then immediately subjected to physiological analysis. The individual ventricular myocytes selected for study were rod-shaped and had clear striations and a smooth, glossy surface.                                     2.8. Confocal Imaging To record single-cell calcium transients, myocardial cells were transferred to special laser confocal petri dishes (MstTek, P35G, 0.16 mm-0.19 mm thickness, P35G-1.5-14-C) with a 2 mL volume of extracellular fluid containing fluo-4 (F14201, Invitrogen). Measurements were made using a Zeiss LSM-510 inverted confocal microscope (Carl Zeiss, Oberkochen, Germany. Lens: Plan-Neofluar 40x/1.3 oil, numerical aperture of 1.25). All image data were collected in the line-scanning mode along the long axis of the myocyte and with laser excitation at a wavelength of 488 nm. The Ca2+ level is reported as F/F0, where F0 is the resting or diastolic fluo-4 fluorescence. The stimulation frequency was set at 0.25 Hz, and the pulse width was 4 s. This type of electrical stimulation causes cell membrane depolarisation, which leads to opening of the LTCC and, therefore, inward calcium ion flow. This inward flow of calcium causes the SR to release large amounts of calcium ions, and this further induces myocardial cell shrinkage. At this point, the calcium concentration increases in the cell become calcium transients.                2.9. Determination of SR Ca2+ Content Myocytes were field stimulated at 0.5 Hz, and their SR Ca2+ content was assessed by measurement of the amplitude of caffeine-induced Ca2+ transients.    2.10. Arrhythmia Induction and WXKL Treatment In Vivo   We randomly selected five rats from each experimental group (the sham group, the MI group, the WXKL group, and the amiodarone group). The rats were anaesthetised using 1% sodium pentobarbital as described previously, and an equivalent of lead I ECG recording was performed. After stabilisation of the subject, a control ECG was recorded for 5 minutes. This was followed by an intraperitoneal injection of ISO (3 mg/kg body weight) and a subsequent recording period of 10 minutes. During this period, the ECG was analysed for ISO-induced arrhythmias.   2.11. Statistical Methods All experimental data were expressed as the mean +- SD. The data were statistically evaluated using one-way analysis of variance (ANOVA), and a post hoc analysis was performed using Fisher's least significant difference (LSD) test. The SPSS computer program (version 17.0) was used for the analyses. A probability of P < 0.05 was considered statistically significant. 3. Results 3.1. Effects of WXKL on Survival Rate and Heart Weight/Body Weight Ratio at 4 Weeks after Treatment After treatment for 4 weeks, deaths had occurred only among the MI group, and the survival rates of the MI group (n = 23), the sham group (n = 25), the WXKL group (n = 25), and the amiodarone group (n = 25) were therefore 92%, 100%, 100%, and 100%, respectively. No significant differences in survival were observed among the four groups. As shown in Figure 1, long-term treatment with either WXKL or amiodarone significantly reduced the heart weight/body weight ratio (P < 0.05). 3.2. Posttreatment Assessment of Cardiac Structure and Function by Echocardiography We evaluated cardiac systolic function by a combination of ECG measurements that included the EF, the FS, EDV, ESV, the left ventricular end-diastolic dimension (LVDd), the LVDs, and the stroke volume (SV). Compared with the MI group (n = 23), the EF and FS measurements were elevated in the WXKL group (n = 25) and the amiodarone group (n = 25) (P < 0.05), while the EDV, ESV, and LVDs measurements were lowered (P < 0.05). Although the measurements obtained for LVDd displayed a decreasing trend in both the WXKL group and the amiodarone group versus the MI group, the difference was not statistically significant (P > 0.05). Compared with those of the sham group, the EF and FS measurements obtained from the MI group, the WXKL group, and the amiodarone group were reduced (P < 0.05), while the EDV, ESV, LVDd, and LVDs measurements were increased (P < 0.05) (Figure 2).  3.3. Effects of WXKL on Expression of CaMKII and Related Proteins Western blotting analysis was performed to examine the expression of CaMKII, p-CaMKII (Ser-286), PLB, p-PLB (Thr-17), RYR2, and FKBP12.6 in different areas of the myocardium among the four experimental groups (n = 5 per group).  Figure 3 shows the expression of these proteins in the interventricular septum and left ventricular areas (Figures 3(a) and 3(b)). As shown in Figure 3(c), the expression of CaMKII was increased in the MI group, the WXKL group, and the amiodarone group compared with the sham group (P < 0.05). Compared with the MI group, the expression of CaMKII was reduced in both the WXKL group and the amiodarone group (P < 0.05), while no significant differences were observed between the expression levels detected in the WXKL group and the amiodarone group (P > 0.05). No differences were detected in the expression levels of CaMKII between the interventricular septum and left ventricular areas (P > 0.05). As shown in Figure 3(d), phosphorylation of CaMKII at Thr-286 was increased in the MI group, the WXKL group, and the amiodarone group compared with the sham group (P < 0.05). However, when compared with that of the MI group, the expression level of Thr-286-phosphorylated CaMKII was significantly reduced in both the WXKL group and the amiodarone group (P < 0.05). Again, there were no statistically significant differences between the WXKL group and the amiodarone group in terms of their expression of Thr-286-phosphorylated CaMKII (P > 0.05). No statistically significant differences were observed in the expression of Thr286-phosphorylated CaMKII between the interventricular septum and the left ventricular areas (P > 0.05). The expression of PLB was significantly increased in the MI group and the amiodarone group compared with the sham group (P < 0.05), but the differences were not significant between the WXKL group and the sham group (P > 0.05) (Figure 3(e)). Compared with that seen in the amiodarone group, the PLB expression level in the WXKL group was significantly reduced (P < 0.05). In our analysis of the levels of phosphorylated PLB protein in the four experimental groups (Figure 3(f)), phosphorylation of PLB at Thr-17 was decreased in the MI group, the WXKL group, and the amiodarone group compared with the sham group (P < 0.05), but treatment with WXKL or amiodarone was found to significantly increase the level of Thr-17-phosphorylated PLB compared with that detected in the MI group (P < 0.05). As shown in Figure 3(f), the expression of RyR2 was significantly decreased in the MI group, the WXKL group, and the amiodarone group compared with the sham group (P < 0.05). Compared with that of the MI group, the RyR2 expression levels detected in rats treated with either WXKL or amiodarone were significantly increased (P < 0.05), but no significant differences in RyR2 levels were observed between the WXKL group and the amiodarone group (P > 0.05). When compared with that of the sham group, FKBP12.6 expression levels were significantly reduced in the MI group, the WXKL group, and the amiodarone group (P < 0.05). As was observed for RyR2 expression, treatment with either WXKL or amiodarone was found to significantly increase the expression of FKBP12.6, compared with levels detected in untreated MI group rats (P < 0.05), but no statistically significant differences were observed between the WXKL-treated group and the amiodarone-treated group (P > 0.05). 3.4. Effects of WXKL Treatment on Calcium Transients and SR Ca2+ Content In Vitro   To verify the pathological relevance of the changes in the expression of CaMKII and Ca2+-handling proteins observed following myocardial infarction, we measured the calcium transient amplitude by stimulating cultured adult cardiomyocytes at a frequency of 0.5 Hz. The Ca2+ level data are reported here as F/F0, where F0 is the resting or diastolic fluo-4 fluorescence. As shown in Figures 4(a) and 4(b), the calcium transient amplitude was decreased in the MI group, the WXKL group, and the amiodarone group versus the sham group (P < 0.05; n = 15 per group). In comparison with the MI group, the WXKL group and the amiodarone group both exhibited significantly elevated calcium transient amplitudes of WXKL (P < 0.05; n = 15 per group), but there were no significant differences between the amplitudes measured in the WXKL-treated cardiac myocytes and those of the amiodarone-treated cells (P > 0.05; n = 15 per group).               We measured the Ca2+ content in the SR by assessing caffeine-induced calcium release in cultured adult cardiomyocytes. When Ca2+ release from the SR was triggered by the application of 20 mM caffeine, transient Ca2+ elevation was significantly decreased in the MI group versus the sham group (P < 0.05; n = 12 per group). As shown in Figures 4(c) and 4(d), the integrative volume of the Ca2+ transient was increased significantly in both the WXKL-treated group and the amiodarone-treated group compared with the MI group (P < 0.05; n = 12 per group).           3.5. Effects of WXKL on the Incidences of Early EADs and Delayed DADs In Vitro   We isolated rat myocardial cells from all four experimental groups using enzymatic hydrolysis and measured the incidences of early EADsand delayed DADs in the cultured cells. The cardiomyocytes (n = 30 per group) were stimulated for 1 min at a frequency of 0.5 Hz and a pulse width of 2 s WXKL. As shown in Figure 5(a), nonstimulated Ca transients (EAD and DAD) were frequently observed in MI myocytes. EAD was characterised by a non-stimulated Ca increase before the turning point of the Ca transient decay, and this was accompanied by a minor cell contraction. In contrast, DAD occurred after the turning point of the Ca transient decay and was accompanied by a major contraction of the myocyte. Cardiac myocytes from the MI group were found to have the highest incidence of EADs (Figure 5(b); 29.4%, 6.3%, 12.5%, and 17.6% in the cells from the MI, sham, WXKL-treated, and amiodarone-treated groups, respectively; P < 0.05 using Fisher's 2-sided exact test, n = 30 per group) and of DADs (Figure 5(c); 79.1%, 15.5%, 30.5%, and 39.7% in the cells from the MI, sham, WXKL-treated, and amiodarone-treated groups, respectively; P < 0.05 using Fisher's 2-sided exact test, n = 30 per group) of WXKL.                   3.6. Effects of WXKL on the Incidence of Cardiac Arrhythmias In Vivo   Our observation, made at the cellular level, of the antiarrhythmic effects of CaMKII inhibition prompted us to test whether WXKL treatment is sufficient to reduce the incidence of cardiac arrhythmias in vivo. The results of ECG recordings made following an intraperitoneal injection of ISO (3 mg/kg body weight) into rats from each of the four experimental groups are shown in Figure 6(a), while Figure 6(b) shows detailed tracings for representative arrhythmic events that are likely to correspond to previously described bidirectional tachycardias. The data summarised in Figure 6(c) shows that the WXKL group exhibited a significantly reduced incidence of cardiac arrhythmias in vivo when compared with the MI group and the amiodarone group. Two of 6 rats in the WXKL-treated group exhibited arrhythmias in the first 8 minutes after ISO application, while 5 of 6 rats in MI group and 3 of 6 rats in the amiodarone group exhibited arrhythmias during the same period. This difference was found to be statistically significant (P < 0.05 using Fisher's exact test).   3.7. Effects of WXKL on Ca Transient Amplitudes in ISO-Stimulated Cardiac Myocytes In Vitro   At high stimulation rates or in the presence of beta-adrenergic stimulation, SR Ca load and [Ca]i increase substantially and may induce further arrhythmogenic triggers that could be a highly influential factor in the genesis of arrhythmias in vivo, and even under pathophysiological conditions such as in heart failure, catecholamine levels are known to be increased. Therefore, we decided to challenge the myocardial infarction cells using ISO (up to 10-6 M) to load their SR Ca stores and further unmask their potential to exhibit diastolic proarrhythmogenic events.   We first examined isolated normal myocytes using epifluorescence microscopy under basal and ISO-stimulated conditions (10-6 M ISO). As shown in Figures 7(a) and 7(b), the Ca transient amplitudes in cardiac myocytes under ISO-stimulated conditions were significantly increased compared with those of nonstimulated cells, but treatment with WXKL at doses of 1 g/L, 5 g/L, and 10 g/L reduced the Ca transient amplitudes in a dose-dependent manner. Treatment of cardiac myocytes with KN93 (1 mM) also significantly reduced the Ca transient amplitudes to a degree similar to that achieved by WXKL treatment, while treatment with KN92 (1 mM) did not produce a significant reduction in amplitudes.               4. Discussion We can draw the following conclusions from the present study. (1) WXKL treatment significantly improves cardiac function and inhibits myocardial remodelling. (2) In rats with myocardial infarction, WXKL treatment can significantly reduce the expression of CaMKII, p-CaMKII (Thr-286), and PLB, while significantly increasing the expression of RyR2, p-PLB (Thr-17), and FKBP12.6. (3) WXKL can significantly increase both the Ca2+ content of the SR and the calcium transient amplitude in cultured cardiac myocytes from rats with myocardial infarction. (4) WXKL treatment can significantly decrease the incidences of EADs and DADs in myocardial infarction cardiomyocytes. (5) WXKL treatment can reduce the incidence of cardiac arrhythmias in rats with myocardial infarction. (6) WXKL can significantly suppress the Ca transient amplitudes in ISO-stimulated cardiac myocytes in vitro. CaMKII is an appealing potential target for pharmacological inhibition. CaMKII activity is upregulated in hypertrophy and heart failure. CaMKII overexpression in transgenic mice results in heart failure and arrhythmias, whereas CaMKII inhibition protects the heart against the development of these conditions. In the present study, we demonstrated that WXKL significantly decreased both the expression of CaMKII and its phosphorylation at Thr-286 in rats with myocardial infarction. When its functional effects were examined, WXKL was found to significantly improve cardiac function and inhibit myocardial remodelling. The observed decrease in both the expression of CaMKII and its phosphorylation at Thr-286 may be the primary mechanism by which WXKL inhibits heart failure and arrhythmia.  Dissociation of FKBP12.6 from RyR channels causes uncoupled channel gating, which results in defective closure of these channels. In a study of the mechanism underlying the partial loss of FKBP12.6 from RyR channels, Marx et al. demonstrated that hyperphosphorylation of RyR causes the dissociation of FKBP12.6 from the ion channel and that this causes an increased sensitivity to Ca2+-induced activation and defects. These findings suggest that failing hearts lack the normal FKBP12.6-mediated regulation of the RyR-family of ion channels and that this is the major cause of the serious abnormality in the regulation of intracellular Ca2+ and the consequent cardiac dysfunction. In line with our findings, Okuda et al. demonstrated that hyperphosphorylation of the ryanodine receptor by PKA results in the channel exhibiting an abnormal Ca2+ leak and is associated with a decrease in the amount of ryanodine receptor-bound FKBP12.6. Treatment with WXKL or amiodarone significantly increased the expression of RyR2 and FKBP12.6 in rats with myocardial infarction, which may enhance the ability of FKBP12.6 to modulate the RyR2 ion channel. This may be the most important mechanism by which WXKL is able to inhibit arrhythmia.  Until recently, there was a general agreement that CaMKII phosphorylates PLB at Thr-17 and that this leads to an improved frequency-dependent acceleration of relaxation. It was reported that the mRNA and protein expression levels of PLB were significantly upregulated by 55.5% (P < 0.05) and 84.8% (P < 0.01), respectively, in rats of the chronic heart failure (CHF) group following ligation of the coronary artery for 6 weeks. In the present study, we demonstrated that WXKL significantly decreased the expression of PLB, but increased the level of Thr-17-phosphorylated PLB in the final stage of heart failure (Figure 3). By increasing the level of PLB, that is, phosphorylated at Thr-17, and decreasing the expression level of total PLB, WXKL may improve the frequency-dependent acceleration of relaxation in cardiac myocytes, thereby improving cardiac function and preventing arrhythmia.  In heart failure (HF), where CaMKII expression and activation are increased, RyR phosphorylation and the diastolic SR Ca leak are also increased, and this diastolic SR Ca leak can initiate DADs in which the depolarising current consists of an inward Na/Ca exchange. Studies in genetically modified animal models provide proofs of concept that this type of CaMKII-modified RyR behaviour can be a major arrhythmogenic factor that promotes HF and atrial fibrillation. In the present study, treatment with either WXKL or amiodarone clearly decreased the incidence of DADs and increased both the Ca2+ content in the SR and the calcium transient amplitude. It is possible, therefore, that the decreased incidence of DADs that followed treatment with WXKL or amiodarone was the result of a decrease in the diastolic SR Ca leak.  The results of this study demonstrate that myocardial infarction-induced overexpression of CaMKII increases the incidence of cellular proarrhythmogenic events. It has been reported elsewhere that CaMKII activity is associated with the generation of these systolic proarrhythmogenic events. CaMKII activity can contribute to L-type Ca current facilitation and may therefore favour EAD generation. However, the results of the present study demonstrate that, as shown in Figure 6, treatment with WXKL or amiodarone can reduce the incidence of EADs. By inhibiting the expression of CaMKII and p-CAMKII (Thr-286), WXKL and amiodarone may affect the function of LTCC and reduce systolic calcium influx into the cell, thereby inhibiting arrhythmia. It should be noted that ISO may also activate CaMKII directly through exchanging protein directly activated by cAMP-dependent pathways and indirectly through increasing [Ca]i, thus resulting in more dramatic CaMKII-dependent cellular arrhythmias in vitro. The results of this study demonstrate that the Ca transient amplitudes in ISO-stimulated cardiac myocytes were significantly increased compared to those of non-ISO-stimulated cells. In our experiments examining the effect of WXKL on Ca transients, the Ca transient amplitudes decreased with increasing WXKL dose. Treatment with KN93, a specific inhibitor of CaMKII, was also found to significantly reduce the Ca transient amplitudes in cardiac myocytes, while treatment with KN92, which has the same structure as KN93 but no CaMKII-inhibiting activity, had no effect. It may be that WXKL by inhibiting CaMKII activity reduces [Ca]I and thereby prevents the occurrence of arrhythmia.  5. Conclusions In summary, the present study shows that WXKL and amiodarone inhibit heart failure and cardiac arrhythmias via a mechanism that may involve the regulation of the CaMKII signal transduction pathway. WXKL treatment significantly reduced the expression of CaMKII, p-CaMKII (Thr-286), and PLB but significantly increased the expression of RYR2, p-PLB (Thr-17), and FKBP12.6 in rats with myocardial infarction to improve cardiac function and inhibit myocardial remodelling. While it was found to suppress the Ca transient amplitude in ISO-stimulated cardiac myocytes, WXKL increased both the SR Ca2+ content and the calcium transient amplitude in isolated cardiac myocytes from rats with myocardial infarction, while also significantly decreasing the incidences of EADs and DADs in these cells. Furthermore, WXKL significantly reduced the incidence of cardiac arrhythmias in our in vivo rat myocardial infarction model.  Heart disease and stroke statistics:2007 update: a report from the american heart association statistics committee and stroke statistics subcommittee   Effect of metoprolol CR/XL in chronic heart failure: metoprolol CR/XL randomised intervention trial in congestive heart failure (MERIT-HF) The effect of carvedilol on morbidity and mortality in patients with chronic heart failure The role of calmodulin kinase II in myocardial physiology and disease Effect of d-sotalol on mortality in patients with left ventricular dysfunction after recent and remote myocardial infarction Mortality and morbidity in patients receiving encainide, flecainide, or placebo. The cardiac arrhythmia suppression trial Is CaMKII a therapeutic target for ventricular rate control? Activity of cAMP-dependent protein kinase and Ca2+/calmodulin-dependent protein kinase in failing and nonfailing human hearts Identification and expression of delta-isoforms of the multifunctional Ca2+/calmodulin-dependent protein kinase in failing and nonfailing human myocardium Role of Ca2+/calmodulin-dependent protein kinase (CaMK) in excitation-contraction coupling in the heart Calmodulin and the philosopher's stone: changing Ca2+ into arrhythmias   Ca2+/calmodulin-dependent protein kinase modulates cardiac ryanodine receptor phosphorylation and sarcoplasmic reticulum Ca2+ leak in heart failure beta-adrenergic enhancement of sarcoplasmic reticulum calcium leak in cardiac myocytes is mediated by calcium/calmodulin-dependent protein kinase  The sarcoplasmic reticulum and arrhythmogenic calcium release PKA phosphorylation dissociates FKBP12.6 from the calcium release channel (ryanodine receptor): defective regulation in failing hearts Ryanodine receptor-mediated arrhythmias and sudden cardiac death Ryanodine receptors, FKBP12, and heart failure Efficacy and safety of wenxin granules in the treatment of congestive heart failure: a systematic review Atrial-selective inhibition of sodium-channel current by Wenxin Keli is effective in suppressing atrial fibrillation Ranolazine improves diastolic dysfunction in isolated myocardium from failing human hearts:role of late sodium current and intracellular ion accumulation   The effects of allitridi and amiodarone on the conduction system and reverse use-dependence in the isolated hearts of rats with myocardial infarction The delta c isoform of CaMKII is activated in cardiac hypertrophy and induces dilated cardiomyopathy and heart failure Transgenic CaMKIIdeltac overexpression uniquely alters cardiac myocyte Ca2+ handling: reduced SR Ca2+ load and activated SR Ca2+ release Calmodulin kinase II and arrhythmias in a mouse model of cardiac hypertrophy Calmodulin kinase II inhibition protects against structural heart disease Coupled gating between individual skeletal muscle Ca2+ release channels (ryanodine receptors) Coupled gating between cardiac calcium release channels (ryanodine receptors) Valsartan restores sarcoplasmic reticulum function with no appreciable effect on resting cardiac function in pacing-induced heart failure Phospholamban and cardiac contractile function Upregulation of leptin pathway correlates with abnormal expression of SERCA2a, phospholamban and the endothelin pathway in heart failure and reversal by CPU86017 Ryanodine receptor phosphorylation by calcium/calmodulin-dependent protein kinase II promotes life-threatening ventricular arrhythmias in mice with heart failure Calmodulin kinase II-mediated sarcoplasmic reticulum Ca2+ leak promotes atrial fibrillation in mice KN-93, an inhibitor of multifunctional ca++/calmodulin-dependent protein kinase, decreases early afterdepolarizations in rabbit heart The cAMP binding protein Epac modulates Ca2+ sparks by a Ca2+/calmodulin kinase signalling pathway in rat cardiac myocytes Heart preparation and pathological sections from normal and MI rats. (a) Heart preparations (top (1-4)) and pathological sections (bottom (5-8)) from the sham group, the MI group, the WXKL group, and the amiodarone group. (b) ECG recordings of the sham group and the MI group at 2 weeks after the operation. (c) The average number of q waves in rats from the MI group, the WXKL group, and the amiodarone group. (d) HW (heart weight): BW (body weight) ratios in the sham group (n = 25), the MI group (n = 23), the WXKL group (n = 25), and the amiodarone group (n = 25). (*P < 0.05 versus the MI group,  \nP < 0.05 versus the sham group).       Typical echocardiography images from the sham group (a), the MI group (b), the WXKL group (c), and the amiodarone group (d). At the 4th week of WXKL and amiodarone administration, cardiac structure and function were measured in each group by echocardiography. We evaluated cardiac systolic and diastolic functions by measuring the following variables: left ventricular end-diastolic dimension (LViDd) (e), left ventricular end-systolic dimension (LViDs) (F), end-diastolic volume (EDV) (g), end-systolic volume (ESV) (h), stroke volume (SV) (i), ejection fraction (EF) (j), and fractional shortening (FS) (k). Treatment with either WXKL or amiodarone improved systolic function. The rats of the sham group (n = 25) and the MI group (n = 23) were treated with vehicle (distilled water) alone (1 mL/kg/day); the WXKL group (n = 25) were treated with 4 g/kg/day WXKL; and the amiodarone group (n = 25) were treated with 30 mg/kg/day amiodarone. (*P < 0.05 versus the MI group,  \nP < 0.05 versus the sham group).         The expression levels of CaMKII and related proteins in the interventricular septum and left ventricle after the 4-week treatment period. (a) The expression levels of CaMKII, p-CaMKII (Thr-286), PLB, RyR2, p-PLB (Thr-17), and FKBP12.6 in the interventricular septum of the four groups. (b) The expression of CaMKII, p-CaMKII (Thr-286), PLB, RyR2, p-PLB (Thr-17), and FKBP12.6 in the left ventricle of the four groups. (c) The expression level of CaMKII of the four groups in the interventricular septum and the left ventricle. (d) The expression level of Thr-286-phosphorylated CaMKII of the four groups in the interventricular septum and the left ventricle. (e) The expression level of PLB of the four groups in the interventricular septum and the left ventricle. (f) The expression level of Thr-17-phosphorylated PLB of the four groups in the interventricular septum and the left ventricle. (g) The expression level of RyR2 of the four groups in the interventricular septum and the left ventricle. (h) The expression of FKBP12.6 of the four groups in the interventricular septum and the left ventricle. (*P < 0.05 versus the MI group,  \nP < 0.05 versus the sham group, and #\nP < 0.05 the amiodarone group versus the WXKL group).   Effects of WXKL on the calcium transient and the Ca2+ content in the SR measured in vitro at 4 weeks after treatment. (a) The calcium transient amplitude was measured by stimulating the cultured adult cardiomyocytes at 0.5 Hz. (b) Compared with the sham group, the calcium transient amplitude was reduced in the MI group, the WXKL group, and the amiodarone group (P < 0.05,  n = 15 cells per group). Compared with that of the MI group, the calcium transient amplitude was significantly elevated in the WXKL group and the amiodarone group (P < 0.05). (c) The Ca2+ content in the SR was measured by assessing caffeine-induced calcium release in cultured adult cardiomyocytes. (d) The integrative volumes of the Ca2+ transients in the WXKL-treated group and the amiodarone group were increased significantly compared with those of the MI group (P < 0.05,  n = 12 cells per group). (*P < 0.05 versus the MI group,  \nP < 0.05 versus the sham group).                         Effects of WXKL on the incidences of EADs and DADs in vitro at 4 weeks after treatment. (a) The incidences of EADs and DADs were recorded among the sham group, the MI group, the WXKL group, and the amiodarone group (n = 30 cells per group). (b) The incidence of EADs was significantly increased in the MI group compared with the sham group, the WXKL group, and the amiodarone group (29.4% versus 6.3%, 12.5% and 17.6%, respectively; P < 0.05 using Fisher's 2-sided exact test). (c) The incidence of DADs was significantly increased in the MI group compared with the sham group, the WXKL group, and the amiodarone group (79.1% versus 15.5%, 30.5% and 39.7%, respectively; P < 0.05 using Fisher's 2-sided exact test). (*P < 0.05 versus the MI group,  \nP < 0.05 versus the sham group).          Effects of WXKL on the incidence of cardiac arrhythmias in vivo. (a) The ECG recordings from the four experimental groups following an intraperitoneal injection of ISO (3 mg/kg body weight). (b) Detailed tracings for the respective arrhythmic events. (c) WXKL treatment significantly reduced cardiac arrhythmias in vivo compared with the MI group and the amiodarone group (*P < 0.05 versus the MI group,  \nP < 0.05 versus the sham group, and #\nP < 0.05 the amiodarone group versus the WXKL group, using Fisher's 2-sided exact test, 6 rats were analysed per group).     Effects of WXKL and KN93 on the Ca transient amplitudes in ISO-stimulated cardiac myocytes. (a) Detailed tracings for 7 treatment groups. (b) The Ca transient amplitudes in ISO-stimulated cardiac myocytes (10-6 M ISO) were significantly increased compared with those in non-ISO-stimulated cells, but WXKL treatment (1 g/L, 5 g/L and 10 g/L) reduced the Ca transient amplitudes in a dose-dependent manner. Treatment with KN93 (1 mM) also significantly reduced the Ca transient amplitudes, while treatment with KN92 (1 mM) did not reduce them. (*P < 0.05 versus the ISO group,   \nP < 0.05 versus the normal group).",
+    "entities": [
+        {
+            "entityId": "26_33",
+            "span": {
+                "begin": 26,
+                "end": 33
+            },
+            "entityType": "drug",
+            "entityName": "Calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "34_72",
+            "span": {
+                "begin": 34,
+                "end": 72
+            },
+            "entityType": "gene",
+            "entityName": "Calmodulin-Dependent Protein Kinase II",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "114_132",
+            "span": {
+                "begin": 114,
+                "end": 132
+            },
+            "entityType": "disease",
+            "entityName": "Cardiac Arrhythmia",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "136_140",
+            "span": {
+                "begin": 136,
+                "end": 140
+            },
+            "entityType": "species",
+            "entityName": "Rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "146_167",
+            "span": {
+                "begin": 146,
+                "end": 167
+            },
+            "entityType": "disease",
+            "entityName": "Myocardial Infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "262_280",
+            "span": {
+                "begin": 262,
+                "end": 280
+            },
+            "entityType": "disease",
+            "entityName": "cardiac arrhythmia",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "282_302",
+            "span": {
+                "begin": 282,
+                "end": 302
+            },
+            "entityType": "disease",
+            "entityName": "cardiac inflammation",
+            "id": "UMLS:C0744673"
+        },
+        {
+            "entityId": "308_321",
+            "span": {
+                "begin": 308,
+                "end": 321
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "323_333",
+            "span": {
+                "begin": 323,
+                "end": 333
+            },
+            "entityType": "drug",
+            "entityName": "Amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "371_407",
+            "span": {
+                "begin": 371,
+                "end": 407
+            },
+            "entityType": "gene",
+            "entityName": "alpha- and beta-adrenergic receptors",
+            "id": "UMLS:C0034785"
+        },
+        {
+            "entityId": "421_428",
+            "span": {
+                "begin": 421,
+                "end": 428
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "527_570",
+            "span": {
+                "begin": 527,
+                "end": 570
+            },
+            "entityType": "gene",
+            "entityName": "Ca2+/calmodulin-dependent protein kinase II",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "572_578",
+            "span": {
+                "begin": 572,
+                "end": 578
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "594_598",
+            "span": {
+                "begin": 594,
+                "end": 598
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "610_623",
+            "span": {
+                "begin": 610,
+                "end": 623
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "628_639",
+            "span": {
+                "begin": 628,
+                "end": 639
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "689_699",
+            "span": {
+                "begin": 689,
+                "end": 699
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "728_739",
+            "span": {
+                "begin": 728,
+                "end": 739
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "754_760",
+            "span": {
+                "begin": 754,
+                "end": 760
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "805_824",
+            "span": {
+                "begin": 805,
+                "end": 824
+            },
+            "entityType": "species",
+            "entityName": "Sprague Dawley rats",
+            "id": "UMLS:C0034715"
+        },
+        {
+            "entityId": "853_857",
+            "span": {
+                "begin": 853,
+                "end": 857
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "914_935",
+            "span": {
+                "begin": 914,
+                "end": 935
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "937_939",
+            "span": {
+                "begin": 937,
+                "end": 939
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "977_987",
+            "span": {
+                "begin": 977,
+                "end": 987
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "1006_1027",
+            "span": {
+                "begin": 1006,
+                "end": 1027
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "1059_1063",
+            "span": {
+                "begin": 1059,
+                "end": 1063
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "1170_1176",
+            "span": {
+                "begin": 1170,
+                "end": 1176
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "1178_1186",
+            "span": {
+                "begin": 1178,
+                "end": 1186
+            },
+            "entityType": "gene",
+            "entityName": "p-CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "1188_1191",
+            "span": {
+                "begin": 1188,
+                "end": 1191
+            },
+            "entityType": "drug",
+            "entityName": "Thr",
+            "id": "UMLS:C0040005"
+        },
+        {
+            "entityId": "1198_1201",
+            "span": {
+                "begin": 1198,
+                "end": 1201
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "1203_1208",
+            "span": {
+                "begin": 1203,
+                "end": 1208
+            },
+            "entityType": "gene",
+            "entityName": "p-PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "1210_1213",
+            "span": {
+                "begin": 1210,
+                "end": 1213
+            },
+            "entityType": "drug",
+            "entityName": "Thr",
+            "id": "UMLS:C0040005"
+        },
+        {
+            "entityId": "1219_1223",
+            "span": {
+                "begin": 1219,
+                "end": 1223
+            },
+            "entityType": "gene",
+            "entityName": "RYR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "1229_1252",
+            "span": {
+                "begin": 1229,
+                "end": 1252
+            },
+            "entityType": "gene",
+            "entityName": "FK binding protein 12.6",
+            "id": "UMLS:C0242210"
+        },
+        {
+            "entityId": "1254_1262",
+            "span": {
+                "begin": 1254,
+                "end": 1262
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "1276_1280",
+            "span": {
+                "begin": 1276,
+                "end": 1280
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "1332_1339",
+            "span": {
+                "begin": 1332,
+                "end": 1339
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "1465_1478",
+            "span": {
+                "begin": 1465,
+                "end": 1478
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "1483_1502",
+            "span": {
+                "begin": 1483,
+                "end": 1502
+            },
+            "entityType": "disease",
+            "entityName": "cardiac arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "1521_1527",
+            "span": {
+                "begin": 1521,
+                "end": 1527
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "1567_1577",
+            "span": {
+                "begin": 1567,
+                "end": 1577
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "1596_1619",
+            "span": {
+                "begin": 1596,
+                "end": 1619
+            },
+            "entityType": "disease",
+            "entityName": "Cardiovascular diseases",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "1650_1655",
+            "span": {
+                "begin": 1650,
+                "end": 1655
+            },
+            "entityType": "species",
+            "entityName": "human",
+            "id": "UMLS:C0086418"
+        },
+        {
+            "entityId": "1715_1720",
+            "span": {
+                "begin": 1715,
+                "end": 1720
+            },
+            "entityType": "species",
+            "entityName": "human",
+            "id": "UMLS:C0086418"
+        },
+        {
+            "entityId": "1790_1798",
+            "span": {
+                "begin": 1790,
+                "end": 1798
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1804_1817",
+            "span": {
+                "begin": 1804,
+                "end": 1817
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "1904_1912",
+            "span": {
+                "begin": 1904,
+                "end": 1912
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1951_1959",
+            "span": {
+                "begin": 1951,
+                "end": 1959
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1965_1978",
+            "span": {
+                "begin": 1965,
+                "end": 1978
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "2001_2009",
+            "span": {
+                "begin": 2001,
+                "end": 2009
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2015_2032",
+            "span": {
+                "begin": 2015,
+                "end": 2032
+            },
+            "entityType": "disease",
+            "entityName": "malignant tumours",
+            "id": "UMLS:C0006826"
+        },
+        {
+            "entityId": "2235_2243",
+            "span": {
+                "begin": 2235,
+                "end": 2243
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2251_2264",
+            "span": {
+                "begin": 2251,
+                "end": 2264
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "2308_2328",
+            "span": {
+                "begin": 2308,
+                "end": 2328
+            },
+            "entityType": "disease",
+            "entityName": "sudden cardiac death",
+            "id": "UMLS:C0085298"
+        },
+        {
+            "entityId": "2332_2345",
+            "span": {
+                "begin": 2332,
+                "end": 2345
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "2346_2354",
+            "span": {
+                "begin": 2346,
+                "end": 2354
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2440_2448",
+            "span": {
+                "begin": 2440,
+                "end": 2448
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2528_2533",
+            "span": {
+                "begin": 2528,
+                "end": 2533
+            },
+            "entityType": "gene",
+            "entityName": "renin",
+            "id": "UMLS:C0035094"
+        },
+        {
+            "entityId": "2534_2545",
+            "span": {
+                "begin": 2534,
+                "end": 2545
+            },
+            "entityType": "gene",
+            "entityName": "angiotensin",
+            "id": "UMLS:C4521302"
+        },
+        {
+            "entityId": "2546_2557",
+            "span": {
+                "begin": 2546,
+                "end": 2557
+            },
+            "entityType": "drug",
+            "entityName": "aldosterone",
+            "id": "UMLS:C0002006"
+        },
+        {
+            "entityId": "2607_2615",
+            "span": {
+                "begin": 2607,
+                "end": 2615
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2649_2662",
+            "span": {
+                "begin": 2649,
+                "end": 2662
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "2722_2733",
+            "span": {
+                "begin": 2722,
+                "end": 2733
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "2737_2745",
+            "span": {
+                "begin": 2737,
+                "end": 2745
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2751_2775",
+            "span": {
+                "begin": 2751,
+                "end": 2775
+            },
+            "entityType": "disease",
+            "entityName": "structural heart disease",
+            "id": "UMLS:C1290384"
+        },
+        {
+            "entityId": "2919_2932",
+            "span": {
+                "begin": 2919,
+                "end": 2932
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "2937_2948",
+            "span": {
+                "begin": 2937,
+                "end": 2948
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "3309_3322",
+            "span": {
+                "begin": 3309,
+                "end": 3322
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "3449_3455",
+            "span": {
+                "begin": 3449,
+                "end": 3455
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "3575_3590",
+            "span": {
+                "begin": 3575,
+                "end": 3590
+            },
+            "entityType": "disease",
+            "entityName": "cardiac disease",
+            "id": "UMLS:C0018799"
+        },
+        {
+            "entityId": "3595_3605",
+            "span": {
+                "begin": 3595,
+                "end": 3605
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmia",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "3630_3636",
+            "span": {
+                "begin": 3630,
+                "end": 3636
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "3744_3750",
+            "span": {
+                "begin": 3744,
+                "end": 3750
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "3835_3842",
+            "span": {
+                "begin": 3835,
+                "end": 3842
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "3844_3850",
+            "span": {
+                "begin": 3844,
+                "end": 3850
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "3872_3903",
+            "span": {
+                "begin": 3872,
+                "end": 3903
+            },
+            "entityType": "gene",
+            "entityName": "serine/threonine protein kinase",
+            "id": "UMLS:C1335197"
+        },
+        {
+            "entityId": "3945_3982",
+            "span": {
+                "begin": 3945,
+                "end": 3982
+            },
+            "entityType": "disease",
+            "entityName": "ischemic and dilated cardiomyopathies",
+            "id": "UMLS:C0007193"
+        },
+        {
+            "entityId": "3984_3990",
+            "span": {
+                "begin": 3984,
+                "end": 3990
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "4101_4103",
+            "span": {
+                "begin": 4101,
+                "end": 4103
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "4108_4110",
+            "span": {
+                "begin": 4108,
+                "end": 4110
+            },
+            "entityType": "drug",
+            "entityName": "Na",
+            "id": "UMLS:CHEBI:29101"
+        },
+        {
+            "entityId": "4150_4153",
+            "span": {
+                "begin": 4150,
+                "end": 4153
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "4199_4201",
+            "span": {
+                "begin": 4199,
+                "end": 4201
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "4214_4216",
+            "span": {
+                "begin": 4214,
+                "end": 4216
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "4233_4239",
+            "span": {
+                "begin": 4233,
+                "end": 4239
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "4354_4360",
+            "span": {
+                "begin": 4354,
+                "end": 4360
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "4390_4397",
+            "span": {
+                "begin": 4390,
+                "end": 4397
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "4434_4441",
+            "span": {
+                "begin": 4434,
+                "end": 4441
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "4463_4469",
+            "span": {
+                "begin": 4463,
+                "end": 4469
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "4499_4521",
+            "span": {
+                "begin": 4499,
+                "end": 4521
+            },
+            "entityType": "gene",
+            "entityName": "L-type calcium channel",
+            "id": "UMLS:C0288263"
+        },
+        {
+            "entityId": "4523_4527",
+            "span": {
+                "begin": 4523,
+                "end": 4527
+            },
+            "entityType": "gene",
+            "entityName": "LTCC",
+            "id": "UMLS:C0288263"
+        },
+        {
+            "entityId": "4533_4536",
+            "span": {
+                "begin": 4533,
+                "end": 4536
+            },
+            "entityType": "gene",
+            "entityName": "RyR",
+            "id": "UMLS:C1419778"
+        },
+        {
+            "entityId": "4616_4629",
+            "span": {
+                "begin": 4616,
+                "end": 4629
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "4680_4687",
+            "span": {
+                "begin": 4680,
+                "end": 4687
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "4712_4716",
+            "span": {
+                "begin": 4712,
+                "end": 4716
+            },
+            "entityType": "gene",
+            "entityName": "LTCC",
+            "id": "UMLS:C0288263"
+        },
+        {
+            "entityId": "4731_4738",
+            "span": {
+                "begin": 4731,
+                "end": 4738
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "4759_4777",
+            "span": {
+                "begin": 4759,
+                "end": 4777
+            },
+            "entityType": "gene",
+            "entityName": "ryanodine receptor",
+            "id": "UMLS:C0054493"
+        },
+        {
+            "entityId": "4807_4814",
+            "span": {
+                "begin": 4807,
+                "end": 4814
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "4847_4854",
+            "span": {
+                "begin": 4847,
+                "end": 4854
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "4863_4870",
+            "span": {
+                "begin": 4863,
+                "end": 4870
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "4891_4898",
+            "span": {
+                "begin": 4891,
+                "end": 4898
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "4958_4965",
+            "span": {
+                "begin": 4958,
+                "end": 4965
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "5029_5042",
+            "span": {
+                "begin": 5029,
+                "end": 5042
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "5074_5081",
+            "span": {
+                "begin": 5074,
+                "end": 5081
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "5096_5131",
+            "span": {
+                "begin": 5096,
+                "end": 5131
+            },
+            "entityType": "gene",
+            "entityName": "sarcoplasmic reticulum calcium pump",
+            "id": "UMLS:C0916181"
+        },
+        {
+            "entityId": "5174_5177",
+            "span": {
+                "begin": 5174,
+                "end": 5177
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "5207_5214",
+            "span": {
+                "begin": 5207,
+                "end": 5214
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "5266_5279",
+            "span": {
+                "begin": 5266,
+                "end": 5279
+            },
+            "entityType": "disease",
+            "entityName": "Heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "5306_5312",
+            "span": {
+                "begin": 5306,
+                "end": 5312
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "5335_5341",
+            "span": {
+                "begin": 5335,
+                "end": 5341
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "5390_5394",
+            "span": {
+                "begin": 5390,
+                "end": 5394
+            },
+            "entityType": "gene",
+            "entityName": "LTCC",
+            "id": "UMLS:C0288263"
+        },
+        {
+            "entityId": "5396_5399",
+            "span": {
+                "begin": 5396,
+                "end": 5399
+            },
+            "entityType": "gene",
+            "entityName": "RyR",
+            "id": "UMLS:C1419778"
+        },
+        {
+            "entityId": "5412_5424",
+            "span": {
+                "begin": 5412,
+                "end": 5424
+            },
+            "entityType": "gene",
+            "entityName": "PLB proteins",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "5477_5493",
+            "span": {
+                "begin": 5477,
+                "end": 5493
+            },
+            "entityType": "cell",
+            "entityName": "cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "5561_5565",
+            "span": {
+                "begin": 5561,
+                "end": 5565
+            },
+            "entityType": "gene",
+            "entityName": "LTCC",
+            "id": "UMLS:C0288263"
+        },
+        {
+            "entityId": "5639_5655",
+            "span": {
+                "begin": 5639,
+                "end": 5655
+            },
+            "entityType": "cell",
+            "entityName": "cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "5659_5663",
+            "span": {
+                "begin": 5659,
+                "end": 5663
+            },
+            "entityType": "disease",
+            "entityName": "EADs",
+            "id": "UMLS:C1864233"
+        },
+        {
+            "entityId": "5788_5795",
+            "span": {
+                "begin": 5788,
+                "end": 5795
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "5840_5847",
+            "span": {
+                "begin": 5840,
+                "end": 5847
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "5878_5912",
+            "span": {
+                "begin": 5878,
+                "end": 5912
+            },
+            "entityType": "disease",
+            "entityName": "systolic and diastolic dysfunction",
+            "id": "UMLS:C0520863"
+        },
+        {
+            "entityId": "5951_5955",
+            "span": {
+                "begin": 5951,
+                "end": 5955
+            },
+            "entityType": "gene",
+            "entityName": "RyR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "5973_5980",
+            "span": {
+                "begin": 5973,
+                "end": 5980
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "6057_6060",
+            "span": {
+                "begin": 6057,
+                "end": 6060
+            },
+            "entityType": "gene",
+            "entityName": "NCX",
+            "id": "UMLS:C1415651"
+        },
+        {
+            "entityId": "6224_6237",
+            "span": {
+                "begin": 6224,
+                "end": 6237
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "6254_6270",
+            "span": {
+                "begin": 6254,
+                "end": 6270
+            },
+            "entityType": "gene",
+            "entityName": "protein kinase A",
+            "id": "UMLS:C0010531"
+        },
+        {
+            "entityId": "6272_6275",
+            "span": {
+                "begin": 6272,
+                "end": 6275
+            },
+            "entityType": "gene",
+            "entityName": "PKA",
+            "id": "UMLS:C0010531"
+        },
+        {
+            "entityId": "6316_6320",
+            "span": {
+                "begin": 6316,
+                "end": 6320
+            },
+            "entityType": "gene",
+            "entityName": "RyR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "6345_6351",
+            "span": {
+                "begin": 6345,
+                "end": 6351
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "6362_6370",
+            "span": {
+                "begin": 6362,
+                "end": 6370
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "6389_6401",
+            "span": {
+                "begin": 6389,
+                "end": 6401
+            },
+            "entityType": "gene",
+            "entityName": "RyR2 channel",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "6439_6443",
+            "span": {
+                "begin": 6439,
+                "end": 6443
+            },
+            "entityType": "gene",
+            "entityName": "RyR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "6496_6509",
+            "span": {
+                "begin": 6496,
+                "end": 6509
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "6568_6574",
+            "span": {
+                "begin": 6568,
+                "end": 6574
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "6626_6630",
+            "span": {
+                "begin": 6626,
+                "end": 6630
+            },
+            "entityType": "gene",
+            "entityName": "RyR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "6685_6693",
+            "span": {
+                "begin": 6685,
+                "end": 6693
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "6699_6703",
+            "span": {
+                "begin": 6699,
+                "end": 6703
+            },
+            "entityType": "gene",
+            "entityName": "RyR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "6760_6764",
+            "span": {
+                "begin": 6760,
+                "end": 6764
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "6965_6975",
+            "span": {
+                "begin": 6965,
+                "end": 6975
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmic",
+            "id": "mim:115000"
+        },
+        {
+            "entityId": "7104_7125",
+            "span": {
+                "begin": 7104,
+                "end": 7125
+            },
+            "entityType": "disease",
+            "entityName": "chronic heart failure",
+            "id": "UMLS:C0264716"
+        },
+        {
+            "entityId": "7130_7140",
+            "span": {
+                "begin": 7130,
+                "end": 7140
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmia",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "7182_7192",
+            "span": {
+                "begin": 7182,
+                "end": 7192
+            },
+            "entityType": "species",
+            "entityName": "Codonopsis",
+            "id": "UMLS:C0949994"
+        },
+        {
+            "entityId": "7194_7205",
+            "span": {
+                "begin": 7194,
+                "end": 7205
+            },
+            "entityType": "species",
+            "entityName": "Polygonatum",
+            "id": "UMLS:C0331679"
+        },
+        {
+            "entityId": "7207_7212",
+            "span": {
+                "begin": 7207,
+                "end": 7212
+            },
+            "entityType": "species",
+            "entityName": "Panax",
+            "id": "UMLS:C0086767"
+        },
+        {
+            "entityId": "7342_7348",
+            "span": {
+                "begin": 7342,
+                "end": 7348
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "7401_7419",
+            "span": {
+                "begin": 7401,
+                "end": 7419
+            },
+            "entityType": "disease",
+            "entityName": "myocardial hypoxia",
+            "id": "UMLS:C0920715"
+        },
+        {
+            "entityId": "7514_7522",
+            "span": {
+                "begin": 7514,
+                "end": 7522
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "7578_7588",
+            "span": {
+                "begin": 7578,
+                "end": 7588
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmia",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "7691_7697",
+            "span": {
+                "begin": 7691,
+                "end": 7697
+            },
+            "entityType": "species",
+            "entityName": "canine",
+            "id": "UMLS:C0012984"
+        },
+        {
+            "entityId": "7798_7800",
+            "span": {
+                "begin": 7798,
+                "end": 7800
+            },
+            "entityType": "disease",
+            "entityName": "AF",
+            "id": "mesh:D001281"
+        },
+        {
+            "entityId": "7906_7917",
+            "span": {
+                "begin": 7906,
+                "end": 7917
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "7936_7942",
+            "span": {
+                "begin": 7936,
+                "end": 7942
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "8061_8071",
+            "span": {
+                "begin": 8061,
+                "end": 8071
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "8073_8083",
+            "span": {
+                "begin": 8073,
+                "end": 8083
+            },
+            "entityType": "drug",
+            "entityName": "Amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "8121_8157",
+            "span": {
+                "begin": 8121,
+                "end": 8157
+            },
+            "entityType": "gene",
+            "entityName": "alpha- and beta-adrenergic receptors",
+            "id": "UMLS:C0034785"
+        },
+        {
+            "entityId": "8171_8178",
+            "span": {
+                "begin": 8171,
+                "end": 8178
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "8210_8220",
+            "span": {
+                "begin": 8210,
+                "end": 8220
+            },
+            "entityType": "drug",
+            "entityName": "Amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "8280_8299",
+            "span": {
+                "begin": 8280,
+                "end": 8299
+            },
+            "entityType": "disease",
+            "entityName": "myocardial ischemia",
+            "id": "UMLS:C0151744"
+        },
+        {
+            "entityId": "8301_8311",
+            "span": {
+                "begin": 8301,
+                "end": 8311
+            },
+            "entityType": "drug",
+            "entityName": "Amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "8461_8470",
+            "span": {
+                "begin": 8461,
+                "end": 8470
+            },
+            "entityType": "drug",
+            "entityName": "potassium",
+            "id": "UMLS:C0032821"
+        },
+        {
+            "entityId": "8580_8590",
+            "span": {
+                "begin": 8580,
+                "end": 8590
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "8619_8625",
+            "span": {
+                "begin": 8619,
+                "end": 8625
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "8745_8755",
+            "span": {
+                "begin": 8745,
+                "end": 8755
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "8783_8791",
+            "span": {
+                "begin": 8783,
+                "end": 8791
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "8856_8863",
+            "span": {
+                "begin": 8856,
+                "end": 8863
+            },
+            "entityType": "species",
+            "entityName": "Rhizoma",
+            "id": "UMLS:C0949790"
+        },
+        {
+            "entityId": "8879_8889",
+            "span": {
+                "begin": 8879,
+                "end": 8889
+            },
+            "entityType": "species",
+            "entityName": "Codonopsis",
+            "id": "UMLS:C0949994"
+        },
+        {
+            "entityId": "9098_9108",
+            "span": {
+                "begin": 9098,
+                "end": 9108
+            },
+            "entityType": "drug",
+            "entityName": "saponin R1",
+            "id": "UMLS:C0520481"
+        },
+        {
+            "entityId": "9122_9141",
+            "span": {
+                "begin": 9122,
+                "end": 9141
+            },
+            "entityType": "drug",
+            "entityName": "ginseng saponin Rg1",
+            "id": "UMLS:C0520481"
+        },
+        {
+            "entityId": "9143_9152",
+            "span": {
+                "begin": 9143,
+                "end": 9152
+            },
+            "entityType": "drug",
+            "entityName": "C42H72O14",
+            "id": "UMLS:CHEBI:67987"
+        },
+        {
+            "entityId": "9159_9166",
+            "span": {
+                "begin": 9159,
+                "end": 9166
+            },
+            "entityType": "species",
+            "entityName": "ginseng",
+            "id": "UMLS:C0086767"
+        },
+        {
+            "entityId": "9167_9178",
+            "span": {
+                "begin": 9167,
+                "end": 9178
+            },
+            "entityType": "drug",
+            "entityName": "saponin Rb1",
+            "id": "UMLS:C0520481"
+        },
+        {
+            "entityId": "9384_9403",
+            "span": {
+                "begin": 9384,
+                "end": 9403
+            },
+            "entityType": "species",
+            "entityName": "Sprague Dawley rats",
+            "id": "UMLS:C0034715"
+        },
+        {
+            "entityId": "9577_9579",
+            "span": {
+                "begin": 9577,
+                "end": 9579
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "9608_9612",
+            "span": {
+                "begin": 9608,
+                "end": 9612
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "9712_9714",
+            "span": {
+                "begin": 9712,
+                "end": 9714
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "9715_9719",
+            "span": {
+                "begin": 9715,
+                "end": 9719
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "9785_9787",
+            "span": {
+                "begin": 9785,
+                "end": 9787
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "9788_9792",
+            "span": {
+                "begin": 9788,
+                "end": 9792
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "9879_9883",
+            "span": {
+                "begin": 9879,
+                "end": 9883
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "10014_10018",
+            "span": {
+                "begin": 10014,
+                "end": 10018
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "10101_10111",
+            "span": {
+                "begin": 10101,
+                "end": 10111
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "10141_10145",
+            "span": {
+                "begin": 10141,
+                "end": 10145
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "10164_10174",
+            "span": {
+                "begin": 10164,
+                "end": 10174
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "10406_10427",
+            "span": {
+                "begin": 10406,
+                "end": 10427
+            },
+            "entityType": "disease",
+            "entityName": "Myocardial Infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "10452_10456",
+            "span": {
+                "begin": 10452,
+                "end": 10456
+            },
+            "entityType": "species",
+            "entityName": "Rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "10461_10465",
+            "span": {
+                "begin": 10461,
+                "end": 10465
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "10534_10554",
+            "span": {
+                "begin": 10534,
+                "end": 10554
+            },
+            "entityType": "drug",
+            "entityName": "sodium pentobarbital",
+            "id": "UMLS:C0700349"
+        },
+        {
+            "entityId": "11109_11113",
+            "span": {
+                "begin": 11109,
+                "end": 11113
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "11269_11272",
+            "span": {
+                "begin": 11269,
+                "end": 11272
+            },
+            "entityType": "species",
+            "entityName": "Rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "11338_11350",
+            "span": {
+                "begin": 11338,
+                "end": 11350
+            },
+            "entityType": "drug",
+            "entityName": "haematoxylin",
+            "id": "UMLS:C0018964"
+        },
+        {
+            "entityId": "11355_11360",
+            "span": {
+                "begin": 11355,
+                "end": 11360
+            },
+            "entityType": "drug",
+            "entityName": "eosin",
+            "id": "UMLS:C0885297"
+        },
+        {
+            "entityId": "11388_11394",
+            "span": {
+                "begin": 11388,
+                "end": 11394
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "11412_11416",
+            "span": {
+                "begin": 11412,
+                "end": 11416
+            },
+            "entityType": "drug",
+            "entityName": "KN93",
+            "id": "mesh:C072105"
+        },
+        {
+            "entityId": "11455_11461",
+            "span": {
+                "begin": 11455,
+                "end": 11461
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "11506_11508",
+            "span": {
+                "begin": 11506,
+                "end": 11508
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "11533_11549",
+            "span": {
+                "begin": 11533,
+                "end": 11549
+            },
+            "entityType": "cell",
+            "entityName": "cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "11572_11576",
+            "span": {
+                "begin": 11572,
+                "end": 11576
+            },
+            "entityType": "drug",
+            "entityName": "KN92",
+            "id": "mesh:C425780"
+        },
+        {
+            "entityId": "11623_11627",
+            "span": {
+                "begin": 11623,
+                "end": 11627
+            },
+            "entityType": "drug",
+            "entityName": "KN93",
+            "id": "mesh:C072105"
+        },
+        {
+            "entityId": "11635_11641",
+            "span": {
+                "begin": 11635,
+                "end": 11641
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "11925_11931",
+            "span": {
+                "begin": 11925,
+                "end": 11931
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "11948_11954",
+            "span": {
+                "begin": 11948,
+                "end": 11954
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "11995_12001",
+            "span": {
+                "begin": 11995,
+                "end": 12001
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "12013_12032",
+            "span": {
+                "begin": 12013,
+                "end": 12032
+            },
+            "entityType": "gene",
+            "entityName": "anti-phospho-CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "12034_12037",
+            "span": {
+                "begin": 12034,
+                "end": 12037
+            },
+            "entityType": "drug",
+            "entityName": "Ser",
+            "id": "UMLS:CHEBI:32838"
+        },
+        {
+            "entityId": "12156_12188",
+            "span": {
+                "begin": 12156,
+                "end": 12188
+            },
+            "entityType": "gene",
+            "entityName": "anti-phospho-phospholamban (Ser-",
+            "id": "UMLS:C1418650"
+        },
+        {
+            "entityId": "12233_12239",
+            "span": {
+                "begin": 12233,
+                "end": 12239
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "12251_12276",
+            "span": {
+                "begin": 12251,
+                "end": 12276
+            },
+            "entityType": "gene",
+            "entityName": "anti-ryanodine receptor 2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "12315_12321",
+            "span": {
+                "begin": 12315,
+                "end": 12321
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "12338_12346",
+            "span": {
+                "begin": 12338,
+                "end": 12346
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "12564_12586",
+            "span": {
+                "begin": 12564,
+                "end": 12586
+            },
+            "entityType": "gene",
+            "entityName": "horseradish peroxidase",
+            "id": "UMLS:C0019941"
+        },
+        {
+            "entityId": "12598_12613",
+            "span": {
+                "begin": 12598,
+                "end": 12613
+            },
+            "entityType": "gene",
+            "entityName": "anti-rabbit IgG",
+            "id": "UMLS:C0051979"
+        },
+        {
+            "entityId": "12866_12885",
+            "span": {
+                "begin": 12866,
+                "end": 12885
+            },
+            "entityType": "cell",
+            "entityName": "Rat Cardiac Myocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "12904_12907",
+            "span": {
+                "begin": 12904,
+                "end": 12907
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "13013_13015",
+            "span": {
+                "begin": 13013,
+                "end": 13015
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "13047_13051",
+            "span": {
+                "begin": 13047,
+                "end": 13051
+            },
+            "entityType": "drug",
+            "entityName": "NaCl",
+            "id": "UMLS:C0037494"
+        },
+        {
+            "entityId": "13060_13063",
+            "span": {
+                "begin": 13060,
+                "end": 13063
+            },
+            "entityType": "drug",
+            "entityName": "KCl",
+            "id": "UMLS:C0032825"
+        },
+        {
+            "entityId": "13073_13078",
+            "span": {
+                "begin": 13073,
+                "end": 13078
+            },
+            "entityType": "drug",
+            "entityName": "MgCl2",
+            "id": "UMLS:C0024472"
+        },
+        {
+            "entityId": "13086_13091",
+            "span": {
+                "begin": 13086,
+                "end": 13091
+            },
+            "entityType": "drug",
+            "entityName": "HEPES",
+            "id": "UMLS:C0019215"
+        },
+        {
+            "entityId": "13120_13127",
+            "span": {
+                "begin": 13120,
+                "end": 13127
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "13139_13146",
+            "span": {
+                "begin": 13139,
+                "end": 13146
+            },
+            "entityType": "drug",
+            "entityName": "taurine",
+            "id": "UMLS:C0039350"
+        },
+        {
+            "entityId": "13245_13250",
+            "span": {
+                "begin": 13245,
+                "end": 13250
+            },
+            "entityType": "drug",
+            "entityName": "CaCl2",
+            "id": "mesh:D002122"
+        },
+        {
+            "entityId": "13271_13278",
+            "span": {
+                "begin": 13271,
+                "end": 13278
+            },
+            "entityType": "drug",
+            "entityName": "taurine",
+            "id": "UMLS:C0039350"
+        },
+        {
+            "entityId": "13309_13335",
+            "span": {
+                "begin": 13309,
+                "end": 13335
+            },
+            "entityType": "gene",
+            "entityName": "type II collagenase enzyme",
+            "id": "UMLS:C0014442"
+        },
+        {
+            "entityId": "13732_13734",
+            "span": {
+                "begin": 13732,
+                "end": 13734
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "13794_13796",
+            "span": {
+                "begin": 13794,
+                "end": 13796
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "13862_13878",
+            "span": {
+                "begin": 13862,
+                "end": 13878
+            },
+            "entityType": "cell",
+            "entityName": "cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "13939_13946",
+            "span": {
+                "begin": 13939,
+                "end": 13946
+            },
+            "entityType": "gene",
+            "entityName": "laminin",
+            "id": "UMLS:C0022984"
+        },
+        {
+            "entityId": "14062_14082",
+            "span": {
+                "begin": 14062,
+                "end": 14082
+            },
+            "entityType": "cell",
+            "entityName": "ventricular myocytes",
+            "id": "UMLS:C2339371"
+        },
+        {
+            "entityId": "14253_14260",
+            "span": {
+                "begin": 14253,
+                "end": 14260
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "14273_14289",
+            "span": {
+                "begin": 14273,
+                "end": 14289
+            },
+            "entityType": "cell",
+            "entityName": "myocardial cells",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "14456_14462",
+            "span": {
+                "begin": 14456,
+                "end": 14462
+            },
+            "entityType": "drug",
+            "entityName": "fluo-4",
+            "id": "UMLS:C0915011"
+        },
+        {
+            "entityId": "14738_14745",
+            "span": {
+                "begin": 14738,
+                "end": 14745
+            },
+            "entityType": "cell",
+            "entityName": "myocyte",
+            "id": "UMLS:C0596981"
+        },
+        {
+            "entityId": "14803_14807",
+            "span": {
+                "begin": 14803,
+                "end": 14807
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "14872_14878",
+            "span": {
+                "begin": 14872,
+                "end": 14878
+            },
+            "entityType": "drug",
+            "entityName": "fluo-4",
+            "id": "UMLS:C0915011"
+        },
+        {
+            "entityId": "15071_15075",
+            "span": {
+                "begin": 15071,
+                "end": 15075
+            },
+            "entityType": "gene",
+            "entityName": "LTCC",
+            "id": "UMLS:C0288263"
+        },
+        {
+            "entityId": "15099_15106",
+            "span": {
+                "begin": 15099,
+                "end": 15106
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "15137_15144",
+            "span": {
+                "begin": 15137,
+                "end": 15144
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "15187_15194",
+            "span": {
+                "begin": 15187,
+                "end": 15194
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "15226_15241",
+            "span": {
+                "begin": 15226,
+                "end": 15241
+            },
+            "entityType": "cell",
+            "entityName": "myocardial cell",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "15272_15279",
+            "span": {
+                "begin": 15272,
+                "end": 15279
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "15323_15330",
+            "span": {
+                "begin": 15323,
+                "end": 15330
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "15383_15387",
+            "span": {
+                "begin": 15383,
+                "end": 15387
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "15396_15404",
+            "span": {
+                "begin": 15396,
+                "end": 15404
+            },
+            "entityType": "cell",
+            "entityName": "Myocytes",
+            "id": "UMLS:C0596981"
+        },
+        {
+            "entityId": "15451_15455",
+            "span": {
+                "begin": 15451,
+                "end": 15455
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "15512_15520",
+            "span": {
+                "begin": 15512,
+                "end": 15520
+            },
+            "entityType": "drug",
+            "entityName": "caffeine",
+            "id": "UMLS:C0006644"
+        },
+        {
+            "entityId": "15529_15533",
+            "span": {
+                "begin": 15529,
+                "end": 15533
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "15555_15565",
+            "span": {
+                "begin": 15555,
+                "end": 15565
+            },
+            "entityType": "disease",
+            "entityName": "Arrhythmia",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "15631_15635",
+            "span": {
+                "begin": 15631,
+                "end": 15635
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "15686_15688",
+            "span": {
+                "begin": 15686,
+                "end": 15688
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "15720_15730",
+            "span": {
+                "begin": 15720,
+                "end": 15730
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "15743_15747",
+            "span": {
+                "begin": 15743,
+                "end": 15747
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "15776_15796",
+            "span": {
+                "begin": 15776,
+                "end": 15796
+            },
+            "entityType": "drug",
+            "entityName": "sodium pentobarbital",
+            "id": "UMLS:C0700349"
+        },
+        {
+            "entityId": "16010_16013",
+            "span": {
+                "begin": 16010,
+                "end": 16013
+            },
+            "entityType": "drug",
+            "entityName": "ISO",
+            "id": "UMLS:C1668248"
+        },
+        {
+            "entityId": "16130_16133",
+            "span": {
+                "begin": 16130,
+                "end": 16133
+            },
+            "entityType": "drug",
+            "entityName": "ISO",
+            "id": "UMLS:C1668248"
+        },
+        {
+            "entityId": "16142_16153",
+            "span": {
+                "begin": 16142,
+                "end": 16153
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "16726_16728",
+            "span": {
+                "begin": 16726,
+                "end": 16728
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "16766_16768",
+            "span": {
+                "begin": 16766,
+                "end": 16768
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "16843_16853",
+            "span": {
+                "begin": 16843,
+                "end": 16853
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "17063_17073",
+            "span": {
+                "begin": 17063,
+                "end": 17073
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "17452_17454",
+            "span": {
+                "begin": 17452,
+                "end": 17454
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "17547_17557",
+            "span": {
+                "begin": 17547,
+                "end": 17557
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "17756_17766",
+            "span": {
+                "begin": 17756,
+                "end": 17766
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "17784_17786",
+            "span": {
+                "begin": 17784,
+                "end": 17786
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "17939_17941",
+            "span": {
+                "begin": 17939,
+                "end": 17941
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "17973_17983",
+            "span": {
+                "begin": 17973,
+                "end": 17983
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "18140_18146",
+            "span": {
+                "begin": 18140,
+                "end": 18146
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "18237_18243",
+            "span": {
+                "begin": 18237,
+                "end": 18243
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "18245_18253",
+            "span": {
+                "begin": 18245,
+                "end": 18253
+            },
+            "entityType": "gene",
+            "entityName": "p-CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "18255_18258",
+            "span": {
+                "begin": 18255,
+                "end": 18258
+            },
+            "entityType": "drug",
+            "entityName": "Ser",
+            "id": "UMLS:CHEBI:32838"
+        },
+        {
+            "entityId": "18265_18268",
+            "span": {
+                "begin": 18265,
+                "end": 18268
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "18270_18275",
+            "span": {
+                "begin": 18270,
+                "end": 18275
+            },
+            "entityType": "gene",
+            "entityName": "p-PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "18277_18280",
+            "span": {
+                "begin": 18277,
+                "end": 18280
+            },
+            "entityType": "drug",
+            "entityName": "Thr",
+            "id": "UMLS:C0040005"
+        },
+        {
+            "entityId": "18286_18290",
+            "span": {
+                "begin": 18286,
+                "end": 18290
+            },
+            "entityType": "gene",
+            "entityName": "RYR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "18296_18304",
+            "span": {
+                "begin": 18296,
+                "end": 18304
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "18571_18577",
+            "span": {
+                "begin": 18571,
+                "end": 18577
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "18599_18601",
+            "span": {
+                "begin": 18599,
+                "end": 18601
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "18633_18643",
+            "span": {
+                "begin": 18633,
+                "end": 18643
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "18737_18743",
+            "span": {
+                "begin": 18737,
+                "end": 18743
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "18787_18797",
+            "span": {
+                "begin": 18787,
+                "end": 18797
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "18928_18938",
+            "span": {
+                "begin": 18928,
+                "end": 18938
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "19014_19020",
+            "span": {
+                "begin": 19014,
+                "end": 19020
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "19140_19146",
+            "span": {
+                "begin": 19140,
+                "end": 19146
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "19150_19153",
+            "span": {
+                "begin": 19150,
+                "end": 19153
+            },
+            "entityType": "drug",
+            "entityName": "Thr",
+            "id": "UMLS:C0040005"
+        },
+        {
+            "entityId": "19213_19223",
+            "span": {
+                "begin": 19213,
+                "end": 19223
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "19345_19374",
+            "span": {
+                "begin": 19345,
+                "end": 19374
+            },
+            "entityType": "gene",
+            "entityName": "Thr-286-phosphorylated CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "19432_19442",
+            "span": {
+                "begin": 19432,
+                "end": 19442
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "19551_19561",
+            "span": {
+                "begin": 19551,
+                "end": 19561
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "19600_19629",
+            "span": {
+                "begin": 19600,
+                "end": 19629
+            },
+            "entityType": "gene",
+            "entityName": "Thr-286-phosphorylated CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "19718_19746",
+            "span": {
+                "begin": 19718,
+                "end": 19746
+            },
+            "entityType": "gene",
+            "entityName": "Thr286-phosphorylated CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "19844_19847",
+            "span": {
+                "begin": 19844,
+                "end": 19847
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "19900_19910",
+            "span": {
+                "begin": 19900,
+                "end": 19910
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "20098_20108",
+            "span": {
+                "begin": 20098,
+                "end": 20108
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "20120_20123",
+            "span": {
+                "begin": 20120,
+                "end": 20123
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "20245_20256",
+            "span": {
+                "begin": 20245,
+                "end": 20256
+            },
+            "entityType": "gene",
+            "entityName": "PLB protein",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "20323_20326",
+            "span": {
+                "begin": 20323,
+                "end": 20326
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "20330_20333",
+            "span": {
+                "begin": 20330,
+                "end": 20333
+            },
+            "entityType": "drug",
+            "entityName": "Thr",
+            "id": "UMLS:C0040005"
+        },
+        {
+            "entityId": "20358_20360",
+            "span": {
+                "begin": 20358,
+                "end": 20360
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "20392_20402",
+            "span": {
+                "begin": 20392,
+                "end": 20402
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "20477_20487",
+            "span": {
+                "begin": 20477,
+                "end": 20487
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "20537_20562",
+            "span": {
+                "begin": 20537,
+                "end": 20562
+            },
+            "entityType": "gene",
+            "entityName": "Thr-17-phosphorylated PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "20598_20600",
+            "span": {
+                "begin": 20598,
+                "end": 20600
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "20662_20666",
+            "span": {
+                "begin": 20662,
+                "end": 20666
+            },
+            "entityType": "gene",
+            "entityName": "RyR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "20736_20746",
+            "span": {
+                "begin": 20736,
+                "end": 20746
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "20834_20838",
+            "span": {
+                "begin": 20834,
+                "end": 20838
+            },
+            "entityType": "gene",
+            "entityName": "RyR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "20869_20873",
+            "span": {
+                "begin": 20869,
+                "end": 20873
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "20902_20912",
+            "span": {
+                "begin": 20902,
+                "end": 20912
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "20988_20992",
+            "span": {
+                "begin": 20988,
+                "end": 20992
+            },
+            "entityType": "gene",
+            "entityName": "RyR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "21045_21055",
+            "span": {
+                "begin": 21045,
+                "end": 21055
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "21117_21125",
+            "span": {
+                "begin": 21117,
+                "end": 21125
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "21178_21180",
+            "span": {
+                "begin": 21178,
+                "end": 21180
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "21212_21222",
+            "span": {
+                "begin": 21212,
+                "end": 21222
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "21261_21265",
+            "span": {
+                "begin": 21261,
+                "end": 21265
+            },
+            "entityType": "gene",
+            "entityName": "RyR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "21308_21318",
+            "span": {
+                "begin": 21308,
+                "end": 21318
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "21373_21381",
+            "span": {
+                "begin": 21373,
+                "end": 21381
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "21426_21428",
+            "span": {
+                "begin": 21426,
+                "end": 21428
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "21435_21439",
+            "span": {
+                "begin": 21435,
+                "end": 21439
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "21550_21560",
+            "span": {
+                "begin": 21550,
+                "end": 21560
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "21621_21628",
+            "span": {
+                "begin": 21621,
+                "end": 21628
+            },
+            "entityType": "drug",
+            "entityName": "Calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "21647_21651",
+            "span": {
+                "begin": 21647,
+                "end": 21651
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "21744_21750",
+            "span": {
+                "begin": 21744,
+                "end": 21750
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "21755_21759",
+            "span": {
+                "begin": 21755,
+                "end": 21759
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "21797_21818",
+            "span": {
+                "begin": 21797,
+                "end": 21818
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "21836_21843",
+            "span": {
+                "begin": 21836,
+                "end": 21843
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "21879_21908",
+            "span": {
+                "begin": 21879,
+                "end": 21908
+            },
+            "entityType": "cell",
+            "entityName": "cultured adult cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "21939_21943",
+            "span": {
+                "begin": 21939,
+                "end": 21943
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "22019_22025",
+            "span": {
+                "begin": 22019,
+                "end": 22025
+            },
+            "entityType": "drug",
+            "entityName": "fluo-4",
+            "id": "UMLS:C0915011"
+        },
+        {
+            "entityId": "22079_22086",
+            "span": {
+                "begin": 22079,
+                "end": 22086
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "22162_22172",
+            "span": {
+                "begin": 22162,
+                "end": 22172
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "22287_22297",
+            "span": {
+                "begin": 22287,
+                "end": 22297
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "22342_22349",
+            "span": {
+                "begin": 22342,
+                "end": 22349
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "22503_22519",
+            "span": {
+                "begin": 22503,
+                "end": 22519
+            },
+            "entityType": "cell",
+            "entityName": "cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "22537_22547",
+            "span": {
+                "begin": 22537,
+                "end": 22547
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "22622_22626",
+            "span": {
+                "begin": 22622,
+                "end": 22626
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "22658_22666",
+            "span": {
+                "begin": 22658,
+                "end": 22666
+            },
+            "entityType": "drug",
+            "entityName": "caffeine",
+            "id": "UMLS:C0006644"
+        },
+        {
+            "entityId": "22675_22682",
+            "span": {
+                "begin": 22675,
+                "end": 22682
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "22694_22723",
+            "span": {
+                "begin": 22694,
+                "end": 22723
+            },
+            "entityType": "cell",
+            "entityName": "cultured adult cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "22730_22734",
+            "span": {
+                "begin": 22730,
+                "end": 22734
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "22797_22805",
+            "span": {
+                "begin": 22797,
+                "end": 22805
+            },
+            "entityType": "drug",
+            "entityName": "caffeine",
+            "id": "UMLS:C0006644"
+        },
+        {
+            "entityId": "22817_22821",
+            "span": {
+                "begin": 22817,
+                "end": 22821
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "22867_22869",
+            "span": {
+                "begin": 22867,
+                "end": 22869
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "22993_22997",
+            "span": {
+                "begin": 22993,
+                "end": 22997
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "23075_23085",
+            "span": {
+                "begin": 23075,
+                "end": 23085
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "23118_23120",
+            "span": {
+                "begin": 23118,
+                "end": 23120
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "23260_23280",
+            "span": {
+                "begin": 23260,
+                "end": 23280
+            },
+            "entityType": "cell",
+            "entityName": "rat myocardial cells",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "23407_23421",
+            "span": {
+                "begin": 23407,
+                "end": 23421
+            },
+            "entityType": "cell",
+            "entityName": "cultured cells",
+            "id": "UMLS:C0007635"
+        },
+        {
+            "entityId": "23427_23441",
+            "span": {
+                "begin": 23427,
+                "end": 23441
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "23582_23584",
+            "span": {
+                "begin": 23582,
+                "end": 23584
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "23638_23649",
+            "span": {
+                "begin": 23638,
+                "end": 23649
+            },
+            "entityType": "cell",
+            "entityName": "MI myocytes",
+            "id": "UMLS:C0596981"
+        },
+        {
+            "entityId": "23651_23654",
+            "span": {
+                "begin": 23651,
+                "end": 23654
+            },
+            "entityType": "disease",
+            "entityName": "EAD",
+            "id": "UMLS:C1864233"
+        },
+        {
+            "entityId": "23693_23695",
+            "span": {
+                "begin": 23693,
+                "end": 23695
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "23737_23739",
+            "span": {
+                "begin": 23737,
+                "end": 23739
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "23868_23870",
+            "span": {
+                "begin": 23868,
+                "end": 23870
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "23937_23944",
+            "span": {
+                "begin": 23937,
+                "end": 23944
+            },
+            "entityType": "cell",
+            "entityName": "myocyte",
+            "id": "UMLS:C0596981"
+        },
+        {
+            "entityId": "23946_23962",
+            "span": {
+                "begin": 23946,
+                "end": 23962
+            },
+            "entityType": "cell",
+            "entityName": "Cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "24124_24134",
+            "span": {
+                "begin": 24124,
+                "end": 24134
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "24334_24344",
+            "span": {
+                "begin": 24334,
+                "end": 24344
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "24505_24524",
+            "span": {
+                "begin": 24505,
+                "end": 24524
+            },
+            "entityType": "disease",
+            "entityName": "Cardiac Arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "24613_24619",
+            "span": {
+                "begin": 24613,
+                "end": 24619
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "24715_24734",
+            "span": {
+                "begin": 24715,
+                "end": 24734
+            },
+            "entityType": "disease",
+            "entityName": "cardiac arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "24821_24824",
+            "span": {
+                "begin": 24821,
+                "end": 24824
+            },
+            "entityType": "drug",
+            "entityName": "ISO",
+            "id": "UMLS:C1668248"
+        },
+        {
+            "entityId": "24852_24856",
+            "span": {
+                "begin": 24852,
+                "end": 24856
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "25072_25084",
+            "span": {
+                "begin": 25072,
+                "end": 25084
+            },
+            "entityType": "disease",
+            "entityName": "tachycardias",
+            "id": "mesh:D013610"
+        },
+        {
+            "entityId": "25194_25213",
+            "span": {
+                "begin": 25194,
+                "end": 25213
+            },
+            "entityType": "disease",
+            "entityName": "cardiac arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "25245_25247",
+            "span": {
+                "begin": 25245,
+                "end": 25247
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "25262_25272",
+            "span": {
+                "begin": 25262,
+                "end": 25272
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "25289_25293",
+            "span": {
+                "begin": 25289,
+                "end": 25293
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "25330_25341",
+            "span": {
+                "begin": 25330,
+                "end": 25341
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "25371_25374",
+            "span": {
+                "begin": 25371,
+                "end": 25374
+            },
+            "entityType": "drug",
+            "entityName": "ISO",
+            "id": "UMLS:C1668248"
+        },
+        {
+            "entityId": "25401_25405",
+            "span": {
+                "begin": 25401,
+                "end": 25405
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "25409_25411",
+            "span": {
+                "begin": 25409,
+                "end": 25411
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "25429_25433",
+            "span": {
+                "begin": 25429,
+                "end": 25433
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "25441_25451",
+            "span": {
+                "begin": 25441,
+                "end": 25451
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "25468_25479",
+            "span": {
+                "begin": 25468,
+                "end": 25479
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "25626_25628",
+            "span": {
+                "begin": 25626,
+                "end": 25628
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "25653_25684",
+            "span": {
+                "begin": 25653,
+                "end": 25684
+            },
+            "entityType": "cell",
+            "entityName": "ISO-Stimulated Cardiac Myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "25776_25778",
+            "span": {
+                "begin": 25776,
+                "end": 25778
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "25789_25791",
+            "span": {
+                "begin": 25789,
+                "end": 25791
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "25924_25935",
+            "span": {
+                "begin": 25924,
+                "end": 25935
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "26001_26014",
+            "span": {
+                "begin": 26001,
+                "end": 26014
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "26016_26029",
+            "span": {
+                "begin": 26016,
+                "end": 26029
+            },
+            "entityType": "drug",
+            "entityName": "catecholamine",
+            "id": "UMLS:C3536742"
+        },
+        {
+            "entityId": "26103_26130",
+            "span": {
+                "begin": 26103,
+                "end": 26130
+            },
+            "entityType": "cell",
+            "entityName": "myocardial infarction cells",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "26137_26140",
+            "span": {
+                "begin": 26137,
+                "end": 26140
+            },
+            "entityType": "drug",
+            "entityName": "ISO",
+            "id": "UMLS:C1668248"
+        },
+        {
+            "entityId": "26173_26175",
+            "span": {
+                "begin": 26173,
+                "end": 26175
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "26285_26309",
+            "span": {
+                "begin": 26285,
+                "end": 26309
+            },
+            "entityType": "cell",
+            "entityName": "isolated normal myocytes",
+            "id": "UMLS:C0596981"
+        },
+        {
+            "entityId": "26359_26362",
+            "span": {
+                "begin": 26359,
+                "end": 26362
+            },
+            "entityType": "drug",
+            "entityName": "ISO",
+            "id": "UMLS:C1668248"
+        },
+        {
+            "entityId": "26393_26396",
+            "span": {
+                "begin": 26393,
+                "end": 26396
+            },
+            "entityType": "drug",
+            "entityName": "ISO",
+            "id": "UMLS:C1668248"
+        },
+        {
+            "entityId": "26438_26440",
+            "span": {
+                "begin": 26438,
+                "end": 26440
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "26465_26481",
+            "span": {
+                "begin": 26465,
+                "end": 26481
+            },
+            "entityType": "cell",
+            "entityName": "cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "26488_26491",
+            "span": {
+                "begin": 26488,
+                "end": 26491
+            },
+            "entityType": "drug",
+            "entityName": "ISO",
+            "id": "UMLS:C1668248"
+        },
+        {
+            "entityId": "26660_26662",
+            "span": {
+                "begin": 26660,
+                "end": 26662
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "26725_26741",
+            "span": {
+                "begin": 26725,
+                "end": 26741
+            },
+            "entityType": "cell",
+            "entityName": "cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "26747_26751",
+            "span": {
+                "begin": 26747,
+                "end": 26751
+            },
+            "entityType": "drug",
+            "entityName": "KN93",
+            "id": "mesh:C072105"
+        },
+        {
+            "entityId": "26790_26792",
+            "span": {
+                "begin": 26790,
+                "end": 26792
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "26891_26895",
+            "span": {
+                "begin": 26891,
+                "end": 26895
+            },
+            "entityType": "drug",
+            "entityName": "KN92",
+            "id": "mesh:C425780"
+        },
+        {
+            "entityId": "27151_27155",
+            "span": {
+                "begin": 27151,
+                "end": 27155
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "27161_27182",
+            "span": {
+                "begin": 27161,
+                "end": 27182
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "27242_27248",
+            "span": {
+                "begin": 27242,
+                "end": 27248
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "27250_27268",
+            "span": {
+                "begin": 27250,
+                "end": 27268
+            },
+            "entityType": "gene",
+            "entityName": "p-CaMKII (Thr-286)",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "27274_27277",
+            "span": {
+                "begin": 27274,
+                "end": 27277
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "27328_27332",
+            "span": {
+                "begin": 27328,
+                "end": 27332
+            },
+            "entityType": "gene",
+            "entityName": "RyR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "27334_27348",
+            "span": {
+                "begin": 27334,
+                "end": 27348
+            },
+            "entityType": "gene",
+            "entityName": "p-PLB (Thr-17)",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "27354_27362",
+            "span": {
+                "begin": 27354,
+                "end": 27362
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "27409_27413",
+            "span": {
+                "begin": 27409,
+                "end": 27413
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "27440_27447",
+            "span": {
+                "begin": 27440,
+                "end": 27447
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "27471_27496",
+            "span": {
+                "begin": 27471,
+                "end": 27496
+            },
+            "entityType": "cell",
+            "entityName": "cultured cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "27502_27506",
+            "span": {
+                "begin": 27502,
+                "end": 27506
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "27512_27533",
+            "span": {
+                "begin": 27512,
+                "end": 27533
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "27616_27637",
+            "span": {
+                "begin": 27616,
+                "end": 27637
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "27701_27720",
+            "span": {
+                "begin": 27701,
+                "end": 27720
+            },
+            "entityType": "disease",
+            "entityName": "cardiac arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "27724_27728",
+            "span": {
+                "begin": 27724,
+                "end": 27728
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "27734_27755",
+            "span": {
+                "begin": 27734,
+                "end": 27755
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "27797_27799",
+            "span": {
+                "begin": 27797,
+                "end": 27799
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "27824_27827",
+            "span": {
+                "begin": 27824,
+                "end": 27827
+            },
+            "entityType": "drug",
+            "entityName": "ISO",
+            "id": "UMLS:C1668248"
+        },
+        {
+            "entityId": "27839_27855",
+            "span": {
+                "begin": 27839,
+                "end": 27855
+            },
+            "entityType": "cell",
+            "entityName": "cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "27866_27872",
+            "span": {
+                "begin": 27866,
+                "end": 27872
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "27938_27944",
+            "span": {
+                "begin": 27938,
+                "end": 27944
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "27972_27983",
+            "span": {
+                "begin": 27972,
+                "end": 27983
+            },
+            "entityType": "disease",
+            "entityName": "hypertrophy",
+            "id": "UMLS:C0020564"
+        },
+        {
+            "entityId": "27988_28001",
+            "span": {
+                "begin": 27988,
+                "end": 28001
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "28003_28009",
+            "span": {
+                "begin": 28003,
+                "end": 28009
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "28039_28043",
+            "span": {
+                "begin": 28039,
+                "end": 28043
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "28055_28068",
+            "span": {
+                "begin": 28055,
+                "end": 28068
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "28073_28084",
+            "span": {
+                "begin": 28073,
+                "end": 28084
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "28094_28100",
+            "span": {
+                "begin": 28094,
+                "end": 28100
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "28271_28277",
+            "span": {
+                "begin": 28271,
+                "end": 28277
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "28305_28308",
+            "span": {
+                "begin": 28305,
+                "end": 28308
+            },
+            "entityType": "drug",
+            "entityName": "Thr",
+            "id": "UMLS:C0040005"
+        },
+        {
+            "entityId": "28316_28320",
+            "span": {
+                "begin": 28316,
+                "end": 28320
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "28326_28347",
+            "span": {
+                "begin": 28326,
+                "end": 28347
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "28533_28539",
+            "span": {
+                "begin": 28533,
+                "end": 28539
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "28567_28570",
+            "span": {
+                "begin": 28567,
+                "end": 28570
+            },
+            "entityType": "drug",
+            "entityName": "Thr",
+            "id": "UMLS:C0040005"
+        },
+        {
+            "entityId": "28627_28640",
+            "span": {
+                "begin": 28627,
+                "end": 28640
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "28645_28655",
+            "span": {
+                "begin": 28645,
+                "end": 28655
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmia",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "28674_28682",
+            "span": {
+                "begin": 28674,
+                "end": 28682
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "28688_28700",
+            "span": {
+                "begin": 28688,
+                "end": 28700
+            },
+            "entityType": "gene",
+            "entityName": "RyR channels",
+            "id": "UMLS:C1419778"
+        },
+        {
+            "entityId": "28847_28855",
+            "span": {
+                "begin": 28847,
+                "end": 28855
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "28861_28864",
+            "span": {
+                "begin": 28861,
+                "end": 28864
+            },
+            "entityType": "gene",
+            "entityName": "RyR",
+            "id": "UMLS:C1419778"
+        },
+        {
+            "entityId": "28929_28932",
+            "span": {
+                "begin": 28929,
+                "end": 28932
+            },
+            "entityType": "gene",
+            "entityName": "RyR",
+            "id": "UMLS:C1419778"
+        },
+        {
+            "entityId": "28960_28968",
+            "span": {
+                "begin": 28960,
+                "end": 28968
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "29039_29043",
+            "span": {
+                "begin": 29039,
+                "end": 29043
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "29135_29143",
+            "span": {
+                "begin": 29135,
+                "end": 29143
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "29171_29181",
+            "span": {
+                "begin": 29171,
+                "end": 29181
+            },
+            "entityType": "gene",
+            "entityName": "RyR-family",
+            "id": "UMLS:C1419778"
+        },
+        {
+            "entityId": "29293_29297",
+            "span": {
+                "begin": 29293,
+                "end": 29297
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "29424_29442",
+            "span": {
+                "begin": 29424,
+                "end": 29442
+            },
+            "entityType": "gene",
+            "entityName": "ryanodine receptor",
+            "id": "UMLS:C0054493"
+        },
+        {
+            "entityId": "29446_29449",
+            "span": {
+                "begin": 29446,
+                "end": 29449
+            },
+            "entityType": "gene",
+            "entityName": "PKA",
+            "id": "UMLS:C0010531"
+        },
+        {
+            "entityId": "29496_29500",
+            "span": {
+                "begin": 29496,
+                "end": 29500
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "29557_29575",
+            "span": {
+                "begin": 29557,
+                "end": 29575
+            },
+            "entityType": "gene",
+            "entityName": "ryanodine receptor",
+            "id": "UMLS:C0054493"
+        },
+        {
+            "entityId": "29582_29591",
+            "span": {
+                "begin": 29582,
+                "end": 29591
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6.",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "29615_29625",
+            "span": {
+                "begin": 29615,
+                "end": 29625
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "29668_29672",
+            "span": {
+                "begin": 29668,
+                "end": 29672
+            },
+            "entityType": "gene",
+            "entityName": "RyR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "29677_29685",
+            "span": {
+                "begin": 29677,
+                "end": 29685
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "29689_29693",
+            "span": {
+                "begin": 29689,
+                "end": 29693
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "29699_29720",
+            "span": {
+                "begin": 29699,
+                "end": 29720
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "29755_29763",
+            "span": {
+                "begin": 29755,
+                "end": 29763
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "29780_29788",
+            "span": {
+                "begin": 29780,
+                "end": 29788
+            },
+            "entityType": "gene",
+            "entityName": "RyR2 ion",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "29872_29882",
+            "span": {
+                "begin": 29872,
+                "end": 29882
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmia",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "29936_29942",
+            "span": {
+                "begin": 29936,
+                "end": 29942
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "29958_29961",
+            "span": {
+                "begin": 29958,
+                "end": 29961
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "29965_29968",
+            "span": {
+                "begin": 29965,
+                "end": 29968
+            },
+            "entityType": "drug",
+            "entityName": "Thr",
+            "id": "UMLS:C0040005"
+        },
+        {
+            "entityId": "30080_30084",
+            "span": {
+                "begin": 30080,
+                "end": 30084
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "30118_30121",
+            "span": {
+                "begin": 30118,
+                "end": 30121
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "30212_30216",
+            "span": {
+                "begin": 30212,
+                "end": 30216
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "30224_30245",
+            "span": {
+                "begin": 30224,
+                "end": 30245
+            },
+            "entityType": "disease",
+            "entityName": "chronic heart failure",
+            "id": "UMLS:C0264716"
+        },
+        {
+            "entityId": "30247_30250",
+            "span": {
+                "begin": 30247,
+                "end": 30250
+            },
+            "entityType": "disease",
+            "entityName": "CHF",
+            "id": "UMLS:C0018802"
+        },
+        {
+            "entityId": "30403_30406",
+            "span": {
+                "begin": 30403,
+                "end": 30406
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "30435_30438",
+            "span": {
+                "begin": 30435,
+                "end": 30438
+            },
+            "entityType": "drug",
+            "entityName": "Thr",
+            "id": "UMLS:C0040005"
+        },
+        {
+            "entityId": "30483_30496",
+            "span": {
+                "begin": 30483,
+                "end": 30496
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "30536_30539",
+            "span": {
+                "begin": 30536,
+                "end": 30539
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "30568_30571",
+            "span": {
+                "begin": 30568,
+                "end": 30571
+            },
+            "entityType": "drug",
+            "entityName": "Thr",
+            "id": "UMLS:C0040005"
+        },
+        {
+            "entityId": "30621_30624",
+            "span": {
+                "begin": 30621,
+                "end": 30624
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "30697_30713",
+            "span": {
+                "begin": 30697,
+                "end": 30713
+            },
+            "entityType": "cell",
+            "entityName": "cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "30765_30775",
+            "span": {
+                "begin": 30765,
+                "end": 30775
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmia",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "30781_30794",
+            "span": {
+                "begin": 30781,
+                "end": 30794
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "30796_30798",
+            "span": {
+                "begin": 30796,
+                "end": 30798
+            },
+            "entityType": "disease",
+            "entityName": "HF",
+            "id": "mesh:D006333"
+        },
+        {
+            "entityId": "30807_30813",
+            "span": {
+                "begin": 30807,
+                "end": 30813
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "30855_30858",
+            "span": {
+                "begin": 30855,
+                "end": 30858
+            },
+            "entityType": "gene",
+            "entityName": "RyR",
+            "id": "UMLS:C1419778"
+        },
+        {
+            "entityId": "30896_30898",
+            "span": {
+                "begin": 30896,
+                "end": 30898
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "30946_30948",
+            "span": {
+                "begin": 30946,
+                "end": 30948
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "31028_31030",
+            "span": {
+                "begin": 31028,
+                "end": 31030
+            },
+            "entityType": "drug",
+            "entityName": "Na",
+            "id": "UMLS:CHEBI:29101"
+        },
+        {
+            "entityId": "31031_31033",
+            "span": {
+                "begin": 31031,
+                "end": 31033
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "31134_31140",
+            "span": {
+                "begin": 31134,
+                "end": 31140
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "31150_31153",
+            "span": {
+                "begin": 31150,
+                "end": 31153
+            },
+            "entityType": "gene",
+            "entityName": "RyR",
+            "id": "UMLS:C1419778"
+        },
+        {
+            "entityId": "31215_31217",
+            "span": {
+                "begin": 31215,
+                "end": 31217
+            },
+            "entityType": "disease",
+            "entityName": "HF",
+            "id": "mesh:D006333"
+        },
+        {
+            "entityId": "31222_31241",
+            "span": {
+                "begin": 31222,
+                "end": 31241
+            },
+            "entityType": "disease",
+            "entityName": "atrial fibrillation",
+            "id": "UMLS:C0004238"
+        },
+        {
+            "entityId": "31295_31305",
+            "span": {
+                "begin": 31295,
+                "end": 31305
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "31369_31373",
+            "span": {
+                "begin": 31369,
+                "end": 31373
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "31400_31407",
+            "span": {
+                "begin": 31400,
+                "end": 31407
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "31530_31540",
+            "span": {
+                "begin": 31530,
+                "end": 31540
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "31590_31592",
+            "span": {
+                "begin": 31590,
+                "end": 31592
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "31643_31664",
+            "span": {
+                "begin": 31643,
+                "end": 31664
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "31691_31697",
+            "span": {
+                "begin": 31691,
+                "end": 31697
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "31796_31802",
+            "span": {
+                "begin": 31796,
+                "end": 31802
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "31890_31896",
+            "span": {
+                "begin": 31890,
+                "end": 31896
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "31931_31933",
+            "span": {
+                "begin": 31931,
+                "end": 31933
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "31980_31983",
+            "span": {
+                "begin": 31980,
+                "end": 31983
+            },
+            "entityType": "disease",
+            "entityName": "EAD",
+            "id": "UMLS:C1864233"
+        },
+        {
+            "entityId": "32101_32111",
+            "span": {
+                "begin": 32101,
+                "end": 32111
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "32140_32144",
+            "span": {
+                "begin": 32140,
+                "end": 32144
+            },
+            "entityType": "disease",
+            "entityName": "EADs",
+            "id": "UMLS:C1864233"
+        },
+        {
+            "entityId": "32178_32184",
+            "span": {
+                "begin": 32178,
+                "end": 32184
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "32189_32207",
+            "span": {
+                "begin": 32189,
+                "end": 32207
+            },
+            "entityType": "gene",
+            "entityName": "p-CAMKII (Thr-286)",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "32218_32228",
+            "span": {
+                "begin": 32218,
+                "end": 32228
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "32256_32260",
+            "span": {
+                "begin": 32256,
+                "end": 32260
+            },
+            "entityType": "gene",
+            "entityName": "LTCC",
+            "id": "UMLS:C0288263"
+        },
+        {
+            "entityId": "32281_32288",
+            "span": {
+                "begin": 32281,
+                "end": 32288
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "32330_32340",
+            "span": {
+                "begin": 32330,
+                "end": 32340
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmia",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "32366_32369",
+            "span": {
+                "begin": 32366,
+                "end": 32369
+            },
+            "entityType": "drug",
+            "entityName": "ISO",
+            "id": "UMLS:C1668248"
+        },
+        {
+            "entityId": "32388_32394",
+            "span": {
+                "begin": 32388,
+                "end": 32394
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "32453_32457",
+            "span": {
+                "begin": 32453,
+                "end": 32457
+            },
+            "entityType": "drug",
+            "entityName": "cAMP",
+            "id": "UMLS:C0050063"
+        },
+        {
+            "entityId": "32512_32514",
+            "span": {
+                "begin": 32512,
+                "end": 32514
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "32550_32556",
+            "span": {
+                "begin": 32550,
+                "end": 32556
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "32645_32647",
+            "span": {
+                "begin": 32645,
+                "end": 32647
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "32672_32675",
+            "span": {
+                "begin": 32672,
+                "end": 32675
+            },
+            "entityType": "drug",
+            "entityName": "ISO",
+            "id": "UMLS:C1668248"
+        },
+        {
+            "entityId": "32687_32703",
+            "span": {
+                "begin": 32687,
+                "end": 32703
+            },
+            "entityType": "cell",
+            "entityName": "cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "32831_32833",
+            "span": {
+                "begin": 32831,
+                "end": 32833
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "32850_32852",
+            "span": {
+                "begin": 32850,
+                "end": 32852
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "32926_32930",
+            "span": {
+                "begin": 32926,
+                "end": 32930
+            },
+            "entityType": "drug",
+            "entityName": "KN93",
+            "id": "mesh:C072105"
+        },
+        {
+            "entityId": "32956_32962",
+            "span": {
+                "begin": 32956,
+                "end": 32962
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "33007_33009",
+            "span": {
+                "begin": 33007,
+                "end": 33009
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "33034_33050",
+            "span": {
+                "begin": 33034,
+                "end": 33050
+            },
+            "entityType": "cell",
+            "entityName": "cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "33073_33077",
+            "span": {
+                "begin": 33073,
+                "end": 33077
+            },
+            "entityType": "drug",
+            "entityName": "KN92",
+            "id": "mesh:C425780"
+        },
+        {
+            "entityId": "33111_33115",
+            "span": {
+                "begin": 33111,
+                "end": 33115
+            },
+            "entityType": "drug",
+            "entityName": "KN93",
+            "id": "mesh:C072105"
+        },
+        {
+            "entityId": "33123_33129",
+            "span": {
+                "begin": 33123,
+                "end": 33129
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "33200_33206",
+            "span": {
+                "begin": 33200,
+                "end": 33206
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "33269_33279",
+            "span": {
+                "begin": 33269,
+                "end": 33279
+            },
+            "entityType": "disease",
+            "entityName": "arrhythmia",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "33347_33357",
+            "span": {
+                "begin": 33347,
+                "end": 33357
+            },
+            "entityType": "drug",
+            "entityName": "amiodarone",
+            "id": "UMLS:C0002598"
+        },
+        {
+            "entityId": "33366_33379",
+            "span": {
+                "begin": 33366,
+                "end": 33379
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "33384_33403",
+            "span": {
+                "begin": 33384,
+                "end": 33403
+            },
+            "entityType": "disease",
+            "entityName": "cardiac arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "33459_33465",
+            "span": {
+                "begin": 33459,
+                "end": 33465
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "33550_33556",
+            "span": {
+                "begin": 33550,
+                "end": 33556
+            },
+            "entityType": "gene",
+            "entityName": "CaMKII",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "33558_33576",
+            "span": {
+                "begin": 33558,
+                "end": 33576
+            },
+            "entityType": "gene",
+            "entityName": "p-CaMKII (Thr-286)",
+            "id": "UMLS:C0248868"
+        },
+        {
+            "entityId": "33582_33585",
+            "span": {
+                "begin": 33582,
+                "end": 33585
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "33632_33636",
+            "span": {
+                "begin": 33632,
+                "end": 33636
+            },
+            "entityType": "gene",
+            "entityName": "RYR2",
+            "id": "UMLS:C1419779"
+        },
+        {
+            "entityId": "33640_33643",
+            "span": {
+                "begin": 33640,
+                "end": 33643
+            },
+            "entityType": "gene",
+            "entityName": "PLB",
+            "id": "UMLS:C1428925"
+        },
+        {
+            "entityId": "33645_33648",
+            "span": {
+                "begin": 33645,
+                "end": 33648
+            },
+            "entityType": "drug",
+            "entityName": "Thr",
+            "id": "UMLS:C0040005"
+        },
+        {
+            "entityId": "33658_33666",
+            "span": {
+                "begin": 33658,
+                "end": 33666
+            },
+            "entityType": "gene",
+            "entityName": "FKBP12.6",
+            "id": "UMLS:C1414619"
+        },
+        {
+            "entityId": "33670_33674",
+            "span": {
+                "begin": 33670,
+                "end": 33674
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "33680_33701",
+            "span": {
+                "begin": 33680,
+                "end": 33701
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "33801_33803",
+            "span": {
+                "begin": 33801,
+                "end": 33803
+            },
+            "entityType": "drug",
+            "entityName": "Ca",
+            "id": "UMLS:CHEBI:39099"
+        },
+        {
+            "entityId": "33827_33830",
+            "span": {
+                "begin": 33827,
+                "end": 33830
+            },
+            "entityType": "drug",
+            "entityName": "ISO",
+            "id": "UMLS:C1668248"
+        },
+        {
+            "entityId": "33842_33858",
+            "span": {
+                "begin": 33842,
+                "end": 33858
+            },
+            "entityType": "cell",
+            "entityName": "cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "33887_33891",
+            "span": {
+                "begin": 33887,
+                "end": 33891
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "33908_33915",
+            "span": {
+                "begin": 33908,
+                "end": 33915
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "33939_33964",
+            "span": {
+                "begin": 33939,
+                "end": 33964
+            },
+            "entityType": "cell",
+            "entityName": "isolated cardiac myocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "33970_33974",
+            "span": {
+                "begin": 33970,
+                "end": 33974
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "33980_34001",
+            "span": {
+                "begin": 33980,
+                "end": 34001
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "34144_34163",
+            "span": {
+                "begin": 34144,
+                "end": 34163
+            },
+            "entityType": "disease",
+            "entityName": "cardiac arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "34179_34182",
+            "span": {
+                "begin": 34179,
+                "end": 34182
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "34183_34204",
+            "span": {
+                "begin": 34183,
+                "end": 34204
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "34_72",
+            "subjectText": "Calmodulin-Dependent Protein Kinase II",
+            "rel_name": "regulate",
+            "objectId": "26_33",
+            "objectText": "Calcium"
+        },
+        {
+            "subjectID": "34_72",
+            "subjectText": "Calmodulin-Dependent Protein Kinase II",
+            "rel_name": "inhibit",
+            "objectId": "114_132",
+            "objectText": "Cardiac Arrhythmia"
+        },
+        {
+            "subjectID": "1521_1527",
+            "subjectText": "CaMKII",
+            "rel_name": "inhibit",
+            "objectId": "1465_1478",
+            "objectText": "heart failure"
+        },
+        {
+            "subjectID": "1483_1502",
+            "subjectText": "cardiac arrhythmias",
+            "rel_name": "regulate",
+            "objectId": "1521_1527",
+            "objectText": "CaMKII"
+        },
+        {
+            "subjectID": "937_939",
+            "subjectText": "MI",
+            "rel_name": "treat",
+            "objectId": "977_987",
+            "objectText": "amiodarone"
+        },
+        {
+            "subjectID": "323_333",
+            "subjectText": "Amiodarone",
+            "rel_name": "inhibit",
+            "objectId": "371_407",
+            "objectText": "alpha- and beta-adrenergic receptors"
+        }
+    ]
+}

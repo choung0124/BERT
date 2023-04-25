@@ -1,0 +1,3812 @@
+{
+    "sourcid": "PMC3618279",
+    "publisher": "Public Library of Science",
+    "journal": "PLoS ONE",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3618279/",
+    "text": "The Role of hnRPUL1 Involved in DNA Damage Response Is Related to PARP1 Heterogeneous nuclear ribonucleoprotein U-like 1 (hnRPUL1) -also known as adenovirus early region 1B-associated proteins 5 (E1B-AP5) - plays a role in RNA metabolism. Recently, hnRPUL1 has also been shown to be involved in DNA damage response, but the function of hnRPUL1 in response to DNA damage remains unclear. Here, we have demonstrated that hnRPUL1 is associated with PARP1 and recruited to DNA double-strand breaks (DSBs) sites in a PARP1-mediated poly (ADP-ribosyl) ation dependent manner. In turn, hnRPUL1 knockdown enhances the recruitment of PARP1 to DSBs sites. Specifically, we showed that hnRPUL1 is also implicated in the transcriptional regulation of PARP1 gene. Thus, we propose hnRPUL1 as a new component related to PARP1 in DNA damage response and repair. Introduction Heterogeneous nuclear ribonucleoproteins (hnRNPs) are a large family of proteins, which were first described as a set of proteins binding to mRNA in the cell nucleus. The hnRNPs are multifunctional proteins involved in many cellular processes such as chromatin remodeling, transcription and telomere elongation. Heterogeneous nuclear ribonucleoprotein U-like 1 (hnRPUL1) is also named as adenovirus early region 1B-associated proteins 5 (E1B-AP5), for it was firstly isolated from a human expression library as interacting protein with adenovirus early protein E1B-55 kDa (Ad5EE1B55K). On the basis of sequence similarity to hnRNP U and hnRNP G, hnRPUL1 is considered to be a new member of hnRNP family. Like other hnRNPs, hnRPUL1 plays a role in RNA metabolism, which binds to mRNA and influences RNA transport and processing. HnRPUL1 is also associated with TAP which is involved in RNA export. In addition to function in RNA metabolism, hnRPUL1 is also involved in other cellular processes. In recent study, hnRPUL1 was identified to be associated with early-onset myocardial infarction (MI). In another study, hnRPUL1 was demonstrated to interact directly with p53 and inhibit p53 transcriptional activity in response to UV radiation. Furthermore, hnRPUL1 is required for the ATR-dependent signaling in response to viral infection; these studies suggested that hnRPUL1 plays a role in DNA damage response. DNA damage response and repair contribute to maintain genome stability. Cellular DNA is vulnerable to all types of DNA-damaging agents, including both endogenous and environmental origins. A human cell could generate over 104 DNA lesions per day. For maintaining genome stability, cells have evolved a series of mechanisms to repair all types of DNA lesions, such as base damage, single strand-breaks (SSBs) and double strand-breaks (DSBs). DNA damage response and repair is a complex process, which involves a series of signal transduction pathways including repair, cell cycle regulation, chromatin remodeling and apoptosis. All components of these pathways are composed of sensors, mediators and effectors. PARP1 is one of the most important proteins required to maintain genome stability. Like ATM, ATR, DNA-PK and p53, PARP1 binds to and is activated by DNA strand breaks. Subsequently, PARP1 poly (ADP-ribosyl) ates itself and other proteins to regulate DNA damage response and repair. Although previous studies have shown that hnRPUL1 plays a role in DNA damage response and repair, the function of hnRPUL1 in response to DNA damage remained unclear. In this study, we provide new insights into the function of hnRPUL1 in response to DNA damage and for repair. We have established various types of real-time analysis methods that can induce SSBs and DSBs at restricted regions in the nucleus and can analyze the response of proteins to damage by immuno-staining or with transfected EGFP-tagged proteins under the microscope in real time. By making use of these methods, we showed that hnRPUL1 is associated with PARP1 and recruited to damage sites which are regulated by poly (ADP-ribosyl) ation. Downregulation of hnRPUL1 reduces PARP1 expression by transcriptional regulation and causes cell sensitivity to DSBs damage. Our data indicated that hnRPUL1 plays an important role in response to DNA damage, thereby maintaining genome stability. Materials and Methods Construction of Plasmids for Expression of Various Genes Plasmids expressing human genes encoding PARP1 were constructed by cloning cDNA amplified from HeLa cells. Two transcript variants (isoform a and isoform d) encoding different isoforms have been found for hnRPUL1 gene. Isoform d (also named variant 4) differs in the 5' UTR and coding region compared to isoform a (also named variant 1), resulting in an isoform (d) that maintains the reading frame but is shorter at the N-terminus compared to isoform a. HnRPUL1 (isoform d) was amplified from a human cDNA clone (no. : FLJ12944) and used in experiment of this study. We modified the multiple cloning sites of vectors EGFP-C1, EGFP-N1 to introduce various cDNAs attached with an in-frame Xho I or Sal I site at the start and Not I site at the stop codons. Deletion fragments of hnRPUL1 were generated by PCR amplification, and then cloned into vectors. All constructs were verified by sequencing.   Cell Lines, Culture and Transfection The following cell lines were used in this study: HeLa, MEF, MEF (PARP1-/-), Flp-In-293 (Invitrogen), XPA-UVDE (For UV-induced SSB production, XP12ROSV cells stably transfected with the UVDE gene from Neurospora crassa). U2OS/TRE/I-SceI-19 (for I-SceI-induced DSB production). All cell lines were propagated in Dulbecco's modified-MEM (Nissui), supplement with 1 mM L-glutamine and 10% fetal bovine serum at 37 C and 5% CO2. For UVA-laser irradiation, cells were plated in glass-bottomed dishes (Matsunami Glass) and transfected with expression vectors using fuGeneHD (Roche), according to the manufacturer's protocol.          Microscopy and UVA-laser Irradiation Fluorescence images were obtained and processed using a confocal scanning laser microscopy system (FV-500, Olympus). UVA-laser irradiation was used to induce DSBs in cultured cells as described previously. For laser irradiation, cells were treated with 10 mM 5-bromo-2-deoxyuridine (BrdU) for 24 hr prior to irradiation. The irradiation dose was fixed at 800 mW (500 scans with 1.6 mW/scan) for BrdU-treated cells. For evaluation of accumulation kinetics, recruitment of EGFP-PARP1 was measured as the fold increase of fluorescence intensity at an irradiated site, at least four independent experiments are given. To examine the effect of inhibitors of PARP, cells were incubated for 1 h in medium supplemented with 1,5-dihydroxyisoquinoline (DIQ; 500 uM; Sigma) or 3-aminobenzamide (3-AB; 4 mM; Sigma) before irradiation. Survival Assay About 400 HeLa cells were plated on 6 cm dishes. For treatment with cis-diamminedichloroplatinum(II) (CDDP, Nihonkayaku) or methylmethanesulfonate. (MMS, Sigma), cells were incubated in DMEM containing chemicals for 24 hr, then washed twices, and fresh DMEM was added. For irradiation with X-rays, 8 hr after plating cells were irradiated with indicated dose. Eight days later, cells were stained with 0.3% crystal violet, and colonies were counted. Each experiment was performed three times and standard errors were calculated and are indicated in the graphs. Immunofluorescence Cells were fixed in cold methanol/acetone (1:1) for 10 min at -20 C and probed with rabbit anti-hnRPUL1 (1:50, A300-863A Bethyl), mouse anti-gammaH2AX (1:400; jbw103, Upstate), Mouse anti-PARP1 (1:100 sc-8007, Santa Cruz Biotechnology). The secondary antibody used was Alexa fluor 488 anti-rabbit IgG and 594 anti-mouse IgG (1:400; molecular Probes). Nuclear DNA was stained with 4',6'-diamidino-2-phenylindole (DAPI; 0.5microg/ml, Wako). Fluorescence microscopy was performed using the same microscopy as used in laser micro-irradiation.            Immunoblotting Cells were sonicated in SDS buffer and boiled, and then cleared by centrifugation. Proteins were separated by SDS/PAGE, electroblotted, and detected with the following antibodies: rabbit anti-hnRPUL1 (1:1000; A300-863A, Bethyl), mouse anti-PARP1 (1:3000; sc-8007, Santa Cruz Biotechnology), mouse anti-FLAG (1:3000; F-3165, Sigma), goat anti-actin (1:2000; I-19, Santa Cruz Biotechnology). The secondary antibodies used were from Santa Cruz Biotechnology: anti-rabbit IgG-HRP (1:3000, sc-2004), anti-mouse IgG-HRP (1:3000, sc-2005) and anti-goat IgG-HRP (1:3000, sc-2056).               Stable Cell Lines Stable isogenic cell lines expressing hnRPUL1 tagged with FLAG-HA were established using Flp-In system (Invitrogen) as described previously, according to the manufacturer's protocol. Briefly, we modified pcDNA5/FRT vector (Invitrogen) to introduce various cDNAs attached with an in-frame Xho I site at the start and Not I site at the stop codons and put two different epitope tags tandemly (FLAG-HA) on the 5'-terminus of cloning site. Flp-In-293 cells were cotransfected with a 1:9 ratio of pcDNA/FRT:pOG44 and selected with hygromycin. Hygromycin-resistant cell clones were picked up and expanded. Target protein expression was verified by immunoblotting. Control cell line was generated by transfecting Flp-In-293 cells with pcDNA5/FRT blank vector containing Flag-HA tags.       Local UV Irradiation Local UV irradiation was performed as described previously (Okano et al., 2003). UV irradiation was delivered using a germicidal lamp (GL-10; Toshiba; predominantly 254 nm) at a dose rate of 1.25 J/m2/second. Before UV irradiation, cells were washed once with Hank's buffer and gently covered with a polycarbonate isopore membrane filter containing 3 microm diameter pores (Millipore). Cells were irradiated locally with UV through the pores. Generation of a Stable hnRPUL1 Knockdown Cell Line and Colony Formation Assay Short hairpin siRNA constructs were designed around 21 nucleotide sequences against hnRPUL1 (5'-GCAGGCCTATCGTCCAGAAAT-3'). Oligonucleotides were synthesized and cloned into the psiRNA-h7SKzeo G1 vector (Invivogen). The hnRPUL1 siRNA vector and control vector (psiRNA-h7SKz-Luc, Invivogen) were transfected into HeLa cells by fuGeneHD (Roche). Stable transfectants were selected in the presence of 500 microg/ml zeocin. Knockdown of hnRPUL1 was detected by immunoblotting. For the colony formation assay, cells were plated in duplicate at 400 cells/6-cm dishes. Eight hours after plating, cells were irradiated with X-Ray. Eight days later, colonies were fixed and stained with 0.3% crystal violet in methanol for counting. Three independent experiments were carried out and the standard errors were indicated with an error bar.  Quantitative Real-time PCR RNA was extracted from 30 mg of tumor or normal tissue, and from cultured cells using the TRIzol Reagent(SunshineBio, SN114)according to the manufacturer's instructions. RNA was retrotranscribed using PrimeScript  RT reagent Kit with gDNA Eraser (Takara DRR047A). Real-time PCR assays were performed using SYBR Premix Ex Taq (Takara, DRR420A) and an ABI 7300 Real time PCR system(Applied Biosystems). The primer sequences were as follows: 5'-CAAACAAGAAAACGAGTCAGGC-3' (forward) and 5'-TCTTTCGACTCTGGAATTGCTG-3' (reverse) for hnRPUL1, 5'-CTACTCGGTCCAAGATCGCC- 3' and 5'-TTGAAAAAGCCCTAAAGGCTCA-3'(reverse) for PARP1, 5'-AAAGACCTGTACGCCAACAC-3' (forward) and 5'-GTCATACTCCTGCTTGCTGAT-3' (reverse) for beta-Actin. RNA expression values were normalized versus actin. Thermal cycling was initiated with a denaturation step of 95 for 30 s and consisted of 40 cycles (denaturation at 95 C for 5 s, annealing and elongation at 60 C for 31 s). All experiments were performed in triplicate. A non-template control was included in each experiment. Melting curve analysis and agarose electrophoresis were carried out to validate the specificity of the amplification products.                               Results HnRPUL1 is Recruited to DSBs Sites Although hnRPUL1 was shown to be involved in DNA damage response, the function of hnRPUL1 is still not clear. Recently, hnRPUL1 was shown to be recruited to DNA damage sites induced by laser. In line with the study, we also found that EGFP-hnRPUL1 (variant 4) is transiently recruited to DNA damage sites in our laser system (Figure S1A). Endogenous hnRPUL1 was identified at the irradiated sites and co-localized with gammaH2AX in HeLa cells (Figure S1B). Under the condition of laser micro-irradiation used, laser could induce base damage, SSBs and DSBs. To demonstrate to which DNA damage site hnRPUL1 is recruited, we analyzed whether hnRPUL1 is recruited to the multiple sites of DSBs produced by the restriction enzyme I-SceI within human cells and the sites of SSBs induced by the UV damage endonuclease (UVDE) and local irradiation with UV light in XPA-UVDE cells. As shown in figure 1A, while we observed UV-induced foci formation of GFP-hnRPUL1 over the nucleus, the foci do not coincide with the UV-irradiated site, where SSBs were produced by expressed UVDE. In contrast, a clear focus of expressed EGFP-hnRPUL1 was identified at the same position as Cherry-tTA-ER in cells after transfection with pCMVNLS-I-SceI plasmid, where multiple I-SceI sites are present (Figure 1B). These data suggest that hnRPUL1 is recruited to DSBs sites but not to SSBs. Recruitment of hnRPUL1 to DSBs sites. (A) No recruitment of hnRPUL1 to UVDE-induced SSBs sites indicated by CPD in XPA-UVDE cells after local UV irradiation (60 J/m2). (B) Recruitment of EGFP-hnRPUL1 to DSBs sites induced by I-SceI indicated by focus of EGFP-hnRPUL1 colocalized with that of Cherry-tTA-ER after transfection of the plasmid pCMV-NLS-I-SceI (+I-SceI). Arrows indicate the sites of DSBs produced by I-SceI. Recruitment of hnRPUL1 is Mediated by its C-terminus The full-length of hnRPUL1 (hnRPUL1 variant 1) contains an RGG motif, a SAP motif and a SPRY motif. The RGG motifs are some Arg-Gly-Gly tripepetide repeats which are involved in RNA binding, protein-protein interactions, transcriptional activation and nuclear localization. It had been shown that hnRPUL1 is also methylated on arginine residues in the RGG motif. The SAP motif has DNA binding activity and is found in diverse nuclear proteins involved in transcription, DNA repair, RNA processing or apoptotic chromatin degradation (in chromosomal organization). The SPRY motif is present in a large number of proteins with diverse individual functions in different biological processes and is likely to function through protein-protein interaction. The variant 4 of hnRPUL1, which is used in this study, is shorter at the N-terminus without SAP motif compared to variant 1. To determine which domain is responsible for the recruitment of hnRPUL1 (variant 4), we constructed several EGFP-tagged hnRPUL1 deletion mutants and detected the recruitment of these deletion mutants (Figure 2A). As shown in Figure 2B, the C-terminus of hnRPUL1 without RGG motifs is recruited to DNA damage sites, but the N-terminus with SPRY motif is not, whereas the RGG motif shows a weak recruitment and the C-terminus including RGG motif is most strongly recruited. These data suggested that the C-terminus contains domain(s) to be recruited to DSBs and RGG motif supports the recruitment. HnRPUL1 is recruited to laser-irradiated sites via the C-terminus (aa 561-756).   (A) Schematic presentation of hnRPUL1 domains (top) and deletion mutants (left) and the results of recruitment experiments (right). (B) Live cell imaging of irradiated HeLa cells expressing EGFP-tagged deletion mutants of hnRPUL1. Arrows indicate the sites of irradiation. Downregulation of hnRPUL1 Causes Cell Sensitivity to DSBs Damage In light of the above data, we speculated that hnRPUL1 might play an important role in response to DNA damage. Previous works had shown that downregulation of DSBs response proteins increases cell sensitivity to DSBs damage induced by various genotoxic agents. In order to understand the function of hnRPUL1 in responding to DNA damage, we investigated cell sensitivity to DNA damage after downregulation of hnRPUL1. Firstly, we generated a stable hnRPUL1 knockdown HeLa cell line using a vector-based siRNA approach. Characterization of the established cell line indicates that about 80% knockdown is achieved at the protein level (Figure 3A). Downregulation of hnRPUL1 results in slower growth (Figure S2A), but the distribution percentage of cells in each phase is not changed between hnRPUL1 knockdown cell line and a parallel mock knockdown cell (Figure S2B), suggesting that hnRPUL1 is not involved in regulation of cell cycle. Downregulation of hnRPUL1 causes cell sensitivity to X-Ray and CDDP, but not to MMS (Figure S2C, 3B and 3C). HnRPUL1 knockdown increases cell apoptosis after treatment with CDDP (figure S2D). It is consistent with the above data that hnRPUL1 is recruited to DSBs, but not to SSBs sites, and suggests that hnRPUL1 is involved in DSBs damage response and/or repair. HnRPUL1 knockdown cell showed increased sensitivity to DSB-inducing agents. (A) Immunoblotting analysis of hnRPUL1 stable knockdown cell line and parallel mock knockdown cell line. Actin serves as a loading control for immunoblotting. (B and C) hnRPUL1 knockdown cells cause hypersensitivity to CDDP, but not to MMS. Error bars represent standard errors from two independent experiments. Recruitment of hnRPUL1 is Dependent on Poly(ADP-ribosyl)ation Mediated by PARP1 Previous studies have shown most of DSBs response proteins, such as Ku70/Ku80 and NBS1, to be present at the DSBs sites for a long time (over 1 hr) (and our unpublished data). However, hnRPUL1 is rapidly and transiently recruited to DSBs, suggesting that hnRPUL1 plays a function different from classical DSBs response proteins. Poly(ADP-ribosyl)ation is an important post-translational modification of proteins, where the ADP-ribose moiety is transferred to acceptor proteins from NAD+ by poly(ADP-ribose)polymerases (PARPs). Poly(ADP-ribosyl)ation is involved in the regulation of many cellular proteins, including recruitment of repair proteins to damage sites. Poly(ADP-ribosyl)ation is a quick and transient response to DNA damage, and previous studies have shown that a large number of various hnRNPs can bind to poly(ADP-ribose) (pADPr). Therefore, we analyzed the effect of poly(ADP-ribosyl)ation on the recruitment of hnRPUL1. As shown in Figure 4A, recruitment of EGFP-hnRPUL1 is inhibited by DIQ (PARP inhibitor) treatment. Because poly(ADP-ribosyl)ation is catalyzed mainly by PARP1, we tested the recruitment of hnRPUL1 in the PARP1-/- MEFs. HnRPUL1 is recruited to damage sites in the wild-type MEF cells, but not in the PARP1-/- MEFs (Figure 4B). Co-expression of mDR-hnRPUL1 (red fluorescent protein-tagged hnRPUL1) and EGFP-PARP1 restored the recruitment of hnRPUL1 in the PARP1-/- MEFs (Figure 4C). Endogenous hnRPUL1 was identified at the irradiated sites and co-localized with PARP1 in HeLa cells (Figure 4D). These data suggest that recruitment of hnRPUL1 to damage sites is dependent on poly(ADP-ribosyl)ation catalyzed by PARP1. Interestingly, EGFP-hnRPUL1 were excluded from the laser-irradiated sites in the PARP1-/- MEFs or in the presence of PARP inhibitor. To analyze whether or not this exclusion was due to fluorescence photobleaching and loss of moblity of EGFP-hnRPUL1 resulted by inhibition of poly(ADP-ribosyl)ation, we performed FRAP analysis. The irradiated region was bleached with low dose laser and the fluorescence recovery of EGFP-hnRPUL1 was detected in presence of DIQ. As shown by Figure S3A, we found a quick fluorescence recovery of EGFP-hnRPUL1. It is in line with previous study, suggesting that exclusion of EGFP-hnRPUL1 from DNA damage sites is due to both absence of RNA resulted from local inhibition of transcription at DNA damage site and inhibition of hnRPUL1 recruitment. In line with recruitment of hnRPUL1 through its C-terminus (508-756), recruitment of hnRPUL1 C-terminus (508-756) is also inhibited by PARP1 inhibitor or in the PARP1-/- MEFs cells (Figure S3B and S3C).                         Recruitment of hnRPUL1 is dependent on poly (ADP-ribosyl) ation mediated by PARP1. (A) Recruitment of hnRPUL1 is inhibited by the poly (ADP-ribose) polymerase inhibitor DIQ in HeLa. (B) EGFP-hnRPUL1 is not recruited to irradiated sites in PARP1-deficient MEF cell, but does in PARP1-proficient WT MEF cell. (C) EGFP-hnRPUL1 is recruited to the site of laser-irradiation by coexpression of the EGFP-tagged PARP1 in PARP1-deficient MEF cell. (D) Immunochemical detection of colocalization of endogenous hnRRPUL1 with PARP1 after laser irradiation with BrdU pre-treatment in HeLa cells. Arrows indicate the sites of irradiation. HnRPUL1 is Associated with PARP1 and Affects the Recruitment of PARP1 Having shown that the recruitment of hnRPUL1 to damage site is dependent on poly(ADP-ribosyl)ation catalyzed by PARP1, we investigated whether or not hnRPUL1 is associated with PARP1. We generated a 293 cell line stably expressing FLAG-tagged hnRPUL1. HnRPUL1 was immunoprecipitated from 293 cells extracts by using anti-FLAG antibody and the precipitated proteins were analyzed by western blotting with anti-PARP1 antibody. As shown in Figure 5A, PARP1 was indeed co-immunoprecipitated with FLAG-hnRPUL1, but was not present in the control immonoprecipitant. Furthermore, hnRPUL1 could also be coimmunoprecipitated with PARP1 from the 293 cells extracts using anti-PARP1 antibody (Figure 5B). These data indicated that hnRPUL1 is associated with PARP1. Next, we analyzed that which domain of hnRPUL1 is associated with PARP1. As shown in Figure S4A, PARP1 is coimmunoprecipitated with C-terminus (508-756) of hnRPUL1, but not N-terminus (1-507), which is in good agreement with recruitment of hnRPUL1 mediated by its C-terminus (508-756). Furthermore, we found that hnRPUL1 is ribosylated (Figure S4B). It is in accordance with the recruitment of hnRNPUL1 depended on riboyslation. In order to test whether or not hnRPUL1 has an effect on PARP1, we examined the recruitment of PARP1 in hnRPUL1 knockdown cells. We found that recruitment of GFP-tagged PARP1 at laser-induced DNA damage sites is enhanced (Figure S5). Moreover, we analyzed the influence of poly(ADP-ribosyl)ation on the recruitment of PARP1 itself. Interestingly, recruitment of PARP1 is clearly enhanced in the presence of PARP inhibitor DIQ and 3AB (Figure S5). Since the function of PARP1 at DNA damage sites is poly(ADP-ribosyl)ation, we consider that the enhanced recruitment of PARP1 is a consequence of feedback-regulation for effective poly(ADP-ribosyl)ation. Quantitative evaluation of live cell experiments revealed that hnRPUL1 knockdown enhances the recruitment of PARP1 efficiency (Figure 5C), Further more, transient recruitment of hnRPUL1 to DSBs sites is in accord with transient response of Poly(ADP-ribosyl)ation to DNA damage. For these reasons, hnRPUL1 plays a possible role as a coeffector of PARP1 in PAR synthesis.       HnRPUL1 is associated physically with PARP1 and influences recruitment of PARP1 to laser-induced DNA damage sites. (A) pcDNA5/FRT vector expressing FLAG-HA tagged hnRPUL1 was transfected into Flp-In-293 cells, and a clone stably expressing FLAG-HA-hnRPUL1 (F-hnRPUL1) was isolated and used for coimmunoprecipitation by anti-FLAG M2 affinity gel. A clone stably expressing FLAG-HA tag alone (F-Control) was used as negative control. (B) PARP1 immunoprecipitates from 293 cell contain hnRPUL1. (C) Quantitative evaluation of EGFP-PARP-1 recruitment kinetics in the absence and presence of the PARP inhibitor DIQ, and in hnRPUL1 knockdown cell. Inhibition of PARP activity promotes prominently recruitment of PARP1 to microirradiated sites, in slimily, recruitment of PARP1 is also increased in hnRPUL1 knockdown cell. Error bars represent standard errors from four independent experiments. HnRPUL1 Affects PARP1 Expression by Transcriptional Regulation In order to further test the effect of hnRPUL1 on PARP1, we investigated whether or not downregulation of hnRPUL1 has effect on expression of PARP1. As shown in Figure 6A, the level of PARP1 protein was reduced after hnRPUL1 knockdown. This data indicates that hnRPUL1 plays a role in regulating PARP1 expression. It is well-known that level of protein expression is regulated by two pathways: transcription regulation and proteolytic degradation by the proteasome. For further understanding the mechanism of hnRPUL1 regulating PARP1 expression, we first checked whether or not proteolytic degradation by the proteasome is involved in hnRPUL1 regulating PARP1 expression. As shown in Figure 6B, the level of PARP1 protein is still reduced after knockdown of hnRPUL1 when proteolytic degradation is inhibited by MG132, and this suggested that downregulation of PARP1 after knockdown of hnRPUL1 is involved in transcription regulation. Then we checked the mRNA level of PARP1 by quantitative real-time polymerase chain reaction, as shown in figure 6C, and we found mRNA level of PARP1 is significantly reduced after knockdown of hnRPUL1. In order to avoid that downregulation of PARP1 is due to an \"off-target\" effect of the shRNA, we generated another stable hnRPUL1 knockdown HeLa cell line targeting difference site. Both protein level and mRNA level of PARP1 were also reduced in this cell (Figure S6). Furthermore, previous study has shown that hnRPUL1 has a role in RNA regulation like other hnRNPs. Therefore, these data suggested that hnRPUL1 plays a key role in the transcriptional regulation of PARP1.     HnRPUL1 knockdown reduces PARP1 expression by transcriptional regulation. (A) The level of PARP1 proteins is analyzed by western blotting of total extracts from hnRPUL1 knockdown cell and parallel mock knockdown cell. (B)Analysis of the level of PARP1 proteins after MG132 treatment. (C) The level of PARP1 mRNA is analyzed by quantitative real-time PCR in hnRPUL1 knockdown cell line and a parallel mock knockdown cell with and without MG132 treatment. Error bars represent standard errors from three independent experiments. Discussion In the present work, we have revealed a function of hnRPUL1 proteins in DSBs response. Our data demonstrated that hnRPUL1 is associated with PARP1 and recruited to DSBs sites in a PARP1-mediated poly(ADP-ribosyl)ation-dependent manner. In turn, hnRPUL1 knockdown enhances the recruitment of PARP1 to DSBs sites. Specifically, we showed that hnRPUL1 is also implicated in the transcriptional regulation of PARP1 gene. Thus, we have shown a newly identified role for hnRPUL1 in DNA damage response and repair that correlates with PARP1. HnRPUL1 was first identified as the interacting protein with adenovirus early protein E1B-55 kDa, and sequence analysis suggested it belongs to hnRNP family. HnRNPs are multifunctional proteins, which were described as nuclear RNA-binding proteins. In addition to binding RNA polymerase II transcripts and regulating RNA metabolism, hnRNPs also bind DNA and play a role in telomere elongation, chromatin remodeling and transcription. Furthermore, recent studies have shown that hnRNPs are also involved in DNA damage response and repair. HnRNP B1 interacts with DNA-PK complex and impairs DSBs repair through inhibiting DNA-PK activity. HnRNP C1/C2 binds to chromatin in a DNA-damage-dependent manner, and it also binds to Ku and is phosphorylated by DNA-PK in an RNA-dependent manner, thus suggesting hnRNP C1/C2 may participate in DNA DSBs damage response and repair. HnRNP K, as a cofactor of p53, regulates the transcription in response to DNA damage. Moreover, hnRNP G is able to bind to DNA ends and promotes the fidelity of DNA end-joining through the pathway medicated by p53. Our work provided a new evidence indicating that hnRNPs are implicated in DNA damage response and repair. Recent study has shown that hnRPUL1 is recruited to DNA damage sites induced by laser. It should be noted that laser can induce base damage, SSBs and DSBs. Here, we demonstrated that hnRPUL1 is recruited to DSBs sites, but not to SSBs sites. Although hnRPUL1 is associated with DSB sensor complex MRE11-RAD50-NBS1 (MRN) and recruited to DNA damage sites dependent on MRN, we found that hnRPUL1 is also associated with PARP1 and recruited to DSBs sites in a PARP1-mediated poly(ADP-ribosyl)ation-dependent manner. It suggests that the function of hnRPUL1 in DSBs response is regulated by both PARP1 and MRN. Previous studies have shown PARP1 is involved in DSB repair through both NHEJ and HR by different signaling pathways. PARP1 is the first protein recruited to DNA damage sites and modulates ATM signaling pathway by poly(ADP-ribosyl)ation. It should be noted that PARP1 is associated with MRE11, and is required for recruitment of MRN. Therefore, our data on the PARP1-mediated poly(ADP-ribosyl)ation-dependent recruitment of hnRPUL1 suggests a model that MRN proteins are recruited to DSBs following the recruitment of hnRPUL1 by activation of PARP1 at DSBs. Interestingly, hnRNPG (also known as RBMX), another hnRNP protein, was shown to be associated with PARP1 and recruited to DSBs sites in a PARP1-dependent manner (and our unpublished data). Both hnRPUL1 and hnRNPG have been shown to promote HR by different pathways. Take together, hnRNPs play an important role in DNA damage response by activating different signaling pathway, and are generally regulated by PARP1. Another function of hnRPUL1 is involved in RNA metabolism, which is still incompletely understood. In this study, our data demonstrating that hnRPUL1 knockdown reduces the mRNA level of PARP1 provides the possibility that hnRPUL1 affects DNA damage response indirectly by transcriptional regulation. In conclusion, the results presented in this study identified a new function of hnRPUL1 which plays a role in the maintenance of genomic integrity through interaction with PARP1 and transcriptional regulation of PARP1 expression. Supporting Information References The roles of heterogeneous nuclear ribonucleoproteins in tumour development and progression hnRNP complexes: composition, structure, and function E1B 55-kilodalton-associated protein: a cellular protein with RNA-binding activity implicated in nucleocytoplasmic transport of adenovirus and cellular mRNAs The C-terminal domain of TAP interacts with the nuclear pore complex and promotes export of specific CTE-bearing RNA substrates Gene variants of VAMP8 and HNRPUL1 are associated with early-onset myocardial infarction The interaction of the hnRNP family member E1B-AP5 with p53 Cellular machineries for chromosomal DNA repair Quality control by DNA repair The DNA damage response: ten years after Poly(ADP-ribose): novel functions for an old molecule Poly(ADP-ribose) polymerase and the therapeutic effects of its inhibitors Recruitment of mismatch repair proteins to the site of DNA damage in human cells A polycomb group protein, PHF1, is involved in the response to DNA double-strand breaks in human cell Regulation of DNA-end resection by hnRNPU-like proteins promotes DNA double-strand break signaling and repair The ACF1 complex is required for DNA double-strand break repair in human cells Spatial and temporal cellular responses to single-strand breaks in human cells Heterogeneous nuclear ribonucleoprotein E1B-AP5 is methylated in its Arg-Gly-Gly (RGG) box and interacts with human arginine methyltransferase HRMT1L1 Independent and sequential recruitment of NHEJ and HR factors to DNA damage sites in mammalian cells A proteomics approach for the identification of nucleophosmin and heterogeneous nuclear ribonucleoprotein C1/C2 as chromatin-binding proteins in response to DNA double-strand breaks ATM-dependent chromatin changes silence transcription in cis to DNA double-strand breaks Heterogeneous nuclear ribonucleoprotein B1 protein impairs DNA repair mediated through the inhibition of DNA-dependent protein kinase activity DNA-dependent protein kinase (DNA-PK) phosphorylates nuclear DNA helicase II/RNA helicase A and hnRNP proteins in an RNA-dependent manner p53 promotes the fidelity of DNA end-joining activity by, in part, enhancing the expression of heterogeneous nuclear ribonucleoprotein G. DNA Repair (Amst) SIRT6 promotes DNA repair under stress by activating PARP1 Ku counteracts mobilization of PARP1 and MRN in chromatin damaged with DNA double-strand breaks The alternative end-joining pathway for repair of DNA double-strand breaks requires PARP1 but is not dependent upon microhomologies Ataxia telangiectasia mutated (ATM) signaling network is modulated by a novel poly(ADP-ribose)-dependent pathway in the early response to DNA-damaging agents PARP1-dependent kinetics of recruitment of MRE11 and NBS1 proteins to multiple DNA damage sites A genome-wide homologous recombination screen identifies the RNA-binding protein RBMX as a component of the DNA-damage response",
+    "entities": [
+        {
+            "entityId": "12_19",
+            "span": {
+                "begin": 12,
+                "end": 19
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "66_71",
+            "span": {
+                "begin": 66,
+                "end": 71
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "72_120",
+            "span": {
+                "begin": 72,
+                "end": 120
+            },
+            "entityType": "gene",
+            "entityName": "Heterogeneous nuclear ribonucleoprotein U-like 1",
+            "id": "UMLS:C1415649"
+        },
+        {
+            "entityId": "122_129",
+            "span": {
+                "begin": 122,
+                "end": 129
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "146_194",
+            "span": {
+                "begin": 146,
+                "end": 194
+            },
+            "entityType": "gene",
+            "entityName": "adenovirus early region 1B-associated proteins 5",
+            "id": "UMLS:C0050802"
+        },
+        {
+            "entityId": "196_203",
+            "span": {
+                "begin": 196,
+                "end": 203
+            },
+            "entityType": "gene",
+            "entityName": "E1B-AP5",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "223_226",
+            "span": {
+                "begin": 223,
+                "end": 226
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "249_256",
+            "span": {
+                "begin": 249,
+                "end": 256
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "336_343",
+            "span": {
+                "begin": 336,
+                "end": 343
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "419_426",
+            "span": {
+                "begin": 419,
+                "end": 426
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "446_451",
+            "span": {
+                "begin": 446,
+                "end": 451
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "512_517",
+            "span": {
+                "begin": 512,
+                "end": 517
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "533_536",
+            "span": {
+                "begin": 533,
+                "end": 536
+            },
+            "entityType": "drug",
+            "entityName": "ADP",
+            "id": "UMLS:CHEBI:73342"
+        },
+        {
+            "entityId": "579_586",
+            "span": {
+                "begin": 579,
+                "end": 586
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "625_630",
+            "span": {
+                "begin": 625,
+                "end": 630
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "675_682",
+            "span": {
+                "begin": 675,
+                "end": 682
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "739_749",
+            "span": {
+                "begin": 739,
+                "end": 749
+            },
+            "entityType": "gene",
+            "entityName": "PARP1 gene",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "768_775",
+            "span": {
+                "begin": 768,
+                "end": 775
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "806_811",
+            "span": {
+                "begin": 806,
+                "end": 811
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "860_900",
+            "span": {
+                "begin": 860,
+                "end": 900
+            },
+            "entityType": "gene",
+            "entityName": "Heterogeneous nuclear ribonucleoproteins",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "902_908",
+            "span": {
+                "begin": 902,
+                "end": 908
+            },
+            "entityType": "gene",
+            "entityName": "hnRNPs",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "1001_1005",
+            "span": {
+                "begin": 1001,
+                "end": 1005
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "1031_1037",
+            "span": {
+                "begin": 1031,
+                "end": 1037
+            },
+            "entityType": "gene",
+            "entityName": "hnRNPs",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "1172_1220",
+            "span": {
+                "begin": 1172,
+                "end": 1220
+            },
+            "entityType": "gene",
+            "entityName": "Heterogeneous nuclear ribonucleoprotein U-like 1",
+            "id": "UMLS:C1415649"
+        },
+        {
+            "entityId": "1222_1229",
+            "span": {
+                "begin": 1222,
+                "end": 1229
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "1248_1296",
+            "span": {
+                "begin": 1248,
+                "end": 1296
+            },
+            "entityType": "gene",
+            "entityName": "adenovirus early region 1B-associated proteins 5",
+            "id": "UMLS:C0050802"
+        },
+        {
+            "entityId": "1298_1305",
+            "span": {
+                "begin": 1298,
+                "end": 1305
+            },
+            "entityType": "gene",
+            "entityName": "E1B-AP5",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "1396_1431",
+            "span": {
+                "begin": 1396,
+                "end": 1431
+            },
+            "entityType": "gene",
+            "entityName": "adenovirus early protein E1B-55 kDa",
+            "id": "UMLS:C1332172"
+        },
+        {
+            "entityId": "1485_1492",
+            "span": {
+                "begin": 1485,
+                "end": 1492
+            },
+            "entityType": "gene",
+            "entityName": "hnRNP U",
+            "id": "UMLS:C0898752"
+        },
+        {
+            "entityId": "1497_1504",
+            "span": {
+                "begin": 1497,
+                "end": 1504
+            },
+            "entityType": "gene",
+            "entityName": "hnRNP G",
+            "id": "UMLS:C1419308"
+        },
+        {
+            "entityId": "1506_1513",
+            "span": {
+                "begin": 1506,
+                "end": 1513
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "1550_1562",
+            "span": {
+                "begin": 1550,
+                "end": 1562
+            },
+            "entityType": "gene",
+            "entityName": "hnRNP family",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "1575_1581",
+            "span": {
+                "begin": 1575,
+                "end": 1581
+            },
+            "entityType": "gene",
+            "entityName": "hnRNPs",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "1583_1590",
+            "span": {
+                "begin": 1583,
+                "end": 1590
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "1638_1642",
+            "span": {
+                "begin": 1638,
+                "end": 1642
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "1688_1695",
+            "span": {
+                "begin": 1688,
+                "end": 1695
+            },
+            "entityType": "gene",
+            "entityName": "HnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "1720_1723",
+            "span": {
+                "begin": 1720,
+                "end": 1723
+            },
+            "entityType": "gene",
+            "entityName": "TAP",
+            "id": "NCBIGene:10482"
+        },
+        {
+            "entityId": "1745_1748",
+            "span": {
+                "begin": 1745,
+                "end": 1748
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "1784_1787",
+            "span": {
+                "begin": 1784,
+                "end": 1787
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "1800_1807",
+            "span": {
+                "begin": 1800,
+                "end": 1807
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "1871_1878",
+            "span": {
+                "begin": 1871,
+                "end": 1878
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "1928_1949",
+            "span": {
+                "begin": 1928,
+                "end": 1949
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "1951_1953",
+            "span": {
+                "begin": 1951,
+                "end": 1953
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "1974_1981",
+            "span": {
+                "begin": 1974,
+                "end": 1981
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "2025_2028",
+            "span": {
+                "begin": 2025,
+                "end": 2028
+            },
+            "entityType": "gene",
+            "entityName": "p53",
+            "id": "UMLS:C0079419"
+        },
+        {
+            "entityId": "2041_2044",
+            "span": {
+                "begin": 2041,
+                "end": 2044
+            },
+            "entityType": "gene",
+            "entityName": "p53",
+            "id": "UMLS:C0079419"
+        },
+        {
+            "entityId": "2112_2119",
+            "span": {
+                "begin": 2112,
+                "end": 2119
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "2140_2143",
+            "span": {
+                "begin": 2140,
+                "end": 2143
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C3540546"
+        },
+        {
+            "entityId": "2225_2232",
+            "span": {
+                "begin": 2225,
+                "end": 2232
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "2980_2985",
+            "span": {
+                "begin": 2980,
+                "end": 2985
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "3068_3071",
+            "span": {
+                "begin": 3068,
+                "end": 3071
+            },
+            "entityType": "gene",
+            "entityName": "ATM",
+            "id": "UMLS:C3711796"
+        },
+        {
+            "entityId": "3073_3076",
+            "span": {
+                "begin": 3073,
+                "end": 3076
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C3540546"
+        },
+        {
+            "entityId": "3078_3084",
+            "span": {
+                "begin": 3078,
+                "end": 3084
+            },
+            "entityType": "gene",
+            "entityName": "DNA-PK",
+            "id": "UMLS:C0212694"
+        },
+        {
+            "entityId": "3089_3092",
+            "span": {
+                "begin": 3089,
+                "end": 3092
+            },
+            "entityType": "gene",
+            "entityName": "p53",
+            "id": "UMLS:C0079419"
+        },
+        {
+            "entityId": "3094_3099",
+            "span": {
+                "begin": 3094,
+                "end": 3099
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "3162_3167",
+            "span": {
+                "begin": 3162,
+                "end": 3167
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "3304_3311",
+            "span": {
+                "begin": 3304,
+                "end": 3311
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "3376_3383",
+            "span": {
+                "begin": 3376,
+                "end": 3383
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "3488_3495",
+            "span": {
+                "begin": 3488,
+                "end": 3495
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "3862_3869",
+            "span": {
+                "begin": 3862,
+                "end": 3869
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "3889_3894",
+            "span": {
+                "begin": 3889,
+                "end": 3894
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "3992_3999",
+            "span": {
+                "begin": 3992,
+                "end": 3999
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "4008_4013",
+            "span": {
+                "begin": 4008,
+                "end": 4013
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "4123_4130",
+            "span": {
+                "begin": 4123,
+                "end": 4130
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "4340_4345",
+            "span": {
+                "begin": 4340,
+                "end": 4345
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "4394_4404",
+            "span": {
+                "begin": 4394,
+                "end": 4404
+            },
+            "entityType": "cell",
+            "entityName": "HeLa cells",
+            "id": "UMLS:C0018873"
+        },
+        {
+            "entityId": "4410_4429",
+            "span": {
+                "begin": 4410,
+                "end": 4429
+            },
+            "entityType": "DNA",
+            "entityName": "transcript variants",
+            "id": "UMLS:C1519595"
+        },
+        {
+            "entityId": "4504_4516",
+            "span": {
+                "begin": 4504,
+                "end": 4516
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1 gene",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "4518_4527",
+            "span": {
+                "begin": 4518,
+                "end": 4527
+            },
+            "entityType": "gene",
+            "entityName": "Isoform d",
+            "id": "UMLS:C0597298"
+        },
+        {
+            "entityId": "4603_4612",
+            "span": {
+                "begin": 4603,
+                "end": 4612
+            },
+            "entityType": "gene",
+            "entityName": "isoform a",
+            "id": "UMLS:C0597298"
+        },
+        {
+            "entityId": "4754_4761",
+            "span": {
+                "begin": 4754,
+                "end": 4761
+            },
+            "entityType": "gene",
+            "entityName": "HnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "4987_4992",
+            "span": {
+                "begin": 4987,
+                "end": 4992
+            },
+            "entityType": "gene",
+            "entityName": "Xho I",
+            "id": "UMLS:C0221138"
+        },
+        {
+            "entityId": "4996_5001",
+            "span": {
+                "begin": 4996,
+                "end": 5001
+            },
+            "entityType": "gene",
+            "entityName": "Sal I",
+            "id": "UMLS:C0221138"
+        },
+        {
+            "entityId": "5024_5034",
+            "span": {
+                "begin": 5024,
+                "end": 5034
+            },
+            "entityType": "gene",
+            "entityName": "Not I site",
+            "id": "UMLS:C0221138"
+        },
+        {
+            "entityId": "5077_5084",
+            "span": {
+                "begin": 5077,
+                "end": 5084
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "5198_5208",
+            "span": {
+                "begin": 5198,
+                "end": 5208
+            },
+            "entityType": "cell",
+            "entityName": "Cell Lines",
+            "id": "UMLS:C0007600"
+        },
+        {
+            "entityId": "5249_5259",
+            "span": {
+                "begin": 5249,
+                "end": 5259
+            },
+            "entityType": "cell",
+            "entityName": "cell lines",
+            "id": "UMLS:C0007600"
+        },
+        {
+            "entityId": "5285_5289",
+            "span": {
+                "begin": 5285,
+                "end": 5289
+            },
+            "entityType": "cell",
+            "entityName": "HeLa",
+            "id": "UMLS:C0018873"
+        },
+        {
+            "entityId": "5301_5310",
+            "span": {
+                "begin": 5301,
+                "end": 5310
+            },
+            "entityType": "gene",
+            "entityName": "PARP1-/-)",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "5312_5322",
+            "span": {
+                "begin": 5312,
+                "end": 5322
+            },
+            "entityType": "cell",
+            "entityName": "Flp-In-293",
+            "id": "cellosaurus:CVCL_U421"
+        },
+        {
+            "entityId": "5362_5365",
+            "span": {
+                "begin": 5362,
+                "end": 5365
+            },
+            "entityType": "gene",
+            "entityName": "SSB",
+            "id": "UMLS:C4553537"
+        },
+        {
+            "entityId": "5436_5453",
+            "span": {
+                "begin": 5436,
+                "end": 5453
+            },
+            "entityType": "species",
+            "entityName": "Neurospora crassa",
+            "id": "UMLS:C0027923"
+        },
+        {
+            "entityId": "5456_5460",
+            "span": {
+                "begin": 5456,
+                "end": 5460
+            },
+            "entityType": "cell",
+            "entityName": "U2OS",
+            "id": "cellosaurus:CVCL_0042"
+        },
+        {
+            "entityId": "5461_5464",
+            "span": {
+                "begin": 5461,
+                "end": 5464
+            },
+            "entityType": "gene",
+            "entityName": "TRE",
+            "id": "UMLS:C1421113"
+        },
+        {
+            "entityId": "5465_5474",
+            "span": {
+                "begin": 5465,
+                "end": 5474
+            },
+            "entityType": "gene",
+            "entityName": "I-SceI-19",
+            "id": "UMLS:C0221138"
+        },
+        {
+            "entityId": "5480_5486",
+            "span": {
+                "begin": 5480,
+                "end": 5486
+            },
+            "entityType": "gene",
+            "entityName": "I-SceI",
+            "id": "UMLS:C0221138"
+        },
+        {
+            "entityId": "5516_5526",
+            "span": {
+                "begin": 5516,
+                "end": 5526
+            },
+            "entityType": "cell",
+            "entityName": "cell lines",
+            "id": "UMLS:C0007600"
+        },
+        {
+            "entityId": "5601_5612",
+            "span": {
+                "begin": 5601,
+                "end": 5612
+            },
+            "entityType": "drug",
+            "entityName": "L-glutamine",
+            "id": "UMLS:C0017797"
+        },
+        {
+            "entityId": "5627_5633",
+            "span": {
+                "begin": 5627,
+                "end": 5633
+            },
+            "entityType": "species",
+            "entityName": "bovine",
+            "id": "UMLS:C3667982"
+        },
+        {
+            "entityId": "6066_6080",
+            "span": {
+                "begin": 6066,
+                "end": 6080
+            },
+            "entityType": "cell",
+            "entityName": "cultured cells",
+            "id": "UMLS:C0007635"
+        },
+        {
+            "entityId": "6159_6181",
+            "span": {
+                "begin": 6159,
+                "end": 6181
+            },
+            "entityType": "drug",
+            "entityName": "5-bromo-2-deoxyuridine",
+            "id": "UMLS:C0006233"
+        },
+        {
+            "entityId": "6183_6187",
+            "span": {
+                "begin": 6183,
+                "end": 6187
+            },
+            "entityType": "drug",
+            "entityName": "BrdU",
+            "id": "UMLS:C0006233"
+        },
+        {
+            "entityId": "6376_6381",
+            "span": {
+                "begin": 6376,
+                "end": 6381
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "6553_6557",
+            "span": {
+                "begin": 6553,
+                "end": 6557
+            },
+            "entityType": "gene",
+            "entityName": "PARP",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "6616_6641",
+            "span": {
+                "begin": 6616,
+                "end": 6641
+            },
+            "entityType": "drug",
+            "entityName": "1,5-dihydroxyisoquinoline",
+            "id": "mesh:C095653"
+        },
+        {
+            "entityId": "6666_6682",
+            "span": {
+                "begin": 6666,
+                "end": 6682
+            },
+            "entityType": "drug",
+            "entityName": "3-aminobenzamide",
+            "id": "UMLS:C0047215"
+        },
+        {
+            "entityId": "6684_6688",
+            "span": {
+                "begin": 6684,
+                "end": 6688
+            },
+            "entityType": "drug",
+            "entityName": "3-AB",
+            "id": "UMLS:C0047215"
+        },
+        {
+            "entityId": "6748_6758",
+            "span": {
+                "begin": 6748,
+                "end": 6758
+            },
+            "entityType": "cell",
+            "entityName": "HeLa cells",
+            "id": "UMLS:C0018873"
+        },
+        {
+            "entityId": "6806_6838",
+            "span": {
+                "begin": 6806,
+                "end": 6838
+            },
+            "entityType": "drug",
+            "entityName": "cis-diamminedichloroplatinum(II)",
+            "id": "UMLS:C0008838"
+        },
+        {
+            "entityId": "6840_6844",
+            "span": {
+                "begin": 6840,
+                "end": 6844
+            },
+            "entityType": "drug",
+            "entityName": "CDDP",
+            "id": "UMLS:C0008838"
+        },
+        {
+            "entityId": "6862_6885",
+            "span": {
+                "begin": 6862,
+                "end": 6885
+            },
+            "entityType": "drug",
+            "entityName": "methylmethanesulfonate.",
+            "id": "UMLS:C0025706"
+        },
+        {
+            "entityId": "6887_6890",
+            "span": {
+                "begin": 6887,
+                "end": 6890
+            },
+            "entityType": "drug",
+            "entityName": "MMS",
+            "id": "UMLS:C0025706"
+        },
+        {
+            "entityId": "7145_7159",
+            "span": {
+                "begin": 7145,
+                "end": 7159
+            },
+            "entityType": "drug",
+            "entityName": "crystal violet",
+            "id": "UMLS:C0017440"
+        },
+        {
+            "entityId": "7343_7351",
+            "span": {
+                "begin": 7343,
+                "end": 7351
+            },
+            "entityType": "drug",
+            "entityName": "methanol",
+            "id": "UMLS:C0001963"
+        },
+        {
+            "entityId": "7352_7359",
+            "span": {
+                "begin": 7352,
+                "end": 7359
+            },
+            "entityType": "drug",
+            "entityName": "acetone",
+            "id": "UMLS:C0001002"
+        },
+        {
+            "entityId": "7402_7408",
+            "span": {
+                "begin": 7402,
+                "end": 7408
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "7495_7500",
+            "span": {
+                "begin": 7495,
+                "end": 7500
+            },
+            "entityType": "species",
+            "entityName": "Mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "7587_7592",
+            "span": {
+                "begin": 7587,
+                "end": 7592
+            },
+            "entityType": "drug",
+            "entityName": "Alexa",
+            "id": "UMLS:C1071616"
+        },
+        {
+            "entityId": "7603_7618",
+            "span": {
+                "begin": 7603,
+                "end": 7618
+            },
+            "entityType": "gene",
+            "entityName": "anti-rabbit IgG",
+            "id": "UMLS:C0051979"
+        },
+        {
+            "entityId": "7632_7637",
+            "span": {
+                "begin": 7632,
+                "end": 7637
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "7698_7728",
+            "span": {
+                "begin": 7698,
+                "end": 7728
+            },
+            "entityType": "drug",
+            "entityName": "4',6'-diamidino-2-phenylindole",
+            "id": "mesh:C007293"
+        },
+        {
+            "entityId": "7730_7734",
+            "span": {
+                "begin": 7730,
+                "end": 7734
+            },
+            "entityType": "drug",
+            "entityName": "DAPI",
+            "id": "UMLS:C0057142"
+        },
+        {
+            "entityId": "8063_8082",
+            "span": {
+                "begin": 8063,
+                "end": 8082
+            },
+            "entityType": "gene",
+            "entityName": "rabbit anti-hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "8112_8117",
+            "span": {
+                "begin": 8112,
+                "end": 8117
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "8174_8179",
+            "span": {
+                "begin": 8174,
+                "end": 8179
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "8215_8219",
+            "span": {
+                "begin": 8215,
+                "end": 8219
+            },
+            "entityType": "species",
+            "entityName": "goat",
+            "id": "UMLS:C1510458"
+        },
+        {
+            "entityId": "8339_8358",
+            "span": {
+                "begin": 8339,
+                "end": 8358
+            },
+            "entityType": "gene",
+            "entityName": "anti-rabbit IgG-HRP",
+            "id": "UMLS:C0019941"
+        },
+        {
+            "entityId": "8378_8396",
+            "span": {
+                "begin": 8378,
+                "end": 8396
+            },
+            "entityType": "gene",
+            "entityName": "anti-mouse IgG-HRP",
+            "id": "UMLS:C0019941"
+        },
+        {
+            "entityId": "8419_8436",
+            "span": {
+                "begin": 8419,
+                "end": 8436
+            },
+            "entityType": "gene",
+            "entityName": "anti-goat IgG-HRP",
+            "id": "UMLS:C0019941"
+        },
+        {
+            "entityId": "8470_8487",
+            "span": {
+                "begin": 8470,
+                "end": 8487
+            },
+            "entityType": "cell",
+            "entityName": "Stable Cell Lines",
+            "id": "UMLS:C0598091"
+        },
+        {
+            "entityId": "8495_8514",
+            "span": {
+                "begin": 8495,
+                "end": 8514
+            },
+            "entityType": "cell",
+            "entityName": "isogenic cell lines",
+            "id": "UMLS:C0007600"
+        },
+        {
+            "entityId": "8526_8533",
+            "span": {
+                "begin": 8526,
+                "end": 8533
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "8776_8786",
+            "span": {
+                "begin": 8776,
+                "end": 8786
+            },
+            "entityType": "gene",
+            "entityName": "Xho I site",
+            "id": "UMLS:C0221138"
+        },
+        {
+            "entityId": "8804_8809",
+            "span": {
+                "begin": 8804,
+                "end": 8809
+            },
+            "entityType": "gene",
+            "entityName": "Not I",
+            "id": "UMLS:C0221138"
+        },
+        {
+            "entityId": "8884_8886",
+            "span": {
+                "begin": 8884,
+                "end": 8886
+            },
+            "entityType": "gene",
+            "entityName": "HA",
+            "id": "UMLS:C4285347"
+        },
+        {
+            "entityId": "9014_9024",
+            "span": {
+                "begin": 9014,
+                "end": 9024
+            },
+            "entityType": "drug",
+            "entityName": "hygromycin",
+            "id": "UMLS:C0063201"
+        },
+        {
+            "entityId": "9026_9058",
+            "span": {
+                "begin": 9026,
+                "end": 9058
+            },
+            "entityType": "cell",
+            "entityName": "Hygromycin-resistant cell clones",
+            "id": "UMLS:C0009013"
+        },
+        {
+            "entityId": "9256_9258",
+            "span": {
+                "begin": 9256,
+                "end": 9258
+            },
+            "entityType": "gene",
+            "entityName": "HA",
+            "id": "UMLS:C4285347"
+        },
+        {
+            "entityId": "9592_9605",
+            "span": {
+                "begin": 9592,
+                "end": 9605
+            },
+            "entityType": "drug",
+            "entityName": "polycarbonate",
+            "id": "UMLS:C0071524"
+        },
+        {
+            "entityId": "9758_9785",
+            "span": {
+                "begin": 9758,
+                "end": 9785
+            },
+            "entityType": "cell",
+            "entityName": "hnRPUL1 Knockdown Cell Line",
+            "id": "UMLS:C0007600"
+        },
+        {
+            "entityId": "9813_9832",
+            "span": {
+                "begin": 9813,
+                "end": 9832
+            },
+            "entityType": "DNA",
+            "entityName": "Short hairpin siRNA",
+            "id": "UMLS:C1099354"
+        },
+        {
+            "entityId": "9897_9904",
+            "span": {
+                "begin": 9897,
+                "end": 9904
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "10124_10134",
+            "span": {
+                "begin": 10124,
+                "end": 10134
+            },
+            "entityType": "cell",
+            "entityName": "HeLa cells",
+            "id": "UMLS:C0018873"
+        },
+        {
+            "entityId": "10224_10230",
+            "span": {
+                "begin": 10224,
+                "end": 10230
+            },
+            "entityType": "drug",
+            "entityName": "zeocin",
+            "id": "UMLS:C0537913"
+        },
+        {
+            "entityId": "10245_10252",
+            "span": {
+                "begin": 10245,
+                "end": 10252
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "10495_10509",
+            "span": {
+                "begin": 10495,
+                "end": 10509
+            },
+            "entityType": "drug",
+            "entityName": "crystal violet",
+            "id": "UMLS:C0017440"
+        },
+        {
+            "entityId": "10513_10521",
+            "span": {
+                "begin": 10513,
+                "end": 10521
+            },
+            "entityType": "drug",
+            "entityName": "methanol",
+            "id": "UMLS:C0001963"
+        },
+        {
+            "entityId": "10669_10672",
+            "span": {
+                "begin": 10669,
+                "end": 10672
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "10701_10706",
+            "span": {
+                "begin": 10701,
+                "end": 10706
+            },
+            "entityType": "disease",
+            "entityName": "tumor",
+            "id": "UMLS:C0027651"
+        },
+        {
+            "entityId": "10734_10748",
+            "span": {
+                "begin": 10734,
+                "end": 10748
+            },
+            "entityType": "cell",
+            "entityName": "cultured cells",
+            "id": "UMLS:C0007635"
+        },
+        {
+            "entityId": "10839_10842",
+            "span": {
+                "begin": 10839,
+                "end": 10842
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "11194_11201",
+            "span": {
+                "begin": 11194,
+                "end": 11201
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "11277_11282",
+            "span": {
+                "begin": 11277,
+                "end": 11282
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "11367_11377",
+            "span": {
+                "begin": 11367,
+                "end": 11377
+            },
+            "entityType": "gene",
+            "entityName": "beta-Actin",
+            "id": "UMLS:C0005186"
+        },
+        {
+            "entityId": "11379_11382",
+            "span": {
+                "begin": 11379,
+                "end": 11382
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "11424_11429",
+            "span": {
+                "begin": 11424,
+                "end": 11429
+            },
+            "entityType": "gene",
+            "entityName": "actin",
+            "id": "UMLS:C0001271"
+        },
+        {
+            "entityId": "11870_11877",
+            "span": {
+                "begin": 11870,
+                "end": 11877
+            },
+            "entityType": "gene",
+            "entityName": "HnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "11914_11921",
+            "span": {
+                "begin": 11914,
+                "end": 11921
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "11987_11994",
+            "span": {
+                "begin": 11987,
+                "end": 11994
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "12025_12032",
+            "span": {
+                "begin": 12025,
+                "end": 12032
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "12145_12152",
+            "span": {
+                "begin": 12145,
+                "end": 12152
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "12255_12262",
+            "span": {
+                "begin": 12255,
+                "end": 12262
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "12337_12347",
+            "span": {
+                "begin": 12337,
+                "end": 12347
+            },
+            "entityType": "cell",
+            "entityName": "HeLa cells",
+            "id": "UMLS:C0018873"
+        },
+        {
+            "entityId": "12502_12509",
+            "span": {
+                "begin": 12502,
+                "end": 12509
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "12544_12551",
+            "span": {
+                "begin": 12544,
+                "end": 12551
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "12630_12632",
+            "span": {
+                "begin": 12630,
+                "end": 12632
+            },
+            "entityType": "gene",
+            "entityName": "I-",
+            "id": "UMLS:C0221138"
+        },
+        {
+            "entityId": "12693_12715",
+            "span": {
+                "begin": 12693,
+                "end": 12715
+            },
+            "entityType": "gene",
+            "entityName": "UV damage endonuclease",
+            "id": "UMLS:C0077945"
+        },
+        {
+            "entityId": "12717_12721",
+            "span": {
+                "begin": 12717,
+                "end": 12721
+            },
+            "entityType": "gene",
+            "entityName": "UVDE",
+            "id": "UMLS:C0077945"
+        },
+        {
+            "entityId": "12848_12851",
+            "span": {
+                "begin": 12848,
+                "end": 12851
+            },
+            "entityType": "gene",
+            "entityName": "GFP",
+            "id": "UMLS:C0120285"
+        },
+        {
+            "entityId": "12852_12859",
+            "span": {
+                "begin": 12852,
+                "end": 12859
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "12970_12974",
+            "span": {
+                "begin": 12970,
+                "end": 12974
+            },
+            "entityType": "gene",
+            "entityName": "UVDE",
+            "id": "UMLS:C0077945"
+        },
+        {
+            "entityId": "13021_13028",
+            "span": {
+                "begin": 13021,
+                "end": 13028
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "13154_13166",
+            "span": {
+                "begin": 13154,
+                "end": 13166
+            },
+            "entityType": "gene",
+            "entityName": "I-SceI sites",
+            "id": "UMLS:C0221138"
+        },
+        {
+            "entityId": "13216_13223",
+            "span": {
+                "begin": 13216,
+                "end": 13223
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "13704_13711",
+            "span": {
+                "begin": 13704,
+                "end": 13711
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "13761_13768",
+            "span": {
+                "begin": 13761,
+                "end": 13768
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "13770_13787",
+            "span": {
+                "begin": 13770,
+                "end": 13787
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1 variant 1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "13866_13889",
+            "span": {
+                "begin": 13866,
+                "end": 13889
+            },
+            "entityType": "drug",
+            "entityName": "Arg-Gly-Gly tripepetide",
+            "id": "UMLS:C0017890"
+        },
+        {
+            "entityId": "13920_13923",
+            "span": {
+                "begin": 13920,
+                "end": 13923
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "14039_14046",
+            "span": {
+                "begin": 14039,
+                "end": 14046
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "14069_14077",
+            "span": {
+                "begin": 14069,
+                "end": 14077
+            },
+            "entityType": "drug",
+            "entityName": "arginine",
+            "id": "UMLS:C0003765"
+        },
+        {
+            "entityId": "14109_14118",
+            "span": {
+                "begin": 14109,
+                "end": 14118
+            },
+            "entityType": "gene",
+            "entityName": "SAP motif",
+            "id": "UMLS:C1514562"
+        },
+        {
+            "entityId": "14224_14227",
+            "span": {
+                "begin": 14224,
+                "end": 14227
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "14509_14516",
+            "span": {
+                "begin": 14509,
+                "end": 14516
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "14584_14587",
+            "span": {
+                "begin": 14584,
+                "end": 14587
+            },
+            "entityType": "gene",
+            "entityName": "SAP",
+            "id": "UMLS:C1456795"
+        },
+        {
+            "entityId": "14681_14700",
+            "span": {
+                "begin": 14681,
+                "end": 14700
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1 (variant 4)",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "14737_14761",
+            "span": {
+                "begin": 14737,
+                "end": 14761
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1 deletion mutants",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "14871_14878",
+            "span": {
+                "begin": 14871,
+                "end": 14878
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "15586_15593",
+            "span": {
+                "begin": 15586,
+                "end": 15593
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "15680_15687",
+            "span": {
+                "begin": 15680,
+                "end": 15687
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "15933_15940",
+            "span": {
+                "begin": 15933,
+                "end": 15940
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "16041_16048",
+            "span": {
+                "begin": 16041,
+                "end": 16048
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "16081_16113",
+            "span": {
+                "begin": 16081,
+                "end": 16113
+            },
+            "entityType": "cell",
+            "entityName": "hnRPUL1 knockdown HeLa cell line",
+            "id": "UMLS:C0018873"
+        },
+        {
+            "entityId": "16175_16196",
+            "span": {
+                "begin": 16175,
+                "end": 16196
+            },
+            "entityType": "cell",
+            "entityName": "established cell line",
+            "id": "UMLS:C0598089"
+        },
+        {
+            "entityId": "16296_16303",
+            "span": {
+                "begin": 16296,
+                "end": 16303
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "16421_16448",
+            "span": {
+                "begin": 16421,
+                "end": 16448
+            },
+            "entityType": "cell",
+            "entityName": "hnRPUL1 knockdown cell line",
+            "id": "UMLS:C0007600"
+        },
+        {
+            "entityId": "16514_16521",
+            "span": {
+                "begin": 16514,
+                "end": 16521
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "16585_16592",
+            "span": {
+                "begin": 16585,
+                "end": 16592
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "16630_16634",
+            "span": {
+                "begin": 16630,
+                "end": 16634
+            },
+            "entityType": "drug",
+            "entityName": "CDDP",
+            "id": "UMLS:C0008838"
+        },
+        {
+            "entityId": "16647_16650",
+            "span": {
+                "begin": 16647,
+                "end": 16650
+            },
+            "entityType": "drug",
+            "entityName": "MMS",
+            "id": "UMLS:C0025706"
+        },
+        {
+            "entityId": "16676_16683",
+            "span": {
+                "begin": 16676,
+                "end": 16683
+            },
+            "entityType": "gene",
+            "entityName": "HnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "16740_16744",
+            "span": {
+                "begin": 16740,
+                "end": 16744
+            },
+            "entityType": "drug",
+            "entityName": "CDDP",
+            "id": "UMLS:C0008838"
+        },
+        {
+            "entityId": "16801_16808",
+            "span": {
+                "begin": 16801,
+                "end": 16808
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "16872_16879",
+            "span": {
+                "begin": 16872,
+                "end": 16879
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "17334_17341",
+            "span": {
+                "begin": 17334,
+                "end": 17341
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "17393_17398",
+            "span": {
+                "begin": 17393,
+                "end": 17398
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "17467_17471",
+            "span": {
+                "begin": 17467,
+                "end": 17471
+            },
+            "entityType": "gene",
+            "entityName": "Ku70",
+            "id": "UMLS:C1311257"
+        },
+        {
+            "entityId": "17472_17476",
+            "span": {
+                "begin": 17472,
+                "end": 17476
+            },
+            "entityType": "gene",
+            "entityName": "Ku80",
+            "id": "UMLS:C1337034"
+        },
+        {
+            "entityId": "17481_17485",
+            "span": {
+                "begin": 17481,
+                "end": 17485
+            },
+            "entityType": "gene",
+            "entityName": "NBS1",
+            "id": "UMLS:C3811665"
+        },
+        {
+            "entityId": "17584_17591",
+            "span": {
+                "begin": 17584,
+                "end": 17591
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "17654_17661",
+            "span": {
+                "begin": 17654,
+                "end": 17661
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "17822_17825",
+            "span": {
+                "begin": 17822,
+                "end": 17825
+            },
+            "entityType": "drug",
+            "entityName": "ADP",
+            "id": "UMLS:CHEBI:73342"
+        },
+        {
+            "entityId": "17826_17832",
+            "span": {
+                "begin": 17826,
+                "end": 17832
+            },
+            "entityType": "drug",
+            "entityName": "ribose",
+            "id": "UMLS:C0035549"
+        },
+        {
+            "entityId": "17881_17884",
+            "span": {
+                "begin": 17881,
+                "end": 17884
+            },
+            "entityType": "drug",
+            "entityName": "NAD",
+            "id": "UMLS:C0027270"
+        },
+        {
+            "entityId": "17889_17916",
+            "span": {
+                "begin": 17889,
+                "end": 17916
+            },
+            "entityType": "gene",
+            "entityName": "poly(ADP-ribose)polymerases",
+            "id": "UMLS:C0032405"
+        },
+        {
+            "entityId": "17918_17923",
+            "span": {
+                "begin": 17918,
+                "end": 17923
+            },
+            "entityType": "gene",
+            "entityName": "PARPs",
+            "id": "UMLS:C0032405"
+        },
+        {
+            "entityId": "18199_18205",
+            "span": {
+                "begin": 18199,
+                "end": 18205
+            },
+            "entityType": "gene",
+            "entityName": "hnRNPs",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "18218_18234",
+            "span": {
+                "begin": 18218,
+                "end": 18234
+            },
+            "entityType": "drug",
+            "entityName": "poly(ADP-ribose)",
+            "id": "mesh:D011064"
+        },
+        {
+            "entityId": "18236_18241",
+            "span": {
+                "begin": 18236,
+                "end": 18241
+            },
+            "entityType": "drug",
+            "entityName": "pADPr",
+            "id": "UMLS:C0032403"
+        },
+        {
+            "entityId": "18326_18333",
+            "span": {
+                "begin": 18326,
+                "end": 18333
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "18378_18385",
+            "span": {
+                "begin": 18378,
+                "end": 18385
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "18407_18411",
+            "span": {
+                "begin": 18407,
+                "end": 18411
+            },
+            "entityType": "gene",
+            "entityName": "PARP",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "18488_18493",
+            "span": {
+                "begin": 18488,
+                "end": 18493
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "18524_18531",
+            "span": {
+                "begin": 18524,
+                "end": 18531
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "18554_18561",
+            "span": {
+                "begin": 18554,
+                "end": 18561
+            },
+            "entityType": "gene",
+            "entityName": "HnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "18682_18689",
+            "span": {
+                "begin": 18682,
+                "end": 18689
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "18722_18729",
+            "span": {
+                "begin": 18722,
+                "end": 18729
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "18740_18745",
+            "span": {
+                "begin": 18740,
+                "end": 18745
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "18774_18781",
+            "span": {
+                "begin": 18774,
+                "end": 18781
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "18789_18797",
+            "span": {
+                "begin": 18789,
+                "end": 18797
+            },
+            "entityType": "gene",
+            "entityName": "PARP1-/-",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "18827_18834",
+            "span": {
+                "begin": 18827,
+                "end": 18834
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "18896_18901",
+            "span": {
+                "begin": 18896,
+                "end": 18901
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "18905_18915",
+            "span": {
+                "begin": 18905,
+                "end": 18915
+            },
+            "entityType": "cell",
+            "entityName": "HeLa cells",
+            "id": "UMLS:C0018873"
+        },
+        {
+            "entityId": "18968_18975",
+            "span": {
+                "begin": 18968,
+                "end": 18975
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "19044_19049",
+            "span": {
+                "begin": 19044,
+                "end": 19049
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "19071_19078",
+            "span": {
+                "begin": 19071,
+                "end": 19078
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "19168_19172",
+            "span": {
+                "begin": 19168,
+                "end": 19172
+            },
+            "entityType": "gene",
+            "entityName": "PARP",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "19292_19299",
+            "span": {
+                "begin": 19292,
+                "end": 19299
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "19471_19478",
+            "span": {
+                "begin": 19471,
+                "end": 19478
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "19583_19590",
+            "span": {
+                "begin": 19583,
+                "end": 19590
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "19661_19668",
+            "span": {
+                "begin": 19661,
+                "end": 19668
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "19717_19720",
+            "span": {
+                "begin": 19717,
+                "end": 19720
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "19806_19813",
+            "span": {
+                "begin": 19806,
+                "end": 19813
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "19855_19862",
+            "span": {
+                "begin": 19855,
+                "end": 19862
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "19912_19930",
+            "span": {
+                "begin": 19912,
+                "end": 19930
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1 C-terminus",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "19962_19967",
+            "span": {
+                "begin": 19962,
+                "end": 19967
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "20680_20687",
+            "span": {
+                "begin": 20680,
+                "end": 20687
+            },
+            "entityType": "gene",
+            "entityName": "HnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "20707_20712",
+            "span": {
+                "begin": 20707,
+                "end": 20712
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "20744_20749",
+            "span": {
+                "begin": 20744,
+                "end": 20749
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "20787_20794",
+            "span": {
+                "begin": 20787,
+                "end": 20794
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "20862_20867",
+            "span": {
+                "begin": 20862,
+                "end": 20867
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "20900_20907",
+            "span": {
+                "begin": 20900,
+                "end": 20907
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "20927_20932",
+            "span": {
+                "begin": 20927,
+                "end": 20932
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "20949_20962",
+            "span": {
+                "begin": 20949,
+                "end": 20962
+            },
+            "entityType": "cell",
+            "entityName": "293 cell line",
+            "id": "UMLS:C0007600"
+        },
+        {
+            "entityId": "20981_21000",
+            "span": {
+                "begin": 20981,
+                "end": 21000
+            },
+            "entityType": "gene",
+            "entityName": "FLAG-tagged hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "21002_21009",
+            "span": {
+                "begin": 21002,
+                "end": 21009
+            },
+            "entityType": "gene",
+            "entityName": "HnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "21066_21084",
+            "span": {
+                "begin": 21066,
+                "end": 21084
+            },
+            "entityType": "gene",
+            "entityName": "anti-FLAG antibody",
+            "id": "UMLS:C0003242"
+        },
+        {
+            "entityId": "21154_21173",
+            "span": {
+                "begin": 21154,
+                "end": 21173
+            },
+            "entityType": "gene",
+            "entityName": "anti-PARP1 antibody",
+            "id": "UMLS:C0003242"
+        },
+        {
+            "entityId": "21198_21203",
+            "span": {
+                "begin": 21198,
+                "end": 21203
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "21247_21254",
+            "span": {
+                "begin": 21247,
+                "end": 21254
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "21323_21330",
+            "span": {
+                "begin": 21323,
+                "end": 21330
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "21371_21376",
+            "span": {
+                "begin": 21371,
+                "end": 21376
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "21411_21430",
+            "span": {
+                "begin": 21411,
+                "end": 21430
+            },
+            "entityType": "gene",
+            "entityName": "anti-PARP1 antibody",
+            "id": "UMLS:C0003242"
+        },
+        {
+            "entityId": "21470_21477",
+            "span": {
+                "begin": 21470,
+                "end": 21477
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "21497_21502",
+            "span": {
+                "begin": 21497,
+                "end": 21502
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "21543_21550",
+            "span": {
+                "begin": 21543,
+                "end": 21550
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "21570_21575",
+            "span": {
+                "begin": 21570,
+                "end": 21575
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "21601_21606",
+            "span": {
+                "begin": 21601,
+                "end": 21606
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "21660_21667",
+            "span": {
+                "begin": 21660,
+                "end": 21667
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "21744_21751",
+            "span": {
+                "begin": 21744,
+                "end": 21751
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "21817_21824",
+            "span": {
+                "begin": 21817,
+                "end": 21824
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "21898_21906",
+            "span": {
+                "begin": 21898,
+                "end": 21906
+            },
+            "entityType": "gene",
+            "entityName": "hnRNPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "21965_21972",
+            "span": {
+                "begin": 21965,
+                "end": 21972
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "21990_21995",
+            "span": {
+                "begin": 21990,
+                "end": 21995
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "22028_22033",
+            "span": {
+                "begin": 22028,
+                "end": 22033
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "22091_22094",
+            "span": {
+                "begin": 22091,
+                "end": 22094
+            },
+            "entityType": "gene",
+            "entityName": "GFP",
+            "id": "UMLS:C0120285"
+        },
+        {
+            "entityId": "22102_22107",
+            "span": {
+                "begin": 22102,
+                "end": 22107
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "22251_22256",
+            "span": {
+                "begin": 22251,
+                "end": 22256
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "22295_22300",
+            "span": {
+                "begin": 22295,
+                "end": 22300
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "22340_22344",
+            "span": {
+                "begin": 22340,
+                "end": 22344
+            },
+            "entityType": "gene",
+            "entityName": "PARP",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "22402_22407",
+            "span": {
+                "begin": 22402,
+                "end": 22407
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "22500_22505",
+            "span": {
+                "begin": 22500,
+                "end": 22505
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "22647_22654",
+            "span": {
+                "begin": 22647,
+                "end": 22654
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "22693_22698",
+            "span": {
+                "begin": 22693,
+                "end": 22698
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "22762_22769",
+            "span": {
+                "begin": 22762,
+                "end": 22769
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "22881_22888",
+            "span": {
+                "begin": 22881,
+                "end": 22888
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "22930_22935",
+            "span": {
+                "begin": 22930,
+                "end": 22935
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "23848_23855",
+            "span": {
+                "begin": 23848,
+                "end": 23855
+            },
+            "entityType": "gene",
+            "entityName": "HnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "23864_23869",
+            "span": {
+                "begin": 23864,
+                "end": 23869
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "23950_23957",
+            "span": {
+                "begin": 23950,
+                "end": 23957
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "23961_23966",
+            "span": {
+                "begin": 23961,
+                "end": 23966
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "24017_24024",
+            "span": {
+                "begin": 24017,
+                "end": 24024
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "24053_24058",
+            "span": {
+                "begin": 24053,
+                "end": 24058
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "24096_24109",
+            "span": {
+                "begin": 24096,
+                "end": 24109
+            },
+            "entityType": "gene",
+            "entityName": "PARP1 protein",
+            "id": "UMLS:C3641723"
+        },
+        {
+            "entityId": "24128_24135",
+            "span": {
+                "begin": 24128,
+                "end": 24135
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "24172_24179",
+            "span": {
+                "begin": 24172,
+                "end": 24179
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "24207_24212",
+            "span": {
+                "begin": 24207,
+                "end": 24212
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "24420_24427",
+            "span": {
+                "begin": 24420,
+                "end": 24427
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "24439_24444",
+            "span": {
+                "begin": 24439,
+                "end": 24444
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "24546_24553",
+            "span": {
+                "begin": 24546,
+                "end": 24553
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "24565_24570",
+            "span": {
+                "begin": 24565,
+                "end": 24570
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "24619_24632",
+            "span": {
+                "begin": 24619,
+                "end": 24632
+            },
+            "entityType": "gene",
+            "entityName": "PARP1 protein",
+            "id": "UMLS:C3641723"
+        },
+        {
+            "entityId": "24669_24676",
+            "span": {
+                "begin": 24669,
+                "end": 24676
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "24722_24727",
+            "span": {
+                "begin": 24722,
+                "end": 24727
+            },
+            "entityType": "drug",
+            "entityName": "MG132",
+            "id": "mesh:C072553"
+        },
+        {
+            "entityId": "24771_24776",
+            "span": {
+                "begin": 24771,
+                "end": 24776
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "24796_24803",
+            "span": {
+                "begin": 24796,
+                "end": 24803
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "24865_24869",
+            "span": {
+                "begin": 24865,
+                "end": 24869
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "24879_24884",
+            "span": {
+                "begin": 24879,
+                "end": 24884
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "24974_24978",
+            "span": {
+                "begin": 24974,
+                "end": 24978
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "24988_24993",
+            "span": {
+                "begin": 24988,
+                "end": 24993
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "25038_25045",
+            "span": {
+                "begin": 25038,
+                "end": 25045
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "25088_25093",
+            "span": {
+                "begin": 25088,
+                "end": 25093
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "25134_25139",
+            "span": {
+                "begin": 25134,
+                "end": 25139
+            },
+            "entityType": "DNA",
+            "entityName": "shRNA",
+            "id": "UMLS:C2930586"
+        },
+        {
+            "entityId": "25169_25196",
+            "span": {
+                "begin": 25169,
+                "end": 25196
+            },
+            "entityType": "cell",
+            "entityName": "hnRPUL1 knockdown HeLa cell",
+            "id": "UMLS:C0018873"
+        },
+        {
+            "entityId": "25252_25256",
+            "span": {
+                "begin": 25252,
+                "end": 25256
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "25266_25271",
+            "span": {
+                "begin": 25266,
+                "end": 25271
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "25359_25366",
+            "span": {
+                "begin": 25359,
+                "end": 25366
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "25407_25413",
+            "span": {
+                "begin": 25407,
+                "end": 25413
+            },
+            "entityType": "gene",
+            "entityName": "hnRNPs",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "25452_25459",
+            "span": {
+                "begin": 25452,
+                "end": 25459
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "25514_25519",
+            "span": {
+                "begin": 25514,
+                "end": 25519
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "26115_26131",
+            "span": {
+                "begin": 26115,
+                "end": 26131
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1 proteins",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "26177_26184",
+            "span": {
+                "begin": 26177,
+                "end": 26184
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "26204_26209",
+            "span": {
+                "begin": 26204,
+                "end": 26209
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "26243_26248",
+            "span": {
+                "begin": 26243,
+                "end": 26248
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "26263_26274",
+            "span": {
+                "begin": 26263,
+                "end": 26274
+            },
+            "entityType": "drug",
+            "entityName": "ADP-ribosyl",
+            "id": "UMLS:CHEBI:22259"
+        },
+        {
+            "entityId": "26308_26315",
+            "span": {
+                "begin": 26308,
+                "end": 26315
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "26354_26359",
+            "span": {
+                "begin": 26354,
+                "end": 26359
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "26404_26411",
+            "span": {
+                "begin": 26404,
+                "end": 26411
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "26468_26478",
+            "span": {
+                "begin": 26468,
+                "end": 26478
+            },
+            "entityType": "gene",
+            "entityName": "PARP1 gene",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "26528_26535",
+            "span": {
+                "begin": 26528,
+                "end": 26535
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "26591_26596",
+            "span": {
+                "begin": 26591,
+                "end": 26596
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "26598_26605",
+            "span": {
+                "begin": 26598,
+                "end": 26605
+            },
+            "entityType": "gene",
+            "entityName": "HnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "26659_26694",
+            "span": {
+                "begin": 26659,
+                "end": 26694
+            },
+            "entityType": "gene",
+            "entityName": "adenovirus early protein E1B-55 kDa",
+            "id": "UMLS:C1332172"
+        },
+        {
+            "entityId": "26742_26747",
+            "span": {
+                "begin": 26742,
+                "end": 26747
+            },
+            "entityType": "gene",
+            "entityName": "hnRNP",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "26756_26762",
+            "span": {
+                "begin": 26756,
+                "end": 26762
+            },
+            "entityType": "gene",
+            "entityName": "HnRNPs",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "26870_26899",
+            "span": {
+                "begin": 26870,
+                "end": 26899
+            },
+            "entityType": "gene",
+            "entityName": "RNA polymerase II transcripts",
+            "id": "UMLS:C0035679"
+        },
+        {
+            "entityId": "26931_26937",
+            "span": {
+                "begin": 26931,
+                "end": 26937
+            },
+            "entityType": "gene",
+            "entityName": "hnRNPs",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "27076_27082",
+            "span": {
+                "begin": 27076,
+                "end": 27082
+            },
+            "entityType": "gene",
+            "entityName": "hnRNPs",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "27136_27144",
+            "span": {
+                "begin": 27136,
+                "end": 27144
+            },
+            "entityType": "gene",
+            "entityName": "HnRNP B1",
+            "id": "UMLS:C0063534"
+        },
+        {
+            "entityId": "27218_27224",
+            "span": {
+                "begin": 27218,
+                "end": 27224
+            },
+            "entityType": "gene",
+            "entityName": "DNA-PK",
+            "id": "UMLS:C0212694"
+        },
+        {
+            "entityId": "27235_27243",
+            "span": {
+                "begin": 27235,
+                "end": 27243
+            },
+            "entityType": "gene",
+            "entityName": "HnRNP C1",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "27321_27323",
+            "span": {
+                "begin": 27321,
+                "end": 27323
+            },
+            "entityType": "gene",
+            "entityName": "Ku",
+            "id": "UMLS:C1337080"
+        },
+        {
+            "entityId": "27349_27355",
+            "span": {
+                "begin": 27349,
+                "end": 27355
+            },
+            "entityType": "gene",
+            "entityName": "DNA-PK",
+            "id": "UMLS:C0212694"
+        },
+        {
+            "entityId": "27362_27365",
+            "span": {
+                "begin": 27362,
+                "end": 27365
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "27468_27475",
+            "span": {
+                "begin": 27468,
+                "end": 27475
+            },
+            "entityType": "gene",
+            "entityName": "HnRNP K",
+            "id": "UMLS:C1447150"
+        },
+        {
+            "entityId": "27494_27497",
+            "span": {
+                "begin": 27494,
+                "end": 27497
+            },
+            "entityType": "gene",
+            "entityName": "p53",
+            "id": "UMLS:C0079419"
+        },
+        {
+            "entityId": "27564_27571",
+            "span": {
+                "begin": 27564,
+                "end": 27571
+            },
+            "entityType": "gene",
+            "entityName": "hnRNP G",
+            "id": "UMLS:C1419308"
+        },
+        {
+            "entityId": "27678_27681",
+            "span": {
+                "begin": 27678,
+                "end": 27681
+            },
+            "entityType": "gene",
+            "entityName": "p53",
+            "id": "UMLS:C0079419"
+        },
+        {
+            "entityId": "27732_27738",
+            "span": {
+                "begin": 27732,
+                "end": 27738
+            },
+            "entityType": "gene",
+            "entityName": "hnRNPs",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "27817_27824",
+            "span": {
+                "begin": 27817,
+                "end": 27824
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "27972_27979",
+            "span": {
+                "begin": 27972,
+                "end": 27979
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "28040_28047",
+            "span": {
+                "begin": 28040,
+                "end": 28047
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "28086_28102",
+            "span": {
+                "begin": 28086,
+                "end": 28102
+            },
+            "entityType": "gene",
+            "entityName": "MRE11-RAD50-NBS1",
+            "id": "UMLS:C0369637"
+        },
+        {
+            "entityId": "28104_28107",
+            "span": {
+                "begin": 28104,
+                "end": 28107
+            },
+            "entityType": "gene",
+            "entityName": "MRN",
+            "id": "UMLS:C0369637"
+        },
+        {
+            "entityId": "28156_28159",
+            "span": {
+                "begin": 28156,
+                "end": 28159
+            },
+            "entityType": "gene",
+            "entityName": "MRN",
+            "id": "UMLS:C0369637"
+        },
+        {
+            "entityId": "28175_28182",
+            "span": {
+                "begin": 28175,
+                "end": 28182
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "28207_28212",
+            "span": {
+                "begin": 28207,
+                "end": 28212
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "28246_28251",
+            "span": {
+                "begin": 28246,
+                "end": 28251
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "28335_28342",
+            "span": {
+                "begin": 28335,
+                "end": 28342
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "28381_28386",
+            "span": {
+                "begin": 28381,
+                "end": 28386
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "28391_28394",
+            "span": {
+                "begin": 28391,
+                "end": 28394
+            },
+            "entityType": "gene",
+            "entityName": "MRN",
+            "id": "UMLS:C0369637"
+        },
+        {
+            "entityId": "28424_28429",
+            "span": {
+                "begin": 28424,
+                "end": 28429
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "28514_28519",
+            "span": {
+                "begin": 28514,
+                "end": 28519
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "28585_28588",
+            "span": {
+                "begin": 28585,
+                "end": 28588
+            },
+            "entityType": "gene",
+            "entityName": "ATM",
+            "id": "UMLS:C3711796"
+        },
+        {
+            "entityId": "28658_28663",
+            "span": {
+                "begin": 28658,
+                "end": 28663
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "28683_28688",
+            "span": {
+                "begin": 28683,
+                "end": 28688
+            },
+            "entityType": "gene",
+            "entityName": "MRE11",
+            "id": "UMLS:C1417250"
+        },
+        {
+            "entityId": "28725_28728",
+            "span": {
+                "begin": 28725,
+                "end": 28728
+            },
+            "entityType": "gene",
+            "entityName": "MRN",
+            "id": "UMLS:C0369637"
+        },
+        {
+            "entityId": "28757_28762",
+            "span": {
+                "begin": 28757,
+                "end": 28762
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "28820_28827",
+            "span": {
+                "begin": 28820,
+                "end": 28827
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "28914_28921",
+            "span": {
+                "begin": 28914,
+                "end": 28921
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "28939_28944",
+            "span": {
+                "begin": 28939,
+                "end": 28944
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "28969_28975",
+            "span": {
+                "begin": 28969,
+                "end": 28975
+            },
+            "entityType": "gene",
+            "entityName": "hnRNPG",
+            "id": "UMLS:C1419308"
+        },
+        {
+            "entityId": "28991_28995",
+            "span": {
+                "begin": 28991,
+                "end": 28995
+            },
+            "entityType": "gene",
+            "entityName": "RBMX",
+            "id": "UMLS:C1419308"
+        },
+        {
+            "entityId": "29053_29058",
+            "span": {
+                "begin": 29053,
+                "end": 29058
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "29092_29097",
+            "span": {
+                "begin": 29092,
+                "end": 29097
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "29148_29155",
+            "span": {
+                "begin": 29148,
+                "end": 29155
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "29160_29166",
+            "span": {
+                "begin": 29160,
+                "end": 29166
+            },
+            "entityType": "gene",
+            "entityName": "hnRNPG",
+            "id": "UMLS:C1419308"
+        },
+        {
+            "entityId": "29235_29241",
+            "span": {
+                "begin": 29235,
+                "end": 29241
+            },
+            "entityType": "gene",
+            "entityName": "hnRNPs",
+            "id": "UMLS:C0123538"
+        },
+        {
+            "entityId": "29362_29367",
+            "span": {
+                "begin": 29362,
+                "end": 29367
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "29389_29396",
+            "span": {
+                "begin": 29389,
+                "end": 29396
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "29412_29415",
+            "span": {
+                "begin": 29412,
+                "end": 29415
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "29511_29518",
+            "span": {
+                "begin": 29511,
+                "end": 29518
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "29541_29545",
+            "span": {
+                "begin": 29541,
+                "end": 29545
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "29555_29560",
+            "span": {
+                "begin": 29555,
+                "end": 29560
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "29591_29598",
+            "span": {
+                "begin": 29591,
+                "end": 29598
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "29749_29756",
+            "span": {
+                "begin": 29749,
+                "end": 29756
+            },
+            "entityType": "gene",
+            "entityName": "hnRPUL1",
+            "id": "UMLS:C1424684"
+        },
+        {
+            "entityId": "29841_29846",
+            "span": {
+                "begin": 29841,
+                "end": 29846
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        },
+        {
+            "entityId": "29881_29886",
+            "span": {
+                "begin": 29881,
+                "end": 29886
+            },
+            "entityType": "gene",
+            "entityName": "PARP1",
+            "id": "UMLS:C1538577"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "675_682",
+            "subjectText": "hnRPUL1",
+            "rel_name": "regulate",
+            "objectId": "739_749",
+            "objectText": "PARP1 gene"
+        },
+        {
+            "subjectID": "66_71",
+            "subjectText": "PARP1",
+            "rel_name": "associate",
+            "objectId": "12_19",
+            "objectText": "hnRPUL1"
+        },
+        {
+            "subjectID": "419_426",
+            "subjectText": "hnRPUL1",
+            "rel_name": "associate",
+            "objectId": "446_451",
+            "objectText": "PARP1"
+        }
+    ]
+}

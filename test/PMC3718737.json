@@ -1,0 +1,3296 @@
+{
+    "sourcid": "PMC3718737",
+    "publisher": "Public Library of Science",
+    "journal": "PLoS ONE",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3718737/",
+    "text": "Resveratrol Alleviates Endotoxin-Induced Myocardial Toxicity via the Nrf2 Transcription Factor Background/Aims Septic cardiomyopathy is a severe condition that remains a challenge for clinical management. This study investigated whether the natural polyphenolic compound resveratrol could be used as a prophylactic treatment to alleviate sepsis-related myocardial injury; the underlying molecular mechanisms were deciphered by both in vitro and in vivo experiments. Methods A mouse model of endotoxin-induced cardiomyopathy was developed by intraperitoneal injection of LPS, and resveratrol was administered prophylatically to the animals. Serum LDH and CK activities were measured to detect myocardial injury, and echocardiography was performed to monitor cardiac structure and function. Various cytokines/chemokines and the Nrf2 antioxidant defense system were examined in the heart tissue. The effects of resveratrol on LPS-induced Nrf2 activation, ROS generation, and apoptotic cell death were further investigated in cultured primary human cardiomyocytes. An Nrf2 specific siRNA was used to define its role in resveratrol-mediated cardiomyocyte protective effect. Results Resveratrol pretreatment significantly attenuated LPS-induced myocardial injury in mice, which was associated with suppressed proinflammatory cytokine production and enhanced Nrf2 activation in the heart. In cultured primary human cardiomyocytes, resveratrol activated Nrf2, inhibited LPS-induced ROS generation, and effectively protected the cells from LPS-induced apoptotic cell death. Knockdown of Nrf2 abrogated resveratrol-mediated protection of the cells from LPS-induced cell death. Conclusion Resveratrol effectively alleviates endotoxin-induced cardiac toxicity through mechanisms that involve the Nrf2 antioxidant defense pathway. Our data suggest that resveratrol might be developed as a useful prophylactic management for septic cardiomyopathy. Introduction Septic shock is a syndrome of sepsis-induced organ failure and hypotension. Severe fatal hypotension and heart failure is one of the characteristics of septic shock. Depression of both left and right ventricular function and drop in left ventricle ejection fraction can occur during septic shock. Cardiac depression in septic shock makes a complex clinical syndrome as it is difficult to maintain cardiac output. These resulted in reflex tachycardia and other compensatory physiological process to maintain systemic arterial blood pressure. Patients with sepsis with lower left ventricular ejection fraction have increased plasma level of TNFalpha and apoptotic cell death of cardiomyocytes. It has been demonstrated that addition of endotoxin lipopolysaccharide (LPS) from Gram negative bacteria in cardiomyocytes leads to apoptotic cell death. Apoptotic cell death is also a contributing factor in other forms of heart failures such as myocarditis, congestive heart disease, diabetic cardiomyopathy, chronic pressure overload and ischemia-reperfusion injury. Actually, apoptosis represents a hallmark of cardiomyocyte injury due to endotoxin exposure during sepsis, and its critical role has been well recognized in the initiation and development of heart failure. Resveratrol was identified in red wine as the source of anti-aging effect and lowing incidence of heart diseases as the result of researchers' investigation of \"French paradox\". Resveratrol is a polyphenolic compound that is present in many plant species and is especially abundant in food products such as grapes, peanuts, and mulberries. Interestingly, some Chinese herbs have been found to contain large amounts of resveratrol, and actually it is the major constituent of \"Hu Zhang\" (also known as Japanese Knotweed), which has been long used for its anti-aging property. Resveratrol has many pharmacological effects including beneficial effects in preventing heart diseases. Previously, resveratrol has been shown to have protective effect in apoptotic cell death in cardiomyocytes. SIRT1, the founding member of sirtuin family, was found to be involved in the protective effect of resveratrol in cardioprotection. The antioxidant properties of resveratrol are also important for its cardioprotective effects. In vascular smooth muscle cells, resveratrol has been shown to induce activation of nuclear erythroid-related factor 2 (Nrf2). Nrf2 is a member of the cap-N-collar family, which is the principal transcription factor that regulates antioxidant response element-mediated expression of detoxifying antioxidant enzymes.           In this study we investigated whether resveratrol has any cardioprotective effects in endotoxin-induced myocardial injury. By utilizing a mouse model, we demonstrated that resveratrol treatment significantly attenuated LPS-induced myocardial injury in mice, which was associated with suppressed proinflammatory cytokine production and enhanced Nrf2 activation in the heart. In cultured primary human cardiomyocytes, resveratrol activated Nrf2, inhibited LPS-induced ROS generation, and effectively protected the cells from LPS-induced apoptotic cell death. Knockdown of Nrf2 abrogated resveratrol-mediated protection of the cells from LPS-induced cell death, suggesting an important role of Nrf2 in the cardioprotective effects of resveratrol. Materials and Methods Mice and Treatments Male C57BL/6 mice of 6-8 weeks old were obtained from the Experimental Animal Center of Shandong University (Jinan, Shandong, China). Resveratrol and LPS were purchased from Sigma in China (Beijing, China). Resveratrol was dissolved in DMSO:Tween 80:normal saline (10:10:180), and LPS was dissolved in normal saline. Both reagents were administered intraperitoneally (i.p.) at a volume of 10 ul/gram mouse.     All animal care and experimental protocols were in compliance with the Animal Management Rules of the Health Ministry of the People's Republic of China (document No 55, 2001). The study was approved by the Institutional Animal Care and Use Committee (IACUC) of Shandong University.   Serum Creatine Kinase (CK) and Lactate Dehydrogenase (LDH) Measurements Serum CK and LDH levels were determined using an automated analyzer (Abbott Architect, Abbot Park, Illinois, USA). Echocardiography Mice were lightly anesthetized with isoflurane mixed with oxygen. Echocardiographic measurements were performed by using the VisualSonics Vevo770 system (VisualSonics, Inc, Toronto, Canada), which is equipped with a 30- MHz mechanical scan that can obtain high resolution 2-dimensional images. B mode images were obtained in the plane containing aortic and mitral valves. M mode images were obtained from the parasternal short-axis view at the level of papillary muscles. LV end-diastolic diameters and ejection fraction were calculated by using Vevo Analysis software. Cell Culture and Treatment Human neonatal cardiomyocyte (HCM) were purchased (Shanghai FuMeng Gene Bio-technology Co., LTD) and were cultured in cardiomyocyte medium provided. HCM were maintained in tissue culture incubator at 37 C under 5% CO2 atmosphere. The cells were treated by LPS for the indicated concentrations for 24 h. Cells were pretreated with resveratrol for 3 h prior to LPS treatment.  Cell Viability Assay Cell viability was analyzed by MTT assay. For this assay, equal numbers of cardiomyocytes were plated on 96-well plates and maintained in regular growth medium for 2 days. The cells were then subjected to LPS and resveratrol treatment when indicated, as described earlier. MTT reagents (final concentration, 0.625 mg/mL) were added to each well and incubated at 37 C for 4 h, and the cells were lysed with acidic isopropanol (0.04N HCl). After incubation at room temperature for 15 minutes, the plates were then analyzed with a multi well ELISA reader at 570 and 650 nm.  Reverse Transcription and Real-time PCR In the present study, the expression of NRF-2 (nuclear factor, erythroid derived 2), HO-1 (heme oxygenase 1), GCLM (glutamate-cysteine ligase ), TNFa (tumor necrosis factor), IL1beta (interleukin 1 beta), MIP1alpha (macrophage inflammatory protein-1alpha), MCP1(CD46) or beta actin were detected by reverse transcription (RT) and real-time PCR. Total RNA was extracted from tissue or cells using Trizol total RNA isolation reagent (Invitrogen) as detailed by the instructions from manufactures. For detection of expression of the genes, the quantitative polymerase chain reaction primers were purchased from SABiosciences. PCR condition was 5 min at 95 C of denature temp, 40 cycles of 30 s at 95 C, 30 s at 60 C of annealing temp, and 30 s at 72 C, and ended with 10 min at 72 C of extension temp. The fold changes were calculated based on relative quantification method. Cell Transfection with NRF-2 siRNA Nrf2 siRNA and scramble control were purchased from Shanghai GenePharma (Shanghai Zhangjiang Hi-Tech Park, Shanghai, China). The cultured cardiomyocytes were transfected with 50 nM of the siRNA for 24 hours using the supplied transfection reagents according to manufacturer's instructions. The cells were then changed to fresh medium and were treated with resveratrol followed by LPS treatment.   Immunoblotting Analyses Nuclear extraction for Nrf2 and HO-1 was performed as follows. The tissue was homogenized in ice-cold lysis buffer (10 mmol/L HEPES, pH 7.9, 10 mmol/L KCl, 0.1 mmol/L EDTA, 1 mmol/L DTT, 0.1 mmol/L EGTA) for 15 min. After adding NP-40, centrifuged 10,000 rpm at 4 C for 3 min, the supernatant was collected as cytoplasmic protein. The pellets were homogenized in ice-cold lysis buffer (20 mmol/L HEPES, pH 7.9, 400 mmol/L NaCl, 1 mmol/L EDTA, 0.1 mmol/L EGTA) for 15 min, and was then centrifuged 12,000 rpm at 4 C for 10 min. The supernatant was collected as the nuclear protein and added PMSF to the final concentration of 1 mmol/L. The protein concentration of nuclear extract was determined using a BCA Protein Assay reagent kit (Novagen, Madison, WI, USA). Nuclear extract aliquots of 50 microg was separated by SDS/PAGE, transferred 2 h on to PVDF membranes, and the non-specific binding of antibodies was blocked with 5% non-fat dried milk in PBS. Membranes were then probed with polyclonal rabbit anti-Nrf2 antibody (1:200, Santa Cruz Biotechnology) and Histone H3 (1:200, Santa Cruz Biotechnology) overnight at 4 C. After four washes with TPBS, HRP-conjugated goat anti-rabbit second antibody (1:2000, Rockland, Gilbertsville) was incubated with membranes for 1 h at room temperature. The relative density of bands was analysed on a X-ray film exposure. The densitometric values were normalized with respect to the values of actin immunoreactivity to correct for any loading and transfer differences between samples.       Immunocytochemistry for Detection of Nrf2 Localization Immunocytochemistry was performed for Nrf2 localization in response to LPS and resveratrol in cardiomyocyte. Human cardiomyocyte were seeded at 1x104 cells/well in glass chamber slides and cultured overnight at 37 C. Cells were then treated as described for 24hours. At the end of incubation, cells were washed twice in PBS and fixed in 4% paraformaldehyde for 10 min at room temperature. Cells were permeabilized with 0.1% Triton X-100, washed, and blocked with 10% BSA for 1 h. Cells were then incubated overnight with rabbit polyclonal anti-Nrf2 antibody (1:200 dilution in 1% BSA in PBS) in a humidified chamber at 4 C. Cells were washed with PBS and incubated with FITC-labeled anti-rabbit IgG diluted 1:200 in 1% BSA for 1 h at room temperature in the dark, and were counterstained with DAPI dye to show the nuclear morphology. After the slides were rinsed with PBS, coverslips were applied and the cells were photographed using a fluorescence microscope.        Flow Cytometry Detection of Cell Death Cardiomyocytes were digested with trypsin solution for 10 min at 37 C. Cells were collected and washed twice with cold PBS. 5 microl of Annexin V (Pharmingen, San Diego, CA, USA) and 5 microl of Sytox Green (Life technologies) were added to the cells, which were resuspended in 500 microl 1x binding buffer. The cells were gently vortexed and incubated for 15 min at room temperature in the dark, then they were analyzed by flow cytometry within 1 h. Annexin V labeled with a fluorophore could identify cells in the early stage of apoptosis, and Sytox Green, a fluorescent nucleic acid binding dye, was responsible for staining cells in the medium and late stages of apoptosis. Analysis was based on gating a subpopulation of cells by forward scatter versus side scatter. Caspase 3 Acitivity Assay Caspase 3 acitivity was measured from tissue extracts by a Caspase-3/CPP32 Colorimetric Assay Kit (Biovision). The assay is based on spectrophotometric detection of the chromophore p-nitroaniline (pNA) after cleavage from the labeled substrate DEVD-pNA. The pNA light emission was quantified using plate reader at 405-nm. The fold increase in CPP32 activity was determined by comparison of the absorbance of pNA from an apoptotic sample with an uninduced control. Statistical Analysis Data were expressed as mean +- standard error of the mean, and statistical analysis was done by using SPSS 16.0.2 software (Chicago, IL, USA). One-way analysis of variance followed by Tukey's Post Test for multiple group comparisons. P<0.05 was considered statistically significant.   Results Resveratrol Attenuates Endotoxin-induced Myocardial Injury in Mice To examine whether resveratrol was able to confer cardiac protective effects in vivo, we treated C57BL/6 mice intraperitoneally with 10 mg/kg of resveratrol, a dose commonly used for animal experiments (28, 29). The mice were then challenged with 4 mg/kg of LPS overnight for about 18 hours, which caused marked myocardial tissue damage as evidenced by elevated serum creatine kinase (CK) and lactate dehydrogenase (LDH). Resveratrol treatment significantly reduced LPS-induced elevation of CK and LDH in the mice (Figure 1A, B). Left ventricular (LV) structure and function were assessed by echocardiography. As shown in Figure 1C and 1D, LPS caused an increase in end-diastolic left ventricular inner dimension (LVID) and a decrease in ejection fraction (EF), which was significantly attenuated by pre-treatment with resveratrol. The heart rates of the mice among all the four treatment groups were not statistically different (Table 1). Resveratrol attenuates LPS induced myocardial injury in mice. C57BL/6 mice were injected intraperitoneally (i.p.) with 10 mg/kg of resveratrol or a vehicle once a day for totally 3 days, followed by i.p. injection of 4 mg/kg of LPS. The mice were sacrificed 18 hrs after LPS challenge. A and B, CK and LDH levels in the serum samples were measured. (n = 6 mice/group, *P<0.05 versus vehicle treated control group, #P<0.05 versus LPS treated group). Cardiac function was assessed by echocardiography. C\n, Representative M-mode echocardiograms. D, End-diastolic left ventricular inner dimension (LVID) and LV ejection fraction (EF) were calculated. n = 5 per group, *P<0.05 versus vehicle treated control group, #P<0.05 versus LPS treated group.         Heart rates of mice subjected to echocardiography. Animal groups\tControl+Veh\tControl+Res\tLPS+Veh\tLPS+Res\t \tHeart rate (bpm)*\t489.3+-7.77\t486.7+-11.75\t457.5+-9.11\t469.2+-7.04    bpm, beats per minute. There is no statistical difference of the heart rates among all the treatment groups. Resveratrol Suppresses Endotoxin-induced Production of Pro-inflammatory Cytokines and Activation of Nrf2 Antioxidant Defense Pathway in vivo Consistent with its myocardial protection, resveratrol treatment significantly inhibited endotoxin-induced production of pro-inflammatory cytokine TNF-alpha and IL-1beta, and chemokine MIP-1alpha and MCP (Figure 2A, 2B). LPS treatment also directly induced TNF-alpha production in cultured cardiomyocytes, which was suppressed by resveratrol pretreatment (Figure 2C). In the heart tissues, resveratrol administration was able to induce Nrf2 activation evidenced by the increased expression of its target gene HO-1 and GCLM as shown in Figure 3. Resveratrol attenuates LPS induced production of pro-inflammatory cytokines and chemokines. C57BL/6 mice were injected i.p. with 10 mg/kg of resveratrol or a vehicle once a day for totally 3 days, followed by i.p. injection of 4 mg/kg of LPS. The mice were sacrificed 4 h (A) and 18 h (B) after LPS challenge, and the heart tissues were collected to prepare RNA samples. Real time RT-PCR was performed to detect expression of TNF-alpha, IL-1beta, MIP-1alpha, and MCP. (n = 6 mice/group, *P<0.05 versus vehicle treated control group, #P<0.05 versus LPS treated group). C, Human primary cardiomyocytes were pre-treated with 3 microM of resveratrol for 3 h, followed by incubation with 3 microg/ml of LPS for 4 h. TNF-a mRNA was quantified by real-time RT-PCR. (n = 4/group, *P<0.05 versus vehicle treated control group, #P<0.05 versus LPS treated group). Resveratrol pretreatment inhibits LPS induced Nrf2 activation in vivo. C57BL/6 mice were injected i.p. with 10 mg/kg of resveratrol or a vehicle once a day for totally 3 days, followed by i.p. injection of 4 mg/kg of LPS. The mice were sacrificed 18 hrs after LPS challenge, and the heart tissues were collected to prepare RNA samples. Real time RT-PCR was performed to detect expression of Nrf2 and its target genes HO-1 and GCLM. (n = 6 mice/group, *P<0.05 versus vehicle treated control group, #P<0.05 versus LPS treated group).     Resveratrol Directly Protects against LPS-induced Apoptotic Cell Death of Cardiomyocytes To investigate whether cardiomyocytes could be directly influenced by resveratrol, we cultured human primary cardiomyocytes and treated them with LPS for 24 hours with or without resveratrol pretreatment. As shown in Figure 4, LPS treatment at 1000 and 3000 ng/ml caused significant cell death, which was reversed by pretreatment with resveratrol. We have performed a pilot dose dependent study for resveratrol and found that resveratrol at 3 microM offered optimal cell death protection in our culture system (data not shown). We further performed flow cytometry analysis with the early apoptotic marker annexin V, and found that the number of apoptotic and necrotic cells was significantly lower in resveratrol pretreated cells compared with the cells treated with LPS only ( Figure 5A ). To determine whether resveratrol could reduce LPS-induced apoptosis in the heart, we performed caspase 3 activity in the heart tissue extracts. As shown in Figure 5B , resveratrol pretreatment significantly inhibited LPS-induced capase 3 activation in the heart. Resveratrol protects against LPS-induced cell death of cultured human primary cardiomyocytes. The cells were cultured for 2 days, and were then treated with 3 microM of resveratrol for 4 hrs, followed by incubation for 24 h with various concentrations of LPS. Cell viability was analyzed by MTT cell viability assay. *p<0.05 vs Control, #p<0.05 vs the corresponding LPS treatment, n = 4/group.  Resveratrol attenuated LPS induced apoptotic cell death of cultured human primary cardiomyocytes. A, LPS-induced apoptotic cell death in cardiomyocytes was determined by flow cytometry with Annexin V/Sytox green assay. Representative scatter plots of Sytox Green (y axis) vs Annexin V (x axis) were shown. The lower right quadrants represent the annexin V-positive and Sytox Green-negative apoptotic cells. Quantification data were shown in the lower panel (n = 4/group, *p<0.05 vs Control, #p<0.05 vs LPS treatment only). B, C57BL/6 mice were injected i.p. with 10 mg/kg of resveratrol or a vehicle once a day for totally 3 days, followed by i.p. injection of 4 mg/kg of LPS. The mice were sacrificed 18 h after LPS challenge. The heart tissues were collected and the tissue extracts were used to assay caspase 3 activity by using a Caspase-3/CPP32 Colorimetric Assay Kit. (n = 6 mice/group, *P<0.05 versus vehicle treated control group, #P<0.05 versus LPS treated group).          Resveratrol Alleviates Mitochondrial Reactive Oxygen Species (ROS) Production Induced by LPS in Cardiomyocytes To test that resveratrol might be able to attenuate oxidative stress in LPS-treated cardiomyoctes, we conducted flow cytometry using MitoSOX Red staining to measure mitochondrial ROS production, which is an important source of cellular ROS and represents one of the key events in apoptotic cell death. We found that LPS at 3000 ng/ml induced mitochondrial ROS production up to 2-fold, which was attenuated significantly by resveratrol treatment ( Figure 6 ).   Resveratrol reduces LPS-induced mitochondrial ROS production in cardiomyocytes. Mitochondrial-specific ROS assays were performed by flow cytometry as described in Methods. Quantification of mean intensity was presented as a bar graph shown in the lower panel. *p<0.05 vs Control, #p<0.05 vs LPS treatment, n = 4/group.      Nrf2 Plays an Important Role in Resveratrol-mediated Protection against Endotoxin-induced Cardiomyocyte Toxicity As shown in Figure 3, resveratrol treatment in vivo led to activation of Nrf2, which is an important antioxidant defense mediator. We performed further experiments to determine whether Nrf2 was responsible for resveratrol-mediated protection in LPS-induced cell death. Western blotting analysis using nuclear protein fractions revealed higher levels of Nrf2 protein nuclear accumulation in cardiomyocytes treated with resveratrol, which was confirmed by immunofluorescence staining of the cultured cells ( Figure 7 ). We then transfected the cells with an siRNA specifically targeting Nrf2, which completely inhibited Nrf2 expression and activation in the cells as evidenced by the inhibited expression of HO-1 and GCLM ( Figure 8 ). And importantly, knockdown of Nrf2 abrogated resveratrol-mediated protection of the cells from LPS-induced cell death ( Figure 8 ). Resveratrol upregulated NRF2 protein nuclear accumulation in cardiomyocytes. A, Nrf2 protein expression in cell nuclei of cardiomyocytes was measured by Western blot analysis in the Control, LPS, Resveratrol, and Resveratrol+LPS treated groups. The representative results of Western blots of Nrf2 are shown. The nuclear protein histone H3 was detected to confirm the nuclear preparation and equal protein loading. B, Immunocytochemistry was performed for Nrf2 localization in response to LPS and resveratrol in cardiomyocyte. Nrf2 protein was visualized with an FITC-labeled antibody, and the nuclear morphology was visualized with DAPI dye. (Original magnification 100x).   Knockdown of Nrf2 abrogates resveratrol-mediated protection of LPS induced cell death in human cardiomyocytes. The cells were transfected with a scramble control siRNA or Nrf2 siRNA, and were then treated with resveratrol, followed by LPS. Cell viability was analyzed by MTT assay (A). *p<0.05 vs Control, #p<0.05 vs the corresponding LPS treatment, n = 4/group. The cell expression of Nrf2 target gene HO-1 and GCLM were measured by real-time RT-PCR (B and C). Knockdown of Nrf2 protein in the cells treated with resveratrol was confirmed with Western Blot analysis of the nuclear extracts (D).     Discussion As an important organ system frequently affected by sepsis and always affected by septic shock, the cardiovascular system and its dysfunction during sepsis have been studied in clinical research for more than six decades. First report demonstrated in 1951 where the research group recognized a hyperdynamic state with full bounding pulses, flushing, fever, oliguria, and hypotension. Sepsis patients with myocardial depression are at a 50-70% greater risk of mortality than patients without cardiovascular complications. There are a number of available preventive measures such as prophylactic antibiotics, maintenance of normoglycemia, selective digestive tract decontamination, vaccines, and intravenous immunoglobulin. Once sepsis is manifested, prompt and adequate antibiotic therapy accompanied by surgical removal of the infectious focus, if indicated and feasible, is the mainstay and also the only strictly causal line of therapy. Despite all these modalities, however, it remains a big clinical challenge for effectively manage the disease to minimize mortality. Numerous basic research and clinical trials have been undertaken to curb the lethal toll of sepsis through modulation of this uncontrolled immune response. Research data have accumulated that suggest that inhibitors of 3-hydroxy-3-methylglutaryl coenzyme A reductase, or statins, have therapeutic benefits independent of cholesterol lowering, termed \"pleiotropic\" effects. However the key mechanistic event in cardiovascular complication in sepsis is apoptosis. The process of apoptosis involves multiple cell types including cardiomyocytes and endothelial cells and the molecular pathways of apoptosis in those cells are still controversial.       LPS, a complex glycoprotein that resides in the outer membranes of Gram-negative bacteria, has been implicated as a causative agent in apoptosis in cardiomyocytes and endothelial cells, a pivotal event that can lead to septic shock and associated syndromes. LPS is a potent stimulator of pro-inflammatory cytokine production, particularly TNFalpha. It has also been reported that the release of LPS into the circulation induces endothelial apoptosis in vivo and thus causes microvascular injury in numerous tissues, including the lung, gut, and liver, during sepsis. Tissues and organs obtained from patients who have died of sepsis and multi-organ failure and animal models of endotoxemia and sepsis reveal enhanced apoptotic cell death. Here we have demonstrated that LPS induced apoptotic cell death in cardiomyocytes, consistent with earlier reports of cardiomyocyte death from other organisms. We showed that pretreatment with resveratrol leads to protection against LPS-induced myocardial damage in mice and apoptotic cell death in cardiomyocytes. We also showed that LPS stimulation results in mitochondrial ROS production in human cardiomyocytes and the production of mitocondrial ROS is significantly reduced by resveratrol pretreatment. These data are in agreement with reports that LPS induces TNFalpha production in cardiomyocytes, which in turn produces ROS in several other model systems. And interestingly, there is evidence also supporting that LPS-induced mitochondrial ROS production in cardiomyocytes can in turn play a role in TNF-alpha expression in the cells (51). Mitochondria are known as one of the key sources of such ROS production, and it has been shown that resveratrol can reduce mitochondrial ROS production in other types of cells. Resveratrol has been shown to be beneficial in many diseases such as cancer, heart diseases and metabolic syndrome. It is known that the nuclear factor Nrf2 is bound to Kelch-like ECH-associated protein-1 (Keap1) in the cytoplasm under normal conditions. Under oxidative stress or other potentially damaging stimuli, Nrf2 is released from Keap1 and translocates to the nucleus, where it binds to antioxidant response element (ARE) sequences, leading to the transcriptional activation of anti-apoptotic genes. We tested in this study whether Nrf2 was involved in the cardiac protection by resveratrol for endotoxin-induced myocardial injury. We found that Nrf2 increased significantly in the heart tissue and the cultured cardiomyocytes upon resveratrol treatment. Similarly to our finding, a recent study showed that the traditional Chinese medicine Si-Wu-Tang can also activate Nrf2. Since Nrf2 is a very important endogenous antioxidant, it is possible that the increased Nrf2 activity might mediate resveratrol-induced attenuation of the mitochondrial ROS production in the cardiomyocytes. Resveratrol was recently shown to activate SIRT1, a NAD(+)-dependent deacetylase, that leads to an improved mitochondrial function, which in turn activates the transcription factor Nrf2 that coordinates expression of key antioxidant mechanisms by binding to the antioxidant response elements. Sirt1 has been previously shown to be an important endogenous inhibitor of ROS production and apoptosis in cardiomyocytes (59, 60). Resveratrol was also known to block TNF-alpha induced inflammation in fibroblast through SIRT1 (61). Therefore, similarly to these previous reports, resveratrol-induced Nrf2 expression observed in our study might be also mediated by Sirt1. Importantly, we showed in our study that knockdown of Nrf2 expression in the cardiomyocytes made resveratrol no longer able to attenuate LPS-induced cellular toxicity, suggesting that Nrf2 indeed plays a critical role in the cardioprotection of resveratrol. In summary, we found that prophylactic treatment with resveratrol significantly alleviated endotoxin-induced myocardial injury in mice, which was associated with suppressed proinflammatory cytokine production and enhanced Nrf2 activation in the heart. In cultured primary human cardiomyocytes, resveratrol activated Nrf2, inhibited LPS-induced ROS generation, and effectively protected the cells from LPS-induced apoptotic cell death. Knockdown of Nrf2 abrogated resveratrol-mediated protection of the cells from LPS-induced cell death, suggesting an essential role of Nrf2 in the cardioprotection of resveratrol. Our findings suggest that resveratrol might be developed as a useful prophylactic management for septic cardiomyopathy. References Right ventricular dysfunction and dilatation, similar to left ventricular changes, characterize the cardiac depression of septic shock in humans Cardiac dysfunction in sepsis Continuous veno-venous hemofiltration improves hemodynamics in septic shock with acute renal failure without odifying TNFalpha and IL6 plasma concentrations NOX1/NADPH oxidase is involved in endotoxin-induced cardiomyocyte apoptosis Cardiac-specific overexpression of catalase attenuates lipopolysaccharide-induced myocardial contractile dysfunction: role of autophagy Cardiac-specific overexpression of insulin-like growth factor I (IGF-1) rescues lipopolysaccharide-induced cardiac dysfunction and activation of stress signaling in murine cardiomyocytes Endotoxin-induced myocardial dysfunction: effects of macrophage migration inhibitory factor neutralization Apoptosis in acute and chronic myocarditis Angiotensin II infusion induces marked diaphragmatic skeletal muscle atrophy Role of apoptosis in cardiovascular disease Inflammation and chronic heart failure-potential therapeutic role of intravenous immunoglobulin Congestive heart failure: what should be the initial therapy and why? Diabetic cardiomyopathy: understanding the molecular and cellular basis to progress in diagnosis and treatment Practical prevention of cardiac remodeling and atrial fibrillation with full-spectrum antioxidant therapy and ancillary strategies Acute and chronic adaptation to hemodynamic overload and ischemia in the aged heart Myocardial ischemia-reperfusion injury, antioxidant enzyme systems, and selenium: a review Myocardial ischemia and reperfusion injury Anti-inflammatory effect of resveratrol and polydatin by in vitro IL-17 modulation Cardioprotection by resveratrol: A human clinical trial in patients with stable coronary artery disease Resveratrol attenuates Doxorubicin-induced cardiomyocyte apoptosis in lymphoma nude mice by heme oxygenase-1 induction Resveratrol, a polyphenol phytoalexin, protects cardiomyocytes against anoxia/reoxygenation injury via the TLR4/NF-kappaB signaling pathway Resveratrol improves myocardial ischemia and ischemic heart failure in mice by antagonizing the detrimental effects of fractalkine Emerging roles of SIRT1deacetylase in regulating cardiomyocyte survival and hypertrophy The cardiovascular nutrapharmacology of resveratrol: pharmacokinetics, molecular mechanisms and therapeutic potential Greater effectiveness of epsilon-viniferin in red wine than its monomer resveratrol for inhibiting vascular smooth muscle cell proliferation and migration Chemoprevention through the Keap1-Nrf2 signaling pathway by phase 2 enzyme inducers Cell survival responses to environmental stresses via the Keap1-Nrf2-ARE pathway Resveratrol modulates murine collagen-induced arthritis by inhibiting Th17 and B-cell function. Ann Rheum Dis Resveratrol Isolated from Polygonum cuspidatum Root Prevents Tumor Growth and Metastasis to Lung and Tumor-Induced Neovascularization in Lewis Lung Carcinoma-Bearing Mice. J. Nutr Bacteremia due to gram-negative bacilli other than the Salmonella; a clinical and therapeutic study Sepsis and the heart The pathophysiology and treatment of sepsis New approaches to sepsis: molecular diagnostics and biomarkers Novel strategies for the treatment of sepsis The role of statin therapy in sepsis Role of apoptotic cell death in sepsis LPS-induced TNF-alpha release from and apoptosis in rat cardiomyocytes: obligatory role for CD14 in mediating the LPS response Toll-like receptor 4 mediates LPS-induced release of nitric oxide and tumor necrosis factor-alpha by embryonal cardiomyocytes: biological significance and clinical implications in human pathology Inflammatory responses in embryonal cardiomyocytes exposed to LPS challenge: an in vitro model of deciphering the effects of LPS on the heart Jiang SJ, Hsu SY, Deng CR, Huang HC, Liu SL, et al.. (2012) Dextromethorphan attenuates LPS-induced adhesion molecule expression in human endothelial cells. Microcirculation. LPS and TNF-alpha induce expression of sphingosine-1-phosphate receptor-2 in human microvascular endothelial cells Proinflammatory activation pattern of human umbilical vein endothelial cells induced by IL-1beta, TNF-alpha, and LPS Chinese herbal medicinal ingredients inhibit secretion of IL-6, IL-8, E-selectin and TXB2 in LPS-induced rat intestinal microvascular endothelial cells LPS inhibits endothelin-1-induced endothelial NOS activation in hepatic sinusoidal cells through a negative feedback involving caveolin-1 Direct evidence of the existence of specific LPS binding sites on vascular endothelial cells Cachectin/TNF mediates the pathophysiological effects of bacterial endotoxin/lipopolysaccharide (LPS) Apoptotic cell death in patients with sepsis, shock, and multiple organ dysfunction Cyclooxygenase-2-derived prostacyclin protective role on endotoxin-induced mouse cardiomyocyte mortality Inhibitor-kappaB kinase-beta regulates LPS-induced TNF-alpha production in cardiac myocytes through modulation of NF-kappaB p65 subunit phosphorylation NF-kappaB and ERK cooperate to stimulate DNA synthesis by inducing ornithine decarboxylase and nitric oxide synthase in cardiomyocytes treated with TNF and LPS Histone deacetylase-3 activation promotes tumor necrosis factor-alpha (TNF-alpha) expression in cardiomyocytes during lipopolysaccharide stimulation. J Biol Chem Mitochondrial protection by resveratrol What is new for an old molecule? Systematic review and recommendations on the use of resveratrol Nrf2/ARE regulated antioxidant gene expression in endothelial and smooth muscle cells in oxidative stress: implications for atherosclerosis and preeclampsia Discovery of molecular mechanisms of traditional Chinese medicinal formula Si-Wu-Tang using gene expression microarray and connectivity map Resveratrol and diabetic cardiac function: focus on recent in vitro and in vivo studies Akt/FOXO3a/SIRT1-mediated cardioprotection by n-tyrosol against ischemic stress in rat in vivo model of myocardial infarction: switching gears toward survival and longevity Resveratrol protects cardiomyocytes from hypoxia-induced apoptosis through the SIRT1-FoxO1 pathway Silent information regulator 2alpha, a longevity factor and class III histone deacetylase, is an essential endogenous apoptosis inhibitor in cardiac myocytes MicroRNA-195 promotes palmitate-induced apoptosis in cardiomyocytes by down-regulating Sirt1. Cardiovasc Res Omega-3 Polyunsaturated Fatty Acids Antagonize Macrophage Inflammation via Activation of AMPK/SIRT1 Pathway",
+    "entities": [
+        {
+            "entityId": "0_11",
+            "span": {
+                "begin": 0,
+                "end": 11
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "69_94",
+            "span": {
+                "begin": 69,
+                "end": 94
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2 Transcription Factor",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "111_132",
+            "span": {
+                "begin": 111,
+                "end": 132
+            },
+            "entityType": "disease",
+            "entityName": "Septic cardiomyopathy",
+            "id": "UMLS:C0878544"
+        },
+        {
+            "entityId": "271_282",
+            "span": {
+                "begin": 271,
+                "end": 282
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "338_344",
+            "span": {
+                "begin": 338,
+                "end": 344
+            },
+            "entityType": "disease",
+            "entityName": "sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "476_481",
+            "span": {
+                "begin": 476,
+                "end": 481
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "509_523",
+            "span": {
+                "begin": 509,
+                "end": 523
+            },
+            "entityType": "disease",
+            "entityName": "cardiomyopathy",
+            "id": "UMLS:C0878544"
+        },
+        {
+            "entityId": "579_590",
+            "span": {
+                "begin": 579,
+                "end": 590
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "646_649",
+            "span": {
+                "begin": 646,
+                "end": 649
+            },
+            "entityType": "gene",
+            "entityName": "LDH",
+            "id": "UMLS:C0022917"
+        },
+        {
+            "entityId": "654_656",
+            "span": {
+                "begin": 654,
+                "end": 656
+            },
+            "entityType": "gene",
+            "entityName": "CK",
+            "id": "UMLS:C1872855"
+        },
+        {
+            "entityId": "826_830",
+            "span": {
+                "begin": 826,
+                "end": 830
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "908_919",
+            "span": {
+                "begin": 908,
+                "end": 919
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "935_939",
+            "span": {
+                "begin": 935,
+                "end": 939
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "1022_1059",
+            "span": {
+                "begin": 1022,
+                "end": 1059
+            },
+            "entityType": "cell",
+            "entityName": "cultured primary human cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "1064_1068",
+            "span": {
+                "begin": 1064,
+                "end": 1068
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "1115_1126",
+            "span": {
+                "begin": 1115,
+                "end": 1126
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "1136_1149",
+            "span": {
+                "begin": 1136,
+                "end": 1149
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "1177_1188",
+            "span": {
+                "begin": 1177,
+                "end": 1188
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "1260_1264",
+            "span": {
+                "begin": 1260,
+                "end": 1264
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "1352_1356",
+            "span": {
+                "begin": 1352,
+                "end": 1356
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "1385_1422",
+            "span": {
+                "begin": 1385,
+                "end": 1422
+            },
+            "entityType": "cell",
+            "entityName": "cultured primary human cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "1424_1435",
+            "span": {
+                "begin": 1424,
+                "end": 1435
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "1446_1450",
+            "span": {
+                "begin": 1446,
+                "end": 1450
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "1578_1582",
+            "span": {
+                "begin": 1578,
+                "end": 1582
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "1593_1604",
+            "span": {
+                "begin": 1593,
+                "end": 1604
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "1678_1689",
+            "span": {
+                "begin": 1678,
+                "end": 1689
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "1731_1747",
+            "span": {
+                "begin": 1731,
+                "end": 1747
+            },
+            "entityType": "disease",
+            "entityName": "cardiac toxicity",
+            "id": "mesh:D066126"
+        },
+        {
+            "entityId": "1784_1788",
+            "span": {
+                "begin": 1784,
+                "end": 1788
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "1840_1851",
+            "span": {
+                "begin": 1840,
+                "end": 1851
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "1911_1932",
+            "span": {
+                "begin": 1911,
+                "end": 1932
+            },
+            "entityType": "disease",
+            "entityName": "septic cardiomyopathy",
+            "id": "UMLS:C0878544"
+        },
+        {
+            "entityId": "1947_1959",
+            "span": {
+                "begin": 1947,
+                "end": 1959
+            },
+            "entityType": "disease",
+            "entityName": "Septic shock",
+            "id": "UMLS:C0036983"
+        },
+        {
+            "entityId": "1977_1983",
+            "span": {
+                "begin": 1977,
+                "end": 1983
+            },
+            "entityType": "disease",
+            "entityName": "sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "1992_2005",
+            "span": {
+                "begin": 1992,
+                "end": 2005
+            },
+            "entityType": "disease",
+            "entityName": "organ failure",
+            "id": "UMLS:C0349410"
+        },
+        {
+            "entityId": "2010_2021",
+            "span": {
+                "begin": 2010,
+                "end": 2021
+            },
+            "entityType": "disease",
+            "entityName": "hypotension",
+            "id": "mesh:D007022"
+        },
+        {
+            "entityId": "2036_2047",
+            "span": {
+                "begin": 2036,
+                "end": 2047
+            },
+            "entityType": "disease",
+            "entityName": "hypotension",
+            "id": "mesh:D007022"
+        },
+        {
+            "entityId": "2052_2065",
+            "span": {
+                "begin": 2052,
+                "end": 2065
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "2099_2111",
+            "span": {
+                "begin": 2099,
+                "end": 2111
+            },
+            "entityType": "disease",
+            "entityName": "septic shock",
+            "id": "UMLS:C0036983"
+        },
+        {
+            "entityId": "2230_2242",
+            "span": {
+                "begin": 2230,
+                "end": 2242
+            },
+            "entityType": "disease",
+            "entityName": "septic shock",
+            "id": "UMLS:C0036983"
+        },
+        {
+            "entityId": "2244_2262",
+            "span": {
+                "begin": 2244,
+                "end": 2262
+            },
+            "entityType": "disease",
+            "entityName": "Cardiac depression",
+            "id": "UMLS:C0344315"
+        },
+        {
+            "entityId": "2266_2278",
+            "span": {
+                "begin": 2266,
+                "end": 2278
+            },
+            "entityType": "disease",
+            "entityName": "septic shock",
+            "id": "UMLS:C0036983"
+        },
+        {
+            "entityId": "2385_2396",
+            "span": {
+                "begin": 2385,
+                "end": 2396
+            },
+            "entityType": "disease",
+            "entityName": "tachycardia",
+            "id": "mesh:D013610"
+        },
+        {
+            "entityId": "2488_2496",
+            "span": {
+                "begin": 2488,
+                "end": 2496
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2502_2508",
+            "span": {
+                "begin": 2502,
+                "end": 2508
+            },
+            "entityType": "disease",
+            "entityName": "sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "2586_2594",
+            "span": {
+                "begin": 2586,
+                "end": 2594
+            },
+            "entityType": "gene",
+            "entityName": "TNFalpha",
+            "id": "UMLS:C1522669"
+        },
+        {
+            "entityId": "2623_2637",
+            "span": {
+                "begin": 2623,
+                "end": 2637
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "2747_2761",
+            "span": {
+                "begin": 2747,
+                "end": 2761
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "2862_2876",
+            "span": {
+                "begin": 2862,
+                "end": 2876
+            },
+            "entityType": "disease",
+            "entityName": "heart failures",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "2885_2896",
+            "span": {
+                "begin": 2885,
+                "end": 2896
+            },
+            "entityType": "disease",
+            "entityName": "myocarditis",
+            "id": "UMLS:C0027059"
+        },
+        {
+            "entityId": "2898_2922",
+            "span": {
+                "begin": 2898,
+                "end": 2922
+            },
+            "entityType": "disease",
+            "entityName": "congestive heart disease",
+            "id": "UMLS:C0018802"
+        },
+        {
+            "entityId": "2924_2947",
+            "span": {
+                "begin": 2924,
+                "end": 2947
+            },
+            "entityType": "disease",
+            "entityName": "diabetic cardiomyopathy",
+            "id": "UMLS:C0853897"
+        },
+        {
+            "entityId": "2979_2987",
+            "span": {
+                "begin": 2979,
+                "end": 2987
+            },
+            "entityType": "disease",
+            "entityName": "ischemia",
+            "id": "UMLS:C0022116"
+        },
+        {
+            "entityId": "3053_3066",
+            "span": {
+                "begin": 3053,
+                "end": 3066
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "3107_3113",
+            "span": {
+                "begin": 3107,
+                "end": 3113
+            },
+            "entityType": "disease",
+            "entityName": "sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "3199_3212",
+            "span": {
+                "begin": 3199,
+                "end": 3212
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "3214_3225",
+            "span": {
+                "begin": 3214,
+                "end": 3225
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "3312_3326",
+            "span": {
+                "begin": 3312,
+                "end": 3326
+            },
+            "entityType": "disease",
+            "entityName": "heart diseases",
+            "id": "UMLS:C0018799"
+        },
+        {
+            "entityId": "3392_3403",
+            "span": {
+                "begin": 3392,
+                "end": 3403
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "3529_3536",
+            "span": {
+                "begin": 3529,
+                "end": 3536
+            },
+            "entityType": "species",
+            "entityName": "peanuts",
+            "id": "UMLS:C0030736"
+        },
+        {
+            "entityId": "3542_3552",
+            "span": {
+                "begin": 3542,
+                "end": 3552
+            },
+            "entityType": "species",
+            "entityName": "mulberries",
+            "id": "UMLS:C0330540"
+        },
+        {
+            "entityId": "3632_3643",
+            "span": {
+                "begin": 3632,
+                "end": 3643
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "3715_3732",
+            "span": {
+                "begin": 3715,
+                "end": 3732
+            },
+            "entityType": "species",
+            "entityName": "Japanese Knotweed",
+            "id": "UMLS:C2314887"
+        },
+        {
+            "entityId": "3789_3800",
+            "span": {
+                "begin": 3789,
+                "end": 3800
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "3877_3891",
+            "span": {
+                "begin": 3877,
+                "end": 3891
+            },
+            "entityType": "disease",
+            "entityName": "heart diseases",
+            "id": "UMLS:C0018799"
+        },
+        {
+            "entityId": "3905_3916",
+            "span": {
+                "begin": 3905,
+                "end": 3916
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "3985_3999",
+            "span": {
+                "begin": 3985,
+                "end": 3999
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "4001_4006",
+            "span": {
+                "begin": 4001,
+                "end": 4006
+            },
+            "entityType": "gene",
+            "entityName": "SIRT1",
+            "id": "UMLS:C1423062"
+        },
+        {
+            "entityId": "4100_4111",
+            "span": {
+                "begin": 4100,
+                "end": 4111
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "4163_4174",
+            "span": {
+                "begin": 4163,
+                "end": 4174
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "4231_4259",
+            "span": {
+                "begin": 4231,
+                "end": 4259
+            },
+            "entityType": "cell",
+            "entityName": "vascular smooth muscle cells",
+            "id": "UMLS:C4082861"
+        },
+        {
+            "entityId": "4261_4272",
+            "span": {
+                "begin": 4261,
+                "end": 4272
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "4348_4352",
+            "span": {
+                "begin": 4348,
+                "end": 4352
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "4355_4359",
+            "span": {
+                "begin": 4355,
+                "end": 4359
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "4379_4398",
+            "span": {
+                "begin": 4379,
+                "end": 4398
+            },
+            "entityType": "gene",
+            "entityName": "cap-N-collar family",
+            "id": "UMLS:C4522312"
+        },
+        {
+            "entityId": "4592_4603",
+            "span": {
+                "begin": 4592,
+                "end": 4603
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "4692_4697",
+            "span": {
+                "begin": 4692,
+                "end": 4697
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "4726_4737",
+            "span": {
+                "begin": 4726,
+                "end": 4737
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "4806_4810",
+            "span": {
+                "begin": 4806,
+                "end": 4810
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "4898_4902",
+            "span": {
+                "begin": 4898,
+                "end": 4902
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "4931_4968",
+            "span": {
+                "begin": 4931,
+                "end": 4968
+            },
+            "entityType": "cell",
+            "entityName": "cultured primary human cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "4970_4981",
+            "span": {
+                "begin": 4970,
+                "end": 4981
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "4992_4996",
+            "span": {
+                "begin": 4992,
+                "end": 4996
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "5124_5128",
+            "span": {
+                "begin": 5124,
+                "end": 5128
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "5139_5150",
+            "span": {
+                "begin": 5139,
+                "end": 5150
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "5245_5249",
+            "span": {
+                "begin": 5245,
+                "end": 5249
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "5285_5296",
+            "span": {
+                "begin": 5285,
+                "end": 5296
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "5320_5324",
+            "span": {
+                "begin": 5320,
+                "end": 5324
+            },
+            "entityType": "species",
+            "entityName": "Mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "5353_5357",
+            "span": {
+                "begin": 5353,
+                "end": 5357
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "5474_5485",
+            "span": {
+                "begin": 5474,
+                "end": 5485
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "5547_5558",
+            "span": {
+                "begin": 5547,
+                "end": 5558
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "5576_5580",
+            "span": {
+                "begin": 5576,
+                "end": 5580
+            },
+            "entityType": "drug",
+            "entityName": "DMSO",
+            "id": "UMLS:C0012403"
+        },
+        {
+            "entityId": "5581_5589",
+            "span": {
+                "begin": 5581,
+                "end": 5589
+            },
+            "entityType": "drug",
+            "entityName": "Tween 80",
+            "id": "UMLS:C0041417"
+        },
+        {
+            "entityId": "5740_5745",
+            "span": {
+                "begin": 5740,
+                "end": 5745
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "6041_6056",
+            "span": {
+                "begin": 6041,
+                "end": 6056
+            },
+            "entityType": "gene",
+            "entityName": "Creatine Kinase",
+            "id": "UMLS:C0010287"
+        },
+        {
+            "entityId": "6058_6060",
+            "span": {
+                "begin": 6058,
+                "end": 6060
+            },
+            "entityType": "gene",
+            "entityName": "CK",
+            "id": "UMLS:C1872855"
+        },
+        {
+            "entityId": "6066_6087",
+            "span": {
+                "begin": 6066,
+                "end": 6087
+            },
+            "entityType": "gene",
+            "entityName": "Lactate Dehydrogenase",
+            "id": "UMLS:C0022917"
+        },
+        {
+            "entityId": "6089_6092",
+            "span": {
+                "begin": 6089,
+                "end": 6092
+            },
+            "entityType": "gene",
+            "entityName": "LDH",
+            "id": "UMLS:C0022917"
+        },
+        {
+            "entityId": "6113_6115",
+            "span": {
+                "begin": 6113,
+                "end": 6115
+            },
+            "entityType": "gene",
+            "entityName": "CK",
+            "id": "UMLS:C1872855"
+        },
+        {
+            "entityId": "6120_6123",
+            "span": {
+                "begin": 6120,
+                "end": 6123
+            },
+            "entityType": "gene",
+            "entityName": "LDH",
+            "id": "UMLS:C0022917"
+        },
+        {
+            "entityId": "6239_6243",
+            "span": {
+                "begin": 6239,
+                "end": 6243
+            },
+            "entityType": "species",
+            "entityName": "Mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "6275_6285",
+            "span": {
+                "begin": 6275,
+                "end": 6285
+            },
+            "entityType": "drug",
+            "entityName": "isoflurane",
+            "id": "UMLS:C0022180"
+        },
+        {
+            "entityId": "6297_6303",
+            "span": {
+                "begin": 6297,
+                "end": 6303
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "6836_6864",
+            "span": {
+                "begin": 6836,
+                "end": 6864
+            },
+            "entityType": "cell",
+            "entityName": "Human neonatal cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "7166_7177",
+            "span": {
+                "begin": 7166,
+                "end": 7177
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "7263_7266",
+            "span": {
+                "begin": 7263,
+                "end": 7266
+            },
+            "entityType": "drug",
+            "entityName": "MTT",
+            "id": "UMLS:C0647210"
+        },
+        {
+            "entityId": "7307_7321",
+            "span": {
+                "begin": 7307,
+                "end": 7321
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "7445_7456",
+            "span": {
+                "begin": 7445,
+                "end": 7456
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "7505_7508",
+            "span": {
+                "begin": 7505,
+                "end": 7508
+            },
+            "entityType": "drug",
+            "entityName": "MTT",
+            "id": "UMLS:C0647210"
+        },
+        {
+            "entityId": "7645_7656",
+            "span": {
+                "begin": 7645,
+                "end": 7656
+            },
+            "entityType": "drug",
+            "entityName": "isopropanol",
+            "id": "UMLS:C0022237"
+        },
+        {
+            "entityId": "7664_7667",
+            "span": {
+                "begin": 7664,
+                "end": 7667
+            },
+            "entityType": "drug",
+            "entityName": "HCl",
+            "id": "UMLS:C1512523"
+        },
+        {
+            "entityId": "7884_7889",
+            "span": {
+                "begin": 7884,
+                "end": 7889
+            },
+            "entityType": "gene",
+            "entityName": "NRF-2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "7929_7933",
+            "span": {
+                "begin": 7929,
+                "end": 7933
+            },
+            "entityType": "gene",
+            "entityName": "HO-1",
+            "id": "UMLS:C1415619"
+        },
+        {
+            "entityId": "7935_7951",
+            "span": {
+                "begin": 7935,
+                "end": 7951
+            },
+            "entityType": "gene",
+            "entityName": "heme oxygenase 1",
+            "id": "UMLS:C1415619"
+        },
+        {
+            "entityId": "7954_7958",
+            "span": {
+                "begin": 7954,
+                "end": 7958
+            },
+            "entityType": "gene",
+            "entityName": "GCLM",
+            "id": "UMLS:C1415098"
+        },
+        {
+            "entityId": "7960_7985",
+            "span": {
+                "begin": 7960,
+                "end": 7985
+            },
+            "entityType": "gene",
+            "entityName": "glutamate-cysteine ligase",
+            "id": "UMLS:C0017037"
+        },
+        {
+            "entityId": "7989_7993",
+            "span": {
+                "begin": 7989,
+                "end": 7993
+            },
+            "entityType": "gene",
+            "entityName": "TNFa",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "7995_8016",
+            "span": {
+                "begin": 7995,
+                "end": 8016
+            },
+            "entityType": "gene",
+            "entityName": "tumor necrosis factor",
+            "id": "UMLS:C1456820"
+        },
+        {
+            "entityId": "8019_8026",
+            "span": {
+                "begin": 8019,
+                "end": 8026
+            },
+            "entityType": "gene",
+            "entityName": "IL1beta",
+            "id": "UMLS:C1334112"
+        },
+        {
+            "entityId": "8028_8046",
+            "span": {
+                "begin": 8028,
+                "end": 8046
+            },
+            "entityType": "gene",
+            "entityName": "interleukin 1 beta",
+            "id": "UMLS:C1334112"
+        },
+        {
+            "entityId": "8049_8058",
+            "span": {
+                "begin": 8049,
+                "end": 8058
+            },
+            "entityType": "gene",
+            "entityName": "MIP1alpha",
+            "id": "UMLS:C1332690"
+        },
+        {
+            "entityId": "8060_8098",
+            "span": {
+                "begin": 8060,
+                "end": 8098
+            },
+            "entityType": "gene",
+            "entityName": "macrophage inflammatory protein-1alpha",
+            "id": "UMLS:C1332690"
+        },
+        {
+            "entityId": "8101_8105",
+            "span": {
+                "begin": 8101,
+                "end": 8105
+            },
+            "entityType": "gene",
+            "entityName": "MCP1",
+            "id": "UMLS:C1449159"
+        },
+        {
+            "entityId": "8106_8110",
+            "span": {
+                "begin": 8106,
+                "end": 8110
+            },
+            "entityType": "gene",
+            "entityName": "CD46",
+            "id": "NCBIGene:4179"
+        },
+        {
+            "entityId": "8115_8125",
+            "span": {
+                "begin": 8115,
+                "end": 8125
+            },
+            "entityType": "gene",
+            "entityName": "beta actin",
+            "id": "UMLS:C1384510"
+        },
+        {
+            "entityId": "8740_8751",
+            "span": {
+                "begin": 8740,
+                "end": 8751
+            },
+            "entityType": "gene",
+            "entityName": "NRF-2 siRNA",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "8752_8756",
+            "span": {
+                "begin": 8752,
+                "end": 8756
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "8890_8904",
+            "span": {
+                "begin": 8890,
+                "end": 8904
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "8940_8945",
+            "span": {
+                "begin": 8940,
+                "end": 8945
+            },
+            "entityType": "DNA",
+            "entityName": "siRNA",
+            "id": "UMLS:C1099354"
+        },
+        {
+            "entityId": "9108_9119",
+            "span": {
+                "begin": 9108,
+                "end": 9119
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "9196_9200",
+            "span": {
+                "begin": 9196,
+                "end": 9200
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "9205_9209",
+            "span": {
+                "begin": 9205,
+                "end": 9209
+            },
+            "entityType": "gene",
+            "entityName": "HO-1",
+            "id": "UMLS:C1415619"
+        },
+        {
+            "entityId": "9324_9327",
+            "span": {
+                "begin": 9324,
+                "end": 9327
+            },
+            "entityType": "drug",
+            "entityName": "KCl",
+            "id": "UMLS:C0032825"
+        },
+        {
+            "entityId": "9340_9344",
+            "span": {
+                "begin": 9340,
+                "end": 9344
+            },
+            "entityType": "drug",
+            "entityName": "EDTA",
+            "id": "UMLS:C0013618"
+        },
+        {
+            "entityId": "9355_9358",
+            "span": {
+                "begin": 9355,
+                "end": 9358
+            },
+            "entityType": "drug",
+            "entityName": "DTT",
+            "id": "UMLS:C0012789"
+        },
+        {
+            "entityId": "9595_9599",
+            "span": {
+                "begin": 9595,
+                "end": 9599
+            },
+            "entityType": "drug",
+            "entityName": "NaCl",
+            "id": "UMLS:C0037494"
+        },
+        {
+            "entityId": "9610_9614",
+            "span": {
+                "begin": 9610,
+                "end": 9614
+            },
+            "entityType": "drug",
+            "entityName": "EDTA",
+            "id": "UMLS:C0013618"
+        },
+        {
+            "entityId": "9627_9631",
+            "span": {
+                "begin": 9627,
+                "end": 9631
+            },
+            "entityType": "drug",
+            "entityName": "EGTA",
+            "id": "UMLS:C0013714"
+        },
+        {
+            "entityId": "9763_9767",
+            "span": {
+                "begin": 9763,
+                "end": 9767
+            },
+            "entityType": "drug",
+            "entityName": "PMSF",
+            "id": "UMLS:CHEBI:8102"
+        },
+        {
+            "entityId": "10022_10026",
+            "span": {
+                "begin": 10022,
+                "end": 10026
+            },
+            "entityType": "drug",
+            "entityName": "PVDF",
+            "id": "UMLS:C0071710"
+        },
+        {
+            "entityId": "10171_10177",
+            "span": {
+                "begin": 10171,
+                "end": 10177
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "10235_10245",
+            "span": {
+                "begin": 10235,
+                "end": 10245
+            },
+            "entityType": "gene",
+            "entityName": "Histone H3",
+            "id": "UMLS:C0019647"
+        },
+        {
+            "entityId": "10327_10330",
+            "span": {
+                "begin": 10327,
+                "end": 10330
+            },
+            "entityType": "gene",
+            "entityName": "HRP",
+            "id": "UMLS:C0019941"
+        },
+        {
+            "entityId": "10342_10346",
+            "span": {
+                "begin": 10342,
+                "end": 10346
+            },
+            "entityType": "species",
+            "entityName": "goat",
+            "id": "UMLS:C1510458"
+        },
+        {
+            "entityId": "10352_10358",
+            "span": {
+                "begin": 10352,
+                "end": 10358
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "10607_10612",
+            "span": {
+                "begin": 10607,
+                "end": 10612
+            },
+            "entityType": "gene",
+            "entityName": "actin",
+            "id": "UMLS:C0001271"
+        },
+        {
+            "entityId": "10742_10746",
+            "span": {
+                "begin": 10742,
+                "end": 10746
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "10798_10802",
+            "span": {
+                "begin": 10798,
+                "end": 10802
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "10839_10850",
+            "span": {
+                "begin": 10839,
+                "end": 10850
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "10854_10867",
+            "span": {
+                "begin": 10854,
+                "end": 10867
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "10869_10888",
+            "span": {
+                "begin": 10869,
+                "end": 10888
+            },
+            "entityType": "cell",
+            "entityName": "Human cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "11100_11116",
+            "span": {
+                "begin": 11100,
+                "end": 11116
+            },
+            "entityType": "drug",
+            "entityName": "paraformaldehyde",
+            "id": "mesh:C003043"
+        },
+        {
+            "entityId": "11184_11196",
+            "span": {
+                "begin": 11184,
+                "end": 11196
+            },
+            "entityType": "drug",
+            "entityName": "Triton X-100",
+            "id": "UMLS:C0146951"
+        },
+        {
+            "entityId": "11281_11287",
+            "span": {
+                "begin": 11281,
+                "end": 11287
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "11430_11434",
+            "span": {
+                "begin": 11430,
+                "end": 11434
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "11448_11454",
+            "span": {
+                "begin": 11448,
+                "end": 11454
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "11553_11557",
+            "span": {
+                "begin": 11553,
+                "end": 11557
+            },
+            "entityType": "drug",
+            "entityName": "DAPI",
+            "id": "UMLS:C0057142"
+        },
+        {
+            "entityId": "11768_11782",
+            "span": {
+                "begin": 11768,
+                "end": 11782
+            },
+            "entityType": "cell",
+            "entityName": "Cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "11802_11809",
+            "span": {
+                "begin": 11802,
+                "end": 11809
+            },
+            "entityType": "gene",
+            "entityName": "trypsin",
+            "id": "UMLS:C0041236"
+        },
+        {
+            "entityId": "11904_11913",
+            "span": {
+                "begin": 11904,
+                "end": 11913
+            },
+            "entityType": "gene",
+            "entityName": "Annexin V",
+            "id": "UMLS:C1332095"
+        },
+        {
+            "entityId": "12219_12228",
+            "span": {
+                "begin": 12219,
+                "end": 12228
+            },
+            "entityType": "gene",
+            "entityName": "Annexin V",
+            "id": "UMLS:C1332095"
+        },
+        {
+            "entityId": "12314_12325",
+            "span": {
+                "begin": 12314,
+                "end": 12325
+            },
+            "entityType": "drug",
+            "entityName": "Sytox Green",
+            "id": "UMLS:C0911292"
+        },
+        {
+            "entityId": "12540_12549",
+            "span": {
+                "begin": 12540,
+                "end": 12549
+            },
+            "entityType": "gene",
+            "entityName": "Caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "12566_12575",
+            "span": {
+                "begin": 12566,
+                "end": 12575
+            },
+            "entityType": "gene",
+            "entityName": "Caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "12625_12634",
+            "span": {
+                "begin": 12625,
+                "end": 12634
+            },
+            "entityType": "gene",
+            "entityName": "Caspase-3",
+            "id": "UMLS:C0291573"
+        },
+        {
+            "entityId": "12635_12640",
+            "span": {
+                "begin": 12635,
+                "end": 12640
+            },
+            "entityType": "gene",
+            "entityName": "CPP32",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "12747_12761",
+            "span": {
+                "begin": 12747,
+                "end": 12761
+            },
+            "entityType": "drug",
+            "entityName": "p-nitroaniline",
+            "id": "UMLS:C0048553"
+        },
+        {
+            "entityId": "12763_12766",
+            "span": {
+                "begin": 12763,
+                "end": 12766
+            },
+            "entityType": "drug",
+            "entityName": "pNA",
+            "id": "mesh:D020135"
+        },
+        {
+            "entityId": "12815_12818",
+            "span": {
+                "begin": 12815,
+                "end": 12818
+            },
+            "entityType": "drug",
+            "entityName": "pNA",
+            "id": "mesh:D020135"
+        },
+        {
+            "entityId": "12824_12827",
+            "span": {
+                "begin": 12824,
+                "end": 12827
+            },
+            "entityType": "drug",
+            "entityName": "pNA",
+            "id": "mesh:D020135"
+        },
+        {
+            "entityId": "12909_12914",
+            "span": {
+                "begin": 12909,
+                "end": 12914
+            },
+            "entityType": "gene",
+            "entityName": "CPP32",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "12974_12977",
+            "span": {
+                "begin": 12974,
+                "end": 12977
+            },
+            "entityType": "drug",
+            "entityName": "pNA",
+            "id": "mesh:D020135"
+        },
+        {
+            "entityId": "13344_13355",
+            "span": {
+                "begin": 13344,
+                "end": 13355
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "13406_13410",
+            "span": {
+                "begin": 13406,
+                "end": 13410
+            },
+            "entityType": "species",
+            "entityName": "Mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "13430_13441",
+            "span": {
+                "begin": 13430,
+                "end": 13441
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "13516_13520",
+            "span": {
+                "begin": 13516,
+                "end": 13520
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "13556_13567",
+            "span": {
+                "begin": 13556,
+                "end": 13567
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "13627_13631",
+            "span": {
+                "begin": 13627,
+                "end": 13631
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "13779_13794",
+            "span": {
+                "begin": 13779,
+                "end": 13794
+            },
+            "entityType": "gene",
+            "entityName": "creatine kinase",
+            "id": "UMLS:C0010287"
+        },
+        {
+            "entityId": "13796_13798",
+            "span": {
+                "begin": 13796,
+                "end": 13798
+            },
+            "entityType": "gene",
+            "entityName": "CK",
+            "id": "UMLS:C1872855"
+        },
+        {
+            "entityId": "13804_13825",
+            "span": {
+                "begin": 13804,
+                "end": 13825
+            },
+            "entityType": "gene",
+            "entityName": "lactate dehydrogenase",
+            "id": "UMLS:C0022917"
+        },
+        {
+            "entityId": "13827_13830",
+            "span": {
+                "begin": 13827,
+                "end": 13830
+            },
+            "entityType": "gene",
+            "entityName": "LDH",
+            "id": "UMLS:C0022917"
+        },
+        {
+            "entityId": "13833_13844",
+            "span": {
+                "begin": 13833,
+                "end": 13844
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "13902_13904",
+            "span": {
+                "begin": 13902,
+                "end": 13904
+            },
+            "entityType": "gene",
+            "entityName": "CK",
+            "id": "UMLS:C1872855"
+        },
+        {
+            "entityId": "13909_13912",
+            "span": {
+                "begin": 13909,
+                "end": 13912
+            },
+            "entityType": "gene",
+            "entityName": "LDH",
+            "id": "UMLS:C0022917"
+        },
+        {
+            "entityId": "13920_13924",
+            "span": {
+                "begin": 13920,
+                "end": 13924
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "14230_14241",
+            "span": {
+                "begin": 14230,
+                "end": 14241
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "14266_14270",
+            "span": {
+                "begin": 14266,
+                "end": 14270
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "15389_15400",
+            "span": {
+                "begin": 15389,
+                "end": 15400
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "15489_15493",
+            "span": {
+                "begin": 15489,
+                "end": 15493
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "15573_15584",
+            "span": {
+                "begin": 15573,
+                "end": 15584
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "15677_15686",
+            "span": {
+                "begin": 15677,
+                "end": 15686
+            },
+            "entityType": "gene",
+            "entityName": "TNF-alpha",
+            "id": "UMLS:C1522669"
+        },
+        {
+            "entityId": "15691_15699",
+            "span": {
+                "begin": 15691,
+                "end": 15699
+            },
+            "entityType": "gene",
+            "entityName": "IL-1beta",
+            "id": "UMLS:C1334112"
+        },
+        {
+            "entityId": "15715_15725",
+            "span": {
+                "begin": 15715,
+                "end": 15725
+            },
+            "entityType": "gene",
+            "entityName": "MIP-1alpha",
+            "id": "UMLS:C0128546"
+        },
+        {
+            "entityId": "15730_15733",
+            "span": {
+                "begin": 15730,
+                "end": 15733
+            },
+            "entityType": "gene",
+            "entityName": "MCP",
+            "id": "UMLS:C3540820"
+        },
+        {
+            "entityId": "15787_15796",
+            "span": {
+                "begin": 15787,
+                "end": 15796
+            },
+            "entityType": "gene",
+            "entityName": "TNF-alpha",
+            "id": "UMLS:C1522669"
+        },
+        {
+            "entityId": "15811_15834",
+            "span": {
+                "begin": 15811,
+                "end": 15834
+            },
+            "entityType": "cell",
+            "entityName": "cultured cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "15860_15871",
+            "span": {
+                "begin": 15860,
+                "end": 15871
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "15920_15931",
+            "span": {
+                "begin": 15920,
+                "end": 15931
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "15966_15970",
+            "span": {
+                "begin": 15966,
+                "end": 15970
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "16048_16052",
+            "span": {
+                "begin": 16048,
+                "end": 16052
+            },
+            "entityType": "gene",
+            "entityName": "GCLM",
+            "id": "UMLS:C1415098"
+        },
+        {
+            "entityId": "17464_17475",
+            "span": {
+                "begin": 17464,
+                "end": 17475
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "17538_17552",
+            "span": {
+                "begin": 17538,
+                "end": 17552
+            },
+            "entityType": "cell",
+            "entityName": "Cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "17576_17590",
+            "span": {
+                "begin": 17576,
+                "end": 17590
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "17623_17634",
+            "span": {
+                "begin": 17623,
+                "end": 17634
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "17648_17676",
+            "span": {
+                "begin": 17648,
+                "end": 17676
+            },
+            "entityType": "cell",
+            "entityName": "human primary cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "17732_17743",
+            "span": {
+                "begin": 17732,
+                "end": 17743
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "17888_17899",
+            "span": {
+                "begin": 17888,
+                "end": 17899
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "17952_17963",
+            "span": {
+                "begin": 17952,
+                "end": 17963
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "17979_17990",
+            "span": {
+                "begin": 17979,
+                "end": 17990
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "18254_18265",
+            "span": {
+                "begin": 18254,
+                "end": 18265
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "18365_18376",
+            "span": {
+                "begin": 18365,
+                "end": 18376
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "18439_18448",
+            "span": {
+                "begin": 18439,
+                "end": 18448
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "18512_18523",
+            "span": {
+                "begin": 18512,
+                "end": 18523
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "19985_19996",
+            "span": {
+                "begin": 19985,
+                "end": 19996
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "20031_20037",
+            "span": {
+                "begin": 20031,
+                "end": 20037
+            },
+            "entityType": "drug",
+            "entityName": "Oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "20081_20095",
+            "span": {
+                "begin": 20081,
+                "end": 20095
+            },
+            "entityType": "cell",
+            "entityName": "Cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "20109_20120",
+            "span": {
+                "begin": 20109,
+                "end": 20120
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "20519_20530",
+            "span": {
+                "begin": 20519,
+                "end": 20530
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "20881_20885",
+            "span": {
+                "begin": 20881,
+                "end": 20885
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "20913_20924",
+            "span": {
+                "begin": 20913,
+                "end": 20924
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "20971_20984",
+            "span": {
+                "begin": 20971,
+                "end": 20984
+            },
+            "entityType": "cell",
+            "entityName": "Cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "21016_21027",
+            "span": {
+                "begin": 21016,
+                "end": 21027
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "21067_21071",
+            "span": {
+                "begin": 21067,
+                "end": 21071
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "21179_21183",
+            "span": {
+                "begin": 21179,
+                "end": 21183
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "21204_21215",
+            "span": {
+                "begin": 21204,
+                "end": 21215
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "21347_21359",
+            "span": {
+                "begin": 21347,
+                "end": 21359
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2 protein",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "21384_21398",
+            "span": {
+                "begin": 21384,
+                "end": 21398
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "21412_21423",
+            "span": {
+                "begin": 21412,
+                "end": 21423
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "21579_21583",
+            "span": {
+                "begin": 21579,
+                "end": 21583
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "21612_21616",
+            "span": {
+                "begin": 21612,
+                "end": 21616
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "21700_21702",
+            "span": {
+                "begin": 21700,
+                "end": 21702
+            },
+            "entityType": "gene",
+            "entityName": "HO",
+            "id": "UMLS:C1424898"
+        },
+        {
+            "entityId": "21709_21713",
+            "span": {
+                "begin": 21709,
+                "end": 21713
+            },
+            "entityType": "gene",
+            "entityName": "GCLM",
+            "id": "UMLS:C1415098"
+        },
+        {
+            "entityId": "21758_21762",
+            "span": {
+                "begin": 21758,
+                "end": 21762
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "21773_21784",
+            "span": {
+                "begin": 21773,
+                "end": 21784
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "23198_23204",
+            "span": {
+                "begin": 23198,
+                "end": 23204
+            },
+            "entityType": "disease",
+            "entityName": "sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "23228_23240",
+            "span": {
+                "begin": 23228,
+                "end": 23240
+            },
+            "entityType": "disease",
+            "entityName": "septic shock",
+            "id": "UMLS:C0036983"
+        },
+        {
+            "entityId": "23295_23301",
+            "span": {
+                "begin": 23295,
+                "end": 23301
+            },
+            "entityType": "disease",
+            "entityName": "sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "23486_23494",
+            "span": {
+                "begin": 23486,
+                "end": 23494
+            },
+            "entityType": "disease",
+            "entityName": "flushing",
+            "id": "UMLS:C0016382"
+        },
+        {
+            "entityId": "23496_23501",
+            "span": {
+                "begin": 23496,
+                "end": 23501
+            },
+            "entityType": "disease",
+            "entityName": "fever",
+            "id": "UMLS:C0015967"
+        },
+        {
+            "entityId": "23503_23511",
+            "span": {
+                "begin": 23503,
+                "end": 23511
+            },
+            "entityType": "disease",
+            "entityName": "oliguria",
+            "id": "UMLS:C0028961"
+        },
+        {
+            "entityId": "23517_23528",
+            "span": {
+                "begin": 23517,
+                "end": 23528
+            },
+            "entityType": "disease",
+            "entityName": "hypotension",
+            "id": "mesh:D007022"
+        },
+        {
+            "entityId": "23530_23536",
+            "span": {
+                "begin": 23530,
+                "end": 23536
+            },
+            "entityType": "disease",
+            "entityName": "Sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "23537_23545",
+            "span": {
+                "begin": 23537,
+                "end": 23545
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23551_23572",
+            "span": {
+                "begin": 23551,
+                "end": 23572
+            },
+            "entityType": "disease",
+            "entityName": "myocardial depression",
+            "id": "UMLS:C0340515"
+        },
+        {
+            "entityId": "23620_23628",
+            "span": {
+                "begin": 23620,
+                "end": 23628
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23852_23866",
+            "span": {
+                "begin": 23852,
+                "end": 23866
+            },
+            "entityType": "gene",
+            "entityName": "immunoglobulin",
+            "id": "UMLS:C0021027"
+        },
+        {
+            "entityId": "23873_23879",
+            "span": {
+                "begin": 23873,
+                "end": 23879
+            },
+            "entityType": "disease",
+            "entityName": "sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "24310_24316",
+            "span": {
+                "begin": 24310,
+                "end": 24316
+            },
+            "entityType": "disease",
+            "entityName": "sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "24437_24484",
+            "span": {
+                "begin": 24437,
+                "end": 24484
+            },
+            "entityType": "gene",
+            "entityName": "3-hydroxy-3-methylglutaryl coenzyme A reductase",
+            "id": "UMLS:C4284076"
+        },
+        {
+            "entityId": "24489_24496",
+            "span": {
+                "begin": 24489,
+                "end": 24496
+            },
+            "entityType": "drug",
+            "entityName": "statins",
+            "id": "UMLS:C0360714"
+        },
+        {
+            "entityId": "24539_24550",
+            "span": {
+                "begin": 24539,
+                "end": 24550
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "24628_24655",
+            "span": {
+                "begin": 24628,
+                "end": 24655
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular complication",
+            "id": "UMLS:C0161816"
+        },
+        {
+            "entityId": "24659_24665",
+            "span": {
+                "begin": 24659,
+                "end": 24665
+            },
+            "entityType": "disease",
+            "entityName": "sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "24744_24758",
+            "span": {
+                "begin": 24744,
+                "end": 24758
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "24763_24780",
+            "span": {
+                "begin": 24763,
+                "end": 24780
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cells",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "25015_25029",
+            "span": {
+                "begin": 25015,
+                "end": 25029
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "25034_25051",
+            "span": {
+                "begin": 25034,
+                "end": 25051
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cells",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "25086_25098",
+            "span": {
+                "begin": 25086,
+                "end": 25098
+            },
+            "entityType": "disease",
+            "entityName": "septic shock",
+            "id": "UMLS:C0036983"
+        },
+        {
+            "entityId": "25206_25214",
+            "span": {
+                "begin": 25206,
+                "end": 25214
+            },
+            "entityType": "gene",
+            "entityName": "TNFalpha",
+            "id": "UMLS:C1522669"
+        },
+        {
+            "entityId": "25426_25432",
+            "span": {
+                "begin": 25426,
+                "end": 25432
+            },
+            "entityType": "disease",
+            "entityName": "sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "25467_25475",
+            "span": {
+                "begin": 25467,
+                "end": 25475
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "25493_25499",
+            "span": {
+                "begin": 25493,
+                "end": 25499
+            },
+            "entityType": "disease",
+            "entityName": "sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "25504_25523",
+            "span": {
+                "begin": 25504,
+                "end": 25523
+            },
+            "entityType": "disease",
+            "entityName": "multi-organ failure",
+            "id": "UMLS:C0026766"
+        },
+        {
+            "entityId": "25545_25556",
+            "span": {
+                "begin": 25545,
+                "end": 25556
+            },
+            "entityType": "disease",
+            "entityName": "endotoxemia",
+            "id": "UMLS:C0376618"
+        },
+        {
+            "entityId": "25561_25567",
+            "span": {
+                "begin": 25561,
+                "end": 25567
+            },
+            "entityType": "disease",
+            "entityName": "sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "25673_25687",
+            "span": {
+                "begin": 25673,
+                "end": 25687
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "25799_25810",
+            "span": {
+                "begin": 25799,
+                "end": 25810
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "25851_25861",
+            "span": {
+                "begin": 25851,
+                "end": 25861
+            },
+            "entityType": "disease",
+            "entityName": "myocardial",
+            "id": "mesh:D009202"
+        },
+        {
+            "entityId": "25872_25876",
+            "span": {
+                "begin": 25872,
+                "end": 25876
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "25905_25919",
+            "span": {
+                "begin": 25905,
+                "end": 25919
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "26000_26020",
+            "span": {
+                "begin": 26000,
+                "end": 26020
+            },
+            "entityType": "cell",
+            "entityName": "human cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "26088_26099",
+            "span": {
+                "begin": 26088,
+                "end": 26099
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "26172_26180",
+            "span": {
+                "begin": 26172,
+                "end": 26180
+            },
+            "entityType": "gene",
+            "entityName": "TNFalpha",
+            "id": "UMLS:C1522669"
+        },
+        {
+            "entityId": "26195_26209",
+            "span": {
+                "begin": 26195,
+                "end": 26209
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "26372_26386",
+            "span": {
+                "begin": 26372,
+                "end": 26386
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "26414_26423",
+            "span": {
+                "begin": 26414,
+                "end": 26423
+            },
+            "entityType": "gene",
+            "entityName": "TNF-alpha",
+            "id": "UMLS:C1522669"
+        },
+        {
+            "entityId": "26554_26565",
+            "span": {
+                "begin": 26554,
+                "end": 26565
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "26631_26642",
+            "span": {
+                "begin": 26631,
+                "end": 26642
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "26700_26706",
+            "span": {
+                "begin": 26700,
+                "end": 26706
+            },
+            "entityType": "disease",
+            "entityName": "cancer",
+            "id": "UMLS:C0006826"
+        },
+        {
+            "entityId": "26708_26722",
+            "span": {
+                "begin": 26708,
+                "end": 26722
+            },
+            "entityType": "disease",
+            "entityName": "heart diseases",
+            "id": "UMLS:C0018799"
+        },
+        {
+            "entityId": "26727_26745",
+            "span": {
+                "begin": 26727,
+                "end": 26745
+            },
+            "entityType": "disease",
+            "entityName": "metabolic syndrome",
+            "id": "UMLS:C0524620"
+        },
+        {
+            "entityId": "26783_26787",
+            "span": {
+                "begin": 26783,
+                "end": 26787
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "26800_26835",
+            "span": {
+                "begin": 26800,
+                "end": 26835
+            },
+            "entityType": "gene",
+            "entityName": "Kelch-like ECH-associated protein-1",
+            "id": "UMLS:C1427969"
+        },
+        {
+            "entityId": "26837_26842",
+            "span": {
+                "begin": 26837,
+                "end": 26842
+            },
+            "entityType": "gene",
+            "entityName": "Keap1",
+            "id": "UMLS:C1427969"
+        },
+        {
+            "entityId": "26948_26952",
+            "span": {
+                "begin": 26948,
+                "end": 26952
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "26970_26975",
+            "span": {
+                "begin": 26970,
+                "end": 26975
+            },
+            "entityType": "gene",
+            "entityName": "Keap1",
+            "id": "UMLS:C1427969"
+        },
+        {
+            "entityId": "27172_27176",
+            "span": {
+                "begin": 27172,
+                "end": 27176
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "27219_27230",
+            "span": {
+                "begin": 27219,
+                "end": 27230
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "27286_27290",
+            "span": {
+                "begin": 27286,
+                "end": 27290
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "27343_27366",
+            "span": {
+                "begin": 27343,
+                "end": 27366
+            },
+            "entityType": "cell",
+            "entityName": "cultured cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "27372_27383",
+            "span": {
+                "begin": 27372,
+                "end": 27383
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "27510_27514",
+            "span": {
+                "begin": 27510,
+                "end": 27514
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "27522_27526",
+            "span": {
+                "begin": 27522,
+                "end": 27526
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "27605_27609",
+            "span": {
+                "begin": 27605,
+                "end": 27609
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "27633_27644",
+            "span": {
+                "begin": 27633,
+                "end": 27644
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "27708_27722",
+            "span": {
+                "begin": 27708,
+                "end": 27722
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "27724_27735",
+            "span": {
+                "begin": 27724,
+                "end": 27735
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "27767_27772",
+            "span": {
+                "begin": 27767,
+                "end": 27772
+            },
+            "entityType": "gene",
+            "entityName": "SIRT1",
+            "id": "UMLS:C1423062"
+        },
+        {
+            "entityId": "27776_27804",
+            "span": {
+                "begin": 27776,
+                "end": 27804
+            },
+            "entityType": "gene",
+            "entityName": "NAD(+)-dependent deacetylase",
+            "id": "UMLS:C1333261"
+        },
+        {
+            "entityId": "27905_27909",
+            "span": {
+                "begin": 27905,
+                "end": 27909
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "28017_28022",
+            "span": {
+                "begin": 28017,
+                "end": 28022
+            },
+            "entityType": "gene",
+            "entityName": "Sirt1",
+            "id": "UMLS:C1423062"
+        },
+        {
+            "entityId": "28124_28138",
+            "span": {
+                "begin": 28124,
+                "end": 28138
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "28149_28160",
+            "span": {
+                "begin": 28149,
+                "end": 28160
+            },
+            "entityType": "drug",
+            "entityName": "Resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "28185_28194",
+            "span": {
+                "begin": 28185,
+                "end": 28194
+            },
+            "entityType": "gene",
+            "entityName": "TNF-alpha",
+            "id": "UMLS:C1522669"
+        },
+        {
+            "entityId": "28219_28229",
+            "span": {
+                "begin": 28219,
+                "end": 28229
+            },
+            "entityType": "cell",
+            "entityName": "fibroblast",
+            "id": "UMLS:C0016030"
+        },
+        {
+            "entityId": "28238_28243",
+            "span": {
+                "begin": 28238,
+                "end": 28243
+            },
+            "entityType": "gene",
+            "entityName": "SIRT1",
+            "id": "UMLS:C1423062"
+        },
+        {
+            "entityId": "28298_28309",
+            "span": {
+                "begin": 28298,
+                "end": 28309
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "28318_28322",
+            "span": {
+                "begin": 28318,
+                "end": 28322
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "28382_28387",
+            "span": {
+                "begin": 28382,
+                "end": 28387
+            },
+            "entityType": "gene",
+            "entityName": "Sirt1",
+            "id": "UMLS:C1423062"
+        },
+        {
+            "entityId": "28443_28447",
+            "span": {
+                "begin": 28443,
+                "end": 28447
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "28466_28480",
+            "span": {
+                "begin": 28466,
+                "end": 28480
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "28486_28497",
+            "span": {
+                "begin": 28486,
+                "end": 28497
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "28573_28577",
+            "span": {
+                "begin": 28573,
+                "end": 28577
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "28634_28645",
+            "span": {
+                "begin": 28634,
+                "end": 28645
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "28701_28712",
+            "span": {
+                "begin": 28701,
+                "end": 28712
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "28777_28781",
+            "span": {
+                "begin": 28777,
+                "end": 28781
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "28869_28873",
+            "span": {
+                "begin": 28869,
+                "end": 28873
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "28902_28939",
+            "span": {
+                "begin": 28902,
+                "end": 28939
+            },
+            "entityType": "cell",
+            "entityName": "cultured primary human cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "28941_28952",
+            "span": {
+                "begin": 28941,
+                "end": 28952
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "28963_28967",
+            "span": {
+                "begin": 28963,
+                "end": 28967
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "29095_29099",
+            "span": {
+                "begin": 29095,
+                "end": 29099
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "29110_29121",
+            "span": {
+                "begin": 29110,
+                "end": 29121
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "29216_29220",
+            "span": {
+                "begin": 29216,
+                "end": 29220
+            },
+            "entityType": "gene",
+            "entityName": "Nrf2",
+            "id": "UMLS:C0118522"
+        },
+        {
+            "entityId": "29248_29259",
+            "span": {
+                "begin": 29248,
+                "end": 29259
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "29287_29298",
+            "span": {
+                "begin": 29287,
+                "end": 29298
+            },
+            "entityType": "drug",
+            "entityName": "resveratrol",
+            "id": "UMLS:C0073096"
+        },
+        {
+            "entityId": "29358_29379",
+            "span": {
+                "begin": 29358,
+                "end": 29379
+            },
+            "entityType": "disease",
+            "entityName": "septic cardiomyopathy",
+            "id": "UMLS:C0878544"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "0_11",
+            "subjectText": "Resveratrol",
+            "rel_name": "stimulate",
+            "objectId": "69_94",
+            "objectText": "Nrf2 Transcription Factor"
+        },
+        {
+            "subjectID": "1064_1068",
+            "subjectText": "Nrf2",
+            "rel_name": "associate",
+            "objectId": "1115_1126",
+            "objectText": "resveratrol"
+        },
+        {
+            "subjectID": "908_919",
+            "subjectText": "resveratrol",
+            "rel_name": "stimulate",
+            "objectId": "935_939",
+            "objectText": "Nrf2"
+        },
+        {
+            "subjectID": "579_590",
+            "subjectText": "resveratrol",
+            "rel_name": "stimulate",
+            "objectId": "509_523",
+            "objectText": "cardiomyopathy"
+        },
+        {
+            "subjectID": "1678_1689",
+            "subjectText": "Resveratrol",
+            "rel_name": "stimulate",
+            "objectId": "1731_1747",
+            "objectText": "cardiac toxicity"
+        }
+    ]
+}

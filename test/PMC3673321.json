@@ -1,0 +1,3633 @@
+{
+    "sourcid": "PMC3673321",
+    "publisher": "Hindawi Publishing Corporation",
+    "journal": "Evidence-based Complementary and Alternative Medicine : eCAM",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3673321/",
+    "text": "Serum Containing Tao-Hong-Si-Wu Decoction Induces Human Endothelial Cell VEGF Production via PI3K/Akt-eNOS Signaling Tao-Hong-Si-Wu decoction (TSD) is a famous traditional Chinese medicine (TCM) and widely used for ischemic disease in China. TSD medicated serum was prepared after oral administration of TSD (1.6 g/kg) twice a day for 3 days in rats. TSD medicated serum induced human umbilical vein endothelial cells (HUVECs) proliferation, VEGF secretion, and nitric oxide (NO) production. These promoted effects of TSD were partly inhibited by treatment with PI3K inhibitor (LY294002) or eNOS inhibitor (L-NAME), respectively, and completely inhibited by treatment with LY294002 and L-NAME simultaneously. Western blot analysis findings further indicated that TSD medicated serum upregulated p-Akt and p-eNOS expressions, which were significantly inhibited by LY294002 or L-NAME and completely inhibited by both LY294002 and L-NAME; these results indicated that TSD medicated serum induced HUVECs VEGF expression via PI3K/Akt-eNOS signaling. TSD medicated serum contains hydroxysafflor yellow A, ferulic acid, and ligustilide detected by UPLC with standards, so these effect of TSD medicated serum may be associated with these three active compounds absorbed in serum.   1. Introduction Ischemic diseases, especially ischemic heart disease, remain a major and well-researched challenge for humans. In the process of angiogenesis, modulation of endothelial cells plays a key role in such processes as proliferation, migration, and assembly. Numerous regulatory angiogenic factors have been identified, and their molecular modulations have been associated with several angiogenic disorders. Therapeutic angiogenesis is the clinical use of methods to enhance or promote the development of collateral blood vessels in ischemic tissue and is critical to ischemic diseases such as myocardial infarction and stroke. Angiogenesis is the formation of new blood vessels from preexisting capillaries in embryonic development, wound healing, and cardiovascular disease. Although increasing evidence indicates that angiogenesis is a highly sophisticated and coordinated process, the activation of endothelial cells and release of angiogenic factors are the most important steps. The survey and development of new agents promoting angiogenesis via growth factors have become a focus of therapeutic strategies for these ischemic diseases. Tao-Hong-Si-Wu decoction (TSD) is a famous traditional Chinese medicine, first recorded in Yizong jinjian (Golden Mirror of Medicine, 1749) by Wu Qian, and widely used for blood stasis syndrome with a history of several centuries. The formula mainly consists of six plant materials (Table 1). Traditional Chinese medicine practitioners described the function of TSD as \"promoting blood circulation to remove blood stasis.\" In clinical practice, TSD could open the blood vessels and promote blood flow in circulation to relive woman's irregular menses disorder and is also used to treat cardiovascular diseases such as hypertension and angina. Furthermore, it can increase blood flow of the microcirculation thereby regulating diabetic neuropathies and glucocorticoid-induced avascular necrosis of the femoral head.     Many researchers believed that serum pharmacology is more scientific and more befitting for Chinese traditional medicine than traditional pharmacology in which crude drugs are directly added into the culture system of cells or organs in vitro. Medicine or medicine compounds are orally administered to animal, blood is collected to separate to the serum after a definitive period of time, and the drug serum is ready for experimental analysis in vitro. Although TSD has been widely used in ischemic disease, the effects of TSD on the critical step of angiogenesis, endothelial cell activation, has not been clarified. The aim of this study is to investigate the effect of TSD on endothelial cell proliferation and release of VEGF with the method of serum pharmacology. 2. Materials and Methods 2.1. Materials 2.1.1. Composition and Preparation of TSD TSD consists of six medicinal plants as shown in Table 1. Six herbs were purchased from Hefei He Yi Tang Traditional Chinese Medicines Limited Liability Company and identified by Professor Dequn Wang in the School of Pharmacy, Anhui University of Traditional Chinese Medicine.  TSD were prepared according to the following procedure: six medicinal materials were mixed in proportion and were macerated for 6 h with ten times (v/w) 75% ethanol. The medical solution was heated to boiling then refluxed for 1.5 h and filtrate was collected. The residue was refluxed again for 1.5 h, with eight times (v/w) 75% ethanol; then filtrate was collected again and mixed with previous collected filtrate and condensed and dried at 65 C. The yield of dried powder was 18.27% according to the original herbs. The doses were presented as such powder suspended in the distilled water.         2.1.2. Reagent Other drugs and reagents used in this study are as follows: Akt, p-Akt, and p-eNOS antibody were purchased from Abzoom biolabs, Inc., import packing. Anti-PIP3 antibody was purchased from Echelon Biosciences. LY294002 was purchased from Gibco Company, and L-NAME was purchased from Beijing Grandsky Company. The VEGF and Ang-1 kits were purchased from the R&D Company, and the NO kit was purchased from Nanjing Jiancheng Bioengineering Institute. Reagents and chemicals standard for ultrahigh performance liquid chromatography (UPLC) detection: CH3CN and H3PO4: TEDIA (Fairfield, OH, USA); gallic acid, paeoniflorin, ferulic acid, tetramethylpyrazine, ligustilide, and hydroxysafflor yellow A were purchased from the National Institute for the Control of Pharmaceutical and Biological Products (Beijing, China).  2.1.3. Animals Twenty-eight clean healthy Sprague-Dawley rats (all females), weighing 200-220 g, were provided by the Laboratory Animal Center of Anhui Medical University and housed in a cage at 23 +- 1 C with a 12-hour light-dark cycle. Food and water were freely available. The protocol was performed in accordance with the Guidance Suggestions for the Care and Use of Laboratory Animals (National Research Council of USA, 1996) and related ethical regulations of our university.      2.1.4. Umbilical Cord Healthy sterile umbilical cords were provided by Obstetrics and Gynecology of Anhui Provincial Maternal and Child Health Hospital and Obstetrics and Gynecology of First Affiliated Hospital, Anhui Medical University. 2.2. Methods 2.2.1. Cell Culture HUVECs were isolated from healthy umbilical cords obtained through local hospitals under approval of the appropriate institutional review board (IRB). The process was as follows: untraumatized umbilical cord segments, 15-20 cm in length, the umbilical vein was cannulated and perfused with Dulbecco's phosphate-buffered aline (PBS, with calcium and magnesium) to remove all traces of blood; the vein lumen was filled with 1 mg/mL collagenase I; after a 18 min incubation at 37 C, the contents of the vein were gently flushed out with an equal volume of M199 supplemented with 20% fetal bovine serum (FBS) (Hyclone) and centrifuged at 1000 r/min for 10 minutes, and cells were resuspended in M199 (containing 20% FBS, penicillin 100 ku/L streptomycin 100 ku/L, basic fibroblast growth factor (bFGF) (PeproTech Inc.) 10 ng/mL, L-glutamine 2 mmol/L), packaging into 1% gelatin-coated flasks for culturing and incubating at 37 C and 5% CO2. After 24 h, the medium was changed to remove residual blood cells and nonadherent cells, the medium was changed every 2-3 days, and cultured flasks were covered by cells.                     2.2.2. Preparation of TSD Medicated Serum The 28 Sprague-Dawley rats were randomly divided into TSD (n = 14) and blank control (n = 14) groups. Rats in the TSD group received intragastric administration of TSD (1.6 g/kg) twice a day for 3 days. The control group received intragastric injection of physiological saline twice a day for 3 days. One hour after the last administration, rats were intraperitoneally anesthetized by amobarbital and blood was sampled from the abdominal aorta and centrifuged. The serum was aliquoted into 10 mL ampoules and preserved at -80 C for future use.        2.2.3. Plasma Samples Preparation for UPLC Analysis To tube containing 2 mL plasma, 6 mL methanol were added, and mixture was then vortexed for 2 min. The sample was then centrifuged for 10 min at 1000 g, the supernatant were removed, and 6 mL methanol were added into precipitate then vortexed and centrifuged for collecting the supernatant, supernatant was mixed and evaporated to dryness by nitrogen gas. Methanol (200 muL) was used to dissolve extraction and the filtration through a 0.2 mum syring fiter of dissolved extraction as sample for UPLC analysis. Analytical UPLC was performed on a Waters UPLC, acuity H-Class system combined with a Waters Acquity quaternary solvent manager (QSM), an Acquity sample manager (SM), a column heater, a 2996 PDA detector, and an in-line degasser system; the procedure was as follows: using a Welchorm-C18 column 6 mm x 250 mm, 5 mum) (Welch Materials, Inc., MD, USA), eluting with solvents (A) 0.05% (v/v) phosphoric acid and (B) acetonitrile (CH3CN). The separation was initiated with 85% A and 15% B for 3 min, then a linear gradient changing rate from 85% A and 15% B to 0% A and 100% B over 20 min, and then 100% B was continued for 10 min. The flow rate was controlled with LC 20AD as 0.5 muL/min, and the column temperature was maintained at 30 C. The effluents from the column were detected at absorbance of 304 nm using a photodiode-array detector.                                     2.2.4. Evaluation of Cell Proliferation Cells were seeded in 96-well microplates (1 x 104 cells/well in 200 muL medium), routinely cultured in a humidified incubator (37 C in 5% CO2) for 24 hours blank serum and TSD medicated serum in serial concentration (5%, 10%, 15%), and re-incubated for 24 hours in order to clarify the influence of PI3K inhibitor (LY294002) and eNOS inhibitor (L-NAME) on TSD-induced cell proliferation. Subconfluent Cells were cultured with 10% blank serum or 10% medicated serum with LY294002 (final concentration is 20muM) or L-NAME (final concentration is 750 muM) or not for 24 hours; then the medium was discarded, and 5 mg/mL of tetrazolium dye (MTT) solution was added to every well and reincubated for an additional 4 hours. 10 muL of DMSO was added to dissolve the formazan crystals formed. The plate was then read on a microplate reader at 490 nm. The viability of the cultures was expressed as a percentage of the absorbance measured in control cells.               2.2.5. Nitrite (NO2-)/Nitrate (NO3-) Assay     Cultured cells were assayed for NO synthesis by measuring the stable end product of NO, NO2-, and NO3- according to the instruction of manual. The cells were cultured in standard cultured flasks (5-7 x 105 cells). Blank serum and TSD medicated serum in serial concentrations were reincubated for 24 hours.         2.2.6. Enzyme-Linked Immunosorbent Assay (ELISA) VEGF in conditioned media was quantified using a commercially available enzyme-linked immunosorbent assay kit (R&D Systems). Absorbance was measured at 450 nm using a microplate reader (BMG Labtech, Offenburg, Germany). All samples were run in duplicate.    2.2.7. Western Blotting Cells were lysed with buffer containing (in mM) Tris-HCl 50, NaCl 100, MgCl2 10, EDTA-2, and 0.1% Triton X-100. The cell lysates were centrifuged at 10000 r/min and the supernatant collected. The protein concentration was determined using the Bradford assay. The cell lysates (20 mg) were separated with sodium dodecyl sulfate polyacrylamide gel electrophoresis and transferred to polyvinylidene fluoride membranes. After blocking with 5% goat serum (Hangzhou Sijiqing Biological Engineering Materials Co., Ltd., Hangzhou, Zhejiang Province, China), the membranes were incubated in rabbit anti-Akt polyclonal antibody (1 : 500 dilution; Abzoom biolabs, Dallas, TX, USA), rabbit anti-phospho-Akt polyclonal antibody (1 : 500 dilution; Abzoom biolabs, Dallas, TX, USA), and mouse anti-phospho-eNOS monoclonal antibody (1 : 500 dilution; Abzoom biolabs, Dallas, TX, USA) at 4 C for one night. This was followed by incubation with horseradish peroxidase-conjugated goat antirabbit IgG (1 : 3000, Rockland, Gilbertsville, PA, USA) and goat antimouse IgG (1 : 2500, Rockland, Gilbertsville, PA, USA) at 37 C for one hour. Expression of anti-beta-actin (1 : 500, beta-actin antibody, Santa Cruz Biotechnology, Santa cruz, CA, USA) was used as the loading control. The band intensities were analyzed with computer software, Image J (National Institute for Health, Bethesda, MD, USA).                            2.2.8. Detection of PIP3 Levels The relative PIP3 levels in cellular were determined by flow cytometry; cells were seeded in 6-well microplates (2 x 105 cells/well in 2 mL medium) and cultured for 24 hours, and then the medium was replaced by 10% blank serum, 10% medicated serum, 10% blank serum with LY294002 (20 muM), and 10% medicated serum with LY294002 (20 muM) for 24 h, washed with PBS and scraped slightly to collect cells, fixed in 2% paraformaldehyde, permeabilized with 0.5% saponin in PBS, and then washed and incubated overnight at 4 C with anti-PIP3 antibody (1 : 50). Washed with PBS for three times, the primary antibody was detected with a FITC conjugated secondary antibody. The FITC fluorescence was detected by FACS Calibur flow cytometer (Becton-Dickinson, San Diego, CA) equipped with multicolor analysis capability. For each sample, 10000 cells were collected.                 2.2.9. Statistical Analysis Data were analyzed using SPSS 17.0 software (SPSS, Chicago, IL, USA) and presented as mean +- SD. One-way analysis of variance was used to evaluate differences between groups. The Fishers least significant difference post hoc test was used to analyze differences between groups. A value of P < 0.05 was considered statistically significant. 3. Results 3.1. UPLC Analysis of TSD Medicated Serum The UPLC pattern of TSD medicated serum indicates its complex components with several peaks of varied retention times (Figure 1), those components including prototype component in crude drugs and its metabolites. By referring to standards, we can confirm that TSD medicated serum contains hydroxysafflor yellow A, ferulic acid, and ligustilide.  3.2. TSD Medicated Serum Induced HUVECs Proliferation The MTT conversion test showed that the HUVECs proliferation was promoted by TSD medicated serum in different concentration (5%-10%) compared with the same concentration of blank serum (Figure 2); 10% TSD medicated serum significantly promoted HUVECs proliferation compared with 10% blank serum on cell proliferation (P < 0.01). However, the promoted effect on HUVECs proliferation were significantly inhibited by LY294002 (20 muM) or L-NAME (750 muM) (Figure 3).       3.3. TSD Medicated Serum Induced NO Production in HUVECs Supernatants were used to detect the TSD medicated serum on NO production. Compared with the same concentration of the blank serum, NO production was promoted by TSD medicated serum (concentration of 10% serum). While LY294002 (20 muM) or L-NAME (750 muM) was incubated with endothelial cells could significantly inhibit TSD medicated serum induced NO production, there was no significantly difference between group of blank serum with two inhibitors and TSD medicated serum with two inhibitors (P > 0.05); these results indicated that the production of NO promoted by TSD medicated serum was completely inhibited by two inhibitors coincubated with HUVECs (Figure 4).     3.4. TSD Medicated Serum Induced Expression of VEGF in HUVECs VEGF is known to be a key activator of angiogenesis. In order to clarify the effect of TSD medicated serum on expression of VEGF in HUVECs, the supernatant in conditioned medium was determined by ELISA. Treatment with TSD medicated serum (concentration of 10% serum) could promote the expression of VEGF in HUVECs compared with HUVECs treatment with 10% blank serum; while these promoted effect of TSD medicated serum was significantly inhibited by LY294002 (20 muM) or L-NAME (750 muM), especially, when the two inhibitors coincubated with HUVECs, the upregulation of TSD medicated serum was completely inhibited (Figure 5).     3.5. TSD Medicated Serum Induced the Expression of p-Akt and p-eNOS in PI3K/Akt-eNOS Pathways With the concentration of serum increased, the protein expression of p-Akt and p-eNOS was increased in HUVECs treated with blank serum or TSD medicated serum, while total Akt expression did not significantly changed (Figure 6). There was more expression of p-Akt and p-eNOS in TSD medicated serum than the same serum concentration of blank serum (Figure 6). LY294002 (20 muM) significantly decreased the expression of p-Akt in HUVECs compared with groups without inhibitor, as well as L-NAME (750 muM) decreased the expression of p-eNOS (Figure 7). The expression of p-Akt and p-eNOS in groups of 10% TSD medicated serum without inhibitors was much more than in groups of 10% blank serum without inhibitors. While in presence of LY294002 and L-NAME, the upregulated effect of medicated serum on expression of p-Akt and p-eNOS was completely inhibited (Figure 7).      3.6. TSD Medicated Serum Enhanced the Level of PIP3 In PI3K/Akt signaling, PIP2 activated PIP3 by PI3K, which caused Akt activation. In order to clarify the effect of TSD medicated serum on PI3K, the level of PIP3 was analyszed by flow cytometry with anti-PIP3 antibody. 10% TSD medicated serum enhanced the level of PIP3 in HUVECs compared with 10% blank serum-treated HUVECs; the enhanced level of PIP3 was completely inhibited by PI3K inhibitor (LY294002) (Figure 8).   4. Discussion  Cardiovascular disease is the leading cause of death worldwide and is often associated with partial or full occlusion of the blood vessel network in the affected organs. Restoring blood supply is critical for the successful treatment of cardiovascular disease. Endothelial cell dysfunction is the main reason for diverse cardiovascular disease; insufficient angiogenesis is caused by the inadequate production of angiogenesis growth factors and/or excessive amounts of angiogenesis inhibitors. Angiogenic factors bind to their receptors on endothelial cells, and promoting endothelial cells proliferation is the critical step in angiogenesis. Vascular endothelial growth factor (VEGF) is now known as a multifunctional peptide capable of inducing receptor-mediated endothelial cell proliferation and angiogenesis both in vivo and in vitro. It has a crucial role in embryonic vascular development and in adult pathophysiology. Direct activation of the angiogenic signal pathways and production of angiogenic factors including VEGF increase neovascularization. VEGF promote angiogenesis by activating multiple signal pathways, such as the MEK/ERK pathway for endothelial cell proliferation, the PI3K/Akt/eNOS pathway for endothelial cell survival, and p125FAK/Src/p38 MAPK signaling system for endothelial cell migration. Our data showed that TSD medicated serum promotes the expression of VEGF in HUVECs, indicating that TSD may indirectly activate the angiogenic signal pathways. Indeed, we confirmed that TSD medicated serum induced the proliferation of HUVECs by PI3K/Akt-eNOS dependent pathways, which are essential for the activation of endothelial cells induced by direct angiogenic factors. Endothelial dysfunction characterized by a decrease in the bioavailability of vasodilator like a nitric oxide (NO) has been observed in individuals with vascular complications. In particular, endothelium-derived NO is a cerebrovascular protector and an important endogenous mediator of vascular homeostasis and blood flow. The loss of endothelial NO impairs vascular function, in part by promoting vasoconstriction, platelet aggregation, smooth muscle cell proliferation, and leukocyte adhesion. In endothelial cells, NO is synthesized from the substrate L-arginine via eNOS, and the phosphorylation of a specific serine residue (Ser-1177) in eNOS is important for its enzymatic activity. VEGF is known to induce the release of NO from endothelial cells, and vascular endothelium inducible NO synthase production is amplified during VEGF-induced angiogenesis. The role of NO in VEGF-induced angiogenesis has been shown in NOS knocked out mice as well as after NOS inhibition, both result in reduction of angiogenesis. NO has also a regulatory effect on VEGF production. In these experiment, TSD medicated serum increased the expression of VEGF in HUVECs as well as production of NO. It have been demonstrated that VEGF enhances the expression of eNOS in native and cultured endothelial cells, an effect that may be important in the process of VEGF-induced angiogenesis. Inhibitors of NOS suppress angiogenesis, and the proliferative effect of VEGF is decreased in the presence of NOS inhibitor. Our results indicated that PI3K inhibitor suppressed the promoted effect of TSD medicated serum on expression of VEGF and production of NO, as well as eNOS inhibitor decreased the expression of VEGF and production of NO. Simultaneously treated with PI3K inhibitor and eNOS inhibitor, the effect of TSD medicated serum on VEGF expression and NO production of endothelial cell was completely inhibited, this also proved that TSD medicated serum activated the HUVECs by PI3K/Akt-eNOS pathways. In order to obtain the direct evidence on PI3K/Akt-eNOS pathways, the effect of TSD medicated serum on expression of p-eNOS, p-Akt and Akt was investigated by western blot. The expression of p-eNOS and p-Akt was significantly increased in groups of TSD medicated serum compared with blank serum groups, but had no significant influence on Akt expression. PI3K is the upstream molecular in PI3K/Akt-eNOS pathway, and PI3K activation could catalyze the PIP2 to PIP3, so the level of PIP3 was used to indicated the activity of PI3K; the results also indicated that TSD medicated serum have promoted effect on PI3K. These results also clarified that TSD medicated serum has an effect on PI3K/Akt-eNOS pathways. TSD consists of six medicinal plants, in which Danggui and Chuanxiong could affect VEGF expression in rat myocardial infarction, promote endothelial cell proliferation, and stimulate quantity of vessels on chick embryo chorioallantoic membrane (CAM). Because the active compounds of these medicinal plants should be absorbed and translated into serum, the active compounds could play their therapeutic effect. Using UPLC with standard compounds, we found that TSD medicated serum containing Hydroxysafflor yellow A (HSYA), ferulic acid, and ligustilide. Previously, studies indicated that HSYA could protect HUVECs from hypoxia-induced injuries, enhance the survival of endothelial cell, and induce the express of VEGF. HSYA also has a therapeutic effect on focal cerebral ischaemia in vivo; HSYA protects the myocardium against ischaemia-reperfusion injury through enhanced nitric oxide production by eNOS activation. Ferulic acid promotes endothelial cells proliferation through upregulation VEGF and augments angiogenesis. Ligustilide also has protective effects against ischaemia-reperfusion and alleviates brain damage of chronic cerebral hypoperfusion. So we could speculate that the effect of TSD on endothelial cell is mainly associated with these three active compounds absorbed in serum. Role of cytokines in cardiovascular diseases: a focus on endothelial responses to inflammation Mechanisms of normal and tumor-derived angiogenesis Angiogenesis in cancer, vascular, rheumatoid and other disease Angiogenesis: from plants to blood vessels Neuroprotection by the Traditional Chinese Medicine, Tao-Hong-Si-Wu-Tang, against middle cerebral artery occlusion-induced cerebral ischemia in rats Primary study on the application of serum pharmacology in Chinese traditional medicine Anti-HIV activities of Achyranthes bidentata polysaccharide sulfate in vitro and in vivo Therapeutic angiogenesis for treating cardiovascular diseases Role of endothelial dysfunction in atherosclerosis Molecular analysis of blood vessel formation and disease Vascular endothelial growth factor (VEGF) and its receptors Angiogenesis and signal transduction in endothelial cells Fractalkine stimulates angiogenesis by activating the Raf-1/MEK/ERK- and PI3K/Akt/eNOS-dependent signal pathways Antioxidative effect of the herbal remedy Qin Huo Yi Hao and its active component tetramethylpyrazine on high glucose-treated endothelial cells Nitric oxide in endothelial dysfunction and vascular remodeling: clinical correlates and experimental links Nitric oxide release accounts for the biological activity of endothelium-derived relaxing factor Biosynthesis and metabolism of endothelium-derived nitric oxide Recent advances in understanding endothelial dysfunction in atherosclerosis Increased gene expression for VEGF and the VEGF receptors KDR/Flk and Flt in lungs exposed to acute or to chronic hypoxia. Modulation of gene expression by nitric oxide Vascular endothelial growth factor/vascular permeability factor enhances vascular permeability via nitric oxide and prostacyclin Nitric oxide synthase lies downstream from vascular endothelial growth factor-induced but not basic fibroblast growth factor-induced angiogenesis Reciprocal relation between VEGF and NO in the regulation of endothelial integrity Nitric oxide induces the synthesis of vascular endothelial growth factor by rat vascular smooth muscle cells Osteopontin induces angiogenesis through activation of PI3K/AKT and ERK1/2 in endothelial cells Role of Akt signaling in vascular homeostasis and angiogenesis Role of nitric oxide in the angiogenesis of avascular tissue Nitric oxide mediates angiogenesis in vivo and endothelial cell growth and migration in vitro promoted by substance P Angiogenic effects of the extracts from Chinese herbs: Angelica and ChuanXiong Effect of Hydroxysafflor yellow A on human umbilical vein endothelial cells under hypoxia Hydroxysafflor yellow A enhances survival of vascular endothelial cells under hypoxia via upregulation of the HIF-1alpha-VEGF pathway and regulation of Bcl-2/Bax Neuroprotective effects of hydroxysafflor yellow a: in vivo and in vitro studies Therapeutic effects of hydroxysafflor yellow A on focal cerebral ischemic injury in rats and its primary mechanisms Evidence that hydroxysafflor yellow A protects the heart against ischaemia-reperfusion injury by inhibiting mitochondrial permeability transition pore opening Ferulic acid promotes endothelial cells proliferation through upregulating cycllin D1 and VEGF Ferulic acid augments angiogenesis via VEGF, PDGF and HIF-1alpha  Neuroprotective effect of ligustilide against ischaemia-reperfusion injury via up-regulation of erythrppoietin and down-regulation of RTP801 Ligustilide alleviates brain damage and improves cognitive function in rats of chronic cerebral hypoperfusion UPLC pattern of TSD medicated Serum. TSD medicated serum-induced HUVECs proliferation. Cells were treated with blank serum or TSD medicated serum for 24 h, and the proliferations of HUVECs were determined by MTT assay. The data were expressed as mean  +-  SD, n = 8. *P < 0.05 compared with 15% blank serum, **P < 0.01 compared with 10% blank serum.           The effect of LY294002 and L-NAME on TSD medicated serum induced HUVECs proliferation. Cells were treated with 10% blank serum or 10% TSD medicated serum for 24 h in presence of LY294002 or L-NAME or not. The proliferations of HUVECs were determined by MTT assay. The data were expressed as mean  +-  SD, n = 8. **P < 0.01.           The effect of LY294002 and L-NAME on TSD medicated serum induced NO production in HUVECs. Cells were treated with 10% blank serum or 10% TSD medicated serum for 24 h in presence of LY294002 or L-NAME or not; the production of NO was determined by measuring the stable end product of NO, NO2-, and NO3-. The data were expressed as mean +- SD, n = 8. *P < 0.05 and **P < 0.01.       The effect of LY294002 and L-NAME on TSD medicated serum induced VEGF production in HUVECs. Cells were treated with 10% blank serum or 10% TSD medicated serum for 24 h in presence of LY294002 or L-NAME or not; the production of NO was determined by ELISA according to the manual. The data were expressed as mean +- SD, n = 8. *P < 0.05 and **P < 0.01.   Effects of different concentrations of TSD medicated serum on expression of p-Akt, total Akt and p-eNOS. Cells were treated with blank serum (5-10%) or TSD medicated serum (5-10%) for 24 h. Cells were lysed, and the expression was determined by western blot with specific primary antibody to p-Akt, total Akt, and p-eNOS; bands were displayed with secondary antibody and ECL system. Data were expressed as mean +- SD, n = 3. *P < 0.05 and **P < 0.01 compared with p-eNOS of 5% blank serum group, Delta\nP < 0.05 and DeltaDelta\nP < 0.01 compare with p-Akt of 5% blank serum group. Effects of 10% TSD medicated serum on expression of p-Akt, total Akt, and p-eNOS in presence of LY294002 and L-NAME. Cells were treated with 10% blank serum or 10% TSD medicated serum for 24 h in presence of LY294002, L-NAME, or both. Cells were lysed, and the expression was determined by western blot with specific primary antibody to p-Akt, total Akt, and p-eNOS; bands were displayed with secondary antibody and ECL system. Data were expressed as mean +- SD, n = 3. *P < 0.05 and **P < 0.01 compared with p-eNOS of 10% blank serum group, Delta\nP < 0.05 and DeltaDelta\nP < 0.01 compare with p-Akt of 10% blank serum group. Effects of 10% TSD medicated serum on the levels of PIP3. Cells were treated with 10% blank serum or 10% TSD medicated serum for 24 h in presence of LY294002 or not. The levels of PIP3 were analysis by flow cytometry with anti-PIP3 antibody and FITC conjugated secondary antibody. (a) is the representative figure of flow cytometry. (b) is the bar graph of relative intensity of fluorescence in three independent experiments. Data were expressed as mean +- SD. *P < 0.05 compared with 10% blank serum and Delta\nP < 0.05 compared with 10% medicated serum. The recipe of Tao-Hong-Siwu-Tang (TSD). Components\tRatio\t \tShu Di Huang (Rehmannia glutinosa Libosch)\t4\t \tBai Shao (Paeonia lactiflora Pallas)\t3\t \tDang Gui (Angelica sinensis (Oliv.) Diels)\t3\t \tChuan Xiong (Ligusticum chuanxiong Hort.)\t2\t \tTao Ren (Prunus persica (L.))\t3\t \tHong Hua (Carthamus tinctorius L)\t2",
+    "entities": [
+        {
+            "entityId": "50_72",
+            "span": {
+                "begin": 50,
+                "end": 72
+            },
+            "entityType": "cell",
+            "entityName": "Human Endothelial Cell",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "73_77",
+            "span": {
+                "begin": 73,
+                "end": 77
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "93_97",
+            "span": {
+                "begin": 93,
+                "end": 97
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "98_101",
+            "span": {
+                "begin": 98,
+                "end": 101
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "102_106",
+            "span": {
+                "begin": 102,
+                "end": 106
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "215_231",
+            "span": {
+                "begin": 215,
+                "end": 231
+            },
+            "entityType": "disease",
+            "entityName": "ischemic disease",
+            "id": "UMLS:C0012634"
+        },
+        {
+            "entityId": "345_349",
+            "span": {
+                "begin": 345,
+                "end": 349
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "379_417",
+            "span": {
+                "begin": 379,
+                "end": 417
+            },
+            "entityType": "cell",
+            "entityName": "human umbilical vein endothelial cells",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "419_425",
+            "span": {
+                "begin": 419,
+                "end": 425
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "442_446",
+            "span": {
+                "begin": 442,
+                "end": 446
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "462_474",
+            "span": {
+                "begin": 462,
+                "end": 474
+            },
+            "entityType": "drug",
+            "entityName": "nitric oxide",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "476_478",
+            "span": {
+                "begin": 476,
+                "end": 478
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "518_521",
+            "span": {
+                "begin": 518,
+                "end": 521
+            },
+            "entityType": "gene",
+            "entityName": "TSD",
+            "id": "NCBIGene:3073"
+        },
+        {
+            "entityId": "562_566",
+            "span": {
+                "begin": 562,
+                "end": 566
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "578_586",
+            "span": {
+                "begin": 578,
+                "end": 586
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "591_595",
+            "span": {
+                "begin": 591,
+                "end": 595
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "607_613",
+            "span": {
+                "begin": 607,
+                "end": 613
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "673_681",
+            "span": {
+                "begin": 673,
+                "end": 681
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "686_692",
+            "span": {
+                "begin": 686,
+                "end": 692
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "795_800",
+            "span": {
+                "begin": 795,
+                "end": 800
+            },
+            "entityType": "gene",
+            "entityName": "p-Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "805_811",
+            "span": {
+                "begin": 805,
+                "end": 811
+            },
+            "entityType": "gene",
+            "entityName": "p-eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "863_871",
+            "span": {
+                "begin": 863,
+                "end": 871
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "875_881",
+            "span": {
+                "begin": 875,
+                "end": 881
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "915_923",
+            "span": {
+                "begin": 915,
+                "end": 923
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "928_934",
+            "span": {
+                "begin": 928,
+                "end": 934
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "993_999",
+            "span": {
+                "begin": 993,
+                "end": 999
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "1000_1004",
+            "span": {
+                "begin": 1000,
+                "end": 1004
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "1020_1024",
+            "span": {
+                "begin": 1020,
+                "end": 1024
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "1025_1028",
+            "span": {
+                "begin": 1025,
+                "end": 1028
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "1029_1033",
+            "span": {
+                "begin": 1029,
+                "end": 1033
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "1074_1097",
+            "span": {
+                "begin": 1074,
+                "end": 1097
+            },
+            "entityType": "drug",
+            "entityName": "hydroxysafflor yellow A",
+            "id": "UMLS:C0250747"
+        },
+        {
+            "entityId": "1099_1111",
+            "span": {
+                "begin": 1099,
+                "end": 1111
+            },
+            "entityType": "drug",
+            "entityName": "ferulic acid",
+            "id": "UMLS:C0060291"
+        },
+        {
+            "entityId": "1117_1128",
+            "span": {
+                "begin": 1117,
+                "end": 1128
+            },
+            "entityType": "drug",
+            "entityName": "ligustilide",
+            "id": "UMLS:C0064980"
+        },
+        {
+            "entityId": "1290_1307",
+            "span": {
+                "begin": 1290,
+                "end": 1307
+            },
+            "entityType": "disease",
+            "entityName": "Ischemic diseases",
+            "id": "UMLS:C0012634"
+        },
+        {
+            "entityId": "1320_1342",
+            "span": {
+                "begin": 1320,
+                "end": 1342
+            },
+            "entityType": "disease",
+            "entityName": "ischemic heart disease",
+            "id": "UMLS:C0010054"
+        },
+        {
+            "entityId": "1393_1399",
+            "span": {
+                "begin": 1393,
+                "end": 1399
+            },
+            "entityType": "species",
+            "entityName": "humans",
+            "id": "UMLS:C1300203"
+        },
+        {
+            "entityId": "1447_1464",
+            "span": {
+                "begin": 1447,
+                "end": 1464
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cells",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "1670_1690",
+            "span": {
+                "begin": 1670,
+                "end": 1690
+            },
+            "entityType": "disease",
+            "entityName": "angiogenic disorders",
+            "id": "UMLS:C0012634"
+        },
+        {
+            "entityId": "1852_1869",
+            "span": {
+                "begin": 1852,
+                "end": 1869
+            },
+            "entityType": "disease",
+            "entityName": "ischemic diseases",
+            "id": "UMLS:C0012634"
+        },
+        {
+            "entityId": "1878_1899",
+            "span": {
+                "begin": 1878,
+                "end": 1899
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "1904_1910",
+            "span": {
+                "begin": 1904,
+                "end": 1910
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "2037_2059",
+            "span": {
+                "begin": 2037,
+                "end": 2059
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular disease",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "2187_2204",
+            "span": {
+                "begin": 2187,
+                "end": 2204
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cells",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "2408_2425",
+            "span": {
+                "begin": 2408,
+                "end": 2425
+            },
+            "entityType": "disease",
+            "entityName": "ischemic diseases",
+            "id": "UMLS:C0012634"
+        },
+        {
+            "entityId": "2953_2958",
+            "span": {
+                "begin": 2953,
+                "end": 2958
+            },
+            "entityType": "species",
+            "entityName": "woman",
+            "id": "UMLS:C4281745"
+        },
+        {
+            "entityId": "2961_2986",
+            "span": {
+                "begin": 2961,
+                "end": 2986
+            },
+            "entityType": "disease",
+            "entityName": "irregular menses disorder",
+            "id": "UMLS:C0012634"
+        },
+        {
+            "entityId": "3013_3036",
+            "span": {
+                "begin": 3013,
+                "end": 3036
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular diseases",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "3045_3057",
+            "span": {
+                "begin": 3045,
+                "end": 3057
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "3062_3068",
+            "span": {
+                "begin": 3062,
+                "end": 3068
+            },
+            "entityType": "disease",
+            "entityName": "angina",
+            "id": "UMLS:C0002962"
+        },
+        {
+            "entityId": "3153_3174",
+            "span": {
+                "begin": 3153,
+                "end": 3174
+            },
+            "entityType": "disease",
+            "entityName": "diabetic neuropathies",
+            "id": "UMLS:C0011882"
+        },
+        {
+            "entityId": "3202_3240",
+            "span": {
+                "begin": 3202,
+                "end": 3240
+            },
+            "entityType": "disease",
+            "entityName": "avascular necrosis of the femoral head",
+            "id": "UMLS:C0410480"
+        },
+        {
+            "entityId": "3736_3752",
+            "span": {
+                "begin": 3736,
+                "end": 3752
+            },
+            "entityType": "disease",
+            "entityName": "ischemic disease",
+            "id": "UMLS:C0012634"
+        },
+        {
+            "entityId": "3811_3827",
+            "span": {
+                "begin": 3811,
+                "end": 3827
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cell",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "3925_3941",
+            "span": {
+                "begin": 3925,
+                "end": 3941
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cell",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "3971_3975",
+            "span": {
+                "begin": 3971,
+                "end": 3975
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "4532_4539",
+            "span": {
+                "begin": 4532,
+                "end": 4539
+            },
+            "entityType": "drug",
+            "entityName": "ethanol",
+            "id": "UMLS:C0001962"
+        },
+        {
+            "entityId": "4705_4712",
+            "span": {
+                "begin": 4705,
+                "end": 4712
+            },
+            "entityType": "drug",
+            "entityName": "ethanol",
+            "id": "UMLS:C0001962"
+        },
+        {
+            "entityId": "5051_5054",
+            "span": {
+                "begin": 5051,
+                "end": 5054
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "5056_5061",
+            "span": {
+                "begin": 5056,
+                "end": 5061
+            },
+            "entityType": "gene",
+            "entityName": "p-Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "5067_5082",
+            "span": {
+                "begin": 5067,
+                "end": 5082
+            },
+            "entityType": "gene",
+            "entityName": "p-eNOS antibody",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "5141_5159",
+            "span": {
+                "begin": 5141,
+                "end": 5159
+            },
+            "entityType": "gene",
+            "entityName": "Anti-PIP3 antibody",
+            "id": "UMLS:C0003242"
+        },
+        {
+            "entityId": "5200_5208",
+            "span": {
+                "begin": 5200,
+                "end": 5208
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "5247_5253",
+            "span": {
+                "begin": 5247,
+                "end": 5253
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "5303_5307",
+            "span": {
+                "begin": 5303,
+                "end": 5307
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "5312_5317",
+            "span": {
+                "begin": 5312,
+                "end": 5317
+            },
+            "entityType": "gene",
+            "entityName": "Ang-1",
+            "id": "UMLS:C0533668"
+        },
+        {
+            "entityId": "5368_5370",
+            "span": {
+                "begin": 5368,
+                "end": 5370
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "5536_5541",
+            "span": {
+                "begin": 5536,
+                "end": 5541
+            },
+            "entityType": "drug",
+            "entityName": "CH3CN",
+            "id": "UMLS:CHEBI:38472"
+        },
+        {
+            "entityId": "5546_5551",
+            "span": {
+                "begin": 5546,
+                "end": 5551
+            },
+            "entityType": "drug",
+            "entityName": "H3PO4",
+            "id": "UMLS:CHEBI:26078"
+        },
+        {
+            "entityId": "5581_5592",
+            "span": {
+                "begin": 5581,
+                "end": 5592
+            },
+            "entityType": "drug",
+            "entityName": "gallic acid",
+            "id": "UMLS:C0016979"
+        },
+        {
+            "entityId": "5594_5606",
+            "span": {
+                "begin": 5594,
+                "end": 5606
+            },
+            "entityType": "drug",
+            "entityName": "paeoniflorin",
+            "id": "UMLS:C0070320"
+        },
+        {
+            "entityId": "5608_5620",
+            "span": {
+                "begin": 5608,
+                "end": 5620
+            },
+            "entityType": "drug",
+            "entityName": "ferulic acid",
+            "id": "UMLS:C0060291"
+        },
+        {
+            "entityId": "5622_5641",
+            "span": {
+                "begin": 5622,
+                "end": 5641
+            },
+            "entityType": "drug",
+            "entityName": "tetramethylpyrazine",
+            "id": "UMLS:C0076305"
+        },
+        {
+            "entityId": "5643_5654",
+            "span": {
+                "begin": 5643,
+                "end": 5654
+            },
+            "entityType": "drug",
+            "entityName": "ligustilide",
+            "id": "UMLS:C0064980"
+        },
+        {
+            "entityId": "5660_5683",
+            "span": {
+                "begin": 5660,
+                "end": 5683
+            },
+            "entityType": "drug",
+            "entityName": "hydroxysafflor yellow A",
+            "id": "UMLS:C0250747"
+        },
+        {
+            "entityId": "5846_5865",
+            "span": {
+                "begin": 5846,
+                "end": 5865
+            },
+            "entityType": "species",
+            "entityName": "Sprague-Dawley rats",
+            "id": "UMLS:C0034715"
+        },
+        {
+            "entityId": "6562_6568",
+            "span": {
+                "begin": 6562,
+                "end": 6568
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "6899_6906",
+            "span": {
+                "begin": 6899,
+                "end": 6906
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "6911_6920",
+            "span": {
+                "begin": 6911,
+                "end": 6920
+            },
+            "entityType": "drug",
+            "entityName": "magnesium",
+            "id": "UMLS:C3714621"
+        },
+        {
+            "entityId": "6992_7005",
+            "span": {
+                "begin": 6992,
+                "end": 7005
+            },
+            "entityType": "gene",
+            "entityName": "collagenase I",
+            "id": "UMLS:C0009053"
+        },
+        {
+            "entityId": "7148_7154",
+            "span": {
+                "begin": 7148,
+                "end": 7154
+            },
+            "entityType": "species",
+            "entityName": "bovine",
+            "id": "UMLS:C3667982"
+        },
+        {
+            "entityId": "7279_7289",
+            "span": {
+                "begin": 7279,
+                "end": 7289
+            },
+            "entityType": "drug",
+            "entityName": "penicillin",
+            "id": "UMLS:C0030842"
+        },
+        {
+            "entityId": "7299_7311",
+            "span": {
+                "begin": 7299,
+                "end": 7311
+            },
+            "entityType": "drug",
+            "entityName": "streptomycin",
+            "id": "UMLS:C0038425"
+        },
+        {
+            "entityId": "7322_7352",
+            "span": {
+                "begin": 7322,
+                "end": 7352
+            },
+            "entityType": "gene",
+            "entityName": "basic fibroblast growth factor",
+            "id": "UMLS:C3692257"
+        },
+        {
+            "entityId": "7354_7358",
+            "span": {
+                "begin": 7354,
+                "end": 7358
+            },
+            "entityType": "gene",
+            "entityName": "bFGF",
+            "id": "UMLS:C3692257"
+        },
+        {
+            "entityId": "7387_7398",
+            "span": {
+                "begin": 7387,
+                "end": 7398
+            },
+            "entityType": "drug",
+            "entityName": "L-glutamine",
+            "id": "UMLS:C0017797"
+        },
+        {
+            "entityId": "7494_7497",
+            "span": {
+                "begin": 7494,
+                "end": 7497
+            },
+            "entityType": "drug",
+            "entityName": "CO2",
+            "id": "UMLS:C2347816"
+        },
+        {
+            "entityId": "7553_7564",
+            "span": {
+                "begin": 7553,
+                "end": 7564
+            },
+            "entityType": "cell",
+            "entityName": "blood cells",
+            "id": "UMLS:C0005773"
+        },
+        {
+            "entityId": "7712_7715",
+            "span": {
+                "begin": 7712,
+                "end": 7715
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "7739_7758",
+            "span": {
+                "begin": 7739,
+                "end": 7758
+            },
+            "entityType": "species",
+            "entityName": "Sprague-Dawley rats",
+            "id": "UMLS:C0034715"
+        },
+        {
+            "entityId": "7786_7789",
+            "span": {
+                "begin": 7786,
+                "end": 7789
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "7834_7838",
+            "span": {
+                "begin": 7834,
+                "end": 7838
+            },
+            "entityType": "species",
+            "entityName": "Rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "8073_8077",
+            "span": {
+                "begin": 8073,
+                "end": 8077
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "8117_8128",
+            "span": {
+                "begin": 8117,
+                "end": 8128
+            },
+            "entityType": "drug",
+            "entityName": "amobarbital",
+            "id": "UMLS:C0002640"
+        },
+        {
+            "entityId": "8372_8380",
+            "span": {
+                "begin": 8372,
+                "end": 8380
+            },
+            "entityType": "drug",
+            "entityName": "methanol",
+            "id": "UMLS:C0001963"
+        },
+        {
+            "entityId": "8527_8535",
+            "span": {
+                "begin": 8527,
+                "end": 8535
+            },
+            "entityType": "drug",
+            "entityName": "methanol",
+            "id": "UMLS:C0001963"
+        },
+        {
+            "entityId": "8677_8685",
+            "span": {
+                "begin": 8677,
+                "end": 8685
+            },
+            "entityType": "drug",
+            "entityName": "nitrogen",
+            "id": "mesh:D009584"
+        },
+        {
+            "entityId": "8691_8699",
+            "span": {
+                "begin": 8691,
+                "end": 8699
+            },
+            "entityType": "drug",
+            "entityName": "Methanol",
+            "id": "UMLS:C0001963"
+        },
+        {
+            "entityId": "9234_9249",
+            "span": {
+                "begin": 9234,
+                "end": 9249
+            },
+            "entityType": "drug",
+            "entityName": "phosphoric acid",
+            "id": "UMLS:C0031700"
+        },
+        {
+            "entityId": "9258_9270",
+            "span": {
+                "begin": 9258,
+                "end": 9270
+            },
+            "entityType": "drug",
+            "entityName": "acetonitrile",
+            "id": "UMLS:C0050456"
+        },
+        {
+            "entityId": "9272_9277",
+            "span": {
+                "begin": 9272,
+                "end": 9277
+            },
+            "entityType": "drug",
+            "entityName": "CH3CN",
+            "id": "UMLS:CHEBI:38472"
+        },
+        {
+            "entityId": "9899_9902",
+            "span": {
+                "begin": 9899,
+                "end": 9902
+            },
+            "entityType": "drug",
+            "entityName": "CO2",
+            "id": "UMLS:C2347816"
+        },
+        {
+            "entityId": "9933_9936",
+            "span": {
+                "begin": 9933,
+                "end": 9936
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "10060_10064",
+            "span": {
+                "begin": 10060,
+                "end": 10064
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "10076_10084",
+            "span": {
+                "begin": 10076,
+                "end": 10084
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "10090_10094",
+            "span": {
+                "begin": 10090,
+                "end": 10094
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "10106_10112",
+            "span": {
+                "begin": 10106,
+                "end": 10112
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "10231_10239",
+            "span": {
+                "begin": 10231,
+                "end": 10239
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "10274_10280",
+            "span": {
+                "begin": 10274,
+                "end": 10280
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "10381_10392",
+            "span": {
+                "begin": 10381,
+                "end": 10392
+            },
+            "entityType": "drug",
+            "entityName": "tetrazolium",
+            "id": "UMLS:C0039704"
+        },
+        {
+            "entityId": "10398_10401",
+            "span": {
+                "begin": 10398,
+                "end": 10401
+            },
+            "entityType": "drug",
+            "entityName": "MTT",
+            "id": "UMLS:C0647210"
+        },
+        {
+            "entityId": "10489_10493",
+            "span": {
+                "begin": 10489,
+                "end": 10493
+            },
+            "entityType": "drug",
+            "entityName": "DMSO",
+            "id": "UMLS:C0012403"
+        },
+        {
+            "entityId": "10520_10528",
+            "span": {
+                "begin": 10520,
+                "end": 10528
+            },
+            "entityType": "drug",
+            "entityName": "formazan",
+            "id": "mesh:C033302"
+        },
+        {
+            "entityId": "10730_10737",
+            "span": {
+                "begin": 10730,
+                "end": 10737
+            },
+            "entityType": "drug",
+            "entityName": "Nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "10739_10743",
+            "span": {
+                "begin": 10739,
+                "end": 10743
+            },
+            "entityType": "drug",
+            "entityName": "NO2-",
+            "id": "UMLS:CHEBI:29785"
+        },
+        {
+            "entityId": "10745_10752",
+            "span": {
+                "begin": 10745,
+                "end": 10752
+            },
+            "entityType": "drug",
+            "entityName": "Nitrate",
+            "id": "UMLS:C0699857"
+        },
+        {
+            "entityId": "10754_10758",
+            "span": {
+                "begin": 10754,
+                "end": 10758
+            },
+            "entityType": "drug",
+            "entityName": "NO3-",
+            "id": "UMLS:CHEBI:17632"
+        },
+        {
+            "entityId": "10770_10784",
+            "span": {
+                "begin": 10770,
+                "end": 10784
+            },
+            "entityType": "cell",
+            "entityName": "Cultured cells",
+            "id": "UMLS:C0007635"
+        },
+        {
+            "entityId": "10802_10804",
+            "span": {
+                "begin": 10802,
+                "end": 10804
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "10854_10856",
+            "span": {
+                "begin": 10854,
+                "end": 10856
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "10858_10862",
+            "span": {
+                "begin": 10858,
+                "end": 10862
+            },
+            "entityType": "drug",
+            "entityName": "NO2-",
+            "id": "UMLS:CHEBI:29785"
+        },
+        {
+            "entityId": "10868_10872",
+            "span": {
+                "begin": 10868,
+                "end": 10872
+            },
+            "entityType": "drug",
+            "entityName": "NO3-",
+            "id": "UMLS:CHEBI:17632"
+        },
+        {
+            "entityId": "11000_11003",
+            "span": {
+                "begin": 11000,
+                "end": 11003
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "11133_11137",
+            "span": {
+                "begin": 11133,
+                "end": 11137
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "11463_11467",
+            "span": {
+                "begin": 11463,
+                "end": 11467
+            },
+            "entityType": "drug",
+            "entityName": "Tris",
+            "id": "UMLS:C0077281"
+        },
+        {
+            "entityId": "11476_11480",
+            "span": {
+                "begin": 11476,
+                "end": 11480
+            },
+            "entityType": "drug",
+            "entityName": "NaCl",
+            "id": "UMLS:C0037494"
+        },
+        {
+            "entityId": "11486_11491",
+            "span": {
+                "begin": 11486,
+                "end": 11491
+            },
+            "entityType": "drug",
+            "entityName": "MgCl2",
+            "id": "UMLS:C0024472"
+        },
+        {
+            "entityId": "11496_11500",
+            "span": {
+                "begin": 11496,
+                "end": 11500
+            },
+            "entityType": "drug",
+            "entityName": "EDTA",
+            "id": "UMLS:C0013618"
+        },
+        {
+            "entityId": "11513_11525",
+            "span": {
+                "begin": 11513,
+                "end": 11525
+            },
+            "entityType": "drug",
+            "entityName": "Triton X-100",
+            "id": "UMLS:C0146951"
+        },
+        {
+            "entityId": "11719_11756",
+            "span": {
+                "begin": 11719,
+                "end": 11756
+            },
+            "entityType": "drug",
+            "entityName": "sodium dodecyl sulfate polyacrylamide",
+            "id": "UMLS:C0071499"
+        },
+        {
+            "entityId": "11796_11819",
+            "span": {
+                "begin": 11796,
+                "end": 11819
+            },
+            "entityType": "drug",
+            "entityName": "polyvinylidene fluoride",
+            "id": "UMLS:C0071710"
+        },
+        {
+            "entityId": "11854_11858",
+            "span": {
+                "begin": 11854,
+                "end": 11858
+            },
+            "entityType": "species",
+            "entityName": "goat",
+            "id": "UMLS:C1510458"
+        },
+        {
+            "entityId": "11997_12032",
+            "span": {
+                "begin": 11997,
+                "end": 12032
+            },
+            "entityType": "gene",
+            "entityName": "rabbit anti-Akt polyclonal antibody",
+            "id": "UMLS:C0003242"
+        },
+        {
+            "entityId": "12086_12109",
+            "span": {
+                "begin": 12086,
+                "end": 12109
+            },
+            "entityType": "gene",
+            "entityName": "rabbit anti-phospho-Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "12187_12192",
+            "span": {
+                "begin": 12187,
+                "end": 12192
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "12206_12210",
+            "span": {
+                "begin": 12206,
+                "end": 12210
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "12342_12364",
+            "span": {
+                "begin": 12342,
+                "end": 12364
+            },
+            "entityType": "gene",
+            "entityName": "horseradish peroxidase",
+            "id": "UMLS:C0019941"
+        },
+        {
+            "entityId": "12445_12449",
+            "span": {
+                "begin": 12445,
+                "end": 12449
+            },
+            "entityType": "species",
+            "entityName": "goat",
+            "id": "UMLS:C1510458"
+        },
+        {
+            "entityId": "12545_12560",
+            "span": {
+                "begin": 12545,
+                "end": 12560
+            },
+            "entityType": "gene",
+            "entityName": "anti-beta-actin",
+            "id": "UMLS:C1384510"
+        },
+        {
+            "entityId": "12571_12590",
+            "span": {
+                "begin": 12571,
+                "end": 12590
+            },
+            "entityType": "gene",
+            "entityName": "beta-actin antibody",
+            "id": "UMLS:C1718641"
+        },
+        {
+            "entityId": "12838_12842",
+            "span": {
+                "begin": 12838,
+                "end": 12842
+            },
+            "entityType": "drug",
+            "entityName": "PIP3",
+            "id": "UMLS:CHEBI:16618"
+        },
+        {
+            "entityId": "12863_12867",
+            "span": {
+                "begin": 12863,
+                "end": 12867
+            },
+            "entityType": "drug",
+            "entityName": "PIP3",
+            "id": "UMLS:CHEBI:16618"
+        },
+        {
+            "entityId": "13120_13128",
+            "span": {
+                "begin": 13120,
+                "end": 13128
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "13168_13176",
+            "span": {
+                "begin": 13168,
+                "end": 13176
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "13263_13279",
+            "span": {
+                "begin": 13263,
+                "end": 13279
+            },
+            "entityType": "drug",
+            "entityName": "paraformaldehyde",
+            "id": "mesh:C003043"
+        },
+        {
+            "entityId": "13305_13312",
+            "span": {
+                "begin": 13305,
+                "end": 13312
+            },
+            "entityType": "drug",
+            "entityName": "saponin",
+            "id": "UMLS:C0520481"
+        },
+        {
+            "entityId": "13373_13391",
+            "span": {
+                "begin": 13373,
+                "end": 13391
+            },
+            "entityType": "gene",
+            "entityName": "anti-PIP3 antibody",
+            "id": "UMLS:C0003242"
+        },
+        {
+            "entityId": "13476_13480",
+            "span": {
+                "begin": 13476,
+                "end": 13480
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "13516_13520",
+            "span": {
+                "begin": 13516,
+                "end": 13520
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "14121_14124",
+            "span": {
+                "begin": 14121,
+                "end": 14124
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "14161_14164",
+            "span": {
+                "begin": 14161,
+                "end": 14164
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "14401_14404",
+            "span": {
+                "begin": 14401,
+                "end": 14404
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "14430_14453",
+            "span": {
+                "begin": 14430,
+                "end": 14453
+            },
+            "entityType": "drug",
+            "entityName": "hydroxysafflor yellow A",
+            "id": "UMLS:C0250747"
+        },
+        {
+            "entityId": "14455_14467",
+            "span": {
+                "begin": 14455,
+                "end": 14467
+            },
+            "entityType": "drug",
+            "entityName": "ferulic acid",
+            "id": "UMLS:C0060291"
+        },
+        {
+            "entityId": "14473_14484",
+            "span": {
+                "begin": 14473,
+                "end": 14484
+            },
+            "entityType": "drug",
+            "entityName": "ligustilide",
+            "id": "UMLS:C0064980"
+        },
+        {
+            "entityId": "14520_14526",
+            "span": {
+                "begin": 14520,
+                "end": 14526
+            },
+            "entityType": "species",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "14545_14548",
+            "span": {
+                "begin": 14545,
+                "end": 14548
+            },
+            "entityType": "drug",
+            "entityName": "MTT",
+            "id": "UMLS:C0647210"
+        },
+        {
+            "entityId": "14581_14587",
+            "span": {
+                "begin": 14581,
+                "end": 14587
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "14785_14791",
+            "span": {
+                "begin": 14785,
+                "end": 14791
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "14902_14908",
+            "span": {
+                "begin": 14902,
+                "end": 14908
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "14955_14963",
+            "span": {
+                "begin": 14955,
+                "end": 14963
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "14976_14982",
+            "span": {
+                "begin": 14976,
+                "end": 14982
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "15044_15046",
+            "span": {
+                "begin": 15044,
+                "end": 15046
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "15061_15067",
+            "span": {
+                "begin": 15061,
+                "end": 15067
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "15105_15108",
+            "span": {
+                "begin": 15105,
+                "end": 15108
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "15128_15130",
+            "span": {
+                "begin": 15128,
+                "end": 15130
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "15200_15202",
+            "span": {
+                "begin": 15200,
+                "end": 15202
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "15286_15294",
+            "span": {
+                "begin": 15286,
+                "end": 15294
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "15307_15313",
+            "span": {
+                "begin": 15307,
+                "end": 15313
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "15343_15360",
+            "span": {
+                "begin": 15343,
+                "end": 15360
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cells",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "15389_15392",
+            "span": {
+                "begin": 15389,
+                "end": 15392
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "15417_15419",
+            "span": {
+                "begin": 15417,
+                "end": 15419
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "15523_15526",
+            "span": {
+                "begin": 15523,
+                "end": 15526
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "15622_15624",
+            "span": {
+                "begin": 15622,
+                "end": 15624
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "15717_15723",
+            "span": {
+                "begin": 15717,
+                "end": 15723
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "15787_15791",
+            "span": {
+                "begin": 15787,
+                "end": 15791
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "15795_15801",
+            "span": {
+                "begin": 15795,
+                "end": 15801
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "15802_15806",
+            "span": {
+                "begin": 15802,
+                "end": 15806
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "15926_15930",
+            "span": {
+                "begin": 15926,
+                "end": 15930
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "15934_15940",
+            "span": {
+                "begin": 15934,
+                "end": 15940
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "16101_16105",
+            "span": {
+                "begin": 16101,
+                "end": 16105
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "16109_16115",
+            "span": {
+                "begin": 16109,
+                "end": 16115
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "16130_16136",
+            "span": {
+                "begin": 16130,
+                "end": 16136
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "16200_16203",
+            "span": {
+                "begin": 16200,
+                "end": 16203
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "16251_16259",
+            "span": {
+                "begin": 16251,
+                "end": 16259
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "16272_16278",
+            "span": {
+                "begin": 16272,
+                "end": 16278
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "16343_16349",
+            "span": {
+                "begin": 16343,
+                "end": 16349
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "16371_16374",
+            "span": {
+                "begin": 16371,
+                "end": 16374
+            },
+            "entityType": "gene",
+            "entityName": "TSD",
+            "id": "NCBIGene:3073"
+        },
+        {
+            "entityId": "16483_16488",
+            "span": {
+                "begin": 16483,
+                "end": 16488
+            },
+            "entityType": "gene",
+            "entityName": "p-Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "16493_16499",
+            "span": {
+                "begin": 16493,
+                "end": 16499
+            },
+            "entityType": "gene",
+            "entityName": "p-eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "16503_16507",
+            "span": {
+                "begin": 16503,
+                "end": 16507
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "16508_16511",
+            "span": {
+                "begin": 16508,
+                "end": 16511
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "16512_16516",
+            "span": {
+                "begin": 16512,
+                "end": 16516
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "16595_16600",
+            "span": {
+                "begin": 16595,
+                "end": 16600
+            },
+            "entityType": "gene",
+            "entityName": "p-Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "16605_16611",
+            "span": {
+                "begin": 16605,
+                "end": 16611
+            },
+            "entityType": "gene",
+            "entityName": "p-eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "16629_16635",
+            "span": {
+                "begin": 16629,
+                "end": 16635
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "16697_16700",
+            "span": {
+                "begin": 16697,
+                "end": 16700
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "16783_16788",
+            "span": {
+                "begin": 16783,
+                "end": 16788
+            },
+            "entityType": "gene",
+            "entityName": "p-Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "16793_16799",
+            "span": {
+                "begin": 16793,
+                "end": 16799
+            },
+            "entityType": "gene",
+            "entityName": "p-eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "16803_16806",
+            "span": {
+                "begin": 16803,
+                "end": 16806
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "16884_16892",
+            "span": {
+                "begin": 16884,
+                "end": 16892
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "16944_16949",
+            "span": {
+                "begin": 16944,
+                "end": 16949
+            },
+            "entityType": "gene",
+            "entityName": "p-Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "16953_16959",
+            "span": {
+                "begin": 16953,
+                "end": 16959
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "17011_17017",
+            "span": {
+                "begin": 17011,
+                "end": 17017
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "17056_17062",
+            "span": {
+                "begin": 17056,
+                "end": 17062
+            },
+            "entityType": "gene",
+            "entityName": "p-eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "17093_17098",
+            "span": {
+                "begin": 17093,
+                "end": 17098
+            },
+            "entityType": "gene",
+            "entityName": "p-Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "17103_17109",
+            "span": {
+                "begin": 17103,
+                "end": 17109
+            },
+            "entityType": "gene",
+            "entityName": "p-eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "17127_17130",
+            "span": {
+                "begin": 17127,
+                "end": 17130
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "17255_17263",
+            "span": {
+                "begin": 17255,
+                "end": 17263
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "17268_17274",
+            "span": {
+                "begin": 17268,
+                "end": 17274
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "17335_17340",
+            "span": {
+                "begin": 17335,
+                "end": 17340
+            },
+            "entityType": "gene",
+            "entityName": "p-Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "17345_17351",
+            "span": {
+                "begin": 17345,
+                "end": 17351
+            },
+            "entityType": "gene",
+            "entityName": "p-eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "17441_17445",
+            "span": {
+                "begin": 17441,
+                "end": 17445
+            },
+            "entityType": "drug",
+            "entityName": "PIP3",
+            "id": "UMLS:CHEBI:16618"
+        },
+        {
+            "entityId": "17449_17453",
+            "span": {
+                "begin": 17449,
+                "end": 17453
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "17454_17457",
+            "span": {
+                "begin": 17454,
+                "end": 17457
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "17469_17473",
+            "span": {
+                "begin": 17469,
+                "end": 17473
+            },
+            "entityType": "drug",
+            "entityName": "PIP2",
+            "id": "UMLS:C0070798"
+        },
+        {
+            "entityId": "17484_17488",
+            "span": {
+                "begin": 17484,
+                "end": 17488
+            },
+            "entityType": "drug",
+            "entityName": "PIP3",
+            "id": "UMLS:CHEBI:16618"
+        },
+        {
+            "entityId": "17492_17496",
+            "span": {
+                "begin": 17492,
+                "end": 17496
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "17511_17514",
+            "span": {
+                "begin": 17511,
+                "end": 17514
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "17561_17564",
+            "span": {
+                "begin": 17561,
+                "end": 17564
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "17584_17588",
+            "span": {
+                "begin": 17584,
+                "end": 17588
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "17603_17607",
+            "span": {
+                "begin": 17603,
+                "end": 17607
+            },
+            "entityType": "drug",
+            "entityName": "PIP3",
+            "id": "UMLS:CHEBI:16618"
+        },
+        {
+            "entityId": "17645_17663",
+            "span": {
+                "begin": 17645,
+                "end": 17663
+            },
+            "entityType": "gene",
+            "entityName": "anti-PIP3 antibody",
+            "id": "UMLS:C0003242"
+        },
+        {
+            "entityId": "17711_17715",
+            "span": {
+                "begin": 17711,
+                "end": 17715
+            },
+            "entityType": "drug",
+            "entityName": "PIP3",
+            "id": "UMLS:CHEBI:16618"
+        },
+        {
+            "entityId": "17719_17725",
+            "span": {
+                "begin": 17719,
+                "end": 17725
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "17794_17798",
+            "span": {
+                "begin": 17794,
+                "end": 17798
+            },
+            "entityType": "drug",
+            "entityName": "PIP3",
+            "id": "UMLS:CHEBI:16618"
+        },
+        {
+            "entityId": "17827_17831",
+            "span": {
+                "begin": 17827,
+                "end": 17831
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "17843_17851",
+            "span": {
+                "begin": 17843,
+                "end": 17851
+            },
+            "entityType": "drug",
+            "entityName": "LY294002",
+            "id": "UMLS:C0251991"
+        },
+        {
+            "entityId": "17882_17904",
+            "span": {
+                "begin": 17882,
+                "end": 17904
+            },
+            "entityType": "disease",
+            "entityName": "Cardiovascular disease",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "18119_18141",
+            "span": {
+                "begin": 18119,
+                "end": 18141
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular disease",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "18143_18159",
+            "span": {
+                "begin": 18143,
+                "end": 18159
+            },
+            "entityType": "cell",
+            "entityName": "Endothelial cell",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "18203_18225",
+            "span": {
+                "begin": 18203,
+                "end": 18225
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular disease",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "18422_18439",
+            "span": {
+                "begin": 18422,
+                "end": 18439
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cells",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "18455_18472",
+            "span": {
+                "begin": 18455,
+                "end": 18472
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cells",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "18525_18559",
+            "span": {
+                "begin": 18525,
+                "end": 18559
+            },
+            "entityType": "gene",
+            "entityName": "Vascular endothelial growth factor",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "18561_18565",
+            "span": {
+                "begin": 18561,
+                "end": 18565
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "18647_18663",
+            "span": {
+                "begin": 18647,
+                "end": 18663
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cell",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "18907_18911",
+            "span": {
+                "begin": 18907,
+                "end": 18911
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "18941_18945",
+            "span": {
+                "begin": 18941,
+                "end": 18945
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "19019_19022",
+            "span": {
+                "begin": 19019,
+                "end": 19022
+            },
+            "entityType": "gene",
+            "entityName": "MEK",
+            "id": "UMLS:C0752313"
+        },
+        {
+            "entityId": "19023_19026",
+            "span": {
+                "begin": 19023,
+                "end": 19026
+            },
+            "entityType": "gene",
+            "entityName": "ERK",
+            "id": "UMLS:C3849574"
+        },
+        {
+            "entityId": "19039_19055",
+            "span": {
+                "begin": 19039,
+                "end": 19055
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cell",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "19075_19079",
+            "span": {
+                "begin": 19075,
+                "end": 19079
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "19080_19083",
+            "span": {
+                "begin": 19080,
+                "end": 19083
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "19084_19088",
+            "span": {
+                "begin": 19084,
+                "end": 19088
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "19132_19139",
+            "span": {
+                "begin": 19132,
+                "end": 19139
+            },
+            "entityType": "gene",
+            "entityName": "p125FAK",
+            "id": "UMLS:C1565427"
+        },
+        {
+            "entityId": "19140_19143",
+            "span": {
+                "begin": 19140,
+                "end": 19143
+            },
+            "entityType": "gene",
+            "entityName": "Src",
+            "id": "UMLS:C3853644"
+        },
+        {
+            "entityId": "19144_19147",
+            "span": {
+                "begin": 19144,
+                "end": 19147
+            },
+            "entityType": "gene",
+            "entityName": "p38",
+            "id": "UMLS:C1705791"
+        },
+        {
+            "entityId": "19174_19190",
+            "span": {
+                "begin": 19174,
+                "end": 19190
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cell",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "19270_19274",
+            "span": {
+                "begin": 19270,
+                "end": 19274
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "19278_19284",
+            "span": {
+                "begin": 19278,
+                "end": 19284
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "19437_19443",
+            "span": {
+                "begin": 19437,
+                "end": 19443
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "19447_19451",
+            "span": {
+                "begin": 19447,
+                "end": 19451
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "19452_19455",
+            "span": {
+                "begin": 19452,
+                "end": 19455
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "19456_19460",
+            "span": {
+                "begin": 19456,
+                "end": 19460
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "19523_19540",
+            "span": {
+                "begin": 19523,
+                "end": 19540
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cells",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "19579_19602",
+            "span": {
+                "begin": 19579,
+                "end": 19602
+            },
+            "entityType": "disease",
+            "entityName": "Endothelial dysfunction",
+            "id": "UMLS:C0856169"
+        },
+        {
+            "entityId": "19676_19688",
+            "span": {
+                "begin": 19676,
+                "end": 19688
+            },
+            "entityType": "drug",
+            "entityName": "nitric oxide",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "19690_19692",
+            "span": {
+                "begin": 19690,
+                "end": 19692
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "19732_19754",
+            "span": {
+                "begin": 19732,
+                "end": 19754
+            },
+            "entityType": "disease",
+            "entityName": "vascular complications",
+            "id": "UMLS:C1393529"
+        },
+        {
+            "entityId": "19791_19793",
+            "span": {
+                "begin": 19791,
+                "end": 19793
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "19926_19928",
+            "span": {
+                "begin": 19926,
+                "end": 19928
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20017_20035",
+            "span": {
+                "begin": 20017,
+                "end": 20035
+            },
+            "entityType": "cell",
+            "entityName": "smooth muscle cell",
+            "id": "UMLS:C1135918"
+        },
+        {
+            "entityId": "20055_20064",
+            "span": {
+                "begin": 20055,
+                "end": 20064
+            },
+            "entityType": "cell",
+            "entityName": "leukocyte",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "20078_20095",
+            "span": {
+                "begin": 20078,
+                "end": 20095
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cells",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "20097_20099",
+            "span": {
+                "begin": 20097,
+                "end": 20099
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20134_20144",
+            "span": {
+                "begin": 20134,
+                "end": 20144
+            },
+            "entityType": "drug",
+            "entityName": "L-arginine",
+            "id": "UMLS:C0003765"
+        },
+        {
+            "entityId": "20149_20153",
+            "span": {
+                "begin": 20149,
+                "end": 20153
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "20193_20199",
+            "span": {
+                "begin": 20193,
+                "end": 20199
+            },
+            "entityType": "drug",
+            "entityName": "serine",
+            "id": "UMLS:C0036720"
+        },
+        {
+            "entityId": "20209_20212",
+            "span": {
+                "begin": 20209,
+                "end": 20212
+            },
+            "entityType": "drug",
+            "entityName": "Ser",
+            "id": "UMLS:CHEBI:32838"
+        },
+        {
+            "entityId": "20222_20226",
+            "span": {
+                "begin": 20222,
+                "end": 20226
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "20268_20272",
+            "span": {
+                "begin": 20268,
+                "end": 20272
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "20307_20309",
+            "span": {
+                "begin": 20307,
+                "end": 20309
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20315_20332",
+            "span": {
+                "begin": 20315,
+                "end": 20332
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cells",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "20369_20380",
+            "span": {
+                "begin": 20369,
+                "end": 20380
+            },
+            "entityType": "gene",
+            "entityName": "NO synthase",
+            "id": "UMLS:C0132555"
+        },
+        {
+            "entityId": "20412_20416",
+            "span": {
+                "begin": 20412,
+                "end": 20416
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "20451_20453",
+            "span": {
+                "begin": 20451,
+                "end": 20453
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20457_20461",
+            "span": {
+                "begin": 20457,
+                "end": 20461
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "20501_20504",
+            "span": {
+                "begin": 20501,
+                "end": 20504
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4843"
+        },
+        {
+            "entityId": "20517_20521",
+            "span": {
+                "begin": 20517,
+                "end": 20521
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "20539_20542",
+            "span": {
+                "begin": 20539,
+                "end": 20542
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4843"
+        },
+        {
+            "entityId": "20597_20599",
+            "span": {
+                "begin": 20597,
+                "end": 20599
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20632_20636",
+            "span": {
+                "begin": 20632,
+                "end": 20636
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "20718_20722",
+            "span": {
+                "begin": 20718,
+                "end": 20722
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "20726_20732",
+            "span": {
+                "begin": 20726,
+                "end": 20732
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "20758_20760",
+            "span": {
+                "begin": 20758,
+                "end": 20760
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20793_20797",
+            "span": {
+                "begin": 20793,
+                "end": 20797
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "20825_20829",
+            "span": {
+                "begin": 20825,
+                "end": 20829
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "20844_20870",
+            "span": {
+                "begin": 20844,
+                "end": 20870
+            },
+            "entityType": "cell",
+            "entityName": "cultured endothelial cells",
+            "id": "UMLS:C0007600"
+        },
+        {
+            "entityId": "20922_20926",
+            "span": {
+                "begin": 20922,
+                "end": 20926
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "20963_20966",
+            "span": {
+                "begin": 20963,
+                "end": 20966
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4843"
+        },
+        {
+            "entityId": "21022_21026",
+            "span": {
+                "begin": 21022,
+                "end": 21026
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "21059_21062",
+            "span": {
+                "begin": 21059,
+                "end": 21062
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4843"
+        },
+        {
+            "entityId": "21101_21105",
+            "span": {
+                "begin": 21101,
+                "end": 21105
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "21187_21191",
+            "span": {
+                "begin": 21187,
+                "end": 21191
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "21210_21212",
+            "span": {
+                "begin": 21210,
+                "end": 21212
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "21225_21229",
+            "span": {
+                "begin": 21225,
+                "end": 21229
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "21268_21272",
+            "span": {
+                "begin": 21268,
+                "end": 21272
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "21291_21293",
+            "span": {
+                "begin": 21291,
+                "end": 21293
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "21323_21327",
+            "span": {
+                "begin": 21323,
+                "end": 21327
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "21342_21346",
+            "span": {
+                "begin": 21342,
+                "end": 21346
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "21395_21399",
+            "span": {
+                "begin": 21395,
+                "end": 21399
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "21415_21417",
+            "span": {
+                "begin": 21415,
+                "end": 21417
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "21432_21448",
+            "span": {
+                "begin": 21432,
+                "end": 21448
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cell",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "21531_21537",
+            "span": {
+                "begin": 21531,
+                "end": 21537
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "21541_21545",
+            "span": {
+                "begin": 21541,
+                "end": 21545
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "21546_21549",
+            "span": {
+                "begin": 21546,
+                "end": 21549
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "21550_21554",
+            "span": {
+                "begin": 21550,
+                "end": 21554
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "21607_21611",
+            "span": {
+                "begin": 21607,
+                "end": 21611
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "21612_21615",
+            "span": {
+                "begin": 21612,
+                "end": 21615
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "21616_21620",
+            "span": {
+                "begin": 21616,
+                "end": 21620
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "21682_21688",
+            "span": {
+                "begin": 21682,
+                "end": 21688
+            },
+            "entityType": "gene",
+            "entityName": "p-eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "21692_21695",
+            "span": {
+                "begin": 21692,
+                "end": 21695
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "21700_21703",
+            "span": {
+                "begin": 21700,
+                "end": 21703
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "21756_21762",
+            "span": {
+                "begin": 21756,
+                "end": 21762
+            },
+            "entityType": "gene",
+            "entityName": "p-eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "21767_21772",
+            "span": {
+                "begin": 21767,
+                "end": 21772
+            },
+            "entityType": "gene",
+            "entityName": "p-Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "21904_21907",
+            "span": {
+                "begin": 21904,
+                "end": 21907
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "21920_21924",
+            "span": {
+                "begin": 21920,
+                "end": 21924
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "21954_21958",
+            "span": {
+                "begin": 21954,
+                "end": 21958
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "21959_21962",
+            "span": {
+                "begin": 21959,
+                "end": 21962
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "21963_21967",
+            "span": {
+                "begin": 21963,
+                "end": 21967
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "21981_21985",
+            "span": {
+                "begin": 21981,
+                "end": 21985
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "22016_22020",
+            "span": {
+                "begin": 22016,
+                "end": 22020
+            },
+            "entityType": "drug",
+            "entityName": "PIP2",
+            "id": "UMLS:C0070798"
+        },
+        {
+            "entityId": "22024_22028",
+            "span": {
+                "begin": 22024,
+                "end": 22028
+            },
+            "entityType": "drug",
+            "entityName": "PIP3",
+            "id": "UMLS:CHEBI:16618"
+        },
+        {
+            "entityId": "22046_22050",
+            "span": {
+                "begin": 22046,
+                "end": 22050
+            },
+            "entityType": "drug",
+            "entityName": "PIP3",
+            "id": "UMLS:CHEBI:16618"
+        },
+        {
+            "entityId": "22089_22093",
+            "span": {
+                "begin": 22089,
+                "end": 22093
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "22171_22175",
+            "span": {
+                "begin": 22171,
+                "end": 22175
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "22211_22214",
+            "span": {
+                "begin": 22211,
+                "end": 22214
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "22248_22252",
+            "span": {
+                "begin": 22248,
+                "end": 22252
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "22253_22256",
+            "span": {
+                "begin": 22253,
+                "end": 22256
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "22257_22261",
+            "span": {
+                "begin": 22257,
+                "end": 22261
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "22355_22359",
+            "span": {
+                "begin": 22355,
+                "end": 22359
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "22374_22377",
+            "span": {
+                "begin": 22374,
+                "end": 22377
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "22378_22399",
+            "span": {
+                "begin": 22378,
+                "end": 22399
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "22409_22425",
+            "span": {
+                "begin": 22409,
+                "end": 22425
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cell",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "22478_22483",
+            "span": {
+                "begin": 22478,
+                "end": 22483
+            },
+            "entityType": "species",
+            "entityName": "chick",
+            "id": "UMLS:C3669677"
+        },
+        {
+            "entityId": "22732_22735",
+            "span": {
+                "begin": 22732,
+                "end": 22735
+            },
+            "entityType": "disease",
+            "entityName": "TSD",
+            "id": "UMLS:C0039373"
+        },
+        {
+            "entityId": "22763_22786",
+            "span": {
+                "begin": 22763,
+                "end": 22786
+            },
+            "entityType": "drug",
+            "entityName": "Hydroxysafflor yellow A",
+            "id": "UMLS:C0250747"
+        },
+        {
+            "entityId": "22788_22792",
+            "span": {
+                "begin": 22788,
+                "end": 22792
+            },
+            "entityType": "drug",
+            "entityName": "HSYA",
+            "id": "UMLS:C0250747"
+        },
+        {
+            "entityId": "22795_22807",
+            "span": {
+                "begin": 22795,
+                "end": 22807
+            },
+            "entityType": "drug",
+            "entityName": "ferulic acid",
+            "id": "UMLS:C0060291"
+        },
+        {
+            "entityId": "22813_22824",
+            "span": {
+                "begin": 22813,
+                "end": 22824
+            },
+            "entityType": "drug",
+            "entityName": "ligustilide",
+            "id": "UMLS:C0064980"
+        },
+        {
+            "entityId": "22861_22865",
+            "span": {
+                "begin": 22861,
+                "end": 22865
+            },
+            "entityType": "drug",
+            "entityName": "HSYA",
+            "id": "UMLS:C0250747"
+        },
+        {
+            "entityId": "22880_22886",
+            "span": {
+                "begin": 22880,
+                "end": 22886
+            },
+            "entityType": "cell",
+            "entityName": "HUVECs",
+            "id": "UMLS:C3179121"
+        },
+        {
+            "entityId": "22942_22958",
+            "span": {
+                "begin": 22942,
+                "end": 22958
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cell",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "22986_22990",
+            "span": {
+                "begin": 22986,
+                "end": 22990
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "22992_22996",
+            "span": {
+                "begin": 22992,
+                "end": 22996
+            },
+            "entityType": "drug",
+            "entityName": "HSYA",
+            "id": "UMLS:C0250747"
+        },
+        {
+            "entityId": "23030_23054",
+            "span": {
+                "begin": 23030,
+                "end": 23054
+            },
+            "entityType": "disease",
+            "entityName": "focal cerebral ischaemia",
+            "id": "UMLS:C0007785"
+        },
+        {
+            "entityId": "23064_23068",
+            "span": {
+                "begin": 23064,
+                "end": 23068
+            },
+            "entityType": "drug",
+            "entityName": "HSYA",
+            "id": "UMLS:C0250747"
+        },
+        {
+            "entityId": "23101_23110",
+            "span": {
+                "begin": 23101,
+                "end": 23110
+            },
+            "entityType": "disease",
+            "entityName": "ischaemia",
+            "id": "UMLS:C0022116"
+        },
+        {
+            "entityId": "23147_23159",
+            "span": {
+                "begin": 23147,
+                "end": 23159
+            },
+            "entityType": "drug",
+            "entityName": "nitric oxide",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "23174_23178",
+            "span": {
+                "begin": 23174,
+                "end": 23178
+            },
+            "entityType": "gene",
+            "entityName": "eNOS",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "23191_23203",
+            "span": {
+                "begin": 23191,
+                "end": 23203
+            },
+            "entityType": "drug",
+            "entityName": "Ferulic acid",
+            "id": "UMLS:C0060291"
+        },
+        {
+            "entityId": "23213_23230",
+            "span": {
+                "begin": 23213,
+                "end": 23230
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cells",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "23266_23270",
+            "span": {
+                "begin": 23266,
+                "end": 23270
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "23298_23309",
+            "span": {
+                "begin": 23298,
+                "end": 23309
+            },
+            "entityType": "drug",
+            "entityName": "Ligustilide",
+            "id": "UMLS:C0064980"
+        },
+        {
+            "entityId": "23346_23355",
+            "span": {
+                "begin": 23346,
+                "end": 23355
+            },
+            "entityType": "disease",
+            "entityName": "ischaemia",
+            "id": "UMLS:C0022116"
+        },
+        {
+            "entityId": "23383_23388",
+            "span": {
+                "begin": 23383,
+                "end": 23388
+            },
+            "entityType": "disease",
+            "entityName": "brain",
+            "id": "mesh:D001927"
+        },
+        {
+            "entityId": "23399_23429",
+            "span": {
+                "begin": 23399,
+                "end": 23429
+            },
+            "entityType": "disease",
+            "entityName": "chronic cerebral hypoperfusion",
+            "id": "UMLS:C0265116"
+        },
+        {
+            "entityId": "23479_23495",
+            "span": {
+                "begin": 23479,
+                "end": 23495
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cell",
+            "id": "UMLS:C0225336"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "102_106",
+            "subjectText": "eNOS",
+            "rel_name": "stimulate",
+            "objectId": "50_72",
+            "objectText": "Human Endothelial Cell"
+        },
+        {
+            "subjectID": "863_871",
+            "subjectText": "LY294002",
+            "rel_name": "regulate",
+            "objectId": "795_800",
+            "objectText": "p-Akt"
+        },
+        {
+            "subjectID": "805_811",
+            "subjectText": "p-eNOS",
+            "rel_name": "inhibit",
+            "objectId": "863_871",
+            "objectText": "LY294002"
+        },
+        {
+            "subjectID": "875_881",
+            "subjectText": "L-NAME",
+            "rel_name": "inhibit",
+            "objectId": "915_923",
+            "objectText": "LY294002"
+        },
+        {
+            "subjectID": "928_934",
+            "subjectText": "L-NAME",
+            "rel_name": "stimulate",
+            "objectId": "993_999",
+            "objectText": "HUVECs"
+        },
+        {
+            "subjectID": "442_446",
+            "subjectText": "VEGF",
+            "rel_name": "stimulate",
+            "objectId": "379_417",
+            "objectText": "human umbilical vein endothelial cells"
+        }
+    ]
+}

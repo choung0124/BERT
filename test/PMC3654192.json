@@ -1,0 +1,4368 @@
+{
+    "sourcid": "PMC3654192",
+    "publisher": "Current Science Inc.",
+    "journal": "Current Emergency and Hospital Medicine Reports",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3654192/",
+    "text": "Anticoagulants: A Review of the Pharmacology, Dosing, and Complications Anticoagulants remain the primary strategy for the prevention and treatment of thrombosis. Unfractionated heparin, low molecular weight heparin, fondaparinux, and warfarin have been studied and employed extensively with direct thrombin inhibitors typically reserved for patients with complications or those requiring intervention. Novel oral anticoagulants have emerged from clinical development and are expected to replace older agents with their ease of use and more favorable pharmacodynamic profiles. Hemorrhage is the main concerning adverse event with all anticoagulants. With their ubiquitous use, it becomes important for clinicians to have a sound understanding of anticoagulant pharmacology, dosing, and toxicity. Introduction Anticoagulants are the cornerstone therapy for thrombosis prevention and treatment. While anticoagulants are commonly employed, their use is often associated with adverse drug events and increased readmission rates. In older patients presenting to an Emergency Department with a warfarin adverse drug event, about half required hospitalization. Despite novel anticoagulants being touted as replacements for warfarin and heparin products, rivaroxaban has been associated with serious thrombotic events while dabigatran has been associated with serious bleeding. Since anticoagulant use enhances the risk for Emergency Department visits by as much as 35-fold, clinicians must be familiar with anticoagulants, their pharmacological properties, pharmacodynamics, dosing, monitoring, and toxicity. Pathophysiology The coagulation cascade is comprised of the intrinsic (contact activation) pathway and the extrinsic (tissue factor) pathway. Each pathway generates a series of reactions in which inactive circulating enzymes and their co-factors are activated. These activated factors then catalyze the next reactions in the cascade. Thrombin plays a pivotal role by triggering the conversion of soluble fibrinogen to insoluble fibrin monomers, which serve as the foundation for thrombus formation. Thrombin also activates factors VIII, V, and XIII. Factor XIII generates the covalent bonds that link fibrin strands ensuring structural integrity. Anticoagulants, either through their interaction with Antithrombin (AT) or through a direct inhibition of thrombin, interrupt these enzymatic reactions The coagulation cascade is triggered by tissue factor release from tissue trauma or vascular injury (Fig. 1). Tissue factor forms a complex with factor VIIa in the presence of calcium and cleaves clotting factors X and IX to their activated forms (factors Xa and IXa). The prothrombinase complex is then assembled on a phospholipid membrane and cleaves prothrombin (factor II) to factor IIa (thrombin). Thrombin is one of the most potent activators of primary (platelet-mediated) and secondary (clotting factor-mediated) hemostasis. Thrombin may also potentiate clot formation by fibrin polymerization, platelet receptor activation, endothelium activation, and activation of factors V, VIII, XI, and XIII. Anticoagulant agents can inhibit thrombogenesis by altering various pathways within the clotting cascade or by targeting thrombin directly, attenuating thrombin generation. Indirect inhibitors, however, target and bind to naturally occurring plasma cofactors, such as antithrombin (AT), catalyzing their interaction with clotting enzymes.   Pharmacology of Heparins and Fondaparinux Comparison of the pharmacologic features of heparin and its derivatives Features\tHeparin\tLMWH\tFondaparinux\t \tSource\tBiological\tBiological\tSynthetic\t \tMolecular weight (Da)\t15,000\t5,000\t1,500\t \tTarget\tXa:IIa\tXa > IIa\tXa\t \tBioavailability (%)\t30\t90\t100\t \tHalf-life (h)\t1\t4\t17\t \tRenal excretion\tNo\tYes\tYes\t \tProtamine reversal\tComplete\tPartial\tNone\t \tIncidence of HIT (%)\t<5.0\t<1.0\tCase reports      Da Dalton, h hours, HIT heparin-induced thrombocytopenia  Unfractionated heparin (UFH) and low molecular weight heparin (LMWH) are the anticoagulants of choice in acute thrombosis due to their rapid onset of antithrombotic activity. Since heparins are dependent on the presence of AT for clotting factor inhibition, they are considered indirect anticoagulants (Table 1) [  , ]. Heparins have no fibrinolytic activity and will not lyse existing thrombi. Heparins contain an active pentasaccharide sequence that binds to AT. Once heparin binds and activates AT, it can readily dissociate and bind to additional AT, providing a continuous anticoagulant effect. This binding produces a conformational change, accelerating AT binding and inactivation of coagulation factors XIIa, IXa, XIa, Xa and thrombin. The active pentasaccharide sequence responsible for catalyzing AT is found on one-third and one-fifth of the chains of UFH and LMWH, respectively. Fondaparinux is a synthetic analog of the naturally occurring pentasaccharide found in heparins [  , ]. Fondaparinux selectively and irreversibly binds to AT. This results in neutralization of factor Xa, which ultimately inhibits thrombin formation and thrombus development.           Unfractionated Heparin Pharmacodynamics and Monitoring Intravenous (IV) infusion or subcutaneous injections are the available routes for UFH administration and IV is preferred [  , ]. When given via subcutaneous injection for therapeutic anticoagulation, doses need to be large enough (>30,000 U/day) to overcome UFHs low bioavailability. UFH readily binds to plasma proteins, which contributes to its variable anticoagulant response after parenteral administration. Despite these limitations IV administration rapidly achieves therapeutic plasma concentrations that can be effectively monitored and adjusted based on infusion rates.     UFH clearance from the systemic circulation is dose-related and occurs through two independent mechanisms [  , ]. The initial phase is the rapid and saturable binding to endothelial cells, macrophages, and local proteins where UFH is depolymerized. The second phase is a slower, non-saturable, renal-mediated clearance. At therapeutic doses, UFH is cleared primarily via depolymerization, with the higher molecular weight chains being cleared more rapidly than lower weight counterparts. As clearance becomes dependant on the kidney, increased or prolonged UFH dosing provides a disproportionate increase in both the intensity and the duration of the anticoagulant effect.     The anticoagulant response to UFH administration is monitored using the activated partial thromboplastin time (aPTT). The aPTT should be measured every 6 h with IV administration, and doses adjusted accordingly, until the patient has sustainable therapeutic levels. Once steady state is reached the frequency of monitoring can be extended.  To overcome variables delivering UFH, weight-based dosing nomograms are recommended for treatment of thromboembolic disease. Dosing nomograms have been associated with significantly higher initial UFH doses, shorter time to therapeutic activated aPTT, and no increase in bleeding events. UFH dosing nomograms will differ from hospital to hospital due to differences in thromboplastin agents and inter-laboratory standardizations in aPTT measurements. Clinical Indications Clinical uses of UFH Drugs\tIndications\tDosing, timing, duration\tMonitoring\tPrecautions\t \tUnfractionated heparin\tTreatment of VTE\t80 U/kg bolus then 18 U/kg/h infusion adjusted to maintain aPTT 2-2.5 times control or per local heparin nomogram\taPTT: at least 6 h after initiation, then at least once dailyAnti-Xa Levels (alternative if available, consider if patients with heparin resistance)CBCHIT antibody testing (not warranted in the absence of thrombocytopenia, thrombosis, heparin-induced skin lesions, or other signs pointing to a potential diagnosis of HITSigns and symptoms of bleeding\tAllergic or hypersensitivity-type reactionsCongenital or acquired bleeding disordersIndwelling epidural catheterGastrointestinal ulceration and ongoing tube drainage of the small intestine or stomachHepatic disease with impaired hemostasisHereditary AT III deficiency and concurrent use of ATMenstruationNeonates and infants weighing <10 kgPremature infants weighing less than 1 kgRisk of delayed onset of HIT and HITT\t \tTreatment of ACS\tIV bolus: 60 U/kg (max 4,000 U) 12 U/kg/h (max 1,000 U) +- fibrinolysis, adjusted to maintain aPTT 1.5-2 times control or per local heparin nomogram\t \tBridge therapy for AF, cardioversion\tIV infusion: 60-80 U/kg bolusTarget aPTT, 60 s, range 50-70 s\t \tProphylaxis of VTE in the medically ill or surgical population\t5,000 U SC every 8-12 h\t \tProphylaxis of VTE in pregnancy (with prior VTE)\t7,500-15,000 U SC every 12 h                          VTE venous thromboembolism, aPTT activated partial thromboplastin time, CBC complete blood count, HIT heparin-induced thrombocytopenia, HITT heparin-induced thrombocytopenia and thrombosis, ACS acute coronary syndrome, IV intravenous, SC subcutaneous  Clinical indications for UFH include treatment of acute coronary syndromes (ACS), treatment or prevention of venous thromboembolism (VTE), bridge therapy for atrial fibrillation (AF), and cardioversion (Table 2) [  , ]. UFH utilization has diminished with LMWH and fondaparinux availability and their superior pharmacokinetic profiles [  , ]. UFH, with a short half-life and reversal capability, remains the best option in patients requiring higher UFH doses, in patients with underlying bleeding risk, or in those critically ill with organ dysfunction. Patients with fluctuating renal function or with a creatinine clearance less than 30 mL/min are not candidates for LMWH or fondaparinux due to the risk of accumulation and increased bleeding risk. When used for thromboprophylaxis in medical patients, three times daily UFH dosing provides better efficacy in preventing VTE events compared to twice daily dosing but generates more major bleeding episodes.            Complications and Reversal of Effect The major complications of UFH therapy include bleeding (major bleeding, 0-7 %; fatal bleeding, 0-3 %) and heparin-induced thrombocytopenia (HIT, 1-5 %). Patients receiving UFH for periods of more than 1 month are also at an increased risk for osteoporosis and development of vertebral fractures (approximately 2 % incidence). Hemorrhagic episodes are associated with the intensity of anticoagulation, route of administration (continuous infusions are associated with lower rates), and concomitant use of glycoprotein (gp) IIB/IIIA inhibitors, aspirin or fibrinolytic therapy. The relationship between supratherapeutic levels of UFH (elevated aPTT, heparin levels or anti-Xa levels) and major bleeding is not well established and has not been prospectively compared in clinical trials. Major bleeding can occur within therapeutic levels of anticoagulation. Patient-specific risk factors are the most important consideration when determining the bleeding risk, including: age, gender, renal failure, low body weight, and excessive alcohol consumption.            Anticoagulation management before and after surgery is a patient specific, risk versus benefit decision. It is based on the procedure and patient's risk factors for bleeding and thrombosis. For patients requiring peri-operative anticoagulation in elective procedures or surgery, discontinuing therapeutic IV UFH doses 4 h prior to the procedure and measuring an aPTT is usually sufficient, as normal hemostasis is restored in this time frame in most cases. If the aPTT remains elevated, then hourly measurements are advised until the aPTT returns to baseline. Therapeutic UFH therapy can be restarted 12 h after major surgery, but should be delayed longer for evidence of continued bleeding. In patients receiving low-dose UFH subcutaneously, there is no contraindication to neuraxial techniques, as the risk for developing spinal hematoma appears to be minimal. In patients who are to receive intraoperative anticoagulation with UFH, the UFH infusion should be started at least 1 h after needle placement. Indwelling catheters should be removed 2-4 h after discontinuation of the UFH infusion and only after the patient's coagulation status has been assessed.           Since UFH has a short half-life, reversal is not required in most bleed episodes. The treatment of clinically severe UFH-related bleeding includes anti-heparin therapy (protamine sulfate), transfusion therapy, and supportive care. Protamine dosing is dependent on timing of the last UFH dose. For immediate reversal (<30 min since the last UFH dose), 1 mg of protamine is administered for every 100 U of UFH and a follow up aPTT can evaluate the reversal response. When UFH is given as a continuous IV infusion, only UFH delivered during the preceding 2-2.5 h should be included in the calculation to determine the protamine dose. If the UFH dose is unknown, protamine 50 mg can be administered slowly over 10 min followed by serial measurements of aPTT. Severe adverse reactions to protamine, such as hypotension and bradycardia, are common. Reaction severity may be reduced by slowing the administration over 1-3 min (maximum administration rate is 5 mg/min). Allergic responses to protamine are more common in patients who have been previously exposed to the drug for UFH neutralization, or treated with protamine-containing insulin (neutral protamine Hagedorn insulin), have undergone vasectomy, or have hypersensitivity to fish. Patients at risk of developing anti-protamine antibodies can be pretreated with corticosteroid and anti-histamine medications.            Low Molecular Weight Heparins Pharmacodynamics and Monitoring Clinical uses of LMWHs Drugs\tIndications\tDosing, timing, duration\tMonitoring\tPrecautions\t \tEnoxaparin (Lovenox )\tTreatment of VTE \t1 mg/kg SC every 12 hOR1.5 mg/kg SC every 24 h\tAnti-Xa level in with significant renal impairment, those experiencing bleeding or abnormal coagulation parameters, pregnant patients, obese or low-weight patients, and childrenCBCSerum creatinineHIT antibody testing (not warranted in the absence of thrombocytopenia, thrombosis, heparin-induced skin lesions, or other signs pointing to a potential diagnosis of HITSigns and symptoms of bleeding\tIndwelling epidural catheterRecent spinal or ophthalmologic surgeryHistory of recent major bleed (gastrointestinal, intracranial, etc.)Congenital or acquired bleeding disordersBacterial endocarditisHistory of heparin-induced thrombocytopeniaLiver diseaseRenal impairment (CrCl <30 mL/min), consider UFHConcomitant use of antithrombotic drugsDiabetic retinopathyUncontrolled hypertension\t \tCrCl <30 mL/min: 1 mg/kg SC every 24 h\t \tTreatment of ACS \tST-segment elevation MI: 30 mg bolus IV plus 1 mg/kg with tenecteplase followed by 1 mg/kg SC every 12 hUnstable angina/non-Q wave MI: 1 mg/kg SC every 12 h\t \tCrCl <30 mL/min: not recommended\t \tProphylaxis/bridge therapy for AF/cardioversion \t1 mg/kg SC every 12 hOR1.5 mg/kg SC every 24 h\t \tCrCl <30 mL/min: 1 mg/kg SC every 24 h\t \tProphylaxis of VTE in the medically ill or surgical population\t40 mg SC every 24 h\t \tCrCl <30 mL/min: 1 mg/kg SC daily\t \tProphylaxis of VTE in the trauma patients\t30 mg SC every 12 hOR40 mg SC every 24 h\t \tDalteparin (Fragmin )\tTreatment of VTE\t<56 kg: 10,000 IU SC daily57-68 kg: 12,500 IU SC daily83-98 kg: 18,000 IU SC daily>99 kg: 18,000 IU SC daily\t \tTreatment of ACS\t120 IU/kg SC every 12 h (MAX 10,000 IU/dose)\t \tProphylaxis of VTE after hip or other major surgery (first month) \tInitial dose: 2,500 IU SC onceMaintenance: 2,500-5,000 IU SC every 24 h \t \tProphylaxis of VTE in the medically ill or surgical population\t5,000 IU SC every 24 h\t \tTinzaparin (Innohep )\tTreatment of DVT\t175 international units anti-Xa/kg SC daily                                                              VTE venous thromboembolism, SC subcutaneous, h hours, CrCl creatinine clearance using the Cockroft-Gault Equation, CBC complete blood count, HIT heparin-induced thrombocytopenia, ACS acute coronary syndrome, IV intravenous, IU international units    LMWHs have increased bioavailability after subcutaneous injection, renal clearance that is dose-independent, and a longer half-life (17-21 h) when compared to UFH. LMWHs are administered in fixed doses for thromboprophylaxis, or in total body weight adjusted doses for therapeutic anticoagulation (Table 3).      With their predictable dose response (peak anti-Xa activity occurring 3-5 h after injection) laboratory monitoring is usually not necessary. Anti-Xa monitoring is an option in high-risk patient populations (renal insufficiency, obesity, pregnancy, non-compliance) where dosing adjustments may be required to tailor therapy. In these cases anti-Xa plasma levels are drawn 4 h after administration, and subsequent dosing adjusted to peak target levels of 0.5-1.1 IU/mL. Anti-Xa tests should be monitored and interpreted per the manufacturer of the specific LMWH being used.        Clinical Indications For medically ill and post-operative patients requiring parenteral VTE prophylaxis, LMWHs have become a suitable replacement for UFH. LMWHs require fewer injections and produce fewer adverse events. In hospitalized medical patients receiving thromboprophylaxis, LMWH was associated with a lower risk of deep vein thrombosis (DVT), fewer injection site hematomas, and no differences in bleeding when compared with UFH. LMWHs have largely replaced IV UFH in patients with acute VTE who are able to continue therapy, unmonitored in the ambulatory setting. In ACS, patients with ST-segment elevation myocardial infarction treated with fibrinolysis and LMWH had a lower incidence of death or non-fatal recurrent myocardial infarction but a higher rate of major bleeding than those treated with fibrinolysis and UFH. Similarly, in unstable angina/non-ST-segment elevation myocardial infarction, LMWH therapy reduced the incidence of death, myocardial infarction, or urgent revascularization when compared to UFH. Complications and Reversal of Effect Hemorrhage is the major complication of LMWH, with some data supporting decreased rates of bleeding compared to UFH. Rates of fatal bleeding are reported in 0-0.8 % and major bleeding in 0-3 % of patients. In the surgical setting, peri-procedural thromboembolic risk assessment, bleeding risk assessment, and physician preference will play a role in determining whether LMWH prophylactic dosing is continued or withheld. For patients receiving therapeutic LMWH dosing, discontinuation should be considered 12-24 h prior to procedure, or longer in patients with renal dysfunction. Therapeutic doses of LMWH should not be restarted for 24 h after a major procedure or after neuraxial anesthesia.           In the setting of overdose or life-threatening hemorrhage, protamine is administered IV. Protamine does not fully reverse LMWH but can neutralize the AT effect. Because longer heparin chains bind to protamine, protamine completely reverses the anti-factor IIa activity of LMWH but only reverses 60 % of the anti-factor Xa activity. If immediate reversal is warranted within 8 h of LMWH administration, a protamine dose of 1 mg neutralizes 100 U anti-Xa or 1 mg of LMWH. If bleeding continues, a second dose of 0.5 mg of protamine per 100 U anti-Xa may be administered. Smaller protamine doses are required if the LMWH administration interval is beyond 8 h.       HIT and HIT with thrombosis (HITT) are immune-mediated disorders that result from antibodies being formed against the heparin-platelet factor IV complex. The incidence of HITT in critically ill patients ranges from 1 to 5 % and is associated with the development of thrombocytopenia and life-threatening thrombosis in approximately 30-50 % of HIT positive patients. This immune-mediated response typically occurs in patients exposed to UFH or LMWH for 5-7 days, or sooner if the patient was previously exposed. A 50 % decrease in platelet count occurring 4-10 days after the initiation of UFH or LMWH therapy or formation of a new thrombus while anticoagulated may be indicative of HIT. Platelet counts should be measured prior to the initiation of UFH or LMWH and monitored every other day for the first 4-10 days of therapy. The incidence of HIT is approximately one-tenth lower with LMWH than with UFH. In the setting of a HIT allergy or if positive HIT antibodies have been detected, LMWH cannot be used due to cross reactivity between glycosaminoglycans. Direct thrombin inhibitors (DTIs) are the treatment of choice for patients with HIT or HITT.                 Osteoporosis reportedly occurs less frequently in patients treated with LMWH as compared to UFH, and it typically is associated with long-term therapy [  ].     Fondaparinux Pharmacodynamics and Monitoring After subcutaneous administration, fondaparinux is rapidly and completely absorbed, exhibiting a half-life of 17-21 h in patients with normal renal function [  ]. Fondaparinux is excreted primarily unchanged in the urine with clearance reduced in patients with renal impairment. Similar to LMWH, with predictable pharmacokinetics, monitoring anti-Xa levels is not recommended during fondaparinux administration.        Clinical Indication Clinical uses of fondaparinux Drug\tIndications\tDosing, timing, duration\tMonitoring\tPrecautions\t \tFondaparinux (Arixtra )\tTreatment of VTE Treatment is for 5-9 days; continue treatment until a therapeutic oral anticoagulant effect is established\t<50 kg: 5 mg SC daily50-100 kg: 7.5 mg SC daily>100 mg kg: 10 mg SC daily \tCBCSerum creatinineSigns and symptoms of bleedingAnti-Xa level in patients with significant renal impairment, those experiencing bleeding or abnormal coagulation parameters, pregnant patients, obese or low-weight patients, and childrenHepatic function\tIndwelling epidural catheterRecent spinal or ophthalmologic surgeryHistory of recent major bleed (gastrointestinal, intracranial, etc.)Congenital or acquired bleeding disorders\t \tRenal impairmentCrCl 50-80 mL/min:25 % reduction in total clearance; consider empiric dosage reductionCrCl 30-50 mL/min:40 % reduction in total clearance; consider empiric dosage reductionCrCl less than 30 mL/min:contraindicated\t \tTreatment of STEMI and NSTEMIa\t2.5 mg SC daily\t \tProphylaxis of VTE in major surgery and acute medically illa\t2.5 mg SC daily                                   VTE venous thromboembolism, SC subcutaneous, CrCl creatinine clearance using the Cockroft-Gault Equation, CBC complete blood count, STEMI ST-elevation myocardial infarction, NSTEMI non-ST-elevation myocardial infarction    aIndicates off label use of medication  Fondaparinux has been proven to be at least as safe and effective as treatment of DVT and pulmonary embolism (PE) as LMWH and UFH, respectively (Table 4). Fondaparinux has been studied extensively for thromboprophylaxis in medically ill and surgical patients. In three trials fondaparinux showed superior efficacy in reducing VTE in patients undergoing knee arthroplasty, hip arthroplasty, and hip fracture surgery. In a combined analysis, the overall incidence of major bleeding was statistically higher with fondaparinux (2.7 %) compared with LMWH (1.7 %). However, the incidence of clinically relevant bleeding, as defined as bleeding leading to death, reoperation, or occurring in a critical organ, did not differ between the agents. The differences in efficacy and safety outcomes could be related to dosing as well as the timing of peri-operative drug administration. The administration of fondaparinux given less than 6 h after surgery has been associated with an increased frequency of major bleeding. Holding therapy for at least 6 h post-procedure may be recommended in patients at risk of bleeding. Fondaparinux may be a potential option for thromboprophylaxis in the setting of an HIT allergy but no conclusive data is available. While fondaparinux has been studied in ACS, it has not received Food and Drug Administration (FDA) approval.      Complications and Reversal of Effect Fondaparinux is contraindicated in patients with severe renal impairment (calculated creatinine clearance less than 30 mL/min). Fondaparinux should not be used for VTE prophylaxis in patients weighing less than 50 kg. Fondaparinux reversal is further complicated by its prolonged half-life. While no specific antidote exists for the fondaparinux-related hemorrhage, recombinant activated factor VII (rFVIIa) administration can normalize coagulation times and thrombin generation.   Direct Thrombin Inhibitors (DTIs) DTIs exert their antithrombotic effect through direct, selective, and reversible binding to the active site of thrombin. This leads to inhibition of thrombin-catalyzed or -induced reactions, including fibrin formation, activation of coagulant factors V, VIII, XIII, protein C, and platelet aggregation. The hirudin analogs, desirudin and bivalirudin, and argatroban are three currently approved DTIs. Pharmacology, Pharmacodynamics, and Monitoring Bivalirudin and desirudin are synthetic analogs of r-hirudin that exert anticoagulant activity by reversible binding at the enzymatic catalytic site and the anion binding site of thrombin. Argatroban, derived from the amino acid arginine, is a small synthetic thrombin inhibitor that reversibly binds non-covalently to thrombin active site. Pharmacokinetic and pharmacodynamic properties of DTIs Feature\tDesirudin\tArgatroban\tBivalirudin\t \tMolecular weight (Da)\t6963\t526\t2180\t \tFDA-approved indication\tProphylaxis of DVT in patients undergoing elective hip replacement surgery\tManagement of HIT, or use in patients with HIT who are undergoing PCI\tUse in patients with or at risk for HIT or HITTS who are undergoing PCI\t \tPrimary elimination route\tRenal\tHepatic\tEnzymatic\t \tElimination half-life\tSC = 120 minIV = 60 min\t39-51 min\t10-24 min\t \tFraction eliminated unchanged by kidney (%)\t40-50\t16\t20\t \tLaboratory test to monitor\tNot required\taPTT, ECT\taPTT, ACT, ECT\t \tTarget range\tn/a\taPTT: 1.5-3x control\taPTT: 1.5-2.5x control\t \tEffects on INR\tMinimal\tModerate to clinically significant\tMinimal to moderate                          Da Dalton, FDA Food and Drug Administration, HIT heparin-induced thrombocytopenia, HITTS HIT with thrombosis syndrome, PCI percutaneous coronary intervention, SC subcutaneous, IV intravenous, aPTT activated partial thromboplastin time, ECT ecarin clotting time, ACT activated clotting time, INR international normalized ratio  Clinical uses of DTIs Drugs\tIndications\tDosing, timing, duration\tMonitoring\tPrecautions\t \tBivalirudin (Angiomax )\tPCI (with or without glycoprotein IIB/IIIA inhibitor)\t0.75 mg/kg IV bolus dose, followed by an infusion of 1.75 mg/kg/h for the duration of the procedure\tCBCaPTTACTPT/INR (false elevation while on infusion)Blood pressureHeart rateECGRenal function (bivalirudin)Hepatic function (argatroban)\tIndwelling epidural catheterRecent major, spinal or ophthalmologic surgeryHistory of recent major bleed (gastrointestinal, intracranial, etc.)Congenital or acquired bleeding disordersRecent cerebrovascular accidentHepatic impairment (argatroban)Renal dysfunction (bivalirudin)\t \tCrCl less than 30 mL/min, a reduction of initial infusion rate to 1 mg/kg/h should be considered; no bolus dose reduction is necessary\t \tTreatment of ACSa\tInitial IV bolus dose of 0.1 mg/kg, followed by 0.25 mg/kg/h.\t \tTreatment and prophylaxis of HITTa\t0.15-0.2 mg/kg/h, titration to aPTT 1.5-2.5 times control\t \tArgatroban\tTreatment and prophylaxis of HITT\t0.5-1.2 mug/kg/min continuous IV infusion to start titration to goal aPTT of 1.5-3 times baseline\t \tBegin VKA therapy, measure INR daily. Stop argatroban when INR >4. Repeat INR in 4-6 h, if INR is below desired range then resume argatroban infusion\t \tPCI\tBolus: 350 mug/kg\t \tInitial infusion: 25 mug/kg/min maintain ACT greater than 300 seconds\t \tDesirudin\tProphylaxis of DVT in patients undergoing elective hip replacement surgery\t15 mg SC every 12 h given 5-15 min prior to surgery but before induction of regional block anesthesia (if used)                              PCI percutaneous coronary intervention, IV intravenous, CrCl creatinine clearance using the Cockroft-Gault Equation, CBC complete blood count, aPTT activated partial thromboplastin time, ACT activated clotting time, PT prothrombin time, INR international normalized ratio, ECG echocardiogram, HITT heparin-induced thrombocytopenia and thrombosis, VKA vitamin K antagonist, ACS acute coronary syndrome    aIndicates off label use of medication  The DTIs differ in their pharmacokinetic parameters (Table 5). Bivalirudin has the shortest half-life, making it a particularly useful agent in the procedural or peri-procedural period. DTI selection often depends on patient-specific characteristics such as age, compromised cardiac function, hemodynamic instability, and hepatic or renal dysfunction. Critically ill patients typically require lower infusion rates than recommended by the manufacturer due to the presence of comorbidities and organ dysfunction. DTIs are monitored using aPTT, with a goal of 1.5-3 times control or baseline (argatroban), 1.5-2.5 times control (bivalirudin) (Table 6). Desirudin does not need routine coagulation monitoring. The aPTT level should be measured every 6 h until the patient has sustainable therapeutic levels, then the frequency of monitoring can be extended. Because of inconsistencies in aPTT measurements, the plasma diluted thrombin time has shown to be an alternative to for monitoring DTI levels, especially in patients with lupus inhibitors or low levels of vitamin K-dependent factors.          Clinical Indications DTIs can be used as an alternative anticoagulant to UFH for the treatment of HIT or HIT-T. Argatroban administration significantly reduced the rates of thromboembolic complications in patients with HIT. Bivalirudin has been safely used in critically ill and HIT patients. Argatroban and bivalirudin are indicated as an anticoagulant for thrombosis prevention in patients undergoing percutaneous coronary intervention (PCI). Bivalirudin is indicated for use as an anticoagulant in the treatment of patients with moderate to high-risk ACS, unstable angina/non-ST-segment elevation myocardial infarction who are undergoing early invasive management, and in patients undergoing PCI (Table 6).  Complications and Reversal of Effect Hemorrhage is the most common complication with DTIs and no specific reversal agent is available. Anecdotally, rFVIIa has been reported to be useful and could be considered for immediate treatment of life-threatening hemorrhage. DTIs can produce a misleading elevation in the international normalized ratio (INR), complicating the transition to warfarin in HIT. A clinical strategy to bridge safely and effectively should be undertaken in order to avoid thrombosis or bleeding. Steps in a bridging strategy include determining a baseline INR while on the DTI, identifying a target INR level (desired 1.5-2-point increase) while considering the INR elevation induced by the DTI, once INR goal is reached withhold the DTI for 4-8 h, and recheck the INR and aPTT. If the INR is 2-3 with an aPTT close to baseline after the clinician accounts for the independent warfarin-related elevation in the aPTT, the DTI can be discontinued.        Oral Anticoagulants-Vitamin K Antagonists   Vitamin K antagonists (VKAs) produce their anticoagulant effect by inhibiting vitamin K epoxy reductase, which is required for the conversion of vitamin K to its active form vitamin KH2. Vitamin K dependant proteins such as clotting factors II, VII, IX, and X require gamma-carboxylation by vitamin KH2 for biological activity [ ]. The relationship between the dose of warfarin and the response varies between patients and is modified by genetic and environmental factors (dietary intake, drug interactions, critical illness, etc.) that can influence the absorption of warfarin, its pharmacokinetics, and its pharmacodynamics [ ,  , ].     A wide dosing range is required to maintain a therapeutic INR with relatively low doses often required for the elderly and patients with underlying comorbidities. Nomogram based dosing is considered safer and more effective at reaching targeting INR goals. Larger initial doses suppress proteins C and S, producing a hypercoagulable response and are associated with over-anticoagulation and higher rates of bleeding. Clinical Indications Clinical uses of warfarin Drug\tIndications\tDosing, timing, duration\tMonitoring\tPrecautions\t \tWarfarin (Coumadin , Jantoven )\tTreatment of VTE\tInitial dosing: 2.5-10 mg every 24 h (see precautions) titrated to range INR: 2.0-3.0; target of 2.5\tSigns and symptoms of bleedingCBCPT/INR\tLower initial dosing (less than 5 mg may be warranted in patients who are debilitated, are malnourished, have congestive heart failure, have liver disease, have had recent major surgery, or are taking medications known to increase sensitivity to warfarin)Cerebrovascular diseaseCoronary diseaseCYP2C9 and VKORC1 genetic variationModerate to severe hypertensionMalignancyRenal impairmentRecent traumaMalignancyCollagen vascular diseaseConditions that increase risk of hemorrhage, necrosis, and/or gangrene, pre-existingCongestive heart failureSever diabetesExcessive dietary vitamin KElderly or debilitated patients (lower dosing may be required)Hepatic impairmentHyperthyroidism/hypothyroidismEpidural cathetersInfectious diseases or disturbances of intestinal flora, such as sprue or antibiotic therapyPoor nutritional stateProtein C deficiencyHeparin-induced thrombocytopeniaVitamin K deficiency\t \tAtrial fibrillation\tInitial dosing: 2.5-10 mg every 24 h (see precautions) titrated to range INR: 2.0-3.0; target of 2.5\t \tPost-MI\tInitial dosing: 2.5-10 mg every 24 h (see precautions) titrated to range INR: 2.0-3.0; target of 2.5\t \tMechanical valve in the atrial position\tInitial dosing: 2.5-5 mg every 24 h (see precautions) titrated to range INR: 2.0-3.0; target of 2.5\t \tMechanical valve in the mitral position\tInitial dosing: 2.5-5 mg every 24 h (see precautions) titrated to range INR: 2.5-3.5; target of 3.0\t \tMechanical valve in both the atrial and mitral position\tInitial dosing: 2.5-5 mg every 24 h (see precautions) titrated to target INR: 2.5-3.5; target of 3.0\t \tBioprosthetic valve in the mitral position\tInitial dosing: 2.5-5 mg every 24 h (see precautions) titrated to target INR: 2.0-3.0; target of 2.5 for 3 months                                                    VTE venous thromboembolism, h hours, INR international normalized ratio, CBC complete blood count, PT prothrombin time, MI myocardial infarction  Warfarin is effective for the primary and secondary prevention of VTE, for the prevention of systemic embolism in patients with prosthetic heart valves or AF, for the primary prevention of acute myocardial infarction in high-risk men, and for the prevention of stroke, recurrent infarction, or death in patients with acute myocardial infarction (Table 7) [ , ].     Complications and Reversal of Effect Bleeding is a major concern with warfarin therapy due to the influence of environmental factors and drug interactions in the setting of a narrow therapeutic index. Treatment with VKA increases the risk of major bleeding by 0.3-0.5 % per year and the risk of intracranial hemorrhage by approximately 0.2 % per year compared to controls. The most important risk factors for hemorrhage in VKA therapy include: intensity of anticoagulant effect, time within therapeutic range, and patient characteristics. Higher goal INRs (INR >3) have been directly associated with increased rates of hemorrhage, and patients at high risk of bleeds may benefit from lower target goals [ ,  ].          Reversal of warfarin's anticoagulant effect requires withholding therapy. The duration of effect can last up to several days in the absence of reversal agent administration. In patients with clinically significant bleeding, the administration of vitamin K is crucial to reversing the anticoagulant effects of VKAs. In the setting of an INR between 4.5 and 10 and no significant bleeding, the next doses of warfarin should be held and the INR evaluated [ ]. When the INR is >10 and the patient has no significant signs of bleeding, the guidelines recommend holding warfarin and giving oral vitamin K. In the setting of serious/life-threatening bleeding at any INR, warfarin should be held and vitamin K 10 mg by slow IV infusion is recommended. Higher doses of vitamin K are effective but may lead to VKA resistance for more than a week. Vitamin K may be given orally or parenterally, with the IV route providing a more rapid response. The intramuscular or subcutaneous routes are not recommended in the critically ill due to unpredictable absorption. In cases where immediate reversal of the INR is necessary the supplementation of clotting factors with fresh frozen plasma (FFP), or prothrombin complex concentrate (PCC) are more effective. PCCs contain more clotting factors in a smaller volume and have been shown to be more effective in the reversal of warfarin therapy. Recombinant factor VIIa may be of benefit in patients with refractory bleeding in the setting of elevated INRs [ , ].         Non-hemorrhagic adverse events of warfarin include acute skin necrosis and limb gangrene; these uncommon complications are observed on the third to eighth day of therapy. Skin necrosis is caused by extensive thrombosis of the venules and capillaries within the subcutaneous fat, typically associated with protein C deficiencies. Limb gangrene, however, is due to massive outflow obstruction of the venous circulation of the limb, and can be seen in HIT patients treated with warfarin without adequate initial bridging with a DTI [ ].   Patients on VKAs requiring surgery should hold therapy approximately 5 days prior to the intervention. Depending upon the patient's history and risk of VTE or arterial thromboembolism, bridging with LMWH or UFH may be warranted. VKA may be resumed 12-24 h post-surgery, depending on bleeding risk and hemostasis. Assessment of the INR should be undertaken before neuraxial anesthesia is performed. For patients with an indwelling catheter who are receiving warfarin, the catheter should be removed when the INR is less than 1.5. Patients with a low risk of bleeding may undergo surgery with an INR of 1.3-1.5.         Target-Specific Oral Anticoagulants Dabigatran, rivaroxaban, and apixaban are novel oral anticoagulants that offer major advantages over current agents. They have rapid onset and more predictable anticoagulants response that eliminates the need for monitoring. Clinical trials have been completed with all three agents in the prevention and treatment of the three leading causes of cardiovascular death: myocardial infarction, stroke, and VTE. Novel agents have shown reduced or similar rates of thrombosis, major bleeding, and adverse events when weighed against either LMWH or warfarin. Pharmacology, Pharmacodynamics, and Monitoring Dabigatran etexilate mesylate is a prodrug. After oral administration, non-specific plasma and hepatic esterases hydrolyze the compound into the active anticoagulant, dabigatran. Dabigatran is DTI that exerts its action through reversible, competitive binding to the active site on thrombin. Furthermore, dabigatran indirectly exerts an anti-platelet effect by reducing thrombin's impact on promoting platelet activation and aggregation.   Pharmacokinetic and pharmacodynamic properties of target-specific oral anticoagulants Features\tDabigatran etexilate\tRivaroxaban\tApixaban\t \tTarget\tThrombin\tFactor Xa\tFactor Xa\t \tProdrug\tYes\tNo\tNo\t \tDosing\tFixed\tFixed\tFixed\t \tBioavailability (%)\t6\t80\t90\t \tFood effects\tDelay Tmax 2-4 h\tDelays Tmax\tNot reported\t \tHalf-life (h)\t12-17\t5-9\t12\t \tRenal excretion (%)\t80\t65\t25\t \tCoagulation monitoring\tNo\tNo\tNo\t \tAntidote\tNone\tNone\tNone\t \tInteractions\tP-gp inhibitorsa\tCombined P-gp and CYP3A4 inhibitorsb\tPotent 3CYP3A4 inhibitorsb           aP-glycoprotein (P-gp) inhibitors include verapamil, clarithromycin, and quinidine  bCytochrome (CYP) P450 3A4 inhibitors include but are not limited to: ketoconazole, macrolide antibiotics, and protease inhibitors  Dabigatran is eliminated through renal filtration with up to 80 % of the dose excreted unchanged in urine (Table 8). Dabigatran's mean terminal elimination half-life is prolonged in patients with severe renal dysfunction. There is no antidote available to reverse or attenuate dabigatran's anticoagulant effect.        Rivaroxaban is an oral, highly selective, direct, competitive inhibitor of factor Xa. Inhibition of factor Xa leads to interruption of the both intrinsic and extrinsic coagulation pathways, thus preventing thrombin generation and subsequent thrombus formation. Rivaroxaban's inhibition of both free and fibrin-bound factor Xa differentiates its action from LMWH or fondaparinux. Rivaroxaban exerts minimal effect on platelet function.   In patients with CrCl 15-30 mL/min, the dabigatran dose should be reduced to 75 mg twice daily. The manufacturer does not recommend the use of rivaroxaban in patients with an estimated creatinine clearance less than 15 mL/min.      Clinical Indications Clinical uses of target-specific oral anticoagulants Drugs\tIndications\tDosing, timing, duration\tMonitoring\tPrecautions\t \tDabigatran etexilate (Pradaxa )\tStroke and systemic embolism prophylaxis in non-valvular AF\tCrCl >30 mL/min: 150 mg twice daily\tNo specific assay available\tBioprosthetic heart valvesP-gp inducers and inhibitors\t \tCrCl 15-30 mL/min: 75 mg twice daily\t \tRivaroxaban (Xarelto )\tStroke prophylaxis in non-valvular AF\tCrCl >50 mL/min: 20 mg once daily with the evening meal\tNo specific assay available\tSpinal/epidural anesthesia or punctureCrCl <15 mL/min in non-valvular AFCrCl <30 mL/min in treatment or prevention of DVT, PEP-gp inducers or inhibitorsCYP3A4 inducers or inhibitorsPregnancy\t \tCrCl 15-50 mL/min: 15 mg once daily with the evening meal\t \tTreatment of DVT or PE\t15 mg twice daily with food for 21 days then 20 mg daily with food for remaining treatment\t \tDVT or PE secondary prophylaxis\t20 mg once daily with food\t \tDVT prophylaxis following hip or knee replacement surgery\t10 mg once daily for 35 days (hip replacement) or 12 days (knee replacement)\t \tApixaban (Eliqiuis )\tStroke and systemic embolism prophylaxis in non-valvular AF\t5 mg twice daily or 2.5 mg twice daily in patients with at least two of: age >80 years, body weight <60 kg, serum creatinine <1.5 mg/dL\tNo specific assay available                                        CrCl creatinine clearance, DVT deep vein thrombosis, PE pulmonary embolism  While dabigatran has been compared with enoxaparin for VTE prophylaxis, and with warfarin in acute VTE treatment and secondary prevention, it only has FDA approval for stroke prevention in AF (Table 9).   RE-LY was a non-inferiority trial designed to determine the long-term safety and efficacy of dabigatran administered twice daily as compared to warfarin (INR goal 2.0-3.0) in patients with non-valvular AF. Patients were required to have at least one addition thromboembolism risk factor. The primary efficacy outcome was defined as the occurrence of stroke or systemic embolism. The dabigatran 150 mg twice daily regimen was statistically superior to warfarin in reducing the rate of stroke and systemic embolism, 1.11 % per year versus 1.69 % per year, respectively (p < 0.001). As any other anticoagulant, bleeding is the major adverse event. In Re-LY trial, the primary safety outcome was major bleeding. There was no difference in the rate of major bleeding in the dabigatran 150 mg group compared with the warfarin group.         Rivaroxaban has been studied in a large clinical trial program and has FDA approval for a variety of indications. The orthopedic surgery program compared rivaroxaban to enoxaparin for VTE prevention in patients undergoing total hip and total knee arthroplasty. The primary efficacy endpoint was total VTE, the composite of any DVT, non-fatal PE, and all-cause mortality. In the RECORD1, -2, -3 and -4 studies rivaroxaban 10 mg daily was superior to enoxaparin and associated with a similar safety profile. Rivaroxaban has been evaluated for stroke prevention in patients with non-valvular AF. In the ROCKET-AF trial rivaroxaban 20 mg once daily was non-inferior to warfarin in reducing all-cause stroke and non-central nervous system embolism in with a similar rate of major bleeding. Rivaroxaban has been studied for the acute DVT and PE treatment and for the long-term secondary prevention of recurrent VTE. The EINSTEIN-DVT study found rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg daily was non-inferior to enoxaparin followed by a VKA in the prevention or recurrent VTE. In the EINSTEIN-Extension trial, rivaroxaban 20 mg daily extended for an additional 6-12 months significantly reduced recurrent VTE without an increase in major or clinically relevant non-major bleeding when compared with placebo. In EINSTEIN-PE rivaroxaban was found to be non-inferior to enoxaparin combined with a VKA in the prevention of recurrent VTE while providing a significant reduction in major bleeding.          While apixaban has been evaluated in thromboprophylaxis following orthopedic surgery, secondary prevention of VTE, and ACSs, its sole FDA approval is in stroke prevention in AF [ ].   In the ARISTOTLE trial, investigators compared apixaban 5 mg twice daily with warfarin titrated to a goal INR of 2-3. The primary outcome, a composite of stroke and systemic embolism, occurred significantly less frequently in the apixaban patients compared to the warfarin patients. Bleeding was significantly less frequent in the apixaban patients compared to the warfarin patients across several bleeding definitions tested.    Complications and Reversal of Effect The most common adverse events reported with dabigatran include dyspepsia, dizziness, headache, dyspnea, and shortness of breath. Abdominal pain and gastritis-like symptoms may be related to the capsule formulation which can be combated by taking the medication with food [ ].   There are no specific coagulation assays for laboratory monitoring of novel oral anticoagulants. Thrombin time and aPTT can be used to detect the presence of dabigatran in the plasma. Similarly, rivaroxaban and apixaban prolong prothrombin time and aPTT. The role of other newer assays (Heptest, prothrombinase-induced clotting time, Anti-FXa chromogenic assays) have yet to be established. Currently, there is no antidote available to reverse dabigatran, rivaroxaban, or apixaban. In the event of overdose, the early use of activated charcoal is recommended [ ]. Cessation of dabigatran, rivaroxaban, or apixaban therapy may be sufficient to reverse any excessive anticoagulant effect due to their short half-lives. While dialysis, for 2-3 h removes up 60 % of dabigatran, it has no impact on rivaroxaban or apixaban.       Limited data exists for treatment of life-threatening bleeding produced by novel anticoagulants. Recent trials have suggested PCCs or rFVIIa may offer benefit by normalizing coagulation parameters [ , ]. Their evaluation, use, and role in the clinical setting are still required. In the event of bleeding symptomatic treatment of the hemorrhage should be initiated [ ].     For the novel agents, confusion and debate may ensue if prescribed in patient populations, such as those with pregnancy, mechanical heart valves, and thrombophilias, where little study data and clinical experience exists. Similarly, surgical and invasive procedures add additional levels of complexity where therapy may be continued, interrupted, or replaced with short-term parenteral or 'bridge' therapy.     Conclusions UFH, LMWHs, fondaparinux, DTIs, and warfarin have been studied and employed extensively for prevention and treatment of thrombosis. Novel oral anticoagulants have emerged from clinical development and are expected to replace older agents with their ease of use and more favorable pharmacodynamic profiles. Hemorrhage is the main concerning adverse event with all anticoagulants. With their ubiquitous use, it becomes important for clinicians to have a sound understanding of anticoagulant pharmacology, dosing, monitoring, and toxicity. Working knowledge becomes crucial for intercepting and averting problems. References Papers of particular interest, published recently, have been highlighted as:   Of importance    Of major importance       Emergency hospitalizations for adverse drug events in older Americans Institute for Safe Medication Practices. QuarterWatch; monitoring FDA MedWatch reports. http://www.ismp.org/quarterwatch/pdfs/2012Q1.pdf. Accessed 1 2012. United States Food and Drug Administration. Pradaxa (dabigatran etexilate mesylate): drug safety communication:safety review of post-market reports of serious bleeding events. http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm282820.htm. Accessed 13 Nov 2012.   Medication use leading to emergency department visits for adverse drug events in older adults Adams CD, Anger KA, Greenwood BC, Fanikos J. Antithrombotic pharmacotherapy. Chapter 110. In: Irwin and Rippe's intensive care medicine. 7th ed. Philadelphia, PA: Lippincott, Williams, and Wilkins; 2012. p. 1224-42.     Garcia DA, Baglin TP, Weitz JI, Samama MM. Parenteral anticoagulants: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines. Chest. 2012; 141:24S-43S. This article summarizes the pharmacology and pharmacodynamic properties of parenteral anticoagulants including; unfractionated heparin (UFH), low-molecular-weight heparins (LMWHs), fondaparinux, and the direct thrombin inhibitors. There is additional information provided on the dosing, therapeutic monitoring, reversal, and non-hemorrhagic complications.          Update on heparin: What do we need to know? Heparin overview and issues Continuous intravenous heparin compared with intermittent subcutaneous heparin in the initial treatment of proximal-vein thrombosis The weight-based heparin dosing nomogram compared with a \"standard care\" nomogram: a randomized controlled trial     O'Gara PT, Kushner FG, Ascheim DD, et al. 2013 ACCF/AHA guideline for the management of ST-elevation myocardial infarction: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. Circulation. doi:10.1016/CIR.0b013e3182742cf6.   ACCF/AHA focused update of the guideline for the management of patients with unstable angina/non-ST-elevation myocardial infarction (updating the 2007 guideline and replacing the 2011 focused update): a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines Comparison of high-dose with low-dose subcutaneous heparin to prevent left ventricular mural thrombosis in patients with acute transmural anterior myocardial infarction Meta analysis: low-molecular-weight heparin and bleeding in patients with severe renal insufficiency Twice vs three times daily heparin dosing for thromboprophylaxis in the general medical population. A metaanalysis Hemorrhagic complications of anticoagulant and thrombolytic treatment: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines (8th Edition) Trial of different intensities of anticoagulation in patients with prosthetic heart valves Bleeding during antithrombotic therapy in patients with atrial fibrillation The perioperative management of antithrombotic therapy: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines (8th Edition) Management of anticoagulation before and after elective surgery Perioperative management of drug therapy, clinical considerations Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy: American Society of Regional Anesthesia and Pain Medicine Evidence-Based Guidelines (Third Edition) The heparin-protamine interaction. A review McEvoy GK, editor. Protamine sulfate. In: AHFS drug information 2008. Bethesda: American Society of Health-System Pharmacists; 2008. p. 1595-7.   Low molecular weight heparins Low-molecular-weight heparin in renal impairment and obesity: available evidence and clinical practice recommendations across medical and surgical settings Tinzaparin and enoxaparin given at prophylactic dose for eight days in medical elderly patients with impaired renal function: a comparative pharmacokinetic study Prevention of VTE in nonsurgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines Prevention of VTE in nonorthopedic surgical patients: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines Pharmacologic venous thromboembolism prophylaxis in hospitalized medical patients. A metaanalysis of randomized controlled trials Antithrombotic therapy for VTE disease: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines for the ExTRACT-TIMI-25 Investigators. Enoxaparin versus unfractionated heparin with fibrinolysis for ST-Elevation myocardial infarction Enoxaparin prevents death and cardiac ischemic events in unstable angina/non-Q-Wave myocardial infarction: results of the Thrombolysis In Myocardial Infarction (TIMI) 11B Trial Protamine neutralization of intravenous and subcutaneous low-molecular-weight heparin (tinzaparin, logiparin). An experimental investigation in healthy volunteers Neutralization of enoxaparin-induced bleeding by protamine sulfate Heparin-induced thrombocytopenia in intensive care patients Risk for heparin-induced thrombocytopenia with unfractionated and low-molecular-weight heparin thromboprophylaxis: a meta-analysis Temporal aspects of heparin-induced thrombocytopenia Treatment and prevention of heparin-induced thrombocytopenia: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines (8th Edition) Fondaparinux or enoxaparin for the initial treatment of symptomatic deep venous thrombosis: a randomized trial Subcutaneous fondaparinux versus intravenous unfractionated heparin in the initial treatment of pulmonary embolism Cohen AT, Davidson BL, Gallus AS, et al., for the ARTEMIS Investigators. Efficacy and safety of fondaparinux for the prevention of venous thromboembolism in older acute medical patients: randomized placebo controlled trial. BMJ. 2006;332:325-9.   Randomized clinical trial of postoperative fondaparinux versus perioperative dalteparin for prevention of venous thromboembolism in high-risk abdominal surgery Bauer KA, Eriksson BI, Lassen MR, et al., for the Steering Committee of the Pentasaccharide in Major Knee Surgery Study. Fondaparinux compared with enoxaparin for the prevention of venous thromboembolism after elective major knee surgery. N Engl J Med. 2001;345:1305-10.   Lassen MR, Bauer KA, Eriksson BI, et al., for the European Pentasaccharide Elective Surgery Study Steering Committee. Postoperative fondaparinux versus preoperative enoxaparin for prevention of venous thromboembolism in elective hip-replacement surgery: a randomised double-blind comparison. Lancet. 2002;359:1715-20.   Eriksson BI, Bauer KA, Lassen MR, et al., for the Steering Committee of the Pentasaccharide in Hip-Fracture Surgery Study. Fondaparinux compared with enoxaparin for the prevention of venous thromboembolism after hip-fracture surgery. N Engl J Med. 2001;345:1298-1304.   Fondaparinux vs enoxaparin for the prevention of venous thromboembolism in major orthopedic surgery. A meta-analysis of 4 randomized double-blind studies Eriksson BI, Lassen MR, for the PENTasaccharide in Hip-FRActure Surgery Plus Investigators. Duration of prophylaxis against venous thromboembolism with fondaparinux after hip fracture surgery: a multicenter, randomized, placebo-controlled, double blind study. Arch Intern Med. 2003;163:1337-42.   Heparin-induced thrombocytopenia: treatment options and special considerations Managing complications of anticoagulant therapy Ability of Recombinant Factor VIIa to reverse the anticoagulant effect of the pentasaccharide fondaparinux in healthy volunteers Direct thrombin inhibitors Reducing harm associated with argatroban; practical considerations of argatroban therapy in heparin-induced thrombocytopenia Monitoring direct thrombin inhibitors with a plasma diluted thrombin time Current agents for the treatment of patients with heparin-induced thrombocytopenia Effects of argatroban therapy, demographic variables, and platelet count on thrombotic risks in heparin-induced thrombocytopenia Evaluation of bivalirudin treatment for heparin-induced thrombocytopenia in critically ill patients with hepatic and/or renal dysfunction Effect of activated prothrombin complex concentrate or recombinant factor VIIa on the bleeding time and thrombus formation during anticoagulation with a direct thrombin inhibitor Ageno W, Gallus AS, Wittkowsky A, et al. Oral Anticoagulant Therapy: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines. Chest. 2012;141:44S-88S. This article summarizes the unique pharmacology and pharmacodynamic properties of vitamin K antagonists as well as the novel agents dabigatran and rivaroxaban. There is additional provided on the dosing, therapeutic monitoring, and managing reversal.       Holbrook A, Schulman, Witt DM, et al. Evidence-based management of anticoagulant therapy: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines. Chest. 2012:141;152S-184S. This article provides guidelines on the best practices with anticoagulant use. The focus is on vitamin K antagonists and covers the controversial topics of therapy initiation, pharmacogenetic testing, monitoring frequency, bridging during sub-optimal anticoagulation, and drug interactions. The authors also discuss management of anticoagulant complications including management of patients that are over anticoagulated with and without bleeding.       Effect of VKORC1 haplotypes on transcriptional regulation and warfarin dose Influence of CYP2C9 genetic variants on the risk of overanticoagulation and of bleeding events during warfarin therapy Estimation of the warfarin dose with clinical and pharmacogenetic data A randomized trial comparing 5-mg and 10-mg warfarin loading doses Kearon C, Ginsberg J, Kovacs MJ, et al., for the Extended Low Intensity Anticoagulation for Thrombo-embolism Investigators. Comparison of low-intensity warfarin therapy with conventional-intensity warfarin therapy for long-term prevention of recurrent thromboembolism. N Engl J Med. 2003;349:631-9.   An analysis of the lowest intensity of prophylactic anticoagulation for patients with nonrheumatic atrial fibrillation Thromboembolic and bleeding complications following St. Jude medical valve replacement: results of the German Experience With Low-Intensity Anticoagulation Study Warfarin, aspirin, or both after myocardial infarction Warfarin anticoagulation reversal: management of the asymptomatic and bleeding patient Perioperative management of oral anticoagulation Boehringer Ingelheim. Pradaxa (dabigatran etexilate) Package Insert. http://bidocs.boehringer-ingelheim.com/BIWebAccess/ViewServlet.ser?docBase=renetnt&folderPath=/Prescribing%20Information/PIs/Pradaxa/Pradaxa.pdf (2012). Accessed 2 Jan 2013. Dabigatran etexilate: an oral direct thrombin inhibitor for prophylaxis and treatment of thromboembolic diseases Rivaroxaban: an oral direct inhibitor of factor Xa Bayer Healthcare. Xarelto (rivaroxaban) Package Insert. http://www.janssenmedicalinformation.com/assets/pdf/products/files/Xarelto/pi/ENC-010330-11.pdf (2012). Accessed 2 Jan 2013. Dabigatran versus warfarin in patients with atrial fibrillation Rivaroxaban versus enoxaparin for thromboprophylaxis after hip arthroplasty Extended duration rivaroxaban versus short-term enoxaparin for the prevention of venous thromboembolism after total hip arthroplasty: a double-blind, randomised controlled trial Rivaroxaban versus enoxaparin for thromboprophylaxis after total knee arthroplasty Turpie A, Lassen MR, Davidson BL, et al., RECORD4 Investigators. Rivaroxaban versus enoxaparin for thromboprophylaxis after total knee arthroplasty (RECORD4): a randomised trial. Lancet 2009;373:1673-80.   Rivaroxaban versus warfarin in nonvalvular atrial fibrillation Oral rivaroxaban for symptomatic venous thromboembolism Oral rivaroxaban for the treatment of symptomatic pulmonary embolism Rybak I, Ehle M, Buckley L, Fanikos J. Efficacy and safety of novel anticoagulants compared with established agents. Ther Adv Hematol. 2011;2:175-95. This article reviews dabigatran, rivaroxaban, and apixaban, focusing on the results from major clinical trials for venous thromboembolism (VTE) prophylaxis in orthopedic surgery patients, VTE treatment, secondary prevention of cardiovascular events after myocardial infarction, and stroke prophylaxis in nonvalvular atrial fibrillation. It also highlights agents currently under development that will likely impact future practice.       Apixaban versus warfarin in patients with atrial fibrillation Newer anticoagulants: a review of laboratory monitoring options and reversal agents in the hemorrhagic patient Eerenberg ES, Kamphuisen PW, Sijpkens MK, et al. Reversal of rivaroxaban and dabigatran by prothrombin complex concentrate. A randomized, placebo-controlled, crossover study in healthy subjects. Circulation. 2011;124:1573-9. This randomized, double-blind, placebo-controlled crossover trial studied the reversal effect of prothrombin complex concentrate (PCC) on rivaroxaban 20 mg twice daily and dabigatran 150 mg twice daily in healthy male volunteers. After administration of PCC 50 units/kg, prothrombin time and endogenous prothrombin time normalized in rivaroxaban patients. However, PCC had no effect on activated partial thromboplastin time, endogenous thrombin potential lag time, ecarin clotting time, or thrombin time in dabigatran patients. The authors caution that the clinical significance of these findings should be studied further.         Effect of non-specific reversal agents on anticoagulant activity of dabigatran and rivaroxaban. A randomized cross over ex vivo study in health volunteers",
+    "entities": [
+        {
+            "entityId": "151_161",
+            "span": {
+                "begin": 151,
+                "end": 161
+            },
+            "entityType": "disease",
+            "entityName": "thrombosis",
+            "id": "UMLS:C0040053"
+        },
+        {
+            "entityId": "235_243",
+            "span": {
+                "begin": 235,
+                "end": 243
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "299_307",
+            "span": {
+                "begin": 299,
+                "end": 307
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "342_350",
+            "span": {
+                "begin": 342,
+                "end": 350
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "577_587",
+            "span": {
+                "begin": 577,
+                "end": 587
+            },
+            "entityType": "disease",
+            "entityName": "Hemorrhage",
+            "id": "UMLS:C0019080"
+        },
+        {
+            "entityId": "856_866",
+            "span": {
+                "begin": 856,
+                "end": 866
+            },
+            "entityType": "disease",
+            "entityName": "thrombosis",
+            "id": "UMLS:C0040053"
+        },
+        {
+            "entityId": "1034_1042",
+            "span": {
+                "begin": 1034,
+                "end": 1042
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1088_1096",
+            "span": {
+                "begin": 1088,
+                "end": 1096
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "1216_1224",
+            "span": {
+                "begin": 1216,
+                "end": 1224
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "1247_1258",
+            "span": {
+                "begin": 1247,
+                "end": 1258
+            },
+            "entityType": "drug",
+            "entityName": "rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "1316_1326",
+            "span": {
+                "begin": 1316,
+                "end": 1326
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "2441_2454",
+            "span": {
+                "begin": 2441,
+                "end": 2454
+            },
+            "entityType": "gene",
+            "entityName": "tissue factor",
+            "id": "UMLS:C4048299"
+        },
+        {
+            "entityId": "2485_2500",
+            "span": {
+                "begin": 2485,
+                "end": 2500
+            },
+            "entityType": "disease",
+            "entityName": "vascular injury",
+            "id": "mesh:D057772"
+        },
+        {
+            "entityId": "2511_2524",
+            "span": {
+                "begin": 2511,
+                "end": 2524
+            },
+            "entityType": "gene",
+            "entityName": "Tissue factor",
+            "id": "UMLS:C4048299"
+        },
+        {
+            "entityId": "2546_2557",
+            "span": {
+                "begin": 2546,
+                "end": 2557
+            },
+            "entityType": "gene",
+            "entityName": "factor VIIa",
+            "id": "UMLS:C0015505"
+        },
+        {
+            "entityId": "2577_2584",
+            "span": {
+                "begin": 2577,
+                "end": 2584
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "2597_2622",
+            "span": {
+                "begin": 2597,
+                "end": 2622
+            },
+            "entityType": "gene",
+            "entityName": "clotting factors X and IX",
+            "id": "UMLS:C0015491"
+        },
+        {
+            "entityId": "2649_2659",
+            "span": {
+                "begin": 2649,
+                "end": 2659
+            },
+            "entityType": "gene",
+            "entityName": "factors Xa",
+            "id": "UMLS:C0015520"
+        },
+        {
+            "entityId": "2674_2696",
+            "span": {
+                "begin": 2674,
+                "end": 2696
+            },
+            "entityType": "gene",
+            "entityName": "prothrombinase complex",
+            "id": "UMLS:C0072441"
+        },
+        {
+            "entityId": "2754_2765",
+            "span": {
+                "begin": 2754,
+                "end": 2765
+            },
+            "entityType": "gene",
+            "entityName": "prothrombin",
+            "id": "UMLS:C0033706"
+        },
+        {
+            "entityId": "2767_2776",
+            "span": {
+                "begin": 2767,
+                "end": 2776
+            },
+            "entityType": "gene",
+            "entityName": "factor II",
+            "id": "UMLS:C1414504"
+        },
+        {
+            "entityId": "2781_2791",
+            "span": {
+                "begin": 2781,
+                "end": 2791
+            },
+            "entityType": "gene",
+            "entityName": "factor IIa",
+            "id": "UMLS:C0060008"
+        },
+        {
+            "entityId": "2793_2801",
+            "span": {
+                "begin": 2793,
+                "end": 2801
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "2804_2812",
+            "span": {
+                "begin": 2804,
+                "end": 2812
+            },
+            "entityType": "gene",
+            "entityName": "Thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "2862_2870",
+            "span": {
+                "begin": 2862,
+                "end": 2870
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "2934_2942",
+            "span": {
+                "begin": 2934,
+                "end": 2942
+            },
+            "entityType": "gene",
+            "entityName": "Thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "2981_2987",
+            "span": {
+                "begin": 2981,
+                "end": 2987
+            },
+            "entityType": "gene",
+            "entityName": "fibrin",
+            "id": "UMLS:C0015982"
+        },
+        {
+            "entityId": "3004_3012",
+            "span": {
+                "begin": 3004,
+                "end": 3012
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "3076_3105",
+            "span": {
+                "begin": 3076,
+                "end": 3105
+            },
+            "entityType": "gene",
+            "entityName": "factors V, VIII, XI, and XIII",
+            "id": "UMLS:C1413661"
+        },
+        {
+            "entityId": "3228_3236",
+            "span": {
+                "begin": 3228,
+                "end": 3236
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "3259_3267",
+            "span": {
+                "begin": 3259,
+                "end": 3267
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "3375_3387",
+            "span": {
+                "begin": 3375,
+                "end": 3387
+            },
+            "entityType": "gene",
+            "entityName": "antithrombin",
+            "id": "UMLS:C0003440"
+        },
+        {
+            "entityId": "3389_3391",
+            "span": {
+                "begin": 3389,
+                "end": 3391
+            },
+            "entityType": "gene",
+            "entityName": "AT",
+            "id": "UMLS:C0003440"
+        },
+        {
+            "entityId": "3477_3489",
+            "span": {
+                "begin": 3477,
+                "end": 3489
+            },
+            "entityType": "drug",
+            "entityName": "Fondaparinux",
+            "id": "UMLS:C1098510"
+        },
+        {
+            "entityId": "4056_4066",
+            "span": {
+                "begin": 4056,
+                "end": 4066
+            },
+            "entityType": "disease",
+            "entityName": "thrombosis",
+            "id": "UMLS:C0040053"
+        },
+        {
+            "entityId": "4168_4170",
+            "span": {
+                "begin": 4168,
+                "end": 4170
+            },
+            "entityType": "gene",
+            "entityName": "AT",
+            "id": "UMLS:C0003440"
+        },
+        {
+            "entityId": "4331_4338",
+            "span": {
+                "begin": 4331,
+                "end": 4338
+            },
+            "entityType": "disease",
+            "entityName": "thrombi",
+            "id": "UMLS:C0302148"
+        },
+        {
+            "entityId": "4406_4408",
+            "span": {
+                "begin": 4406,
+                "end": 4408
+            },
+            "entityType": "gene",
+            "entityName": "AT",
+            "id": "UMLS:C0003440"
+        },
+        {
+            "entityId": "4443_4445",
+            "span": {
+                "begin": 4443,
+                "end": 4445
+            },
+            "entityType": "gene",
+            "entityName": "AT",
+            "id": "UMLS:C0003440"
+        },
+        {
+            "entityId": "4496_4498",
+            "span": {
+                "begin": 4496,
+                "end": 4498
+            },
+            "entityType": "gene",
+            "entityName": "AT",
+            "id": "UMLS:C0003440"
+        },
+        {
+            "entityId": "4605_4607",
+            "span": {
+                "begin": 4605,
+                "end": 4607
+            },
+            "entityType": "gene",
+            "entityName": "AT",
+            "id": "UMLS:C0003440"
+        },
+        {
+            "entityId": "4636_4665",
+            "span": {
+                "begin": 4636,
+                "end": 4665
+            },
+            "entityType": "gene",
+            "entityName": "coagulation factors XIIa, IXa",
+            "id": "UMLS:C0015527"
+        },
+        {
+            "entityId": "4672_4674",
+            "span": {
+                "begin": 4672,
+                "end": 4674
+            },
+            "entityType": "gene",
+            "entityName": "Xa",
+            "id": "UMLS:C1420849"
+        },
+        {
+            "entityId": "4679_4687",
+            "span": {
+                "begin": 4679,
+                "end": 4687
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "4752_4754",
+            "span": {
+                "begin": 4752,
+                "end": 4754
+            },
+            "entityType": "gene",
+            "entityName": "AT",
+            "id": "UMLS:C0003440"
+        },
+        {
+            "entityId": "4898_4913",
+            "span": {
+                "begin": 4898,
+                "end": 4913
+            },
+            "entityType": "drug",
+            "entityName": "pentasaccharide",
+            "id": "UMLS:C0556152"
+        },
+        {
+            "entityId": "4991_4993",
+            "span": {
+                "begin": 4991,
+                "end": 4993
+            },
+            "entityType": "gene",
+            "entityName": "AT",
+            "id": "UMLS:C0003440"
+        },
+        {
+            "entityId": "5029_5038",
+            "span": {
+                "begin": 5029,
+                "end": 5038
+            },
+            "entityType": "gene",
+            "entityName": "factor Xa",
+            "id": "UMLS:C0015520"
+        },
+        {
+            "entityId": "5066_5074",
+            "span": {
+                "begin": 5066,
+                "end": 5074
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "5089_5097",
+            "span": {
+                "begin": 5089,
+                "end": 5097
+            },
+            "entityType": "disease",
+            "entityName": "thrombus",
+            "id": "UMLS:C0087086"
+        },
+        {
+            "entityId": "5759_5762",
+            "span": {
+                "begin": 5759,
+                "end": 5762
+            },
+            "entityType": "drug",
+            "entityName": "UFH",
+            "id": "mesh:D006493"
+        },
+        {
+            "entityId": "5929_5946",
+            "span": {
+                "begin": 5929,
+                "end": 5946
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cells",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "5948_5959",
+            "span": {
+                "begin": 5948,
+                "end": 5959
+            },
+            "entityType": "cell",
+            "entityName": "macrophages",
+            "id": "UMLS:C0024432"
+        },
+        {
+            "entityId": "6526_6540",
+            "span": {
+                "begin": 6526,
+                "end": 6540
+            },
+            "entityType": "gene",
+            "entityName": "thromboplastin",
+            "id": "UMLS:C0040048"
+        },
+        {
+            "entityId": "6658_6665",
+            "span": {
+                "begin": 6658,
+                "end": 6665
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6810_6813",
+            "span": {
+                "begin": 6810,
+                "end": 6813
+            },
+            "entityType": "drug",
+            "entityName": "UFH",
+            "id": "mesh:D006493"
+        },
+        {
+            "entityId": "6878_6900",
+            "span": {
+                "begin": 6878,
+                "end": 6900
+            },
+            "entityType": "disease",
+            "entityName": "thromboembolic disease",
+            "id": "UMLS:C0040038"
+        },
+        {
+            "entityId": "7146_7160",
+            "span": {
+                "begin": 7146,
+                "end": 7160
+            },
+            "entityType": "gene",
+            "entityName": "thromboplastin",
+            "id": "UMLS:C0040048"
+        },
+        {
+            "entityId": "9027_9051",
+            "span": {
+                "begin": 9027,
+                "end": 9051
+            },
+            "entityType": "disease",
+            "entityName": "acute coronary syndromes",
+            "id": "UMLS:C0948089"
+        },
+        {
+            "entityId": "9053_9056",
+            "span": {
+                "begin": 9053,
+                "end": 9056
+            },
+            "entityType": "disease",
+            "entityName": "ACS",
+            "id": "UMLS:C0742343"
+        },
+        {
+            "entityId": "9086_9108",
+            "span": {
+                "begin": 9086,
+                "end": 9108
+            },
+            "entityType": "disease",
+            "entityName": "venous thromboembolism",
+            "id": "UMLS:C1861172"
+        },
+        {
+            "entityId": "9110_9113",
+            "span": {
+                "begin": 9110,
+                "end": 9113
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "9135_9154",
+            "span": {
+                "begin": 9135,
+                "end": 9154
+            },
+            "entityType": "disease",
+            "entityName": "atrial fibrillation",
+            "id": "UMLS:C0004238"
+        },
+        {
+            "entityId": "9156_9158",
+            "span": {
+                "begin": 9156,
+                "end": 9158
+            },
+            "entityType": "disease",
+            "entityName": "AF",
+            "id": "UMLS:C0004238"
+        },
+        {
+            "entityId": "9320_9323",
+            "span": {
+                "begin": 9320,
+                "end": 9323
+            },
+            "entityType": "drug",
+            "entityName": "UFH",
+            "id": "mesh:D006493"
+        },
+        {
+            "entityId": "9400_9408",
+            "span": {
+                "begin": 9400,
+                "end": 9408
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "9426_9429",
+            "span": {
+                "begin": 9426,
+                "end": 9429
+            },
+            "entityType": "drug",
+            "entityName": "UFH",
+            "id": "mesh:D006493"
+        },
+        {
+            "entityId": "9440_9448",
+            "span": {
+                "begin": 9440,
+                "end": 9448
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "9531_9539",
+            "span": {
+                "begin": 9531,
+                "end": 9539
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "9582_9592",
+            "span": {
+                "begin": 9582,
+                "end": 9592
+            },
+            "entityType": "drug",
+            "entityName": "creatinine",
+            "id": "UMLS:C0010294"
+        },
+        {
+            "entityId": "9772_9780",
+            "span": {
+                "begin": 9772,
+                "end": 9780
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "9850_9853",
+            "span": {
+                "begin": 9850,
+                "end": 9853
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "10091_10123",
+            "span": {
+                "begin": 10091,
+                "end": 10123
+            },
+            "entityType": "disease",
+            "entityName": "heparin-induced thrombocytopenia",
+            "id": "UMLS:C0272285"
+        },
+        {
+            "entityId": "10125_10128",
+            "span": {
+                "begin": 10125,
+                "end": 10128
+            },
+            "entityType": "disease",
+            "entityName": "HIT",
+            "id": "UMLS:C0272285"
+        },
+        {
+            "entityId": "10138_10146",
+            "span": {
+                "begin": 10138,
+                "end": 10146
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "10157_10160",
+            "span": {
+                "begin": 10157,
+                "end": 10160
+            },
+            "entityType": "drug",
+            "entityName": "UFH",
+            "id": "mesh:D006493"
+        },
+        {
+            "entityId": "10228_10240",
+            "span": {
+                "begin": 10228,
+                "end": 10240
+            },
+            "entityType": "disease",
+            "entityName": "osteoporosis",
+            "id": "UMLS:C0029456"
+        },
+        {
+            "entityId": "10311_10331",
+            "span": {
+                "begin": 10311,
+                "end": 10331
+            },
+            "entityType": "disease",
+            "entityName": "Hemorrhagic episodes",
+            "id": "mesh:D006474"
+        },
+        {
+            "entityId": "10489_10501",
+            "span": {
+                "begin": 10489,
+                "end": 10501
+            },
+            "entityType": "gene",
+            "entityName": "glycoprotein",
+            "id": "UMLS:C0017968"
+        },
+        {
+            "entityId": "10503_10505",
+            "span": {
+                "begin": 10503,
+                "end": 10505
+            },
+            "entityType": "gene",
+            "entityName": "gp",
+            "id": "UMLS:C3811116"
+        },
+        {
+            "entityId": "10528_10535",
+            "span": {
+                "begin": 10528,
+                "end": 10535
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "10841_10848",
+            "span": {
+                "begin": 10841,
+                "end": 10848
+            },
+            "entityType": "species",
+            "entityName": "Patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "10968_10981",
+            "span": {
+                "begin": 10968,
+                "end": 10981
+            },
+            "entityType": "disease",
+            "entityName": "renal failure",
+            "id": "UMLS:C0035078"
+        },
+        {
+            "entityId": "11103_11110",
+            "span": {
+                "begin": 11103,
+                "end": 11110
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "11184_11191",
+            "span": {
+                "begin": 11184,
+                "end": 11191
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "11224_11234",
+            "span": {
+                "begin": 11224,
+                "end": 11234
+            },
+            "entityType": "disease",
+            "entityName": "thrombosis",
+            "id": "UMLS:C0040053"
+        },
+        {
+            "entityId": "11240_11248",
+            "span": {
+                "begin": 11240,
+                "end": 11248
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "11741_11749",
+            "span": {
+                "begin": 11741,
+                "end": 11749
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "11870_11885",
+            "span": {
+                "begin": 11870,
+                "end": 11885
+            },
+            "entityType": "disease",
+            "entityName": "spinal hematoma",
+            "id": "UMLS:C0856150"
+        },
+        {
+            "entityId": "11912_11920",
+            "span": {
+                "begin": 11912,
+                "end": 11920
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "12159_12166",
+            "span": {
+                "begin": 12159,
+                "end": 12166
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "12223_12226",
+            "span": {
+                "begin": 12223,
+                "end": 12226
+            },
+            "entityType": "drug",
+            "entityName": "UFH",
+            "id": "mesh:D006493"
+        },
+        {
+            "entityId": "12386_12403",
+            "span": {
+                "begin": 12386,
+                "end": 12403
+            },
+            "entityType": "drug",
+            "entityName": "protamine sulfate",
+            "id": "UMLS:C0033602"
+        },
+        {
+            "entityId": "12448_12457",
+            "span": {
+                "begin": 12448,
+                "end": 12457
+            },
+            "entityType": "gene",
+            "entityName": "Protamine",
+            "id": "UMLS:C0033603"
+        },
+        {
+            "entityId": "12576_12585",
+            "span": {
+                "begin": 12576,
+                "end": 12585
+            },
+            "entityType": "drug",
+            "entityName": "protamine",
+            "id": "UMLS:C0033603"
+        },
+        {
+            "entityId": "12832_12841",
+            "span": {
+                "begin": 12832,
+                "end": 12841
+            },
+            "entityType": "gene",
+            "entityName": "protamine",
+            "id": "UMLS:C0033603"
+        },
+        {
+            "entityId": "13000_13009",
+            "span": {
+                "begin": 13000,
+                "end": 13009
+            },
+            "entityType": "gene",
+            "entityName": "protamine",
+            "id": "UMLS:C0033603"
+        },
+        {
+            "entityId": "13019_13030",
+            "span": {
+                "begin": 13019,
+                "end": 13030
+            },
+            "entityType": "disease",
+            "entityName": "hypotension",
+            "id": "mesh:D007022"
+        },
+        {
+            "entityId": "13035_13046",
+            "span": {
+                "begin": 13035,
+                "end": 13046
+            },
+            "entityType": "disease",
+            "entityName": "bradycardia",
+            "id": "mesh:D001919"
+        },
+        {
+            "entityId": "13179_13197",
+            "span": {
+                "begin": 13179,
+                "end": 13197
+            },
+            "entityType": "disease",
+            "entityName": "Allergic responses",
+            "id": "UMLS:C1527304"
+        },
+        {
+            "entityId": "13201_13210",
+            "span": {
+                "begin": 13201,
+                "end": 13210
+            },
+            "entityType": "gene",
+            "entityName": "protamine",
+            "id": "UMLS:C0033603"
+        },
+        {
+            "entityId": "13230_13238",
+            "span": {
+                "begin": 13230,
+                "end": 13238
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13324_13333",
+            "span": {
+                "begin": 13324,
+                "end": 13333
+            },
+            "entityType": "gene",
+            "entityName": "protamine",
+            "id": "UMLS:C0033603"
+        },
+        {
+            "entityId": "13345_13352",
+            "span": {
+                "begin": 13345,
+                "end": 13352
+            },
+            "entityType": "gene",
+            "entityName": "insulin",
+            "id": "UMLS:C0021641"
+        },
+        {
+            "entityId": "13362_13388",
+            "span": {
+                "begin": 13362,
+                "end": 13388
+            },
+            "entityType": "gene",
+            "entityName": "protamine Hagedorn insulin",
+            "id": "UMLS:C0021658"
+        },
+        {
+            "entityId": "13425_13449",
+            "span": {
+                "begin": 13425,
+                "end": 13449
+            },
+            "entityType": "disease",
+            "entityName": "hypersensitivity to fish",
+            "id": "UMLS:C0856904"
+        },
+        {
+            "entityId": "13451_13459",
+            "span": {
+                "begin": 13451,
+                "end": 13459
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13482_13507",
+            "span": {
+                "begin": 13482,
+                "end": 13507
+            },
+            "entityType": "gene",
+            "entityName": "anti-protamine antibodies",
+            "id": "UMLS:C1624602"
+        },
+        {
+            "entityId": "13555_13564",
+            "span": {
+                "begin": 13555,
+                "end": 13564
+            },
+            "entityType": "drug",
+            "entityName": "histamine",
+            "id": "UMLS:C0019588"
+        },
+        {
+            "entityId": "16549_16556",
+            "span": {
+                "begin": 16549,
+                "end": 16556
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "16570_16589",
+            "span": {
+                "begin": 16570,
+                "end": 16589
+            },
+            "entityType": "disease",
+            "entityName": "renal insufficiency",
+            "id": "UMLS:C1565489"
+        },
+        {
+            "entityId": "16591_16598",
+            "span": {
+                "begin": 16591,
+                "end": 16598
+            },
+            "entityType": "disease",
+            "entityName": "obesity",
+            "id": "UMLS:C0028754"
+        },
+        {
+            "entityId": "17000_17008",
+            "span": {
+                "begin": 17000,
+                "end": 17008
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "17186_17194",
+            "span": {
+                "begin": 17186,
+                "end": 17194
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "17266_17286",
+            "span": {
+                "begin": 17266,
+                "end": 17286
+            },
+            "entityType": "disease",
+            "entityName": "deep vein thrombosis",
+            "id": "UMLS:C0149871"
+        },
+        {
+            "entityId": "17288_17291",
+            "span": {
+                "begin": 17288,
+                "end": 17291
+            },
+            "entityType": "disease",
+            "entityName": "DVT",
+            "id": "UMLS:C0149871"
+        },
+        {
+            "entityId": "17300_17324",
+            "span": {
+                "begin": 17300,
+                "end": 17324
+            },
+            "entityType": "disease",
+            "entityName": "injection site hematomas",
+            "id": "UMLS:C0018944"
+        },
+        {
+            "entityId": "17419_17427",
+            "span": {
+                "begin": 17419,
+                "end": 17427
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "17439_17442",
+            "span": {
+                "begin": 17439,
+                "end": 17442
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "17519_17522",
+            "span": {
+                "begin": 17519,
+                "end": 17522
+            },
+            "entityType": "disease",
+            "entityName": "ACS",
+            "id": "UMLS:C0742343"
+        },
+        {
+            "entityId": "17524_17532",
+            "span": {
+                "begin": 17524,
+                "end": 17532
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "17538_17580",
+            "span": {
+                "begin": 17538,
+                "end": 17580
+            },
+            "entityType": "disease",
+            "entityName": "ST-segment elevation myocardial infarction",
+            "id": "UMLS:C1536220"
+        },
+        {
+            "entityId": "17788_17803",
+            "span": {
+                "begin": 17788,
+                "end": 17803
+            },
+            "entityType": "disease",
+            "entityName": "unstable angina",
+            "id": "UMLS:C0002965"
+        },
+        {
+            "entityId": "17804_17850",
+            "span": {
+                "begin": 17804,
+                "end": 17850
+            },
+            "entityType": "disease",
+            "entityName": "non-ST-segment elevation myocardial infarction",
+            "id": "UMLS:C1536220"
+        },
+        {
+            "entityId": "17890_17895",
+            "span": {
+                "begin": 17890,
+                "end": 17895
+            },
+            "entityType": "disease",
+            "entityName": "death",
+            "id": "mesh:D003643"
+        },
+        {
+            "entityId": "17897_17918",
+            "span": {
+                "begin": 17897,
+                "end": 17918
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "18007_18017",
+            "span": {
+                "begin": 18007,
+                "end": 18017
+            },
+            "entityType": "disease",
+            "entityName": "Hemorrhage",
+            "id": "UMLS:C0019080"
+        },
+        {
+            "entityId": "18203_18211",
+            "span": {
+                "begin": 18203,
+                "end": 18211
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "18432_18440",
+            "span": {
+                "begin": 18432,
+                "end": 18440
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "18554_18562",
+            "span": {
+                "begin": 18554,
+                "end": 18562
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "18568_18585",
+            "span": {
+                "begin": 18568,
+                "end": 18585
+            },
+            "entityType": "disease",
+            "entityName": "renal dysfunction",
+            "id": "UMLS:C1565489"
+        },
+        {
+            "entityId": "18758_18768",
+            "span": {
+                "begin": 18758,
+                "end": 18768
+            },
+            "entityType": "disease",
+            "entityName": "hemorrhage",
+            "id": "UMLS:C0019080"
+        },
+        {
+            "entityId": "18770_18779",
+            "span": {
+                "begin": 18770,
+                "end": 18779
+            },
+            "entityType": "gene",
+            "entityName": "protamine",
+            "id": "UMLS:C0033603"
+        },
+        {
+            "entityId": "18800_18809",
+            "span": {
+                "begin": 18800,
+                "end": 18809
+            },
+            "entityType": "gene",
+            "entityName": "Protamine",
+            "id": "UMLS:C0033603"
+        },
+        {
+            "entityId": "18861_18863",
+            "span": {
+                "begin": 18861,
+                "end": 18863
+            },
+            "entityType": "gene",
+            "entityName": "AT",
+            "id": "UMLS:C0003440"
+        },
+        {
+            "entityId": "18910_18919",
+            "span": {
+                "begin": 18910,
+                "end": 18919
+            },
+            "entityType": "gene",
+            "entityName": "protamine",
+            "id": "UMLS:C0033603"
+        },
+        {
+            "entityId": "18921_18930",
+            "span": {
+                "begin": 18921,
+                "end": 18930
+            },
+            "entityType": "gene",
+            "entityName": "protamine",
+            "id": "UMLS:C0033603"
+        },
+        {
+            "entityId": "18955_18970",
+            "span": {
+                "begin": 18955,
+                "end": 18970
+            },
+            "entityType": "gene",
+            "entityName": "anti-factor IIa",
+            "id": "UMLS:C0060008"
+        },
+        {
+            "entityId": "19018_19032",
+            "span": {
+                "begin": 19018,
+                "end": 19032
+            },
+            "entityType": "gene",
+            "entityName": "anti-factor Xa",
+            "id": "UMLS:C0443793"
+        },
+        {
+            "entityId": "19115_19124",
+            "span": {
+                "begin": 19115,
+                "end": 19124
+            },
+            "entityType": "drug",
+            "entityName": "protamine",
+            "id": "UMLS:C0033603"
+        },
+        {
+            "entityId": "19288_19297",
+            "span": {
+                "begin": 19288,
+                "end": 19297
+            },
+            "entityType": "gene",
+            "entityName": "protamine",
+            "id": "UMLS:C0033603"
+        },
+        {
+            "entityId": "19374_19377",
+            "span": {
+                "begin": 19374,
+                "end": 19377
+            },
+            "entityType": "disease",
+            "entityName": "HIT",
+            "id": "UMLS:C0272285"
+        },
+        {
+            "entityId": "19413_19438",
+            "span": {
+                "begin": 19413,
+                "end": 19438
+            },
+            "entityType": "disease",
+            "entityName": "immune-mediated disorders",
+            "id": "UMLS:C0021053"
+        },
+        {
+            "entityId": "19492_19526",
+            "span": {
+                "begin": 19492,
+                "end": 19526
+            },
+            "entityType": "gene",
+            "entityName": "heparin-platelet factor IV complex",
+            "id": "UMLS:C1335206"
+        },
+        {
+            "entityId": "19568_19576",
+            "span": {
+                "begin": 19568,
+                "end": 19576
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "19640_19656",
+            "span": {
+                "begin": 19640,
+                "end": 19656
+            },
+            "entityType": "disease",
+            "entityName": "thrombocytopenia",
+            "id": "UMLS:C0040034"
+        },
+        {
+            "entityId": "19678_19688",
+            "span": {
+                "begin": 19678,
+                "end": 19688
+            },
+            "entityType": "disease",
+            "entityName": "thrombosis",
+            "id": "UMLS:C0040053"
+        },
+        {
+            "entityId": "19717_19720",
+            "span": {
+                "begin": 19717,
+                "end": 19720
+            },
+            "entityType": "disease",
+            "entityName": "HIT",
+            "id": "UMLS:C0272285"
+        },
+        {
+            "entityId": "19730_19738",
+            "span": {
+                "begin": 19730,
+                "end": 19738
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "19790_19798",
+            "span": {
+                "begin": 19790,
+                "end": 19798
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "19853_19860",
+            "span": {
+                "begin": 19853,
+                "end": 19860
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "19904_19912",
+            "span": {
+                "begin": 19904,
+                "end": 19912
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "20005_20013",
+            "span": {
+                "begin": 20005,
+                "end": 20013
+            },
+            "entityType": "disease",
+            "entityName": "thrombus",
+            "id": "UMLS:C0087086"
+        },
+        {
+            "entityId": "20056_20059",
+            "span": {
+                "begin": 20056,
+                "end": 20059
+            },
+            "entityType": "disease",
+            "entityName": "HIT",
+            "id": "UMLS:C0272285"
+        },
+        {
+            "entityId": "20061_20069",
+            "span": {
+                "begin": 20061,
+                "end": 20069
+            },
+            "entityType": "cell",
+            "entityName": "Platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "20218_20221",
+            "span": {
+                "begin": 20218,
+                "end": 20221
+            },
+            "entityType": "disease",
+            "entityName": "HIT",
+            "id": "UMLS:C0272285"
+        },
+        {
+            "entityId": "20300_20311",
+            "span": {
+                "begin": 20300,
+                "end": 20311
+            },
+            "entityType": "disease",
+            "entityName": "HIT allergy",
+            "id": "UMLS:C1527304"
+        },
+        {
+            "entityId": "20327_20341",
+            "span": {
+                "begin": 20327,
+                "end": 20341
+            },
+            "entityType": "gene",
+            "entityName": "HIT antibodies",
+            "id": "UMLS:C0003241"
+        },
+        {
+            "entityId": "20414_20432",
+            "span": {
+                "begin": 20414,
+                "end": 20432
+            },
+            "entityType": "DRUG",
+            "entityName": "Glycosaminoglycans",
+            "id": "UMLS:C0017973"
+        },
+        {
+            "entityId": "20441_20449",
+            "span": {
+                "begin": 20441,
+                "end": 20449
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "20500_20508",
+            "span": {
+                "begin": 20500,
+                "end": 20508
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20514_20517",
+            "span": {
+                "begin": 20514,
+                "end": 20517
+            },
+            "entityType": "disease",
+            "entityName": "HIT",
+            "id": "UMLS:C0272285"
+        },
+        {
+            "entityId": "20543_20555",
+            "span": {
+                "begin": 20543,
+                "end": 20555
+            },
+            "entityType": "disease",
+            "entityName": "Osteoporosis",
+            "id": "UMLS:C0029456"
+        },
+        {
+            "entityId": "20593_20601",
+            "span": {
+                "begin": 20593,
+                "end": 20601
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20870_20878",
+            "span": {
+                "begin": 20870,
+                "end": 20878
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20912_20924",
+            "span": {
+                "begin": 20912,
+                "end": 20924
+            },
+            "entityType": "drug",
+            "entityName": "Fondaparinux",
+            "id": "UMLS:C1098510"
+        },
+        {
+            "entityId": "20996_21004",
+            "span": {
+                "begin": 20996,
+                "end": 21004
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "21010_21026",
+            "span": {
+                "begin": 21010,
+                "end": 21026
+            },
+            "entityType": "disease",
+            "entityName": "renal impairment",
+            "id": "UMLS:C1565489"
+        },
+        {
+            "entityId": "22593_22605",
+            "span": {
+                "begin": 22593,
+                "end": 22605
+            },
+            "entityType": "drug",
+            "entityName": "Fondaparinux",
+            "id": "UMLS:C1098510"
+        },
+        {
+            "entityId": "22675_22678",
+            "span": {
+                "begin": 22675,
+                "end": 22678
+            },
+            "entityType": "disease",
+            "entityName": "DVT",
+            "id": "UMLS:C0149871"
+        },
+        {
+            "entityId": "22683_22701",
+            "span": {
+                "begin": 22683,
+                "end": 22701
+            },
+            "entityType": "disease",
+            "entityName": "pulmonary embolism",
+            "id": "UMLS:C0034065"
+        },
+        {
+            "entityId": "22703_22705",
+            "span": {
+                "begin": 22703,
+                "end": 22705
+            },
+            "entityType": "disease",
+            "entityName": "PE",
+            "id": "UMLS:C0034065"
+        },
+        {
+            "entityId": "22843_22851",
+            "span": {
+                "begin": 22843,
+                "end": 22851
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "22869_22881",
+            "span": {
+                "begin": 22869,
+                "end": 22881
+            },
+            "entityType": "drug",
+            "entityName": "fondaparinux",
+            "id": "UMLS:C1098510"
+        },
+        {
+            "entityId": "22919_22922",
+            "span": {
+                "begin": 22919,
+                "end": 22922
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "22926_22934",
+            "span": {
+                "begin": 22926,
+                "end": 22934
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "22987_22999",
+            "span": {
+                "begin": 22987,
+                "end": 22999
+            },
+            "entityType": "disease",
+            "entityName": "hip fracture",
+            "id": "mesh:D006620"
+        },
+        {
+            "entityId": "23103_23115",
+            "span": {
+                "begin": 23103,
+                "end": 23115
+            },
+            "entityType": "drug",
+            "entityName": "fondaparinux",
+            "id": "UMLS:C1098510"
+        },
+        {
+            "entityId": "23673_23681",
+            "span": {
+                "begin": 23673,
+                "end": 23681
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23786_23797",
+            "span": {
+                "begin": 23786,
+                "end": 23797
+            },
+            "entityType": "disease",
+            "entityName": "HIT allergy",
+            "id": "UMLS:C1527304"
+        },
+        {
+            "entityId": "23874_23877",
+            "span": {
+                "begin": 23874,
+                "end": 23877
+            },
+            "entityType": "disease",
+            "entityName": "ACS",
+            "id": "UMLS:C0742343"
+        },
+        {
+            "entityId": "23986_23998",
+            "span": {
+                "begin": 23986,
+                "end": 23998
+            },
+            "entityType": "drug",
+            "entityName": "Fondaparinux",
+            "id": "UMLS:C1098510"
+        },
+        {
+            "entityId": "24021_24029",
+            "span": {
+                "begin": 24021,
+                "end": 24029
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "24042_24058",
+            "span": {
+                "begin": 24042,
+                "end": 24058
+            },
+            "entityType": "disease",
+            "entityName": "renal impairment",
+            "id": "UMLS:C1565489"
+        },
+        {
+            "entityId": "24071_24081",
+            "span": {
+                "begin": 24071,
+                "end": 24081
+            },
+            "entityType": "drug",
+            "entityName": "creatinine",
+            "id": "UMLS:C0010294"
+        },
+        {
+            "entityId": "24114_24126",
+            "span": {
+                "begin": 24114,
+                "end": 24126
+            },
+            "entityType": "drug",
+            "entityName": "Fondaparinux",
+            "id": "UMLS:C1098510"
+        },
+        {
+            "entityId": "24150_24153",
+            "span": {
+                "begin": 24150,
+                "end": 24153
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "24169_24177",
+            "span": {
+                "begin": 24169,
+                "end": 24177
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "24319_24331",
+            "span": {
+                "begin": 24319,
+                "end": 24331
+            },
+            "entityType": "drug",
+            "entityName": "fondaparinux",
+            "id": "UMLS:C1098510"
+        },
+        {
+            "entityId": "24340_24350",
+            "span": {
+                "begin": 24340,
+                "end": 24350
+            },
+            "entityType": "disease",
+            "entityName": "hemorrhage",
+            "id": "UMLS:C0019080"
+        },
+        {
+            "entityId": "24352_24384",
+            "span": {
+                "begin": 24352,
+                "end": 24384
+            },
+            "entityType": "gene",
+            "entityName": "recombinant activated factor VII",
+            "id": "UMLS:C0795575"
+        },
+        {
+            "entityId": "24386_24392",
+            "span": {
+                "begin": 24386,
+                "end": 24392
+            },
+            "entityType": "gene",
+            "entityName": "rFVIIa",
+            "id": "UMLS:C0534191"
+        },
+        {
+            "entityId": "24445_24453",
+            "span": {
+                "begin": 24445,
+                "end": 24453
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "24613_24621",
+            "span": {
+                "begin": 24613,
+                "end": 24621
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "24651_24659",
+            "span": {
+                "begin": 24651,
+                "end": 24659
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "24703_24709",
+            "span": {
+                "begin": 24703,
+                "end": 24709
+            },
+            "entityType": "gene",
+            "entityName": "fibrin",
+            "id": "UMLS:C0015982"
+        },
+        {
+            "entityId": "24735_24760",
+            "span": {
+                "begin": 24735,
+                "end": 24760
+            },
+            "entityType": "gene",
+            "entityName": "coagulant factors V, VIII",
+            "id": "UMLS:C1413661"
+        },
+        {
+            "entityId": "24768_24777",
+            "span": {
+                "begin": 24768,
+                "end": 24777
+            },
+            "entityType": "gene",
+            "entityName": "protein C",
+            "id": "UMLS:C0033621"
+        },
+        {
+            "entityId": "24783_24791",
+            "span": {
+                "begin": 24783,
+                "end": 24791
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "24809_24816",
+            "span": {
+                "begin": 24809,
+                "end": 24816
+            },
+            "entityType": "gene",
+            "entityName": "hirudin",
+            "id": "UMLS:C0019573"
+        },
+        {
+            "entityId": "24826_24835",
+            "span": {
+                "begin": 24826,
+                "end": 24835
+            },
+            "entityType": "gene",
+            "entityName": "desirudin",
+            "id": "UMLS:C0378366"
+        },
+        {
+            "entityId": "24840_24851",
+            "span": {
+                "begin": 24840,
+                "end": 24851
+            },
+            "entityType": "gene",
+            "entityName": "bivalirudin",
+            "id": "UMLS:C0168273"
+        },
+        {
+            "entityId": "24857_24867",
+            "span": {
+                "begin": 24857,
+                "end": 24867
+            },
+            "entityType": "drug",
+            "entityName": "argatroban",
+            "id": "UMLS:C0048470"
+        },
+        {
+            "entityId": "24950_24961",
+            "span": {
+                "begin": 24950,
+                "end": 24961
+            },
+            "entityType": "drug",
+            "entityName": "Bivalirudin",
+            "id": "UMLS:C0168273"
+        },
+        {
+            "entityId": "25001_25010",
+            "span": {
+                "begin": 25001,
+                "end": 25010
+            },
+            "entityType": "gene",
+            "entityName": "r-hirudin",
+            "id": "UMLS:C1451270"
+        },
+        {
+            "entityId": "25129_25137",
+            "span": {
+                "begin": 25129,
+                "end": 25137
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "25139_25149",
+            "span": {
+                "begin": 25139,
+                "end": 25149
+            },
+            "entityType": "drug",
+            "entityName": "Argatroban",
+            "id": "UMLS:C0048470"
+        },
+        {
+            "entityId": "25168_25187",
+            "span": {
+                "begin": 25168,
+                "end": 25187
+            },
+            "entityType": "drug",
+            "entityName": "amino acid arginine",
+            "id": "UMLS:C1510863"
+        },
+        {
+            "entityId": "25210_25218",
+            "span": {
+                "begin": 25210,
+                "end": 25218
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "25269_25277",
+            "span": {
+                "begin": 25269,
+                "end": 25277
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "28686_28693",
+            "span": {
+                "begin": 28686,
+                "end": 28693
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28791_28819",
+            "span": {
+                "begin": 28791,
+                "end": 28819
+            },
+            "entityType": "disease",
+            "entityName": "hepatic or renal dysfunction",
+            "id": "UMLS:C1565489"
+        },
+        {
+            "entityId": "28836_28844",
+            "span": {
+                "begin": 28836,
+                "end": 28844
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28962_28979",
+            "span": {
+                "begin": 28962,
+                "end": 28979
+            },
+            "entityType": "disease",
+            "entityName": "organ dysfunction",
+            "id": "UMLS:C0349410"
+        },
+        {
+            "entityId": "29060_29070",
+            "span": {
+                "begin": 29060,
+                "end": 29070
+            },
+            "entityType": "drug",
+            "entityName": "argatroban",
+            "id": "UMLS:C0048470"
+        },
+        {
+            "entityId": "29120_29129",
+            "span": {
+                "begin": 29120,
+                "end": 29129
+            },
+            "entityType": "gene",
+            "entityName": "Desirudin",
+            "id": "UMLS:C0378366"
+        },
+        {
+            "entityId": "29230_29237",
+            "span": {
+                "begin": 29230,
+                "end": 29237
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "29392_29400",
+            "span": {
+                "begin": 29392,
+                "end": 29400
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "29481_29489",
+            "span": {
+                "begin": 29481,
+                "end": 29489
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "29665_29668",
+            "span": {
+                "begin": 29665,
+                "end": 29668
+            },
+            "entityType": "disease",
+            "entityName": "HIT",
+            "id": "UMLS:C0272285"
+        },
+        {
+            "entityId": "29672_29677",
+            "span": {
+                "begin": 29672,
+                "end": 29677
+            },
+            "entityType": "disease",
+            "entityName": "HIT-T",
+            "id": "UMLS:C0272285"
+        },
+        {
+            "entityId": "29679_29689",
+            "span": {
+                "begin": 29679,
+                "end": 29689
+            },
+            "entityType": "drug",
+            "entityName": "Argatroban",
+            "id": "UMLS:C0048470"
+        },
+        {
+            "entityId": "29740_29768",
+            "span": {
+                "begin": 29740,
+                "end": 29768
+            },
+            "entityType": "disease",
+            "entityName": "thromboembolic complications",
+            "id": "UMLS:C0009566"
+        },
+        {
+            "entityId": "29772_29780",
+            "span": {
+                "begin": 29772,
+                "end": 29780
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "29786_29789",
+            "span": {
+                "begin": 29786,
+                "end": 29789
+            },
+            "entityType": "disease",
+            "entityName": "HIT",
+            "id": "UMLS:C0272285"
+        },
+        {
+            "entityId": "29846_29849",
+            "span": {
+                "begin": 29846,
+                "end": 29849
+            },
+            "entityType": "disease",
+            "entityName": "HIT",
+            "id": "UMLS:C0272285"
+        },
+        {
+            "entityId": "29850_29858",
+            "span": {
+                "begin": 29850,
+                "end": 29858
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "29860_29870",
+            "span": {
+                "begin": 29860,
+                "end": 29870
+            },
+            "entityType": "drug",
+            "entityName": "Argatroban",
+            "id": "UMLS:C0048470"
+        },
+        {
+            "entityId": "29925_29935",
+            "span": {
+                "begin": 29925,
+                "end": 29935
+            },
+            "entityType": "disease",
+            "entityName": "thrombosis",
+            "id": "UMLS:C0040053"
+        },
+        {
+            "entityId": "29950_29958",
+            "span": {
+                "begin": 29950,
+                "end": 29958
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "30012_30023",
+            "span": {
+                "begin": 30012,
+                "end": 30023
+            },
+            "entityType": "gene",
+            "entityName": "Bivalirudin",
+            "id": "UMLS:C0168273"
+        },
+        {
+            "entityId": "30085_30093",
+            "span": {
+                "begin": 30085,
+                "end": 30093
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "30121_30124",
+            "span": {
+                "begin": 30121,
+                "end": 30124
+            },
+            "entityType": "disease",
+            "entityName": "ACS",
+            "id": "UMLS:C0742343"
+        },
+        {
+            "entityId": "30126_30141",
+            "span": {
+                "begin": 30126,
+                "end": 30141
+            },
+            "entityType": "disease",
+            "entityName": "unstable angina",
+            "id": "UMLS:C0002965"
+        },
+        {
+            "entityId": "30167_30188",
+            "span": {
+                "begin": 30167,
+                "end": 30188
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "30242_30250",
+            "span": {
+                "begin": 30242,
+                "end": 30250
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "30315_30325",
+            "span": {
+                "begin": 30315,
+                "end": 30325
+            },
+            "entityType": "disease",
+            "entityName": "Hemorrhage",
+            "id": "UMLS:C0019080"
+        },
+        {
+            "entityId": "30426_30432",
+            "span": {
+                "begin": 30426,
+                "end": 30432
+            },
+            "entityType": "gene",
+            "entityName": "rFVIIa",
+            "id": "UMLS:C0534191"
+        },
+        {
+            "entityId": "30532_30542",
+            "span": {
+                "begin": 30532,
+                "end": 30542
+            },
+            "entityType": "disease",
+            "entityName": "hemorrhage",
+            "id": "UMLS:C0019080"
+        },
+        {
+            "entityId": "30660_30668",
+            "span": {
+                "begin": 30660,
+                "end": 30668
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "30672_30675",
+            "span": {
+                "begin": 30672,
+                "end": 30675
+            },
+            "entityType": "disease",
+            "entityName": "HIT",
+            "id": "UMLS:C0272285"
+        },
+        {
+            "entityId": "30769_30779",
+            "span": {
+                "begin": 30769,
+                "end": 30779
+            },
+            "entityType": "disease",
+            "entityName": "thrombosis",
+            "id": "UMLS:C0040053"
+        },
+        {
+            "entityId": "31174_31182",
+            "span": {
+                "begin": 31174,
+                "end": 31182
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "31270_31279",
+            "span": {
+                "begin": 31270,
+                "end": 31279
+            },
+            "entityType": "drug",
+            "entityName": "Vitamin K",
+            "id": "UMLS:C0042878"
+        },
+        {
+            "entityId": "31294_31303",
+            "span": {
+                "begin": 31294,
+                "end": 31303
+            },
+            "entityType": "drug",
+            "entityName": "Vitamin K",
+            "id": "UMLS:C0042878"
+        },
+        {
+            "entityId": "31372_31397",
+            "span": {
+                "begin": 31372,
+                "end": 31397
+            },
+            "entityType": "gene",
+            "entityName": "vitamin K epoxy reductase",
+            "id": "UMLS:C0600377"
+        },
+        {
+            "entityId": "31439_31448",
+            "span": {
+                "begin": 31439,
+                "end": 31448
+            },
+            "entityType": "drug",
+            "entityName": "vitamin K",
+            "id": "UMLS:C0042878"
+        },
+        {
+            "entityId": "31468_31479",
+            "span": {
+                "begin": 31468,
+                "end": 31479
+            },
+            "entityType": "drug",
+            "entityName": "vitamin KH2",
+            "id": "UMLS:C0042890"
+        },
+        {
+            "entityId": "31481_31490",
+            "span": {
+                "begin": 31481,
+                "end": 31490
+            },
+            "entityType": "drug",
+            "entityName": "Vitamin K",
+            "id": "UMLS:C0042878"
+        },
+        {
+            "entityId": "31518_31553",
+            "span": {
+                "begin": 31518,
+                "end": 31553
+            },
+            "entityType": "gene",
+            "entityName": "clotting factors II, VII, IX, and X",
+            "id": "UMLS:C1414504"
+        },
+        {
+            "entityId": "31585_31596",
+            "span": {
+                "begin": 31585,
+                "end": 31596
+            },
+            "entityType": "drug",
+            "entityName": "vitamin KH2",
+            "id": "UMLS:C0042890"
+        },
+        {
+            "entityId": "31663_31671",
+            "span": {
+                "begin": 31663,
+                "end": 31671
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "31704_31712",
+            "span": {
+                "begin": 31704,
+                "end": 31712
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "31802_31818",
+            "span": {
+                "begin": 31802,
+                "end": 31818
+            },
+            "entityType": "disease",
+            "entityName": "critical illness",
+            "id": "UMLS:C0010340"
+        },
+        {
+            "entityId": "31863_31871",
+            "span": {
+                "begin": 31863,
+                "end": 31871
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "32057_32065",
+            "span": {
+                "begin": 32057,
+                "end": 32065
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "32221_32237",
+            "span": {
+                "begin": 32221,
+                "end": 32237
+            },
+            "entityType": "gene",
+            "entityName": "proteins C and S",
+            "id": "UMLS:C1418943"
+        },
+        {
+            "entityId": "34586_34594",
+            "span": {
+                "begin": 34586,
+                "end": 34594
+            },
+            "entityType": "drug",
+            "entityName": "Warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "34652_34655",
+            "span": {
+                "begin": 34652,
+                "end": 34655
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "34679_34696",
+            "span": {
+                "begin": 34679,
+                "end": 34696
+            },
+            "entityType": "disease",
+            "entityName": "systemic embolism",
+            "id": "UMLS:C0013922"
+        },
+        {
+            "entityId": "34700_34708",
+            "span": {
+                "begin": 34700,
+                "end": 34708
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "34741_34743",
+            "span": {
+                "begin": 34741,
+                "end": 34743
+            },
+            "entityType": "disease",
+            "entityName": "AF",
+            "id": "UMLS:C0004238"
+        },
+        {
+            "entityId": "34775_34802",
+            "span": {
+                "begin": 34775,
+                "end": 34802
+            },
+            "entityType": "disease",
+            "entityName": "acute myocardial infarction",
+            "id": "UMLS:C0155626"
+        },
+        {
+            "entityId": "34816_34819",
+            "span": {
+                "begin": 34816,
+                "end": 34819
+            },
+            "entityType": "species",
+            "entityName": "men",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "34847_34853",
+            "span": {
+                "begin": 34847,
+                "end": 34853
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "34889_34897",
+            "span": {
+                "begin": 34889,
+                "end": 34897
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "34903_34930",
+            "span": {
+                "begin": 34903,
+                "end": 34930
+            },
+            "entityType": "disease",
+            "entityName": "acute myocardial infarction",
+            "id": "UMLS:C0155626"
+        },
+        {
+            "entityId": "35022_35030",
+            "span": {
+                "begin": 35022,
+                "end": 35030
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "35247_35270",
+            "span": {
+                "begin": 35247,
+                "end": 35270
+            },
+            "entityType": "disease",
+            "entityName": "intracranial hemorrhage",
+            "id": "UMLS:C0151699"
+        },
+        {
+            "entityId": "35361_35371",
+            "span": {
+                "begin": 35361,
+                "end": 35371
+            },
+            "entityType": "disease",
+            "entityName": "hemorrhage",
+            "id": "UMLS:C0019080"
+        },
+        {
+            "entityId": "35466_35473",
+            "span": {
+                "begin": 35466,
+                "end": 35473
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "35587_35595",
+            "span": {
+                "begin": 35587,
+                "end": 35595
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "35684_35692",
+            "span": {
+                "begin": 35684,
+                "end": 35692
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "35849_35857",
+            "span": {
+                "begin": 35849,
+                "end": 35857
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "35918_35927",
+            "span": {
+                "begin": 35918,
+                "end": 35927
+            },
+            "entityType": "drug",
+            "entityName": "vitamin K",
+            "id": "UMLS:C0042878"
+        },
+        {
+            "entityId": "36078_36086",
+            "span": {
+                "begin": 36078,
+                "end": 36086
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "36157_36164",
+            "span": {
+                "begin": 36157,
+                "end": 36164
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "36236_36244",
+            "span": {
+                "begin": 36236,
+                "end": 36244
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "36261_36270",
+            "span": {
+                "begin": 36261,
+                "end": 36270
+            },
+            "entityType": "drug",
+            "entityName": "vitamin K",
+            "id": "UMLS:C0042878"
+        },
+        {
+            "entityId": "36336_36344",
+            "span": {
+                "begin": 36336,
+                "end": 36344
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "36364_36373",
+            "span": {
+                "begin": 36364,
+                "end": 36373
+            },
+            "entityType": "drug",
+            "entityName": "vitamin K",
+            "id": "UMLS:C0042878"
+        },
+        {
+            "entityId": "36432_36441",
+            "span": {
+                "begin": 36432,
+                "end": 36441
+            },
+            "entityType": "drug",
+            "entityName": "vitamin K",
+            "id": "UMLS:C0042878"
+        },
+        {
+            "entityId": "36509_36518",
+            "span": {
+                "begin": 36509,
+                "end": 36518
+            },
+            "entityType": "drug",
+            "entityName": "Vitamin K",
+            "id": "UMLS:C0042878"
+        },
+        {
+            "entityId": "36856_36875",
+            "span": {
+                "begin": 36856,
+                "end": 36875
+            },
+            "entityType": "gene",
+            "entityName": "prothrombin complex",
+            "id": "UMLS:C3541956"
+        },
+        {
+            "entityId": "37029_37037",
+            "span": {
+                "begin": 37029,
+                "end": 37037
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "37047_37070",
+            "span": {
+                "begin": 37047,
+                "end": 37070
+            },
+            "entityType": "gene",
+            "entityName": "Recombinant factor VIIa",
+            "id": "UMLS:C0534191"
+        },
+        {
+            "entityId": "37092_37100",
+            "span": {
+                "begin": 37092,
+                "end": 37100
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "37207_37215",
+            "span": {
+                "begin": 37207,
+                "end": 37215
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "37224_37243",
+            "span": {
+                "begin": 37224,
+                "end": 37243
+            },
+            "entityType": "disease",
+            "entityName": "acute skin necrosis",
+            "id": "UMLS:C0333501"
+        },
+        {
+            "entityId": "37248_37261",
+            "span": {
+                "begin": 37248,
+                "end": 37261
+            },
+            "entityType": "disease",
+            "entityName": "limb gangrene",
+            "id": "UMLS:C0017086"
+        },
+        {
+            "entityId": "37344_37357",
+            "span": {
+                "begin": 37344,
+                "end": 37357
+            },
+            "entityType": "disease",
+            "entityName": "Skin necrosis",
+            "id": "UMLS:C0151799"
+        },
+        {
+            "entityId": "37381_37422",
+            "span": {
+                "begin": 37381,
+                "end": 37422
+            },
+            "entityType": "disease",
+            "entityName": "thrombosis of the venules and capillaries",
+            "id": "UMLS:C0302148"
+        },
+        {
+            "entityId": "37478_37500",
+            "span": {
+                "begin": 37478,
+                "end": 37500
+            },
+            "entityType": "disease",
+            "entityName": "protein C deficiencies",
+            "id": "UMLS:C0398625"
+        },
+        {
+            "entityId": "37502_37515",
+            "span": {
+                "begin": 37502,
+                "end": 37515
+            },
+            "entityType": "disease",
+            "entityName": "Limb gangrene",
+            "id": "UMLS:C0017086"
+        },
+        {
+            "entityId": "37622_37625",
+            "span": {
+                "begin": 37622,
+                "end": 37625
+            },
+            "entityType": "disease",
+            "entityName": "HIT",
+            "id": "UMLS:C0272285"
+        },
+        {
+            "entityId": "37626_37634",
+            "span": {
+                "begin": 37626,
+                "end": 37634
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "37648_37656",
+            "span": {
+                "begin": 37648,
+                "end": 37656
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "37709_37717",
+            "span": {
+                "begin": 37709,
+                "end": 37717
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "37831_37838",
+            "span": {
+                "begin": 37831,
+                "end": 37838
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "37861_37864",
+            "span": {
+                "begin": 37861,
+                "end": 37864
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "37868_37892",
+            "span": {
+                "begin": 37868,
+                "end": 37892
+            },
+            "entityType": "disease",
+            "entityName": "arterial thromboembolism",
+            "id": "UMLS:C3544094"
+        },
+        {
+            "entityId": "38111_38119",
+            "span": {
+                "begin": 38111,
+                "end": 38119
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "38166_38174",
+            "span": {
+                "begin": 38166,
+                "end": 38174
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "38238_38246",
+            "span": {
+                "begin": 38238,
+                "end": 38246
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "38363_38373",
+            "span": {
+                "begin": 38363,
+                "end": 38373
+            },
+            "entityType": "drug",
+            "entityName": "Dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "38375_38386",
+            "span": {
+                "begin": 38375,
+                "end": 38386
+            },
+            "entityType": "drug",
+            "entityName": "rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "38392_38400",
+            "span": {
+                "begin": 38392,
+                "end": 38400
+            },
+            "entityType": "drug",
+            "entityName": "apixaban",
+            "id": "UMLS:C1831808"
+        },
+        {
+            "entityId": "38731_38752",
+            "span": {
+                "begin": 38731,
+                "end": 38752
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "38754_38760",
+            "span": {
+                "begin": 38754,
+                "end": 38760
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "38766_38769",
+            "span": {
+                "begin": 38766,
+                "end": 38769
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "38823_38833",
+            "span": {
+                "begin": 38823,
+                "end": 38833
+            },
+            "entityType": "disease",
+            "entityName": "thrombosis",
+            "id": "UMLS:C0040053"
+        },
+        {
+            "entityId": "38906_38914",
+            "span": {
+                "begin": 38906,
+                "end": 38914
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "38963_38992",
+            "span": {
+                "begin": 38963,
+                "end": 38992
+            },
+            "entityType": "drug",
+            "entityName": "Dabigatran etexilate mesylate",
+            "id": "UMLS:C2343849"
+        },
+        {
+            "entityId": "39047_39075",
+            "span": {
+                "begin": 39047,
+                "end": 39075
+            },
+            "entityType": "gene",
+            "entityName": "plasma and hepatic esterases",
+            "id": "UMLS:C0014894"
+        },
+        {
+            "entityId": "39130_39140",
+            "span": {
+                "begin": 39130,
+                "end": 39140
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "39142_39152",
+            "span": {
+                "begin": 39142,
+                "end": 39152
+            },
+            "entityType": "drug",
+            "entityName": "Dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "39245_39253",
+            "span": {
+                "begin": 39245,
+                "end": 39253
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "39268_39278",
+            "span": {
+                "begin": 39268,
+                "end": 39278
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "39333_39341",
+            "span": {
+                "begin": 39333,
+                "end": 39341
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "39364_39372",
+            "span": {
+                "begin": 39364,
+                "end": 39372
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "40154_40164",
+            "span": {
+                "begin": 40154,
+                "end": 40164
+            },
+            "entityType": "drug",
+            "entityName": "Dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "40271_40281",
+            "span": {
+                "begin": 40271,
+                "end": 40281
+            },
+            "entityType": "drug",
+            "entityName": "Dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "40336_40344",
+            "span": {
+                "begin": 40336,
+                "end": 40344
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "40357_40374",
+            "span": {
+                "begin": 40357,
+                "end": 40374
+            },
+            "entityType": "disease",
+            "entityName": "renal dysfunction",
+            "id": "UMLS:C1565489"
+        },
+        {
+            "entityId": "40431_40441",
+            "span": {
+                "begin": 40431,
+                "end": 40441
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "40473_40484",
+            "span": {
+                "begin": 40473,
+                "end": 40484
+            },
+            "entityType": "drug",
+            "entityName": "Rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "40548_40557",
+            "span": {
+                "begin": 40548,
+                "end": 40557
+            },
+            "entityType": "gene",
+            "entityName": "factor Xa",
+            "id": "UMLS:C0015520"
+        },
+        {
+            "entityId": "40573_40582",
+            "span": {
+                "begin": 40573,
+                "end": 40582
+            },
+            "entityType": "gene",
+            "entityName": "factor Xa",
+            "id": "UMLS:C0015520"
+        },
+        {
+            "entityId": "40679_40687",
+            "span": {
+                "begin": 40679,
+                "end": 40687
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "40714_40722",
+            "span": {
+                "begin": 40714,
+                "end": 40722
+            },
+            "entityType": "disease",
+            "entityName": "thrombus",
+            "id": "UMLS:C0087086"
+        },
+        {
+            "entityId": "40734_40745",
+            "span": {
+                "begin": 40734,
+                "end": 40745
+            },
+            "entityType": "drug",
+            "entityName": "Rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "40776_40782",
+            "span": {
+                "begin": 40776,
+                "end": 40782
+            },
+            "entityType": "gene",
+            "entityName": "fibrin",
+            "id": "UMLS:C0015982"
+        },
+        {
+            "entityId": "40789_40798",
+            "span": {
+                "begin": 40789,
+                "end": 40798
+            },
+            "entityType": "gene",
+            "entityName": "factor Xa",
+            "id": "UMLS:C0015520"
+        },
+        {
+            "entityId": "40852_40863",
+            "span": {
+                "begin": 40852,
+                "end": 40863
+            },
+            "entityType": "drug",
+            "entityName": "Rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "40889_40897",
+            "span": {
+                "begin": 40889,
+                "end": 40897
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "40913_40921",
+            "span": {
+                "begin": 40913,
+                "end": 40921
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "40950_40960",
+            "span": {
+                "begin": 40950,
+                "end": 40960
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "41053_41064",
+            "span": {
+                "begin": 41053,
+                "end": 41064
+            },
+            "entityType": "drug",
+            "entityName": "rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "41068_41076",
+            "span": {
+                "begin": 41068,
+                "end": 41076
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "41095_41105",
+            "span": {
+                "begin": 41095,
+                "end": 41105
+            },
+            "entityType": "drug",
+            "entityName": "creatinine",
+            "id": "UMLS:C0010294"
+        },
+        {
+            "entityId": "42614_42624",
+            "span": {
+                "begin": 42614,
+                "end": 42624
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "42689_42697",
+            "span": {
+                "begin": 42689,
+                "end": 42697
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "42707_42710",
+            "span": {
+                "begin": 42707,
+                "end": 42710
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "42776_42782",
+            "span": {
+                "begin": 42776,
+                "end": 42782
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "42797_42799",
+            "span": {
+                "begin": 42797,
+                "end": 42799
+            },
+            "entityType": "disease",
+            "entityName": "AF",
+            "id": "UMLS:C0004238"
+        },
+        {
+            "entityId": "42906_42916",
+            "span": {
+                "begin": 42906,
+                "end": 42916
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "42957_42965",
+            "span": {
+                "begin": 42957,
+                "end": 42965
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "42988_42996",
+            "span": {
+                "begin": 42988,
+                "end": 42996
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "43019_43027",
+            "span": {
+                "begin": 43019,
+                "end": 43027
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "43072_43087",
+            "span": {
+                "begin": 43072,
+                "end": 43087
+            },
+            "entityType": "disease",
+            "entityName": "thromboembolism",
+            "id": "UMLS:C0040038"
+        },
+        {
+            "entityId": "43163_43169",
+            "span": {
+                "begin": 43163,
+                "end": 43169
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "43173_43190",
+            "span": {
+                "begin": 43173,
+                "end": 43190
+            },
+            "entityType": "disease",
+            "entityName": "systemic embolism",
+            "id": "UMLS:C0013922"
+        },
+        {
+            "entityId": "43196_43206",
+            "span": {
+                "begin": 43196,
+                "end": 43206
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "43264_43272",
+            "span": {
+                "begin": 43264,
+                "end": 43272
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "43297_43303",
+            "span": {
+                "begin": 43297,
+                "end": 43303
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "43308_43325",
+            "span": {
+                "begin": 43308,
+                "end": 43325
+            },
+            "entityType": "disease",
+            "entityName": "systemic embolism",
+            "id": "UMLS:C0013922"
+        },
+        {
+            "entityId": "43582_43592",
+            "span": {
+                "begin": 43582,
+                "end": 43592
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "43624_43632",
+            "span": {
+                "begin": 43624,
+                "end": 43632
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "43648_43659",
+            "span": {
+                "begin": 43648,
+                "end": 43659
+            },
+            "entityType": "drug",
+            "entityName": "Rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "43802_43813",
+            "span": {
+                "begin": 43802,
+                "end": 43813
+            },
+            "entityType": "drug",
+            "entityName": "rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "43832_43835",
+            "span": {
+                "begin": 43832,
+                "end": 43835
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "43850_43858",
+            "span": {
+                "begin": 43850,
+                "end": 43858
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "43949_43952",
+            "span": {
+                "begin": 43949,
+                "end": 43952
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "43975_43978",
+            "span": {
+                "begin": 43975,
+                "end": 43978
+            },
+            "entityType": "disease",
+            "entityName": "DVT",
+            "id": "UMLS:C0149871"
+        },
+        {
+            "entityId": "43990_43992",
+            "span": {
+                "begin": 43990,
+                "end": 43992
+            },
+            "entityType": "disease",
+            "entityName": "PE",
+            "id": "UMLS:C0034065"
+        },
+        {
+            "entityId": "44057_44068",
+            "span": {
+                "begin": 44057,
+                "end": 44068
+            },
+            "entityType": "drug",
+            "entityName": "rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "44154_44165",
+            "span": {
+                "begin": 44154,
+                "end": 44165
+            },
+            "entityType": "drug",
+            "entityName": "Rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "44189_44195",
+            "span": {
+                "begin": 44189,
+                "end": 44195
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "44210_44218",
+            "span": {
+                "begin": 44210,
+                "end": 44218
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "44255_44257",
+            "span": {
+                "begin": 44255,
+                "end": 44257
+            },
+            "entityType": "disease",
+            "entityName": "AF",
+            "id": "UMLS:C0004238"
+        },
+        {
+            "entityId": "44264_44275",
+            "span": {
+                "begin": 44264,
+                "end": 44275
+            },
+            "entityType": "drug",
+            "entityName": "rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "44313_44321",
+            "span": {
+                "begin": 44313,
+                "end": 44321
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "44344_44350",
+            "span": {
+                "begin": 44344,
+                "end": 44350
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "44355_44390",
+            "span": {
+                "begin": 44355,
+                "end": 44390
+            },
+            "entityType": "disease",
+            "entityName": "non-central nervous system embolism",
+            "id": "UMLS:C0013922"
+        },
+        {
+            "entityId": "44433_44444",
+            "span": {
+                "begin": 44433,
+                "end": 44444
+            },
+            "entityType": "drug",
+            "entityName": "Rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "44476_44479",
+            "span": {
+                "begin": 44476,
+                "end": 44479
+            },
+            "entityType": "disease",
+            "entityName": "DVT",
+            "id": "UMLS:C0149871"
+        },
+        {
+            "entityId": "44484_44486",
+            "span": {
+                "begin": 44484,
+                "end": 44486
+            },
+            "entityType": "disease",
+            "entityName": "PE",
+            "id": "UMLS:C0034065"
+        },
+        {
+            "entityId": "44553_44556",
+            "span": {
+                "begin": 44553,
+                "end": 44556
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "44571_44574",
+            "span": {
+                "begin": 44571,
+                "end": 44574
+            },
+            "entityType": "disease",
+            "entityName": "DVT",
+            "id": "UMLS:C0149871"
+        },
+        {
+            "entityId": "44587_44598",
+            "span": {
+                "begin": 44587,
+                "end": 44598
+            },
+            "entityType": "drug",
+            "entityName": "rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "44733_44736",
+            "span": {
+                "begin": 44733,
+                "end": 44736
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "44771_44782",
+            "span": {
+                "begin": 44771,
+                "end": 44782
+            },
+            "entityType": "drug",
+            "entityName": "rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "44866_44869",
+            "span": {
+                "begin": 44866,
+                "end": 44869
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "44981_44983",
+            "span": {
+                "begin": 44981,
+                "end": 44983
+            },
+            "entityType": "disease",
+            "entityName": "PE",
+            "id": "UMLS:C0034065"
+        },
+        {
+            "entityId": "44984_44995",
+            "span": {
+                "begin": 44984,
+                "end": 44995
+            },
+            "entityType": "drug",
+            "entityName": "rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "45090_45093",
+            "span": {
+                "begin": 45090,
+                "end": 45093
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "45168_45176",
+            "span": {
+                "begin": 45168,
+                "end": 45176
+            },
+            "entityType": "drug",
+            "entityName": "apixaban",
+            "id": "UMLS:C1831808"
+        },
+        {
+            "entityId": "45272_45275",
+            "span": {
+                "begin": 45272,
+                "end": 45275
+            },
+            "entityType": "disease",
+            "entityName": "VTE",
+            "id": "mesh:D054556"
+        },
+        {
+            "entityId": "45281_45285",
+            "span": {
+                "begin": 45281,
+                "end": 45285
+            },
+            "entityType": "disease",
+            "entityName": "ACSs",
+            "id": "UMLS:C0742343"
+        },
+        {
+            "entityId": "45315_45321",
+            "span": {
+                "begin": 45315,
+                "end": 45321
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "45336_45338",
+            "span": {
+                "begin": 45336,
+                "end": 45338
+            },
+            "entityType": "disease",
+            "entityName": "AF",
+            "id": "UMLS:C0004238"
+        },
+        {
+            "entityId": "45393_45401",
+            "span": {
+                "begin": 45393,
+                "end": 45401
+            },
+            "entityType": "drug",
+            "entityName": "apixaban",
+            "id": "UMLS:C1831808"
+        },
+        {
+            "entityId": "45424_45432",
+            "span": {
+                "begin": 45424,
+                "end": 45432
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "45500_45506",
+            "span": {
+                "begin": 45500,
+                "end": 45506
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "45511_45528",
+            "span": {
+                "begin": 45511,
+                "end": 45528
+            },
+            "entityType": "disease",
+            "entityName": "systemic embolism",
+            "id": "UMLS:C0013922"
+        },
+        {
+            "entityId": "45576_45584",
+            "span": {
+                "begin": 45576,
+                "end": 45584
+            },
+            "entityType": "drug",
+            "entityName": "apixaban",
+            "id": "UMLS:C1831808"
+        },
+        {
+            "entityId": "45585_45593",
+            "span": {
+                "begin": 45585,
+                "end": 45593
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "45610_45618",
+            "span": {
+                "begin": 45610,
+                "end": 45618
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "45619_45627",
+            "span": {
+                "begin": 45619,
+                "end": 45627
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "45677_45685",
+            "span": {
+                "begin": 45677,
+                "end": 45685
+            },
+            "entityType": "drug",
+            "entityName": "apixaban",
+            "id": "UMLS:C1831808"
+        },
+        {
+            "entityId": "45686_45694",
+            "span": {
+                "begin": 45686,
+                "end": 45694
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "45711_45719",
+            "span": {
+                "begin": 45711,
+                "end": 45719
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "45720_45728",
+            "span": {
+                "begin": 45720,
+                "end": 45728
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "45858_45868",
+            "span": {
+                "begin": 45858,
+                "end": 45868
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "45877_45886",
+            "span": {
+                "begin": 45877,
+                "end": 45886
+            },
+            "entityType": "disease",
+            "entityName": "dyspepsia",
+            "id": "UMLS:C0013395"
+        },
+        {
+            "entityId": "45888_45897",
+            "span": {
+                "begin": 45888,
+                "end": 45897
+            },
+            "entityType": "disease",
+            "entityName": "dizziness",
+            "id": "UMLS:C0012833"
+        },
+        {
+            "entityId": "45899_45907",
+            "span": {
+                "begin": 45899,
+                "end": 45907
+            },
+            "entityType": "disease",
+            "entityName": "headache",
+            "id": "UMLS:C0018681"
+        },
+        {
+            "entityId": "45909_45916",
+            "span": {
+                "begin": 45909,
+                "end": 45916
+            },
+            "entityType": "disease",
+            "entityName": "dyspnea",
+            "id": "UMLS:C0013404"
+        },
+        {
+            "entityId": "45922_45941",
+            "span": {
+                "begin": 45922,
+                "end": 45941
+            },
+            "entityType": "disease",
+            "entityName": "shortness of breath",
+            "id": "UMLS:C0013404"
+        },
+        {
+            "entityId": "45943_45957",
+            "span": {
+                "begin": 45943,
+                "end": 45957
+            },
+            "entityType": "disease",
+            "entityName": "Abdominal pain",
+            "id": "UMLS:C0000737"
+        },
+        {
+            "entityId": "45962_45971",
+            "span": {
+                "begin": 45962,
+                "end": 45971
+            },
+            "entityType": "disease",
+            "entityName": "gastritis",
+            "id": "UMLS:C0017152"
+        },
+        {
+            "entityId": "46189_46197",
+            "span": {
+                "begin": 46189,
+                "end": 46197
+            },
+            "entityType": "gene",
+            "entityName": "Thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "46250_46260",
+            "span": {
+                "begin": 46250,
+                "end": 46260
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "46287_46298",
+            "span": {
+                "begin": 46287,
+                "end": 46298
+            },
+            "entityType": "drug",
+            "entityName": "rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "46303_46311",
+            "span": {
+                "begin": 46303,
+                "end": 46311
+            },
+            "entityType": "drug",
+            "entityName": "apixaban",
+            "id": "UMLS:C1831808"
+        },
+        {
+            "entityId": "46320_46331",
+            "span": {
+                "begin": 46320,
+                "end": 46331
+            },
+            "entityType": "gene",
+            "entityName": "prothrombin",
+            "id": "UMLS:C0033706"
+        },
+        {
+            "entityId": "46388_46402",
+            "span": {
+                "begin": 46388,
+                "end": 46402
+            },
+            "entityType": "gene",
+            "entityName": "prothrombinase",
+            "id": "UMLS:C0040048"
+        },
+        {
+            "entityId": "46426_46434",
+            "span": {
+                "begin": 46426,
+                "end": 46434
+            },
+            "entityType": "gene",
+            "entityName": "Anti-FXa",
+            "id": "UMLS:C2700041"
+        },
+        {
+            "entityId": "46536_46546",
+            "span": {
+                "begin": 46536,
+                "end": 46546
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "46548_46559",
+            "span": {
+                "begin": 46548,
+                "end": 46559
+            },
+            "entityType": "drug",
+            "entityName": "rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "46564_46572",
+            "span": {
+                "begin": 46564,
+                "end": 46572
+            },
+            "entityType": "drug",
+            "entityName": "apixaban",
+            "id": "UMLS:C1831808"
+        },
+        {
+            "entityId": "46627_46635",
+            "span": {
+                "begin": 46627,
+                "end": 46635
+            },
+            "entityType": "drug",
+            "entityName": "charcoal",
+            "id": "UMLS:C0007955"
+        },
+        {
+            "entityId": "46669_46679",
+            "span": {
+                "begin": 46669,
+                "end": 46679
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "46681_46692",
+            "span": {
+                "begin": 46681,
+                "end": 46692
+            },
+            "entityType": "drug",
+            "entityName": "rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "46697_46705",
+            "span": {
+                "begin": 46697,
+                "end": 46705
+            },
+            "entityType": "drug",
+            "entityName": "apixaban",
+            "id": "UMLS:C1831808"
+        },
+        {
+            "entityId": "46854_46864",
+            "span": {
+                "begin": 46854,
+                "end": 46864
+            },
+            "entityType": "drug",
+            "entityName": "dabigatran",
+            "id": "UMLS:C2348066"
+        },
+        {
+            "entityId": "46886_46897",
+            "span": {
+                "begin": 46886,
+                "end": 46897
+            },
+            "entityType": "drug",
+            "entityName": "rivaroxaban",
+            "id": "UMLS:C1739768"
+        },
+        {
+            "entityId": "46901_46909",
+            "span": {
+                "begin": 46901,
+                "end": 46909
+            },
+            "entityType": "drug",
+            "entityName": "apixaban",
+            "id": "UMLS:C1831808"
+        },
+        {
+            "entityId": "47051_47057",
+            "span": {
+                "begin": 47051,
+                "end": 47057
+            },
+            "entityType": "gene",
+            "entityName": "rFVIIa",
+            "id": "UMLS:C0534191"
+        },
+        {
+            "entityId": "47251_47261",
+            "span": {
+                "begin": 47251,
+                "end": 47261
+            },
+            "entityType": "disease",
+            "entityName": "hemorrhage",
+            "id": "UMLS:C0019080"
+        },
+        {
+            "entityId": "47361_47368",
+            "span": {
+                "begin": 47361,
+                "end": 47368
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "47441_47455",
+            "span": {
+                "begin": 47441,
+                "end": 47455
+            },
+            "entityType": "disease",
+            "entityName": "thrombophilias",
+            "id": "UMLS:C0398623"
+        },
+        {
+            "entityId": "47750_47758",
+            "span": {
+                "begin": 47750,
+                "end": 47758
+            },
+            "entityType": "drug",
+            "entityName": "warfarin",
+            "id": "UMLS:C0043031"
+        },
+        {
+            "entityId": "47834_47844",
+            "span": {
+                "begin": 47834,
+                "end": 47844
+            },
+            "entityType": "disease",
+            "entityName": "thrombosis",
+            "id": "UMLS:C0040053"
+        },
+        {
+            "entityId": "48020_48030",
+            "span": {
+                "begin": 48020,
+                "end": 48030
+            },
+            "entityType": "disease",
+            "entityName": "Hemorrhage",
+            "id": "UMLS:C0019080"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "577_587",
+            "subjectText": "Hemorrhage",
+            "rel_name": "associate",
+            "objectId": "299_307",
+            "objectText": "thrombin"
+        }
+    ]
+}

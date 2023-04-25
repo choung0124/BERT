@@ -1,0 +1,3345 @@
+{
+    "sourcid": "PMC3676337",
+    "publisher": "Public Library of Science",
+    "journal": "PLoS ONE",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3676337/",
+    "text": "Thyroid Hormone Reverses Aging-Induced Myocardial Fatty Acid Oxidation Defects and Improves the Response to Acutely Increased Afterload Background Subclinical hypothyroidism occurs during aging in humans and mice and may contribute to the development of heart failure. Aging also impairs myocardial fatty acid oxidation, causing increased reliance on flux through pyruvate dehydrogenase (PDH) to maintain function. We hypothesize that the metabolic changes in aged hearts make them less tolerant to acutely increased work and that thyroid hormone supplementation reverses these defects. Methods Studies were performed on young (Young, 4-6 months) and aged (Old, 22-24 months) C57/BL6 mice at standard (50 mmHg) and high afterload (80 mmHg). Another aged group received thyroid hormone for 3 weeks (Old-TH, high afterload only). Function was measured in isolated working hearts along with substrate fractional contributions (Fc) to the citric acid cycle (CAC) using perfusate with 13C labeled lactate, pyruvate, glucose and unlabeled palmitate and insulin.     Results Old mice maintained cardiac function under standard workload conditions, despite a marked decrease in unlabeled (presumably palmitate) Fc and relatively similar individual carbohydrate contributions. However, old mice exhibited reduced palmitate oxidation with diastolic dysfunction exemplified by lower -dP/dT. Thyroid hormone abrogated the functional and substrate flux abnormalities in aged mice. Conclusion The aged heart shows diminished ability to increase cardiac work due to substrate limitations, primarily impaired fatty acid oxidation. The heart accommodates slightly by increasing efficiency through oxidation of carbohydrate substrates. Thyroid hormone supplementation in aged mice significantly improves cardiac function potentially through restoration of fatty acid oxidation. Introduction Subclinical hypothyroidism is characterized by increased serum thyrotropin (thyroid stimulating hormone, TSH) concentration in the presence of normal values of free thyroxin (T4) and biologically active free triiodothyronine (T3). This condition is especially common in the elderly with a prevalence of up to 10%. While not present in every study, multiple investigations have demonstrated an association between subclinical hypothyroidism and an increased risk of congestive heart failure. Thyroxin replacement improved measures of cardiac function in a small study; however no large randomized controlled trials have been completed. The mechanisms for this therapeutic effect still require elucidation. Thyroid hormone regulates excitation-contraction and transport proteins such as sarcoplasmic reticulum calcium ATPase (SERCA2), alpha-myosin heavy chain, beta1 adrenergic receptors, sodium/potassium ATPase, voltage-gated potassium channels, malic enzyme and atrial and brain natriuretic factor. Since these proteins form the primary architecture of the cardiomyocyte and determine contractile strength, modulation of these proteins by thyroid hormone is a biologically plausible mechanism for improvements in cardiac function noted in the elderly after thyroid hormone supplementation. However, contractile function also depends upon energy supply. Modifications in substrate oxidation within the mitochondria influence cardiomyocyte environment and structure. Metabolic abnormalities as etiologies for cardiomyopathy are well recognized, but exploration has only started with any detail in aging models. Several experimental studies have demonstrated alteration in myocardial oxidative metabolism from aging. McMillin et al. showed that the senescent rat heart lacked the ability to suppress glucose oxidation when supplied with oleate; whereas Koonen et al. showed an increase in the fractional contribution (Fc) of palmitate to the citric acid cycle in 50-52 week old mice compared to younger mice although actual palmitate oxidation was decreased. These studies did not employ the robust substrate supply conditions present in vivo, therefore their applicability is unclear. Accordingly, we previously investigated oxidative metabolism in aged mouse hearts perfused with glucose, lactate, ketones and free fatty acids. Ketone and free fatty acid oxidation decreased with aging while glucose oxidation reciprocally increased. This study demonstrated that the aged hearts were able to maintain function by increasing carbohydrate utilization. However, anaplerosis was impaired in aged hearts, potentially limiting the response to acute stress through depletion of citric acid cycle intermediates. Thyroid hormone levels were reduced in the aged mice, suggesting that myocardial metabolic alterations may play a pathologic role in subclinical hypothyroidism.   Our primary hypothesis is that disruptions in thyroid hormone homeostasis affect the metabolic phenotype in the aged heart and contribute to the cardiomyopathy of aging. Specifically, we tested whether thyroid hormone (TH) supplementation alters substrate utilization for the citric acid cycle in the aged heart and makes it more tolerant to acutely increased afterload. Our prior study focused primarily on shifts in fatty acid oxidation and anaplerosis with limited data reflecting carbohydrate oxidation. Accordingly, we focused on carbohydrate oxidative metabolism for the current study. Materials and Methods Ethics Statement This investigation conforms to the Guide for the Care and Use of Laboratory Animals published by the National Institute of Health (NIH Pub. No. 85-23, revised 1996) and were reviewed and approved by the Office of Animal Care at Seattle Children's Research Institute.     Animals This study used C57/Bl6 mice in two age groups purchased from Charles Rivers Laboratories International, Inc (Wilmington, MA). The Young and Old groups consisted of 4-6 and 22-24 month old mice, respectively.     Thyroid Hormone Administration Circulating thyroid hormone levels modestly decline with age in mice. To test whether this affects myocardial substrate utilization and function, a cohort of old mice received Thyroid Powder-Grade III (product number T6384, Sigma-Aldrich) for 3 weeks prior to studies (group Old-TH). 0.378 mg daily of Thyroid Powder was administered with the standard chow diet. This dose was based upon a work by Pantos et al.. This thyroid powder has a 10-fold higher ratio of T3 to T4 than present in vivo. Thyroid Hormone and Free Fatty Acid Levels Thyroid hormone levels were determined at the Hormone Assay and Analytical Services Core at Vanderbilt University Medical Center. T3 and T4 levels were determined using a 5-day double antibody assay of plasma. Serum fatty acids were determined using the Free Fatty Acid Assay Kit (Cayman Chemical Company, Ann Arbor, MI). Echocardiogram Serial echocardiograms were performed on a cohort of Old mice before and after 3 weeks of Thyroid Powder. Mice were initially sedated with 3% isoflurane in 21% O2 at a flow of 1 LPM and placed in a supine position at which time the isoflurane is reduced to 1% administered via a small nose cone. ECG leads were placed for simultaneous ECG monitoring during image acquisition. Echocardiographic images were performed with a Vevo 2100 machine using a MS400 transducer (VisualSonics, Inc, Toronto, Canada). M-Mode measurements at the midpapillary level of the left ventricle (LV) were performed at end-diastole (LVEDD) and end-systole (LVESD) to determine LV function via the fractional shortening [(LVEDD-LVESD)/LVEDD * 100] in a parasternal short axis mode. Measurements were taken from a parasternal short axis view or a 4 chamber view (mitral valve flow velocities). Isolated Working Heart Preparation Experiments were performed as previously described with some minor changes noted below. Briefly, mice were heparinized (5000 U/kg ip) and anesthetized with a mixture of ketamine (90 mg/kg) and xylazine (10 mg/kg). After adequate sedation, the aorta was rapidly cannulated, excised and placed on the perfusion system. The hearts were initially perfused in a Langendorff manner (70 mmHg perfusion pressure) with physiological salt solution (PSS), pH 7.4, containing (in mmol/l) 118.0 NaCl,25.0 NaHCO3, 4.7 KCl, 1.23 MgSO4, 1.2 NaH2PO4, 5.5 D-glucose, and 1.2 CaCl2. During retrograde perfusion, the left atrium was cannulated and connected to the preload reservoir set at 15 mm Hg. These hearts were initially stabilized at 50 mmHg afterload for 10 minutes before acutely increasing afterload to 80 mmHg. For comparison, a limited number of mice were perfused with standard loading conditions consisting of a 12 mmHg preload and a 50 mmHg afterload (termed standard afterload because this is the usual afterload for murine working heart experiments in our lab). An SPR-PV-Catheter (SPR-869 or -839 Millar Pressure-Volume Systems, Millar Instruments, Inc, Houston, TX) was inserted into the left ventricle through the apex for continuous measurement of left ventricular pressure (LVP). The hearts were then switched to the antegrade work-performing mode with perfusion into the left atrium of semi-recirculating PSS with the 13C-labeled metabolic substrates discussed below. Only aortic outflow that bypasses the coronary arteries is recirculated. Left atrial inflow was measured with a flow probe (T403; Transonic Systems, Ithaca, NY) and aortic (not including coronary flow) flow was measured via 30 second timed collections. Coronary flow was calculated as the difference between left atrial inflow and aortic flow although this measurement is affected by perfusate leak from the left atrium. Every 10 minutes, left atrial influent and coronary effluent was collected for determination of PO2, PCO2, and pH with an ABL800 blood gas analyzer (Radiometer, Copenhagen, Denmark). Continuously recorded parameters are left ventricular (LV) pressure (mmHg), HR (beats/min), and rate of LV contraction and relaxation (+-dP/dt, mmHg/s). Developed pressure (DP) was calculated as the maximum LV pressure subtracted by LV end diastolic pressure. Cardiac work was calculated as the cardiac output times the developed pressure. Myocardial oxygen consumption (MVO2) was calculated as MVO2 = CFx[(PaO2-PvO2)x(c/760)]xheart weight, where CF is coronary flow (ml min-1g wet weight-1), (PaO2-PvO2) is the difference in the partial pressure of oxygen (PO2, mmHg) between perfusate and coronary effluent, and c is the Bunsen solubility coefficient of O2 in perfusate at 37 C (22.7 microl O2 atm-1 ml-1). Cardiac efficiency was defined as cardiac work/MVO2.                     Experimental Protocol for Working Hearts As noted, we wanted to detail carbohydrate oxidation. Accordingly, we perfused the hearts with PSS solution with insulin and 13C-labeled substrates in addition to unlabeled sodium palmitate (0.3 mmol/l): [1-13C] glucose (glucose, 5.5 mmol/l), [U-13C]sodium lactate (lactate, 1.2 mmol/l) and [2-13C] sodium pyruvate (pyruvate, 0.2 mmol/l). The rationale for this perfusion strategy was previously employed by Lloyd et al. The palmitate was bound to 0.75% (wt/vol) delipidated bovine serum albumin reconstituted with deionized water. We performed working heart experiments in Young and Old mice. To test whether TH reverses metabolic and functional changes from aging, another group of Old mice received TH supplementation for 3 weeks (Old-TH) prior to working heart experiments. 13C Magnetic Resonance Spectroscopy (MRS) and Isotopomer Analyses to Determine Substrate Utilization for the Citric Acid Cycle  Myocardial tissue was extracted as previously described. Substrate metabolism was established by using 13C-labeled substrates in combination with NMR spectroscopy. Glutamate isotopomer analyses provide Fc of acetyl-CoA to the citric acid cycle from up to three differentially labeled substrates as well as the unlabeled components. Lyophilized heart extracts were dissolved in 99.8% D2O for decoupled 13C NMR spectral acquisition. NMR free-induction decays (FIDs) were acquired on a Varian Direct Drive (VNMRS) 600 MHz spectrometer (Varian Inc., Palo Alto, CA) equipped with a Dell Precision 390 Linux workstation running VNMRJ 2.2C. The spectrometer system was outfitted with a Varian triple resonance salt-tolerant cold probe with a cold carbon preamplifier. A Varian standard one dimensional carbon direct observe sequence with proton decoupling was used to collect data on each sample. Final spectra were accumulations of 4800 individual FIDs. Each FID was induced using a nonselective, 45-degree excitation pulse (7.05 us @ 58 dB), with an acquisition time of 1.3 seconds, a recycle delay of 3 seconds, and a spectral width of 224.1 ppm. FIDs were baseline corrected, zero-filled, and Fourier transformed. All of the labeled carbon resonances (C1-C5) of glutamate were integrated with the Lorentzian peak fitting subroutine in the acquisition program (NUTS, Acorn NMR, Livermore, CA). The individual integral values were used as starting parameters for the citric acid cycle analysis fitting algorithm tcaCALC, kindly provided by Drs. Mallow and Jeffrey. This algorithm provided the Fc for each substrate in the acetyl-CoA pool entering citric acid cycle. The absolute flux for the citric acid cycle and oxidative flux for individual substrates were calculated from MVO2 and the stoichiometric relationships between oxygen consumption and citrate formation from the various substrates as described by Jeffrey et al. The calculated value accounts for changes in oxidative rates, as well as the anaplerotic contribution to the citric acid cycle. Briefly, MVO2/citric acid cycleflux = FcpalmitateRpalmitate+FclactateRlactate+FcpyruvateRpyruvate+ FcglucoseRglucose+yRa, where the Fcs are fractional contributions for each substrate determined by isotopomer analysis and R is an assumed respiratory quotient (Rpalmitate = 2.8, Rlactate = 3, Rpyruvte = 3, and Rglucose = 2.9). yRa represents the anaplerotic component. The calculated citric acid cycleflux was normalized for each substrate by dividing the total citric acid cycleflux by the number of acetyl-CoA esters yielded per molecule of that substrate (palmitate = 8, lactate = 1, glucose = 2, pyruvate = 1) and multiplying with the corresponding Fc. The unlabeled Fc was used for the palmitate Fc in this formula for reasons noted in the Discussion.                                       Immunoblotting Fifty micrograms of total protein extract from mouse heart tissue was electrophoresed along with a lane of molecular weight size markers (Novex Sharp Pre-stained, Invitrogen) in 4.5% stacking and 10% resolving SDS-polyacrylamide gels. The gels were then electroblotted onto PVDF-Plus membranes. The Western blot was blocked for 1 h at room temperature with 5% nonfat milk in Tris-buffered saline (TBS) plus Tween 20 (TBST; 10 mM Tris HCl, pH 7.5, 150 mM NaCl, and 0.05% Tween 20), followed by an incubation with primary antibody diluted in the above blocking solution. After four 5-min washes with TBST, the membrane was incubated at room temperature for 1 h with the appropriate IgG secondary antibody conjugated to horseradish peroxidase (HRP). The membranes were rinsed four times for 5 min with TBST and visualized with enhanced chemiluminescence upon exposure to Kodak.  BioMax Light ML-1 film. Membranes were stripped by washing for 30 min with 100 mM 2-mercaptoethanol, 2% (wt/vol) SDS, 62.5 mM Tris HCl, pH 6.7, at 70 C, followed by three 10-min washes with TBS for additional antibody analysis. All immunoblots were normalized to alpha-tubulin protein (Santa Cruz Biotechnology, Inc, Santa Cruz, CA) levels, which are shown. The primary antibodies used in this study were PPARalpha (Santa Cruz Biotechnology, Inc, Santa Cruz, CA),PDK4 (personal gift from Robert Harris, Indiana University School of Medicine, Indianapolis, IN), CD36 (Novus Biologicals, Littleton, CO), liver (l)- and muscle (m) specific carnitine palmitoyltransferase 1 (lCPT-1 and mCPT-1; personal gifts from Gebre Woldegiorgis, Oregon Health Sciences University, Beaverton, OR). RNA Extraction, Labeling, and Quality Control Total mRNA was extracted from the frozen heart tissue using Trizol (Life Technologies, NY). Contaminating DNA was removed by deoxyribonuclease I (Thermo Scientific, MA) digestion of the RNA. An average of 15-20 microg of total RNA was obtained from 20 mg of frozen mouse heart tissue. Quantity, OD260/280 and OD 260/230, of total RNA was assessed by UV spectrophotometer. RT-qPCR Analyses Primers targeting CD36 (PPM03796D-200), Actin (PPM02945B-200), 18S (72041A-200), muscle specific CPT-1(PPM57688A-200), liver specific CPT-1 (PPM25930C-200), long-chain acyl coenzyme A synthetase (ACSL1; PPM33300G-200) were purchased from Qiagen, CA. First strand cDNA synthesis was performed using the iScript  cDNA synthesis kit (Bio-Rad, CA). The second step quantitative PCR was performed using RT2 SYBR Green Fluor qPCR Mastermix (Qiagen, CA).   The level of transcripts for the constitutive housekeeping gene products 18S rRNA and actin was quantitatively measured in each sample to control for sample-to-sample differences in RNA concentration. PCR data are reported as fold difference from Old using the gene expression analysis methodology. The rt-qPCR was performed using the Bio-Rad icycler iQ. Statistical Analysis Reported values are means +- standard error (SE) in figures and text. Data were analyzed with a single factor ANOVA for multiple comparisons. If significance was identified between the groups by ANOVA (P-value <0.05); then a two-way unpaired t-test was performed. A two way unpaired t-test was performed for Western blots and RT-qPCR. Paired t-tests were used to compare serial echocardiographic measurements, TH levels and free fatty acids within individual mice. Criterion for significance was p<0.05 for all comparisons. Results Morphometric and Echocardiographic Data Prolonged exposure to high TH levels can cause pathologic hypertrophy. We assessed for this with morphometric and echocardiographic studies. TH supplementation did not change heart weight to body weight ratios in Old mice (Old 4.9+-0.5 mg/g versus Old-Th 4.8+-0.3 mg/g, P>0.05). There were no changes in the interventricular septum or posterior wall thickness compared to baseline (pre-treatment) with TH supplementation (Table 1). Accordingly, our TH dosing did not cause hypertrophy. Echocardiographic measures of systolic and diastolic function were also unchanged from baseline (Table 1). Of note, these were sedated echocardiograms in the unstressed state. The heart rate measured during the echocardiograms trended toward being increased after TH supplementation (p = 0.085).     Echocardiographic analysis of the left ventricle at baseline and after thyroid hormone treatment. Baseline\tTH\t \tHR, BPM\t453+-19\t510+-16\t \tMV A wave, mm/s\t421+-59\t471+-33\t \tMV E Wave, mm/s\t574+-74\t626+-24\t \tMV E/A ratio\t1.4+-0.2\t1.3+-0.1\t \tIVST, mm\t0.86+-0.05\t0.87+-0.01\t \tEDD, mm\t3.9+-0.1\t4.0+-0.0\t \tESD, mm\t2.7+-0.1\t2.8+-0.1\t \tPWT, mm\t1.0+-0.1\t1.1+-0.1\t \tLV%FS\t30+-2\t30+-1     HR, heart rate; BPM, beats per minute; MV, mitral valve; IVST, interventricular septal thickness; EDD, end diastolic dimension; ESD, end systolic dimension; PWT, posterior wall thickness; LV%FS, left ventricular per cent fractional shortening. Values are means+-SEM. n = 4 paired mice.     Circulating Thyroids Hormone and Free Fatty Acid Levels We determined plasma thyroid hormone levels before and after 3 weeks of Thyroid Powder administration (n = 4-5 mice). T3 is that active form of thyroid hormone. TH supplementation significantly increased paired plasma T3 from 0.8+-0.1 ng/ml at baseline to 1.2+-0.2 ng/ml after treatment (p<0.05). T4 is the precursor to T3. T4 levels significantly decreased from 35.0+-0.5 ng/ml before treatment to 15.0+-1.7 ng/ml after supplementation (p<0.05) suggesting inhibition of the pituitary-thyroid axis by our exogenous thyroid hormone supplementation. Circulating free fatty acid levels did not change from baseline (baseline 997+-280 microM versus TH supplementation 1073+-322 microM). Cardiac Function during the Working Heart Experiments Ex Vivo functional assessments were made during the working heart perfusions. All reported values are after 20 minutes of stable left atrial infusion. At high afterload, -dP/dT was decreased in Old versus Young (Table 2). TH not only abrogated this decrease in -dP/dT but significantly increased +dP/dT max compared to Young and improved multiple measures of cardiac function in comparison to the Old group (Table 2). Of note, TH did not increase heart rate in the isolated heart perfusions. For comparison, we performed a limited number of working heart experiments at standard afterload in the Young and Old mice only. There were no functional differences between the groups at standard afterload with the exception of decreased myocardial oxygen consumption in Old (Table 3).    Functional measurement during isolated working heart with 13C-labeled substrates at high afterload (80 mmHg). Young\tOld\tOld-TH\t \tHeart rate (BPM)\t414+-16\t432+-13\t407+-18\t \t+dP/dTmax (mmHg/sec)\t5582+-177*\t5154+-190*\t6531+-255\t \t-dP/dTmin (mmHg/sec)\t-5174+-123\t-4542+-198*#\t-5507+-201\t \tPower (ml/min)*mmHg\t1483+-151\t1260+-131*\t1701+-130\t \tAortic flow (ml/min)\t9.3+-0.3\t8.0+-0.7\t10.7+-0.6\t \tCoronary flow (ml/min)\t5.3+-1.0\t4.5+-0.5\t5.4+-0.6\t \tMVO2 (micromol/g wet weight/min)\t11.7+-1.0\t9.8+-1.0\t11.2+-0.8\t \tEfficiency (ml*mmHg/micromol O2/g)\t121+-10*\t130+-8*\t154+-8     Values are means+-SEM. N = 7-9 per group.       p<0.05 versus Old-TH, p<0.05 versus Young. Functional measurement during isolated working heart with 13C-labeled substrates at standard afterload (50 mmHg). Young\tOld\t \tHeart rate(BPM)\t404+-11\t357+-21\t \t+dP/dTmax (mmHg/sec)\t4060+-195\t4426+-423\t \t-dP/dTmin (mmHg/sec)\t-3684+-124\t-4034+-243\t \tPower (ml/min)*mmHg\t1280+-176\t1273+-102\t \tAortic flow (ml/min)\t10.8+-1.1\t10.0+-0.1\t \tCoronary flow (ml/min)\t3.9+-0.7\t3.5+-0.3\t \tMVO2 (micromol/g wet weight/min)\t9.8+-0.5\t6.8+-0.2*\t \tEfficiency (ml*mmHg/micromol O2/g)\t149+-6\t188+-15     Efficiency is defined as cardiac power/oxygen consumption. MVO2, Myocardial oxygen consumption. Values are means+-SEM. N = 4 per group.     p<0.05. Fc of Acetyl-CoA to the Citric Acid Cycle and Substrate Flux We determined the Fc of acetyl-CoA to the citric acid cycle for each studied substrate. Of note, glycolytic breakdown of [1-13C] glucose generates one labeled and one unlabeled acetyl-CoA molecule. The reported glucose Fc mathematically accounts for this fact. Since the remaining unlabeled Fc is predominately palmitate, we reported this value as palmitate Fc. As noted, we wanted to determine whether acutely increasing afterload affects substrate contribution to the citric acid cycle (Figure 1B). Palmitate Fc was decreased in Old versus Young with no significant changes in the other substrates. Thyroid hormone supplementation (Old-TH) increased palmitate Fc compared to Old alone. Pyruvate and lactate Fc were both significantly decreased in Old-TH versus Young and Old. Overall citric acid cycle flux was greatest in the Young (Table 4). There was a trend towards increased CAC flux in Old-TH versus Old (p = 0.1). Thyroid hormone increased palmitate flux to similar levels as the Young group. However, lactate flux was reduced in both Old and Old-TH groups compared to Young and also in Old-TH versus Old.     Fractional contribution (Fc) to the citric acid cycle for unlabeled substrates (predominately palmitate), pyruvate, glucose and lactate. (A) Young, Old and Old-TH at high afterload (n = 7-9 per group). (B) Young and Old mice at standard afterload (n = 4-5 per group). Values are means+-SEM. *p<0.05 between indicated groups.             Flux rates for total citric acid cycle (CAC) and individual substrates at high afterload. Young\tOld\tOld-TH\t \tCAC\t4.3+-0.1\t3.1+-0.2*\t3.7+-0.2*\t \tPalmitate\t0.09+-0.03\t0.03+-0.01*#\t0.09+-0.00\t \tPyruvate\t0.48+-0.03\t0.43+-0.03\t0.34+-0.02*$\t \tGlucose\t0.9+-0.1\t0.8+-0.1\t0.9+-0.1\t \tLactate\t1.2+-0.1\t0.9+-0.0*\t0.8+-0.1*     Units are micromol/g/min. Values are means+-SEM. n = 5-8 per group.    p<0.05 versus Young; p<0.05 versus Old-TH; p<0.05 versus Old. We also performed metabolic studies at the standard afterload in Young and Old mice (Figure 1B). Palmitate Fc was significantly decreased in Old versus Young. Although the individual carbohydrates did not differ between groups, the total carbohydrate Fc (calculated as lactate Fc+glucose Fc+pyruvate Fc) was significantly greater in Old compared to Young (0.94+-0.01 versus 0.87+-0.02, respectively). Overall citric acid cycle flux was decreased in the Old mice which led to diminished palmitate and glucose flux (Table 5). Flux rates for total citric acid cycle (CAC) and individual substrates at standard afterload. Young\tOld\t \tCAC\t3.4+-0.2*\t2.4+-0.1\t \tPalmitate\t0.06+-0.01*\t0.02+-0.00\t \tPyruvate\t0.37+-0.01\t0.32+-0.06\t \tGlucose\t0.8+-0.1*\t0.5+-0.0\t \tLactate\t1.0+-0.0\t0.8+-0.1     Units are micromol/g/min. Values are means+-SEM. n = 4 per group. * p<0.05.  Protein Expression and RT-qPCR Our prior study showed that the metabolic changes from aging were associated with decreased total protein levels of PPARalpha and PDK4. Accordingly, we determined whether the metabolic changes from TH were related to changes in these proteins. As shown in Figure 2, TH did not alter total protein levels of either. The fatty acid cellular membrane transport protein CD36 and mitochondria transporter CPT-1 (both mCPT-1 and lCPT-1) protein levels were also unchanged. Further, RT-PCR did not detect any differences in steady-state mRNA expression of CD36, mCPT-1 and lCPT-1 as well as long-chain acyl coenzyme A synthetase (Figure 3). Expression of proteins involved in the regulation of fatty acid metabolism . All values are arbitrary units normalized to alpha-tubulin (tubulin) as shown in the figure. The approximate molecular weight of each protein is noted. n = 4-5 per group. No differences were found between the groups for any protein. PPAR, peroxisome proliferator-activated receptor; PDK, pyruvate dehydrogenase kinase; lCPT-I, liver-specific carnitine palmitoyltransferase 1; mCPT-1, muscle-specific CPT-1. Note that CD36 and lCPT-1 were run on the same membrane after antibody stripping.    Determination of steady-state mRNA levels for genes involved in fatty acid metabolism. All values are fold difference from Old. N = 4 per group. No differences were found between the groups. ACLS, long-chain acyl coenzyme A synthetase; lCPT-1, liver-specific carnitine palmitoyltransferase 1; mCPT-1, muscle-specific CPT-1.     Discussion Our primary objective was to test the hypothesis that disturbances in thyroid hormone homeostasis mediate the metabolic phenotype in aging hearts and contribute to cardiac dysfunction. Specifically, we investigated whether TH treatment alters oxidative metabolism in aged mice and whether this could improve the myocardial response to increased stress. We reconfirmed that aging impairs fatty acid utilization and oxidation at standard afterload. The aged heart maintained cardiac function during the ex vivo working heart evaluations. Accordingly, we focused on stressing the aged heart to investigate the metabolic and functional changes, which might occur at higher workload. Thus, we acutely increased afterload during working heart perfusions from 50 mmHg to 80 mmHg. Functionally, aging reduced -dP/dT compared to Young, while other recorded functional measurements were similar. The aged heart exhibited reduced diastolic function that is apparent only when stressed. This result is in accordance with the finding that diastolic relaxation abnormalities are typically the earliest manifestation of cardiac dysfunction in aged human hearts. These changes in diastolic function have been attributed to down-regulation of phospholamban and upregulation of SERCA. Koonen et al. also acutely increased afterload from 50 mmHg to 70 mmHg in aged hearts and found that both systolic and diastolic function was reduced in aged mice compared to controls. However, they included isoproterenol in the perfusate which may account for the differences from the current study.   We previously showed that fatty acid oxidation is impaired in aged mice during standard afterload conditions. Elucidation of carbohydrate contributions to the citric acid cycle was a focus of the current study. Therefore, we did not specifically label palmitate, as we can only discriminate three labels using the isotopic analyses. However, the unlabeled Fc for Young and Old were both similar to the free fatty acid Fc in our prior study when we perfused with glucose and 13C labeled free fatty acids, ketones, and lactate. Thus, we logically assumed that this unlabeled fraction represented the palmitate contribution. The reduction in this unlabeled (palmitate) Fc persisted during the acute elevations in afterload. Due to the 13C labeling considerations discussed earlier, ketones were not supplied in the current experiments. To make up for the lack of ketones, Young and Old increased carbohydrate utilization. Overall citric acid cycle flux decreased with aging primarily due to reduced palmitate flux. The reduced citric acid cycle flux could decrease ATP production and contribute to the mildly abnormal diastolic function with aging. The totality of this data suggests that metabolic changes from aging may mildly affect cardiac function. Our previous studies suggested that mild thyroid hormone deficiency in aged mice inhibits fatty acid oxidation through transcriptionally mediated downregulation of PPARalpha. The alterations in PPARalpha in turn suppress PDK4, which should then disinhibit pyruvate dehydrogenase complex by lack of phosphorylating enzyme. However, the prior study used L-lactic-3-[13C] acid as the primary carbohydrate tracer. In the current experiments, we sought to determine if other specific differences in the carbohydrate pathways occur and are responsible for changes in carbohydrate flux in aging, or if these modifications are ameliorated by thyroid hormone supplementation. Thus, we used a complex labeling pattern which reveals individual fractional contributions from glucose, pyruvate, and lactate. The data indicate that the aging heart uniformly maintains flux through these carbohydrates during transition to high work. The inability to increase total citric acid cycle flux rests with continued marked suppression of fatty acid oxidation. The primary focus of our current study was whether TH supplementation reverses aging-induced changes in myocardial metabolism and function. This is clinically relevant for the problem of subclinical hypothyroidism and heart failure. Our previous work demonstrated a nearly 30% reduction in total T3 levels in aged mice. T3 is the active form of thyroid hormone. Our supplementation protocol successfully increased plasma T3 levels. It is unlikely that we caused important hyperthyroidism since the echocardiographic and morphometric data did not demonstrate cardiac hypertrophy. Thyroid hormone supplementation also suppressed T4 levels. Chen et al. also showed that pharmacologically elevating T3 levels suppresses T4 in rats presumably by inhibiting the pituitary-thyroid axis. TH did not alter cardiac function in vivo as measured by sedated (unstressed) echocardiograms. This was not surprising since we did not detect functional differences between the Young and Old groups ex vivo at standard afterload. However, our ex vivo analysis at high afterload showed that multiple measures of cardiac function improved with TH. The Old-TH group even had greater dP/dT and efficiency of oxygen utilization compared to Young. TH supplementation clearly reversed the aging-induced cardiac dysfunction apparent at high afterload. Cardiac oxidative metabolism was also altered by TH supplementation. Old-TH palmitate Fc and flux were significantly increased to a value similar to the Young group. Thus, the improvement in cardiac function was accompanied by increased fatty acid oxidation and a trend toward increased citric acid cycle flux. Thyroid hormone also appears to selectively suppress pyruvate and lactate oxidation. These metabolic changes with TH supplementation are consistent with previous findings from our lab where rat thyroidectomy selectively decreased free fatty acid flux. T3 rapidly altered substrate flux and fractional contributions by shifting utilization patterns away from the pyruvate dehydrogenase pathway and enhancing fatty acid oxidation in both hypothyroid and euthyroid rats. Further, acute thyroid hormone administration reduced lactate Fc and flux in these studies as well. Pyruvate was not previously evaluated. TH supplementation could improve cardiac function through multiple mechanisms including changes in the excitation-contraction and transport proteins discussed earlier. Augmenting fatty acid oxidation may also be beneficial. For example, Kolwicz et al. recently showed that preventing the decline in fatty acid oxidation during pressure overload hypertrophy preserves cardiac function. Work from our laboratory showed that fatty acid oxidation is increased in c-Myc induced compensated hypertrophy. The mechanisms responsible for this favorable response are incompletely understood. Fatty acids are more carbon efficient and produce more ATP per mole than carbohydrates. Therefore increased carbohydrate reliance could result in an energy deficient state and impaired function. Accordingly, TH supplementation may have improved myocardial energy status and made the hearts more tolerant to stress. Future studies are indicated to determine whether mild TH supplementation can also increase fatty acid oxidation in non-aged hearts subjected to stressors such as aortic constriction or myocardial infarction. Limitations We were unable to identify the mechanisms for the changes in cardiac metabolism with TH. Our previous work showed that aging reduced protein levels of PPARalpha and PDK4; which would be consistent with decreased fatty acid oxidation. However, levels of these proteins were not altered by TH. Fatty acid oxidation is regulated at multiple steps from cellular uptake to mitochondrial transport to beta-oxidation. Kooken et al found that fatty acid uptake is greater in aged mice that younger mice even though fatty acid oxidation is limited. Therefore, it is doubtful that TH mediates its metabolic effects through further increases in fatty acid uptake. In support of this, we did not find changes in CD36 protein and steady-state mRNA levels. There were also no differences in steady state mRNA levels of lCPT-1, mCPT-1 and ACLS as well as protein levels of mCPT-1 and lCPT-1. TH supplementation also decreased lactate and pyruvate utilization without affecting glucose oxidation. This suggests that the TH-mediated effect on carbohydrate oxidation does not occur at the pyruvate dehydrogenase complex, since this should affect all carbohydrates to a similar degree. Additional work is necessary to determine whether this metabolic phenotype is due to post-translational modifications or if other enzymes are transcriptionally affected by TH. Conclusions Aging causes a decrease in fatty acid oxidation which is associated with mildly reduced cardiac function at high afterload. The aged heart uniformly increases utilization of lactate, glucose and pyruvate in place of the fatty acids. TH supplementation increases fatty acid oxidation while improving measures of cardiac function. These results suggest an important metabolic effect from TH supplementation in aged mice, which improves functional capacity at high workload. References The clinical significance of subclinical thyroid dysfunction Subclinical thyroid dysfunction and the risk of heart failure events: an individual participant data analysis from 6 prospective cohorts Hyland KA, Arnold AM, Lee JS, Cappola AR (2012) Persistent Subclinical Hypothyroidism and Cardiovascular Risk in the Elderly: The Cardiovascular Health Study. J Clin Endocrinol Metab. Effects of subclinical thyroid dysfunction on the heart Effect of levothyroxine on cardiac function and structure in subclinical hypothyroidism: a double blind, placebo-controlled study Effects of thyroid hormone on the cardiovascular system Thyroid disease and the heart A critical role for PPARalpha-mediated lipotoxicity in the pathogenesis of diabetic cardiomyopathy: modulation by dietary fat content Transcriptional activation of energy metabolic switches in the developing and hypertrophied heart Fatty acid oxidation by isolated perfused working hearts of aged rats Impact of aging on substrate metabolism by the human heart CD36 expression contributes to age-induced cardiomyopathy in mice Mitochondrial metabolism and substrate competition in the aging Fischer rat heart Aging impairs myocardial fatty acid and ketone oxidation and modifies cardiac functional and metabolic responses to insulin in mice Thyroid hormone at supra-physiological dose optimizes cardiac geometry and improves cardiac function in rats with old myocardial infarction Olson AK, Ledee D, Iwamoto K, Kajimoto M, O'Kelly Priddy C, et al.. (2012) C-Myc induced compensated cardiac hypertrophy increases free fatty acid utilization for the citric acid cycle. J Mol Cell Cardiol. Differential modulation of glucose, lactate, and pyruvate oxidation by insulin and dichloroacetate in the rat heart Cardioselective dominant-negative thyroid hormone receptor (Delta337T) modulates myocardial metabolism and contractile efficiency Contribution of various substrates to total citric acid cycle flux and anaplerosis as determined by 13C isotopomer analysis and O2 consumption in the heart 13C isotopomer model for estimation of anaplerotic substrate oxidation via acetyl-CoA Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes Mechanisms in endocrinology: Heart failure and thyroid dysfunction Congestive heart failure, dilated cardiac ventricles, and sudden death in hyperthyroidism Short term triiodo-L-thyronine treatment inhibits cardiac myocyte apoptosis in border area after myocardial infarction in rats Arterial and cardiac aging: major shareholders in cardiovascular disease enterprises: Part I: aging arteries: a \"set up\" for vascular disease Thyroid hormone markedly increases the mRNA coding for sarcoplasmic reticulum Ca2+-ATPase in the rat heart Thyroid hormone controls myocardial substrate metabolism through nuclear receptor-mediated and rapid posttranscriptional mechanisms Triidothyronine and epinephrine rapidly modify myocardial substrate selection: a (13)C isotopomer analysis Cardiac-specific deletion of acetyl CoA carboxylase 2 prevents metabolic remodeling during pressure-overload hypertrophy The failing heart-an engine out of fuel   Myocardial substrate metabolism in the normal and failing heart",
+    "entities": [
+        {
+            "entityId": "50_60",
+            "span": {
+                "begin": 50,
+                "end": 60
+            },
+            "entityType": "drug",
+            "entityName": "Fatty Acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "159_173",
+            "span": {
+                "begin": 159,
+                "end": 173
+            },
+            "entityType": "disease",
+            "entityName": "hypothyroidism",
+            "id": "UMLS:C0020676"
+        },
+        {
+            "entityId": "197_203",
+            "span": {
+                "begin": 197,
+                "end": 203
+            },
+            "entityType": "species",
+            "entityName": "humans",
+            "id": "UMLS:C1300203"
+        },
+        {
+            "entityId": "208_212",
+            "span": {
+                "begin": 208,
+                "end": 212
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "254_267",
+            "span": {
+                "begin": 254,
+                "end": 267
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "299_309",
+            "span": {
+                "begin": 299,
+                "end": 309
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "364_386",
+            "span": {
+                "begin": 364,
+                "end": 386
+            },
+            "entityType": "gene",
+            "entityName": "pyruvate dehydrogenase",
+            "id": "UMLS:C0034343"
+        },
+        {
+            "entityId": "388_391",
+            "span": {
+                "begin": 388,
+                "end": 391
+            },
+            "entityType": "gene",
+            "entityName": "PDH",
+            "id": "UMLS:C1418818"
+        },
+        {
+            "entityId": "684_688",
+            "span": {
+                "begin": 684,
+                "end": 688
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "935_946",
+            "span": {
+                "begin": 935,
+                "end": 946
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "980_983",
+            "span": {
+                "begin": 980,
+                "end": 983
+            },
+            "entityType": "drug",
+            "entityName": "13C",
+            "id": "UMLS:CHEBI:36928"
+        },
+        {
+            "entityId": "992_999",
+            "span": {
+                "begin": 992,
+                "end": 999
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "1001_1009",
+            "span": {
+                "begin": 1001,
+                "end": 1009
+            },
+            "entityType": "drug",
+            "entityName": "pyruvate",
+            "id": "UMLS:C0244104"
+        },
+        {
+            "entityId": "1011_1018",
+            "span": {
+                "begin": 1011,
+                "end": 1018
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "1033_1042",
+            "span": {
+                "begin": 1033,
+                "end": 1042
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "1047_1054",
+            "span": {
+                "begin": 1047,
+                "end": 1054
+            },
+            "entityType": "gene",
+            "entityName": "insulin",
+            "id": "UMLS:C0021641"
+        },
+        {
+            "entityId": "1072_1076",
+            "span": {
+                "begin": 1072,
+                "end": 1076
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "1192_1201",
+            "span": {
+                "begin": 1192,
+                "end": 1201
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "1240_1252",
+            "span": {
+                "begin": 1240,
+                "end": 1252
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "1281_1285",
+            "span": {
+                "begin": 1281,
+                "end": 1285
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "1304_1313",
+            "span": {
+                "begin": 1304,
+                "end": 1313
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "1329_1350",
+            "span": {
+                "begin": 1329,
+                "end": 1350
+            },
+            "entityType": "disease",
+            "entityName": "diastolic dysfunction",
+            "id": "UMLS:C0520863"
+        },
+        {
+            "entityId": "1462_1466",
+            "span": {
+                "begin": 1462,
+                "end": 1466
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "1593_1603",
+            "span": {
+                "begin": 1593,
+                "end": 1603
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "1693_1705",
+            "span": {
+                "begin": 1693,
+                "end": 1705
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "1758_1762",
+            "span": {
+                "begin": 1758,
+                "end": 1762
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "1838_1848",
+            "span": {
+                "begin": 1838,
+                "end": 1848
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "1873_1899",
+            "span": {
+                "begin": 1873,
+                "end": 1899
+            },
+            "entityType": "disease",
+            "entityName": "Subclinical hypothyroidism",
+            "id": "UMLS:C0271790"
+        },
+        {
+            "entityId": "1949_1976",
+            "span": {
+                "begin": 1949,
+                "end": 1976
+            },
+            "entityType": "gene",
+            "entityName": "thyroid stimulating hormone",
+            "id": "UMLS:C1535531"
+        },
+        {
+            "entityId": "2038_2046",
+            "span": {
+                "begin": 2038,
+                "end": 2046
+            },
+            "entityType": "drug",
+            "entityName": "thyroxin",
+            "id": "UMLS:C0040165"
+        },
+        {
+            "entityId": "2081_2097",
+            "span": {
+                "begin": 2081,
+                "end": 2097
+            },
+            "entityType": "drug",
+            "entityName": "triiodothyronine",
+            "id": "UMLS:C0041014"
+        },
+        {
+            "entityId": "2338_2362",
+            "span": {
+                "begin": 2338,
+                "end": 2362
+            },
+            "entityType": "disease",
+            "entityName": "congestive heart failure",
+            "id": "UMLS:C0018802"
+        },
+        {
+            "entityId": "2364_2372",
+            "span": {
+                "begin": 2364,
+                "end": 2372
+            },
+            "entityType": "drug",
+            "entityName": "Thyroxin",
+            "id": "UMLS:C0040165"
+        },
+        {
+            "entityId": "2658_2695",
+            "span": {
+                "begin": 2658,
+                "end": 2695
+            },
+            "entityType": "gene",
+            "entityName": "sarcoplasmic reticulum calcium ATPase",
+            "id": "UMLS:C0916181"
+        },
+        {
+            "entityId": "2697_2703",
+            "span": {
+                "begin": 2697,
+                "end": 2703
+            },
+            "entityType": "gene",
+            "entityName": "SERCA2",
+            "id": "UMLS:C1412638"
+        },
+        {
+            "entityId": "2706_2730",
+            "span": {
+                "begin": 2706,
+                "end": 2730
+            },
+            "entityType": "gene",
+            "entityName": "alpha-myosin heavy chain",
+            "id": "UMLS:C0443741"
+        },
+        {
+            "entityId": "2760_2766",
+            "span": {
+                "begin": 2760,
+                "end": 2766
+            },
+            "entityType": "drug",
+            "entityName": "sodium",
+            "id": "UMLS:C3714642"
+        },
+        {
+            "entityId": "2767_2776",
+            "span": {
+                "begin": 2767,
+                "end": 2776
+            },
+            "entityType": "drug",
+            "entityName": "potassium",
+            "id": "UMLS:C0032821"
+        },
+        {
+            "entityId": "2799_2808",
+            "span": {
+                "begin": 2799,
+                "end": 2808
+            },
+            "entityType": "drug",
+            "entityName": "potassium",
+            "id": "UMLS:C0032821"
+        },
+        {
+            "entityId": "2819_2831",
+            "span": {
+                "begin": 2819,
+                "end": 2831
+            },
+            "entityType": "gene",
+            "entityName": "malic enzyme",
+            "id": "UMLS:C0065558"
+        },
+        {
+            "entityId": "2836_2871",
+            "span": {
+                "begin": 2836,
+                "end": 2871
+            },
+            "entityType": "gene",
+            "entityName": "atrial and brain natriuretic factor",
+            "id": "UMLS:C0054015"
+        },
+        {
+            "entityId": "2931_2944",
+            "span": {
+                "begin": 2931,
+                "end": 2944
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "3298_3311",
+            "span": {
+                "begin": 3298,
+                "end": 3311
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "3339_3362",
+            "span": {
+                "begin": 3339,
+                "end": 3362
+            },
+            "entityType": "disease",
+            "entityName": "Metabolic abnormalities",
+            "id": "UMLS:C0000768"
+        },
+        {
+            "entityId": "3381_3395",
+            "span": {
+                "begin": 3381,
+                "end": 3395
+            },
+            "entityType": "disease",
+            "entityName": "cardiomyopathy",
+            "id": "UMLS:C0878544"
+        },
+        {
+            "entityId": "3630_3633",
+            "span": {
+                "begin": 3630,
+                "end": 3633
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "3671_3678",
+            "span": {
+                "begin": 3671,
+                "end": 3678
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "3708_3714",
+            "span": {
+                "begin": 3708,
+                "end": 3714
+            },
+            "entityType": "drug",
+            "entityName": "oleate",
+            "id": "UMLS:C0220884"
+        },
+        {
+            "entityId": "3796_3805",
+            "span": {
+                "begin": 3796,
+                "end": 3805
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "3813_3824",
+            "span": {
+                "begin": 3813,
+                "end": 3824
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "3849_3853",
+            "span": {
+                "begin": 3849,
+                "end": 3853
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "3874_3878",
+            "span": {
+                "begin": 3874,
+                "end": 3878
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "3895_3904",
+            "span": {
+                "begin": 3895,
+                "end": 3904
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "4126_4131",
+            "span": {
+                "begin": 4126,
+                "end": 4131
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "4153_4160",
+            "span": {
+                "begin": 4153,
+                "end": 4160
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "4162_4169",
+            "span": {
+                "begin": 4162,
+                "end": 4169
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "4171_4178",
+            "span": {
+                "begin": 4171,
+                "end": 4178
+            },
+            "entityType": "drug",
+            "entityName": "ketones",
+            "id": "UMLS:C0022634"
+        },
+        {
+            "entityId": "4188_4199",
+            "span": {
+                "begin": 4188,
+                "end": 4199
+            },
+            "entityType": "drug",
+            "entityName": "fatty acids",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "4201_4207",
+            "span": {
+                "begin": 4201,
+                "end": 4207
+            },
+            "entityType": "drug",
+            "entityName": "Ketone",
+            "id": "UMLS:C0022634"
+        },
+        {
+            "entityId": "4217_4227",
+            "span": {
+                "begin": 4217,
+                "end": 4227
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "4265_4272",
+            "span": {
+                "begin": 4265,
+                "end": 4272
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "4397_4409",
+            "span": {
+                "begin": 4397,
+                "end": 4409
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "4544_4555",
+            "span": {
+                "begin": 4544,
+                "end": 4555
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "4625_4629",
+            "span": {
+                "begin": 4625,
+                "end": 4629
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "4722_4736",
+            "span": {
+                "begin": 4722,
+                "end": 4736
+            },
+            "entityType": "disease",
+            "entityName": "hypothyroidism",
+            "id": "UMLS:C0020676"
+        },
+        {
+            "entityId": "4885_4908",
+            "span": {
+                "begin": 4885,
+                "end": 4908
+            },
+            "entityType": "disease",
+            "entityName": "cardiomyopathy of aging",
+            "id": "UMLS:C0878544"
+        },
+        {
+            "entityId": "5016_5027",
+            "span": {
+                "begin": 5016,
+                "end": 5027
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "5158_5168",
+            "span": {
+                "begin": 5158,
+                "end": 5168
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "5224_5236",
+            "span": {
+                "begin": 5224,
+                "end": 5236
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "5275_5287",
+            "span": {
+                "begin": 5275,
+                "end": 5287
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "5607_5615",
+            "span": {
+                "begin": 5607,
+                "end": 5615
+            },
+            "entityType": "species",
+            "entityName": "Children",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5674_5678",
+            "span": {
+                "begin": 5674,
+                "end": 5678
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "5839_5843",
+            "span": {
+                "begin": 5839,
+                "end": 5843
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "5958_5962",
+            "span": {
+                "begin": 5958,
+                "end": 5962
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "6056_6060",
+            "span": {
+                "begin": 6056,
+                "end": 6060
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "6413_6423",
+            "span": {
+                "begin": 6413,
+                "end": 6423
+            },
+            "entityType": "drug",
+            "entityName": "Fatty Acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "6647_6658",
+            "span": {
+                "begin": 6647,
+                "end": 6658
+            },
+            "entityType": "drug",
+            "entityName": "fatty acids",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "6690_6700",
+            "span": {
+                "begin": 6690,
+                "end": 6700
+            },
+            "entityType": "drug",
+            "entityName": "Fatty Acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "6825_6829",
+            "span": {
+                "begin": 6825,
+                "end": 6829
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "6874_6878",
+            "span": {
+                "begin": 6874,
+                "end": 6878
+            },
+            "entityType": "species",
+            "entityName": "Mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "6910_6920",
+            "span": {
+                "begin": 6910,
+                "end": 6920
+            },
+            "entityType": "drug",
+            "entityName": "isoflurane",
+            "id": "UMLS:C0022180"
+        },
+        {
+            "entityId": "7000_7010",
+            "span": {
+                "begin": 7000,
+                "end": 7010
+            },
+            "entityType": "drug",
+            "entityName": "isoflurane",
+            "id": "UMLS:C0022180"
+        },
+        {
+            "entityId": "7768_7772",
+            "span": {
+                "begin": 7768,
+                "end": 7772
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "7840_7848",
+            "span": {
+                "begin": 7840,
+                "end": 7848
+            },
+            "entityType": "drug",
+            "entityName": "ketamine",
+            "id": "UMLS:C0022614"
+        },
+        {
+            "entityId": "7864_7872",
+            "span": {
+                "begin": 7864,
+                "end": 7872
+            },
+            "entityType": "drug",
+            "entityName": "xylazine",
+            "id": "UMLS:C0043366"
+        },
+        {
+            "entityId": "8153_8157",
+            "span": {
+                "begin": 8153,
+                "end": 8157
+            },
+            "entityType": "drug",
+            "entityName": "NaCl",
+            "id": "UMLS:C0037494"
+        },
+        {
+            "entityId": "8163_8169",
+            "span": {
+                "begin": 8163,
+                "end": 8169
+            },
+            "entityType": "drug",
+            "entityName": "NaHCO3",
+            "id": "UMLS:C0074722"
+        },
+        {
+            "entityId": "8175_8178",
+            "span": {
+                "begin": 8175,
+                "end": 8178
+            },
+            "entityType": "drug",
+            "entityName": "KCl",
+            "id": "UMLS:C0032825"
+        },
+        {
+            "entityId": "8185_8190",
+            "span": {
+                "begin": 8185,
+                "end": 8190
+            },
+            "entityType": "drug",
+            "entityName": "MgSO4",
+            "id": "UMLS:C0024480"
+        },
+        {
+            "entityId": "8196_8203",
+            "span": {
+                "begin": 8196,
+                "end": 8203
+            },
+            "entityType": "drug",
+            "entityName": "NaH2PO4",
+            "id": "mesh:C018279"
+        },
+        {
+            "entityId": "8209_8218",
+            "span": {
+                "begin": 8209,
+                "end": 8218
+            },
+            "entityType": "drug",
+            "entityName": "D-glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "8228_8233",
+            "span": {
+                "begin": 8228,
+                "end": 8233
+            },
+            "entityType": "drug",
+            "entityName": "CaCl2",
+            "id": "mesh:D002122"
+        },
+        {
+            "entityId": "8510_8514",
+            "span": {
+                "begin": 8510,
+                "end": 8514
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "8685_8691",
+            "span": {
+                "begin": 8685,
+                "end": 8691
+            },
+            "entityType": "species",
+            "entityName": "murine",
+            "id": "UMLS:C0026809"
+        },
+        {
+            "entityId": "9093_9096",
+            "span": {
+                "begin": 9093,
+                "end": 9096
+            },
+            "entityType": "drug",
+            "entityName": "13C",
+            "id": "UMLS:CHEBI:36928"
+        },
+        {
+            "entityId": "10098_10104",
+            "span": {
+                "begin": 10098,
+                "end": 10104
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "10297_10303",
+            "span": {
+                "begin": 10297,
+                "end": 10303
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "10403_10405",
+            "span": {
+                "begin": 10403,
+                "end": 10405
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "10440_10442",
+            "span": {
+                "begin": 10440,
+                "end": 10442
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "10600_10612",
+            "span": {
+                "begin": 10600,
+                "end": 10612
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "10683_10690",
+            "span": {
+                "begin": 10683,
+                "end": 10690
+            },
+            "entityType": "gene",
+            "entityName": "insulin",
+            "id": "UMLS:C0021641"
+        },
+        {
+            "entityId": "10695_10698",
+            "span": {
+                "begin": 10695,
+                "end": 10698
+            },
+            "entityType": "drug",
+            "entityName": "13C",
+            "id": "UMLS:CHEBI:36928"
+        },
+        {
+            "entityId": "10743_10759",
+            "span": {
+                "begin": 10743,
+                "end": 10759
+            },
+            "entityType": "drug",
+            "entityName": "sodium palmitate",
+            "id": "UMLS:C0142904"
+        },
+        {
+            "entityId": "10774_10789",
+            "span": {
+                "begin": 10774,
+                "end": 10789
+            },
+            "entityType": "drug",
+            "entityName": "[1-13C] glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "10791_10798",
+            "span": {
+                "begin": 10791,
+                "end": 10798
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "10813_10834",
+            "span": {
+                "begin": 10813,
+                "end": 10834
+            },
+            "entityType": "drug",
+            "entityName": "[U-13C]sodium lactate",
+            "id": "UMLS:C1176295"
+        },
+        {
+            "entityId": "10836_10843",
+            "span": {
+                "begin": 10836,
+                "end": 10843
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "10861_10884",
+            "span": {
+                "begin": 10861,
+                "end": 10884
+            },
+            "entityType": "drug",
+            "entityName": "[2-13C] sodium pyruvate",
+            "id": "UMLS:C1576824"
+        },
+        {
+            "entityId": "10886_10894",
+            "span": {
+                "begin": 10886,
+                "end": 10894
+            },
+            "entityType": "drug",
+            "entityName": "pyruvate",
+            "id": "UMLS:C0244104"
+        },
+        {
+            "entityId": "10995_11004",
+            "span": {
+                "begin": 10995,
+                "end": 11004
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "11045_11065",
+            "span": {
+                "begin": 11045,
+                "end": 11065
+            },
+            "entityType": "gene",
+            "entityName": "bovine serum albumin",
+            "id": "UMLS:C0036774"
+        },
+        {
+            "entityId": "11158_11162",
+            "span": {
+                "begin": 11158,
+                "end": 11162
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "11258_11262",
+            "span": {
+                "begin": 11258,
+                "end": 11262
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "11348_11351",
+            "span": {
+                "begin": 11348,
+                "end": 11351
+            },
+            "entityType": "drug",
+            "entityName": "13C",
+            "id": "UMLS:CHEBI:36928"
+        },
+        {
+            "entityId": "11457_11468",
+            "span": {
+                "begin": 11457,
+                "end": 11468
+            },
+            "entityType": "drug",
+            "entityName": "Citric Acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "11579_11582",
+            "span": {
+                "begin": 11579,
+                "end": 11582
+            },
+            "entityType": "drug",
+            "entityName": "13C",
+            "id": "UMLS:CHEBI:36928"
+        },
+        {
+            "entityId": "11640_11649",
+            "span": {
+                "begin": 11640,
+                "end": 11649
+            },
+            "entityType": "drug",
+            "entityName": "Glutamate",
+            "id": "UMLS:C0220839"
+        },
+        {
+            "entityId": "11684_11694",
+            "span": {
+                "begin": 11684,
+                "end": 11694
+            },
+            "entityType": "drug",
+            "entityName": "acetyl-CoA",
+            "id": "mesh:D000105"
+        },
+        {
+            "entityId": "11702_11713",
+            "span": {
+                "begin": 11702,
+                "end": 11713
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "11859_11862",
+            "span": {
+                "begin": 11859,
+                "end": 11862
+            },
+            "entityType": "drug",
+            "entityName": "D2O",
+            "id": "UMLS:CHEBI:41981"
+        },
+        {
+            "entityId": "11877_11880",
+            "span": {
+                "begin": 11877,
+                "end": 11880
+            },
+            "entityType": "drug",
+            "entityName": "13C",
+            "id": "UMLS:CHEBI:36928"
+        },
+        {
+            "entityId": "12216_12222",
+            "span": {
+                "begin": 12216,
+                "end": 12222
+            },
+            "entityType": "drug",
+            "entityName": "carbon",
+            "id": "UMLS:C0007009"
+        },
+        {
+            "entityId": "12271_12277",
+            "span": {
+                "begin": 12271,
+                "end": 12277
+            },
+            "entityType": "drug",
+            "entityName": "carbon",
+            "id": "UMLS:C0007009"
+        },
+        {
+            "entityId": "12706_12712",
+            "span": {
+                "begin": 12706,
+                "end": 12712
+            },
+            "entityType": "drug",
+            "entityName": "carbon",
+            "id": "UMLS:C0007009"
+        },
+        {
+            "entityId": "12735_12744",
+            "span": {
+                "begin": 12735,
+                "end": 12744
+            },
+            "entityType": "drug",
+            "entityName": "glutamate",
+            "id": "UMLS:C0220839"
+        },
+        {
+            "entityId": "12938_12949",
+            "span": {
+                "begin": 12938,
+                "end": 12949
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "13093_13103",
+            "span": {
+                "begin": 13093,
+                "end": 13103
+            },
+            "entityType": "drug",
+            "entityName": "acetyl-CoA",
+            "id": "mesh:D000105"
+        },
+        {
+            "entityId": "13118_13129",
+            "span": {
+                "begin": 13118,
+                "end": 13129
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "13163_13174",
+            "span": {
+                "begin": 13163,
+                "end": 13174
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "13297_13303",
+            "span": {
+                "begin": 13297,
+                "end": 13303
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "13320_13327",
+            "span": {
+                "begin": 13320,
+                "end": 13327
+            },
+            "entityType": "drug",
+            "entityName": "citrate",
+            "id": "UMLS:C0376259"
+        },
+        {
+            "entityId": "13506_13517",
+            "span": {
+                "begin": 13506,
+                "end": 13517
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "13539_13550",
+            "span": {
+                "begin": 13539,
+                "end": 13550
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "13909_13920",
+            "span": {
+                "begin": 13909,
+                "end": 13920
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "13987_13998",
+            "span": {
+                "begin": 13987,
+                "end": 13998
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "14026_14043",
+            "span": {
+                "begin": 14026,
+                "end": 14043
+            },
+            "entityType": "drug",
+            "entityName": "acetyl-CoA esters",
+            "id": "UMLS:C0014898"
+        },
+        {
+            "entityId": "14084_14093",
+            "span": {
+                "begin": 14084,
+                "end": 14093
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "14099_14106",
+            "span": {
+                "begin": 14099,
+                "end": 14106
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "14112_14119",
+            "span": {
+                "begin": 14112,
+                "end": 14119
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "14125_14133",
+            "span": {
+                "begin": 14125,
+                "end": 14133
+            },
+            "entityType": "drug",
+            "entityName": "pyruvate",
+            "id": "UMLS:C0244104"
+        },
+        {
+            "entityId": "14216_14225",
+            "span": {
+                "begin": 14216,
+                "end": 14225
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "14382_14387",
+            "span": {
+                "begin": 14382,
+                "end": 14387
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "14545_14563",
+            "span": {
+                "begin": 14545,
+                "end": 14563
+            },
+            "entityType": "drug",
+            "entityName": "SDS-polyacrylamide",
+            "id": "UMLS:C0071499"
+        },
+        {
+            "entityId": "14609_14613",
+            "span": {
+                "begin": 14609,
+                "end": 14613
+            },
+            "entityType": "drug",
+            "entityName": "PVDF",
+            "id": "UMLS:C0071710"
+        },
+        {
+            "entityId": "14710_14714",
+            "span": {
+                "begin": 14710,
+                "end": 14714
+            },
+            "entityType": "drug",
+            "entityName": "Tris",
+            "id": "UMLS:C0077281"
+        },
+        {
+            "entityId": "14742_14750",
+            "span": {
+                "begin": 14742,
+                "end": 14750
+            },
+            "entityType": "drug",
+            "entityName": "Tween 20",
+            "id": "UMLS:C0041415"
+        },
+        {
+            "entityId": "14764_14772",
+            "span": {
+                "begin": 14764,
+                "end": 14772
+            },
+            "entityType": "drug",
+            "entityName": "Tris HCl",
+            "id": "UMLS:C1512523"
+        },
+        {
+            "entityId": "14789_14793",
+            "span": {
+                "begin": 14789,
+                "end": 14793
+            },
+            "entityType": "drug",
+            "entityName": "NaCl",
+            "id": "UMLS:C0037494"
+        },
+        {
+            "entityId": "15052_15074",
+            "span": {
+                "begin": 15052,
+                "end": 15074
+            },
+            "entityType": "gene",
+            "entityName": "horseradish peroxidase",
+            "id": "UMLS:C0019941"
+        },
+        {
+            "entityId": "15076_15079",
+            "span": {
+                "begin": 15076,
+                "end": 15079
+            },
+            "entityType": "gene",
+            "entityName": "HRP",
+            "id": "UMLS:C0019941"
+        },
+        {
+            "entityId": "15293_15310",
+            "span": {
+                "begin": 15293,
+                "end": 15310
+            },
+            "entityType": "drug",
+            "entityName": "2-mercaptoethanol",
+            "id": "UMLS:C0025402"
+        },
+        {
+            "entityId": "15324_15327",
+            "span": {
+                "begin": 15324,
+                "end": 15327
+            },
+            "entityType": "drug",
+            "entityName": "SDS",
+            "id": "mesh:D012967"
+        },
+        {
+            "entityId": "15337_15345",
+            "span": {
+                "begin": 15337,
+                "end": 15345
+            },
+            "entityType": "drug",
+            "entityName": "Tris HCl",
+            "id": "UMLS:C1512523"
+        },
+        {
+            "entityId": "15474_15495",
+            "span": {
+                "begin": 15474,
+                "end": 15495
+            },
+            "entityType": "gene",
+            "entityName": "alpha-tubulin protein",
+            "id": "UMLS:C2362546"
+        },
+        {
+            "entityId": "15616_15625",
+            "span": {
+                "begin": 15616,
+                "end": 15625
+            },
+            "entityType": "gene",
+            "entityName": "PPARalpha",
+            "id": "UMLS:C0166415"
+        },
+        {
+            "entityId": "15674_15678",
+            "span": {
+                "begin": 15674,
+                "end": 15678
+            },
+            "entityType": "gene",
+            "entityName": "PDK4",
+            "id": "UMLS:C1418443"
+        },
+        {
+            "entityId": "15772_15776",
+            "span": {
+                "begin": 15772,
+                "end": 15776
+            },
+            "entityType": "gene",
+            "entityName": "CD36",
+            "id": "UMLS:C3887682"
+        },
+        {
+            "entityId": "15848_15880",
+            "span": {
+                "begin": 15848,
+                "end": 15880
+            },
+            "entityType": "gene",
+            "entityName": "carnitine palmitoyltransferase 1",
+            "id": "UMLS:C0007262"
+        },
+        {
+            "entityId": "15882_15888",
+            "span": {
+                "begin": 15882,
+                "end": 15888
+            },
+            "entityType": "gene",
+            "entityName": "lCPT-1",
+            "id": "NCBIGene:1374"
+        },
+        {
+            "entityId": "15893_15899",
+            "span": {
+                "begin": 15893,
+                "end": 15899
+            },
+            "entityType": "gene",
+            "entityName": "mCPT-1",
+            "id": "NCBIGene:1375"
+        },
+        {
+            "entityId": "15992_15995",
+            "span": {
+                "begin": 15992,
+                "end": 15995
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "16044_16048",
+            "span": {
+                "begin": 16044,
+                "end": 16048
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "16163_16182",
+            "span": {
+                "begin": 16163,
+                "end": 16182
+            },
+            "entityType": "gene",
+            "entityName": "deoxyribonuclease I",
+            "id": "UMLS:C0011519"
+        },
+        {
+            "entityId": "16224_16227",
+            "span": {
+                "begin": 16224,
+                "end": 16227
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "16303_16308",
+            "span": {
+                "begin": 16303,
+                "end": 16308
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "16445_16449",
+            "span": {
+                "begin": 16445,
+                "end": 16449
+            },
+            "entityType": "gene",
+            "entityName": "CD36",
+            "id": "UMLS:C3887682"
+        },
+        {
+            "entityId": "16467_16472",
+            "span": {
+                "begin": 16467,
+                "end": 16472
+            },
+            "entityType": "gene",
+            "entityName": "Actin",
+            "id": "UMLS:C0001271"
+        },
+        {
+            "entityId": "16508_16529",
+            "span": {
+                "begin": 16508,
+                "end": 16529
+            },
+            "entityType": "gene",
+            "entityName": "muscle specific CPT-1",
+            "id": "UMLS:C3815103"
+        },
+        {
+            "entityId": "16546_16566",
+            "span": {
+                "begin": 16546,
+                "end": 16566
+            },
+            "entityType": "gene",
+            "entityName": "liver specific CPT-1",
+            "id": "UMLS:C0007262"
+        },
+        {
+            "entityId": "16584_16621",
+            "span": {
+                "begin": 16584,
+                "end": 16621
+            },
+            "entityType": "gene",
+            "entityName": "long-chain acyl coenzyme A synthetase",
+            "id": "UMLS:C0023689"
+        },
+        {
+            "entityId": "16623_16628",
+            "span": {
+                "begin": 16623,
+                "end": 16628
+            },
+            "entityType": "gene",
+            "entityName": "ACSL1",
+            "id": "UMLS:C1414518"
+        },
+        {
+            "entityId": "16963_16968",
+            "span": {
+                "begin": 16963,
+                "end": 16968
+            },
+            "entityType": "gene",
+            "entityName": "actin",
+            "id": "UMLS:C0001271"
+        },
+        {
+            "entityId": "17059_17062",
+            "span": {
+                "begin": 17059,
+                "end": 17062
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "17682_17693",
+            "span": {
+                "begin": 17682,
+                "end": 17693
+            },
+            "entityType": "drug",
+            "entityName": "fatty acids",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "17712_17716",
+            "span": {
+                "begin": 17712,
+                "end": 17716
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "17883_17894",
+            "span": {
+                "begin": 17883,
+                "end": 17894
+            },
+            "entityType": "disease",
+            "entityName": "hypertrophy",
+            "id": "UMLS:C0020564"
+        },
+        {
+            "entityId": "18042_18046",
+            "span": {
+                "begin": 18042,
+                "end": 18046
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "18298_18309",
+            "span": {
+                "begin": 18298,
+                "end": 18309
+            },
+            "entityType": "disease",
+            "entityName": "hypertrophy",
+            "id": "UMLS:C0020564"
+        },
+        {
+            "entityId": "19317_19327",
+            "span": {
+                "begin": 19317,
+                "end": 19327
+            },
+            "entityType": "drug",
+            "entityName": "Fatty Acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "19446_19450",
+            "span": {
+                "begin": 19446,
+                "end": 19450
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "19900_19910",
+            "span": {
+                "begin": 19900,
+                "end": 19910
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "20682_20686",
+            "span": {
+                "begin": 20682,
+                "end": 20686
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "20814_20820",
+            "span": {
+                "begin": 20814,
+                "end": 20820
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "22151_22161",
+            "span": {
+                "begin": 22151,
+                "end": 22161
+            },
+            "entityType": "drug",
+            "entityName": "Acetyl-CoA",
+            "id": "mesh:D000105"
+        },
+        {
+            "entityId": "22169_22180",
+            "span": {
+                "begin": 22169,
+                "end": 22180
+            },
+            "entityType": "drug",
+            "entityName": "Citric Acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "22230_22240",
+            "span": {
+                "begin": 22230,
+                "end": 22240
+            },
+            "entityType": "drug",
+            "entityName": "acetyl-CoA",
+            "id": "mesh:D000105"
+        },
+        {
+            "entityId": "22248_22259",
+            "span": {
+                "begin": 22248,
+                "end": 22259
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "22327_22342",
+            "span": {
+                "begin": 22327,
+                "end": 22342
+            },
+            "entityType": "drug",
+            "entityName": "[1-13C] glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "22383_22393",
+            "span": {
+                "begin": 22383,
+                "end": 22393
+            },
+            "entityType": "drug",
+            "entityName": "acetyl-CoA",
+            "id": "mesh:D000105"
+        },
+        {
+            "entityId": "22417_22424",
+            "span": {
+                "begin": 22417,
+                "end": 22424
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "22517_22526",
+            "span": {
+                "begin": 22517,
+                "end": 22526
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "22554_22563",
+            "span": {
+                "begin": 22554,
+                "end": 22563
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "22676_22687",
+            "span": {
+                "begin": 22676,
+                "end": 22687
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "22707_22716",
+            "span": {
+                "begin": 22707,
+                "end": 22716
+            },
+            "entityType": "drug",
+            "entityName": "Palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "22858_22867",
+            "span": {
+                "begin": 22858,
+                "end": 22867
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "22894_22902",
+            "span": {
+                "begin": 22894,
+                "end": 22902
+            },
+            "entityType": "drug",
+            "entityName": "Pyruvate",
+            "id": "UMLS:C0244104"
+        },
+        {
+            "entityId": "22907_22914",
+            "span": {
+                "begin": 22907,
+                "end": 22914
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "22992_23003",
+            "span": {
+                "begin": 22992,
+                "end": 23003
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "23155_23164",
+            "span": {
+                "begin": 23155,
+                "end": 23164
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "23217_23224",
+            "span": {
+                "begin": 23217,
+                "end": 23224
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "24189_24193",
+            "span": {
+                "begin": 24189,
+                "end": 24193
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "24207_24216",
+            "span": {
+                "begin": 24207,
+                "end": 24216
+            },
+            "entityType": "drug",
+            "entityName": "Palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "24293_24306",
+            "span": {
+                "begin": 24293,
+                "end": 24306
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrates",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "24348_24360",
+            "span": {
+                "begin": 24348,
+                "end": 24360
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "24379_24386",
+            "span": {
+                "begin": 24379,
+                "end": 24386
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "24390_24397",
+            "span": {
+                "begin": 24390,
+                "end": 24397
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "24401_24409",
+            "span": {
+                "begin": 24401,
+                "end": 24409
+            },
+            "entityType": "drug",
+            "entityName": "pyruvate",
+            "id": "UMLS:C0244104"
+        },
+        {
+            "entityId": "24519_24530",
+            "span": {
+                "begin": 24519,
+                "end": 24530
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "24567_24571",
+            "span": {
+                "begin": 24567,
+                "end": 24571
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "24596_24605",
+            "span": {
+                "begin": 24596,
+                "end": 24605
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "24610_24617",
+            "span": {
+                "begin": 24610,
+                "end": 24617
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "25116_25125",
+            "span": {
+                "begin": 25116,
+                "end": 25125
+            },
+            "entityType": "gene",
+            "entityName": "PPARalpha",
+            "id": "UMLS:C0166415"
+        },
+        {
+            "entityId": "25130_25134",
+            "span": {
+                "begin": 25130,
+                "end": 25134
+            },
+            "entityType": "gene",
+            "entityName": "PDK4",
+            "id": "UMLS:C1418443"
+        },
+        {
+            "entityId": "25198_25200",
+            "span": {
+                "begin": 25198,
+                "end": 25200
+            },
+            "entityType": "disease",
+            "entityName": "TH",
+            "id": "mesh:D013851"
+        },
+        {
+            "entityId": "25319_25329",
+            "span": {
+                "begin": 25319,
+                "end": 25329
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "25366_25370",
+            "span": {
+                "begin": 25366,
+                "end": 25370
+            },
+            "entityType": "gene",
+            "entityName": "CD36",
+            "id": "UMLS:C3887682"
+        },
+        {
+            "entityId": "25375_25405",
+            "span": {
+                "begin": 25375,
+                "end": 25405
+            },
+            "entityType": "gene",
+            "entityName": "mitochondria transporter CPT-1",
+            "id": "UMLS:C0007262"
+        },
+        {
+            "entityId": "25412_25418",
+            "span": {
+                "begin": 25412,
+                "end": 25418
+            },
+            "entityType": "gene",
+            "entityName": "mCPT-1",
+            "id": "NCBIGene:1375"
+        },
+        {
+            "entityId": "25423_25429",
+            "span": {
+                "begin": 25423,
+                "end": 25429
+            },
+            "entityType": "gene",
+            "entityName": "lCPT-1",
+            "id": "NCBIGene:1374"
+        },
+        {
+            "entityId": "25530_25534",
+            "span": {
+                "begin": 25530,
+                "end": 25534
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "25549_25553",
+            "span": {
+                "begin": 25549,
+                "end": 25553
+            },
+            "entityType": "gene",
+            "entityName": "CD36",
+            "id": "UMLS:C3887682"
+        },
+        {
+            "entityId": "25555_25561",
+            "span": {
+                "begin": 25555,
+                "end": 25561
+            },
+            "entityType": "gene",
+            "entityName": "mCPT-1",
+            "id": "NCBIGene:1375"
+        },
+        {
+            "entityId": "25566_25572",
+            "span": {
+                "begin": 25566,
+                "end": 25572
+            },
+            "entityType": "gene",
+            "entityName": "lCPT-1",
+            "id": "NCBIGene:1374"
+        },
+        {
+            "entityId": "25595_25610",
+            "span": {
+                "begin": 25595,
+                "end": 25610
+            },
+            "entityType": "drug",
+            "entityName": "acyl coenzyme A",
+            "id": "UMLS:C0001374"
+        },
+        {
+            "entityId": "26814_26818",
+            "span": {
+                "begin": 26814,
+                "end": 26818
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "26929_26939",
+            "span": {
+                "begin": 26929,
+                "end": 26939
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "27568_27602",
+            "span": {
+                "begin": 27568,
+                "end": 27602
+            },
+            "entityType": "disease",
+            "entityName": "diastolic relaxation abnormalities",
+            "id": "UMLS:C0520863"
+        },
+        {
+            "entityId": "27675_27680",
+            "span": {
+                "begin": 27675,
+                "end": 27680
+            },
+            "entityType": "species",
+            "entityName": "human",
+            "id": "UMLS:C0086418"
+        },
+        {
+            "entityId": "27768_27781",
+            "span": {
+                "begin": 27768,
+                "end": 27781
+            },
+            "entityType": "gene",
+            "entityName": "phospholamban",
+            "id": "UMLS:C0070876"
+        },
+        {
+            "entityId": "27967_27971",
+            "span": {
+                "begin": 27967,
+                "end": 27971
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "28017_28030",
+            "span": {
+                "begin": 28017,
+                "end": 28030
+            },
+            "entityType": "drug",
+            "entityName": "isoproterenol",
+            "id": "UMLS:C0022245"
+        },
+        {
+            "entityId": "28138_28148",
+            "span": {
+                "begin": 28138,
+                "end": 28148
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "28179_28183",
+            "span": {
+                "begin": 28179,
+                "end": 28183
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "28237_28249",
+            "span": {
+                "begin": 28237,
+                "end": 28249
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "28271_28282",
+            "span": {
+                "begin": 28271,
+                "end": 28282
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "28364_28373",
+            "span": {
+                "begin": 28364,
+                "end": 28373
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "28519_28529",
+            "span": {
+                "begin": 28519,
+                "end": 28529
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "28574_28581",
+            "span": {
+                "begin": 28574,
+                "end": 28581
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "28586_28589",
+            "span": {
+                "begin": 28586,
+                "end": 28589
+            },
+            "entityType": "drug",
+            "entityName": "13C",
+            "id": "UMLS:CHEBI:36928"
+        },
+        {
+            "entityId": "28603_28614",
+            "span": {
+                "begin": 28603,
+                "end": 28614
+            },
+            "entityType": "drug",
+            "entityName": "fatty acids",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "28616_28623",
+            "span": {
+                "begin": 28616,
+                "end": 28623
+            },
+            "entityType": "drug",
+            "entityName": "ketones",
+            "id": "UMLS:C0022634"
+        },
+        {
+            "entityId": "28629_28636",
+            "span": {
+                "begin": 28629,
+                "end": 28636
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "28710_28719",
+            "span": {
+                "begin": 28710,
+                "end": 28719
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "28767_28776",
+            "span": {
+                "begin": 28767,
+                "end": 28776
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "28844_28847",
+            "span": {
+                "begin": 28844,
+                "end": 28847
+            },
+            "entityType": "drug",
+            "entityName": "13C",
+            "id": "UMLS:CHEBI:36928"
+        },
+        {
+            "entityId": "28891_28898",
+            "span": {
+                "begin": 28891,
+                "end": 28898
+            },
+            "entityType": "drug",
+            "entityName": "ketones",
+            "id": "UMLS:C0022634"
+        },
+        {
+            "entityId": "28972_28979",
+            "span": {
+                "begin": 28972,
+                "end": 28979
+            },
+            "entityType": "drug",
+            "entityName": "ketones",
+            "id": "UMLS:C0022634"
+        },
+        {
+            "entityId": "29005_29017",
+            "span": {
+                "begin": 29005,
+                "end": 29017
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "29039_29050",
+            "span": {
+                "begin": 29039,
+                "end": 29050
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "29108_29117",
+            "span": {
+                "begin": 29108,
+                "end": 29117
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "29136_29147",
+            "span": {
+                "begin": 29136,
+                "end": 29147
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "29174_29177",
+            "span": {
+                "begin": 29174,
+                "end": 29177
+            },
+            "entityType": "drug",
+            "entityName": "ATP",
+            "id": "UMLS:CHEBI:30616"
+        },
+        {
+            "entityId": "29404_29430",
+            "span": {
+                "begin": 29404,
+                "end": 29430
+            },
+            "entityType": "disease",
+            "entityName": "thyroid hormone deficiency",
+            "id": "UMLS:C0599750"
+        },
+        {
+            "entityId": "29439_29443",
+            "span": {
+                "begin": 29439,
+                "end": 29443
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "29453_29463",
+            "span": {
+                "begin": 29453,
+                "end": 29463
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "29527_29536",
+            "span": {
+                "begin": 29527,
+                "end": 29536
+            },
+            "entityType": "gene",
+            "entityName": "PPARalpha",
+            "id": "UMLS:C0166415"
+        },
+        {
+            "entityId": "29557_29566",
+            "span": {
+                "begin": 29557,
+                "end": 29566
+            },
+            "entityType": "gene",
+            "entityName": "PPARalpha",
+            "id": "UMLS:C0166415"
+        },
+        {
+            "entityId": "29584_29588",
+            "span": {
+                "begin": 29584,
+                "end": 29588
+            },
+            "entityType": "gene",
+            "entityName": "PDK4",
+            "id": "UMLS:C1418443"
+        },
+        {
+            "entityId": "29619_29649",
+            "span": {
+                "begin": 29619,
+                "end": 29649
+            },
+            "entityType": "gene",
+            "entityName": "pyruvate dehydrogenase complex",
+            "id": "UMLS:C0034344"
+        },
+        {
+            "entityId": "29715_29736",
+            "span": {
+                "begin": 29715,
+                "end": 29736
+            },
+            "entityType": "drug",
+            "entityName": "L-lactic-3-[13C] acid",
+            "id": "UMLS:C0001128"
+        },
+        {
+            "entityId": "29752_29764",
+            "span": {
+                "begin": 29752,
+                "end": 29764
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "29861_29873",
+            "span": {
+                "begin": 29861,
+                "end": 29873
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "29924_29936",
+            "span": {
+                "begin": 29924,
+                "end": 29936
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "30126_30133",
+            "span": {
+                "begin": 30126,
+                "end": 30133
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "30135_30143",
+            "span": {
+                "begin": 30135,
+                "end": 30143
+            },
+            "entityType": "drug",
+            "entityName": "pyruvate",
+            "id": "UMLS:C0244104"
+        },
+        {
+            "entityId": "30149_30156",
+            "span": {
+                "begin": 30149,
+                "end": 30156
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "30236_30249",
+            "span": {
+                "begin": 30236,
+                "end": 30249
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrates",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "30314_30325",
+            "span": {
+                "begin": 30314,
+                "end": 30325
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "30380_30390",
+            "span": {
+                "begin": 30380,
+                "end": 30390
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "30601_30615",
+            "span": {
+                "begin": 30601,
+                "end": 30615
+            },
+            "entityType": "disease",
+            "entityName": "hypothyroidism",
+            "id": "UMLS:C0020676"
+        },
+        {
+            "entityId": "30620_30633",
+            "span": {
+                "begin": 30620,
+                "end": 30633
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "30716_30720",
+            "span": {
+                "begin": 30716,
+                "end": 30720
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "30874_30889",
+            "span": {
+                "begin": 30874,
+                "end": 30889
+            },
+            "entityType": "disease",
+            "entityName": "hyperthyroidism",
+            "id": "UMLS:C0020550"
+        },
+        {
+            "entityId": "30960_30979",
+            "span": {
+                "begin": 30960,
+                "end": 30979
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "31124_31128",
+            "span": {
+                "begin": 31124,
+                "end": 31128
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "31586_31592",
+            "span": {
+                "begin": 31586,
+                "end": 31592
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "31802_31811",
+            "span": {
+                "begin": 31802,
+                "end": 31811
+            },
+            "entityType": "drug",
+            "entityName": "palmitate",
+            "id": "UMLS:C3503116"
+        },
+        {
+            "entityId": "31963_31973",
+            "span": {
+                "begin": 31963,
+                "end": 31973
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "32013_32024",
+            "span": {
+                "begin": 32013,
+                "end": 32024
+            },
+            "entityType": "drug",
+            "entityName": "citric acid",
+            "id": "UMLS:C0055819"
+        },
+        {
+            "entityId": "32090_32098",
+            "span": {
+                "begin": 32090,
+                "end": 32098
+            },
+            "entityType": "drug",
+            "entityName": "pyruvate",
+            "id": "UMLS:C0244104"
+        },
+        {
+            "entityId": "32103_32110",
+            "span": {
+                "begin": 32103,
+                "end": 32110
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "32227_32230",
+            "span": {
+                "begin": 32227,
+                "end": 32230
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "32272_32282",
+            "span": {
+                "begin": 32272,
+                "end": 32282
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "32399_32421",
+            "span": {
+                "begin": 32399,
+                "end": 32421
+            },
+            "entityType": "gene",
+            "entityName": "pyruvate dehydrogenase",
+            "id": "UMLS:C0034343"
+        },
+        {
+            "entityId": "32444_32454",
+            "span": {
+                "begin": 32444,
+                "end": 32454
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "32473_32484",
+            "span": {
+                "begin": 32473,
+                "end": 32484
+            },
+            "entityType": "disease",
+            "entityName": "hypothyroid",
+            "id": "UMLS:C0020676"
+        },
+        {
+            "entityId": "32499_32503",
+            "span": {
+                "begin": 32499,
+                "end": 32503
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "32559_32566",
+            "span": {
+                "begin": 32559,
+                "end": 32566
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "32605_32613",
+            "span": {
+                "begin": 32605,
+                "end": 32613
+            },
+            "entityType": "drug",
+            "entityName": "Pyruvate",
+            "id": "UMLS:C0244104"
+        },
+        {
+            "entityId": "32823_32833",
+            "span": {
+                "begin": 32823,
+                "end": 32833
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "32943_32953",
+            "span": {
+                "begin": 32943,
+                "end": 32953
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "32971_33000",
+            "span": {
+                "begin": 32971,
+                "end": 33000
+            },
+            "entityType": "disease",
+            "entityName": "pressure overload hypertrophy",
+            "id": "UMLS:C0020564"
+        },
+        {
+            "entityId": "33066_33076",
+            "span": {
+                "begin": 33066,
+                "end": 33076
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "33103_33108",
+            "span": {
+                "begin": 33103,
+                "end": 33108
+            },
+            "entityType": "gene",
+            "entityName": "c-Myc",
+            "id": "UMLS:C0086661"
+        },
+        {
+            "entityId": "33117_33140",
+            "span": {
+                "begin": 33117,
+                "end": 33140
+            },
+            "entityType": "disease",
+            "entityName": "compensated hypertrophy",
+            "id": "UMLS:C0020564"
+        },
+        {
+            "entityId": "33226_33237",
+            "span": {
+                "begin": 33226,
+                "end": 33237
+            },
+            "entityType": "drug",
+            "entityName": "Fatty acids",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "33247_33253",
+            "span": {
+                "begin": 33247,
+                "end": 33253
+            },
+            "entityType": "drug",
+            "entityName": "carbon",
+            "id": "UMLS:C0007009"
+        },
+        {
+            "entityId": "33281_33284",
+            "span": {
+                "begin": 33281,
+                "end": 33284
+            },
+            "entityType": "drug",
+            "entityName": "ATP",
+            "id": "UMLS:CHEBI:30616"
+        },
+        {
+            "entityId": "33299_33312",
+            "span": {
+                "begin": 33299,
+                "end": 33312
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrates",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "33334_33346",
+            "span": {
+                "begin": 33334,
+                "end": 33346
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "33633_33643",
+            "span": {
+                "begin": 33633,
+                "end": 33643
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "33704_33723",
+            "span": {
+                "begin": 33704,
+                "end": 33723
+            },
+            "entityType": "disease",
+            "entityName": "aortic constriction",
+            "id": "UMLS:C0003507"
+        },
+        {
+            "entityId": "33913_33922",
+            "span": {
+                "begin": 33913,
+                "end": 33922
+            },
+            "entityType": "gene",
+            "entityName": "PPARalpha",
+            "id": "UMLS:C0166415"
+        },
+        {
+            "entityId": "33927_33931",
+            "span": {
+                "begin": 33927,
+                "end": 33931
+            },
+            "entityType": "gene",
+            "entityName": "PDK4",
+            "id": "UMLS:C1418443"
+        },
+        {
+            "entityId": "33974_33984",
+            "span": {
+                "begin": 33974,
+                "end": 33984
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "34054_34064",
+            "span": {
+                "begin": 34054,
+                "end": 34064
+            },
+            "entityType": "drug",
+            "entityName": "Fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "34197_34207",
+            "span": {
+                "begin": 34197,
+                "end": 34207
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "34234_34238",
+            "span": {
+                "begin": 34234,
+                "end": 34238
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "34252_34256",
+            "span": {
+                "begin": 34252,
+                "end": 34256
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "34269_34279",
+            "span": {
+                "begin": 34269,
+                "end": 34279
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "34396_34406",
+            "span": {
+                "begin": 34396,
+                "end": 34406
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "34462_34474",
+            "span": {
+                "begin": 34462,
+                "end": 34474
+            },
+            "entityType": "gene",
+            "entityName": "CD36 protein",
+            "id": "UMLS:C0054954"
+        },
+        {
+            "entityId": "34479_34496",
+            "span": {
+                "begin": 34479,
+                "end": 34496
+            },
+            "entityType": "DNA",
+            "entityName": "steady-state mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "34552_34556",
+            "span": {
+                "begin": 34552,
+                "end": 34556
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "34567_34573",
+            "span": {
+                "begin": 34567,
+                "end": 34573
+            },
+            "entityType": "gene",
+            "entityName": "lCPT-1",
+            "id": "NCBIGene:1374"
+        },
+        {
+            "entityId": "34575_34581",
+            "span": {
+                "begin": 34575,
+                "end": 34581
+            },
+            "entityType": "gene",
+            "entityName": "mCPT-1",
+            "id": "NCBIGene:1375"
+        },
+        {
+            "entityId": "34586_34590",
+            "span": {
+                "begin": 34586,
+                "end": 34590
+            },
+            "entityType": "gene",
+            "entityName": "ACLS",
+            "id": "UMLS:C1412125"
+        },
+        {
+            "entityId": "34620_34626",
+            "span": {
+                "begin": 34620,
+                "end": 34626
+            },
+            "entityType": "gene",
+            "entityName": "mCPT-1",
+            "id": "NCBIGene:1375"
+        },
+        {
+            "entityId": "34631_34637",
+            "span": {
+                "begin": 34631,
+                "end": 34637
+            },
+            "entityType": "gene",
+            "entityName": "lCPT-1",
+            "id": "NCBIGene:1374"
+        },
+        {
+            "entityId": "34673_34680",
+            "span": {
+                "begin": 34673,
+                "end": 34680
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "34685_34693",
+            "span": {
+                "begin": 34685,
+                "end": 34693
+            },
+            "entityType": "drug",
+            "entityName": "pyruvate",
+            "id": "UMLS:C0244104"
+        },
+        {
+            "entityId": "34724_34731",
+            "span": {
+                "begin": 34724,
+                "end": 34731
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "34788_34800",
+            "span": {
+                "begin": 34788,
+                "end": 34800
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrate",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "34833_34863",
+            "span": {
+                "begin": 34833,
+                "end": 34863
+            },
+            "entityType": "gene",
+            "entityName": "pyruvate dehydrogenase complex",
+            "id": "UMLS:C0034344"
+        },
+        {
+            "entityId": "34894_34907",
+            "span": {
+                "begin": 34894,
+                "end": 34907
+            },
+            "entityType": "drug",
+            "entityName": "carbohydrates",
+            "id": "UMLS:C0007004"
+        },
+        {
+            "entityId": "35144_35154",
+            "span": {
+                "begin": 35144,
+                "end": 35154
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "35291_35298",
+            "span": {
+                "begin": 35291,
+                "end": 35298
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "35300_35307",
+            "span": {
+                "begin": 35300,
+                "end": 35307
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "35312_35320",
+            "span": {
+                "begin": 35312,
+                "end": 35320
+            },
+            "entityType": "drug",
+            "entityName": "pyruvate",
+            "id": "UMLS:C0244104"
+        },
+        {
+            "entityId": "35337_35348",
+            "span": {
+                "begin": 35337,
+                "end": 35348
+            },
+            "entityType": "drug",
+            "entityName": "fatty acids",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "35379_35389",
+            "span": {
+                "begin": 35379,
+                "end": 35389
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "35530_35534",
+            "span": {
+                "begin": 35530,
+                "end": 35534
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "159_173",
+            "subjectText": "hypothyroidism",
+            "rel_name": "associate",
+            "objectId": "254_267",
+            "objectText": "heart failure"
+        },
+        {
+            "subjectID": "1329_1350",
+            "subjectText": "diastolic dysfunction",
+            "rel_name": "reduces",
+            "objectId": "1304_1313",
+            "objectText": "palmitate"
+        }
+    ]
+}

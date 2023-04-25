@@ -1,0 +1,2638 @@
+{
+    "sourcid": "PMC3620121",
+    "publisher": "Public Library of Science",
+    "journal": "PLoS ONE",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3620121/",
+    "text": "Multi-Analytic Approach Elucidates Significant Role of Hormonal and Hepatocanalicular Transporter Genetic Variants in Gallstone Disease in North Indian Population Objective Cholesterol gallstone disease (CGD) is a multifactorial and multistep disease. Apart from female gender and increasing age being the documented non-modifiable risk factor for gallstones the pathobiological mechanisms underlying the phenotypic expression of CGD appear to be rather complex, and one or more variations in genes could play critical roles in the diverse pathways further progressing to cholesterol crystal formation. In the present study we performed genotyping score, Multifactor dimensionality reduction (MDR) and Classification and Regression Tree analysis (CART) to identify combinations of alleles among the hormonal, hepatocanalicular transporter and adipogenesis differentiation pathway genes in modifying the risk for CGD. Design The present case-control study recruited total of 450 subjects, including 230 CGD patients and 220 controls. We analyzed common ESR1, ESR2, PGR, ADRB3, ADRA2A, ABCG8, SLCO1B1, PPARgamma2, and SREBP2 gene polymorphisms to find out combinations of genetic variants contributing to CGD risk, using multi-analytical approaches (G-score, MDR, and CART). Results Single locus analysis by logistic regression showed association of ESR1 IVS1-397C>T (rs2234693), IVS1-351A>G (rs9340799) PGR ins/del (rs1042838) ADRB3-190 T>C (rs4994) ABCG8 D19H (rs11887534), SLCO1B1 Exon4 C>A (rs11045819) and SREBP2 1784G>C (rs2228314) with CGD risk. However, the MDR and CART analysis revealed ESR1 IVS1-397C>T (rs2234693) ADRB3-190 T>C (rs4994) and ABCG8 D19H (rs11887534) polymorphisms as the best polymorphic signature for discriminating between cases and controls. The overall odds ratio for the applied multi-analytical approaches ranged from 4.33 to 10.05 showing an incremental risk for cholesterol crystal formation. In conclusion, our muti-analytical approach suggests that, ESR1, ADRB3, in addition to ABCG8 genetic variants confer significant risk for cholesterol gallstone disease. Introduction Cholesterol Gallstone disease (CGD) corresponds to one of the most recurrent and costly gastroenterological disorder. It is world-wide health problem representing 10% to 15% of the adult population in industrialised countries whereas a prevalence of 6% have been reported from North India. The female gender and increasing age are the documented non-modifiable risk factors for gallstones, the pathobiological mechanisms underlying the phenotypic expression of CGD appear to be rather complex, and one or more defects could occur in genes that play critical roles in the diverse pathways leading to cholesterol gallstone formation. The genetic determinants of gallstone formation have only recently been dissected in humans Compelling evidence for familial clustering and an increased concordance of the trait in monozygotic twins as compared to dizygotic twins further confirms the heritability of gallstones. Thus 'Gallstone genes' are continuously being corroborated in genome-wide association studies (GWAS), in case-control cohorts, and in family studies.     In human physiology, the gender disparity commences with puberty and continues through the childbearing years which suggests that female sex hormones, could be an important risk factor for the formation of cholesterol gallstones. The actions of these hormones such as estrogen, progesterone and catecholamines are executed through one or more of their respective receptors as estrogen receptors (ESRs), progesterone receptor (PGR) and adrenergic receptor (ADR) Allelic variants of ESR, PGR and ADR genes have been shown to be associated with susceptibility or progression with various disorders such as myocardial infarction, cholesterol gallstones and biliary tract diseases. Another area of interest is hepatocanalicular transporters namely ATP-binding cassette transporters (ABC transporters) and organic anion transporters both encoded by ABC and SLCO1B1 genes respectively. Mutations in genes encoding these transporters have been implicated in cholesterol gallstones formation owing to their ability to influence bile composition and causing retention of substances normally secreted in bile. Peroxisome proliferator-activated receptor gamma 2 (PPARgamma2) orchestrate the adipocyte differentiation process whereas sterol regulatory element binding protein 2 (SREBP-2) is involved in adipocyte differentiation followed by cholesterol homeostasis. Series of previous observations have suggested that regulatory interactions between the SREBPs and PPARgamma2 can coordinate cholesterol and fatty acid metabolism. Therefore, sequence variation in these genes may further disrupt the cholesterol homeostasis which in turn may nurture the development of CGD. Previously, we have studied the role of some individual genetic variants with CGD susceptibility in a North Indian population. Individual SNPs have little predictive value because of their modest effect on risk, but combinations of gene variants may improve the predictive ability and could be used to model susceptibility to CGD. Therefore, the current study aimed to search for gene-gene interactions in the selected pathways (hormonal, hepatocanalicular and adipogenesis differentiation) as a key contributory factor in the disease outcome. The analysis of such interactions in case-control studies is weighed down by one of the major problems, namely, the curse of dimensionality. Recently, Multifactor-Dimensionality Reduction (MDR) approach, tree-based techniques: classification and regression trees (CART), and genotyping score have been used to detect interactions in large-scale association studies. The strength of these methodologies is their ability to identify association in cases of small sample sizes and low penetrance of candidate single nucleotide polymorphisms (SNPs). Therefore, we have extended our previous work on CGD susceptibility by jointly investigating 13 SNP genotypes in 9 genes belonging to hormonal pathway [ESR1 IVS1-397C>T (rs2234693), IVS1-351A>G (rs9340799), Ex4-122C>G (rs1801132), ESR2 -789 A>C (rs1271572), 1082 G>A (rs1256049) PGR ins/del (rs1042838) ADRB3-190 T>C (rs4994) and ADRA2A (rs1800544)], hepatocanalicular transporter pathway [ABCG8 D19H (rs11887534), SLCO1B1 Exon4 C>A (rs11045819), Ex6+40T>C (rs4149056)] and adipogenesis differentiation pathway [PPAR gamma2 C>G (rs1801282) SREBP2 1784G>C (rs2228314)], avoiding the problem of dimensionality and multiple comparisons. Results Population Characteristics The demographic profile of gallstone patients with respect to their age and gender matched controls are presented in Table 1. Demographic profile of controls and gallstone patients. Characteristic\tHealthy subjects\tGallstone patients\t \tTotal\t220\t230\t \tAge at interview (years) Mean+- SD\t49.0+-9.8\t48.6+-11.9\t \tSex\t\t\t \tMale (n%)\t77 (35.0)\t83 (36.1)\t \tFemale (n%)\t143 (65.0)\t147 (63.9)    Allelic Distribution of Studied Polymorphisms in Controls The genotypic and allelic distribution of ESR1 IVS1-397C>T, IVS1-351A>G, Ex4-122C>G, ESR2 -789 A>C, 1082 G>A PGR ins/del ADRB3-190 T>C and ADRA2A -1291 C>G in hormonal pathway, ABCG8 D19H, SLCO1B1 Exon4 C>A, Ex6+40T>C in hepatocanalicular transporter pathway and PPAR gamma2 C>G SREBP2 1784G>C in adipogenesis differentiation pathway are shown in Table 2, 3 and 4. The details of the selected genes have been shown in supplementary table 1 (Table S1). The observed genotype frequencies of all the studied polymorphisms in controls were in accordance with Hardy-Weinberg equilibrium (p<0.05). Hormonal pathway. Genotypes/Alleles\tControls n (%)\tCases n (%)\tp-value\tOR (95% CI)\t \tESR 1 IVS1-397C>T\t \tCC\t91 (41.4)\t64 (27.8)\t-\t1 (reference)\t \tCT\t110 (50.0)\t128 (55.7)\t0.019\t1.66 (1.09-2.53)\t \tTT\t19 (8.6)\t38 (16.5)\t0.001\t2.98 (1.56-5.70)\t \tPtrend\t\t\t<0.001\t\t \t*MCS\t\t\t0.001\t\t \tCT+TT\t129 (58.6)\t166 (72.2)\t0.003\t1.86 (1.23-2.80)\t \tC\t292 (66.4)\t256 (55.7)\t-\t1 (reference)\t \tT\t148 (33.6)\t204 (44.3)\t0.001\t1.59 (1.21-2.11)\t \tESR1 IVS1-351A>G\t \tAA\t90 (40.9)\t69 (30.0)\t\t1 (reference)\t \tAG\t109 (49.5)\t117 (50.9)\t0.142\t1.37 (0.90-2.07)\t \tGG\t21 (9.5)\t44 (19.1)\t0.002\t2.65 (1.43-4.91)\t \tPtrend\t\t\t<0.001\t\t \t*MCS\t\t\t0.001\t\t \tAG+GG\t130 (59.1)\t161 (70.0)\t0.025\t1.58 (1.06-2.35)\t \tA\t289 (65.7)\t255 (55.5)\t-\t1 (reference)\t \tG\t151 (34.3)\t205 (44.5)\t0.005\t1.49 (1.13-1.95)\t \tESR1 Ex4-122C>G\t \tCC\t106 (48.2)\t120 (52.2)\t-\t1 (reference)\t \tCG\t104 (47.3)\t97 (42.2)\t0.487\t0.87 (0.59-1.29)\t \tGG\t10 (4.5)\t13 (5.7)\t0.981\t0.99 (0.41-2.40)\t \tPtrend\t\t\t0.605\t\t \t*MCS\t\t\t0.599\t\t \tCG+GG\t114 (51.8)\t110 (47.8)\t0.518\t0.88 (0.60-1.29)\t \tC\t318 (71.9)\t337 (73.5)\t-\t1 (reference)\t \tG\t124 (28.1)\t123 (26.5)\t0.306\t0.86 (0.63-1.15)\t \tESR2 -789 A>C\t \tAA\t94 (43.2)\t105 (45.7)\t-\t1 (reference)\t \tAC\t109 (49.1)\t107 (47.0)\t0.596\t0.90 (0.61-1.33)\t \tCC\t17 (7.7)\t18 (7.4)\t0.728\t0.87 (0.41-1.85)\t \tPtrend\t\t\t0.630\t\t \t*MCS\t\t\t0.578\t\t \tAC+CC\t126 (56.8)\t125 (54.3)\t0.571\t0.90 (0.61-1.31)\t \tA\t297 (67.5)\t317 (68.9)\t-\t1 (reference)\t \tC\t143 (32.5)\t143 (31.1)\t0.521\t0.91 (0.68-1.21)\t \tESR2 1082 G>A\t\t\t\t\t \tGG\t206 (93.6)\t212 (92.2)\t-\t1 (reference)\t \tGA+AA\t14 (6.4)\t18 (7.8)\t0.596\t1.22 (0.58-2.56)\t \tPtrend\t\t\t0.546\t\t \t*MCS\t\t\t0.435\t\t \tG\t428 (97.0)\t442 (96.3)\t-\t1 (reference)\t \tA\t14 (3.0)\t18 (3.7)\t0.416\t1.36 (0.65-2.87)\t \tPGR Ins/Del\t \tDD\t181 (83.6)\t208 (90.4)\t-\t1 (reference)\t \tDI+II\t39 (16.4)\t22 (9.6)\t0.009\t0.46 (0.25-0.82)\t \tPtrend\t\t\t0.011\t\t \t*MCS\t\t\t0.015\t\t \tD\t401 (91.1)\t438 (95.3)\t-\t1 (reference)\t \tI\t39 (8.9)\t22 (4.7)\t0.002\t0.41 (0.24-0.72)\t \tADRB3 -190 T>C\t \tTT\t178 (80.9)\t158 (68.7)\t-\t1 (reference)\t \tTC+ CC\t42 (19.1)\t72 (31.3)\t<0.001\t1.96 (1.43-2.69)\t \tPtrend\t\t\t0.003\t\t \t*MCS\t\t\t0.002\t\t \tT\t398 (90.5)\t388 (84.3)\t-\t1 (reference)\t \tC\t42 (9.5)\t72 (15.7)\t0.005\t1.80 (1.19-2.73)\t \tADRA2A -1291 C>G\t\t \tCC\t61 (27.7)\t53 (23.0)\t-\t1 (reference)\t \tCG\t117 (53.2)\t117 (50.9)\t0.678\t1.1 (0.7-1.7)\t \tGG\t42 (19.1)\t60 (26.1)\t0.070\t1.6 (1.0-2.9)\t \tPtrend\t\t\t0.075\t\t \t*MCS\t\t\t0.065\t\t \tCG+GG\t159 (72.3)\t177 (77.0)\t0.317\t1.2 (0.8-1.9)\t \tC\t239 (54.3)\t223 (48.4)\t-\t1 (reference)\t \tG\t201 (45.6)\t237 (51.5)\t0.056\t1.5 (1.0-2.5)                                                                                      MCS = Monte Carlo Simulation; Significant values are in bold; For categorical data Cochrane Armitage trend test was used.     Hepatocanalicular transporter pathway. Genotypes/Alleles\tControls n (%)\tCases n (%)\tp-value\tOR (95% CI)\t \tABCG8 145G>C\t \tGG\t209 (95.0)\t206 (89.6)\t-\t1 (reference)\t \tGC+CC\t11 (5.0)\t24 (10.4)\t0.019\t2.47 (1.16-5.25)\t \tPtrend\t\t\t0.031\t\t \t*MCS\t\t\t0.022\t\t \tG\t429 (97.5)\t436 (94.9)\t-\t1 (reference)\t \tC\t11 (2.5)\t24 (5.1)\t0.025\t2.41 (1.12-5.22)\t \tSLCO1B1 Exon4 C>A\t \tCC\t205 (93.2)\t200 (87.0)\t-\t1 (reference)\t \tCA+AA\t15 (6.8)\t30 (13.0)\t0.007\t2.63 (1.30-5.29)\t \tPtrend\t\t\t0.028\t\t \t*MCS\t\t\t0.020\t\t \tC\t425 (96.6)\t430 (93.2)\t-\t1 (reference)\t \tA\t15 (3.4)\t30 (6.8)\t0.015\t2.21 (1.16-4.21)\t \tSLCO1B1 Ex6+40T>C\t \tTT\t212 (96.4)\t218 (94.8)\t-\t1 (reference)\t \tTC+CC\t8 (3.6)\t12 (5.2)\t0.422\t1.46 (0.57-3.72)\t \tPtrend\t\t\t0.416\t\t \t*MCS\t\t\t0.298\t\t \tT\t432 (99.0)\t448 (98.7)\t-\t1 (reference)\t \tC\t8 (1.0)\t12 (1.3)\t0.850\t1.08 (0.46-2.52)                            MCS = Monte Carlo Simulation; Significant values are in bold; For categorical data Cochrane Armitage trend test was used.     Adipogenesis differentiation pathway. Genotypes/Alleles\tControls n (%)\tCases n (%)\tp-value\tOR (95% CI)\t \tSREBP2 1784G>C\t \tGG\t145 (65.9)\t138 (60.0)\t-\t1 (reference)\t \tGC\t73 (33.2)\t82 (35.7)\t0.475\t1.16 (0.77-1.74)\t \tCC\t2 (0.9)\t10 (4.3)\t0.045\t4.87 (1.03-22.96)\t \tPtrend\t\t\t0.067\t\t \t*MCS\t\t\t0.057\t\t \tGC+CC\t75 (34.1)\t92 (40.0)\t0.250\t1.26 (0.85-1.87)\t \tG\t363 (82.5)\t358 (77.8)\t-\t1 (reference)\t \tC\t77 (17.5)\t102 (22.2)\t0.165\t1.27 (0.91-1.79)\t \tPPARG gamma2 C>G\t \tCC\t178 (80.9)\t176 (76.5)\t-\t1 (reference)\t \tCG+GG\t42 (19.1)\t54 (23.5)\t0.351\t1.25 (0.78-1.98)\t \tPtrend\t\t\t0.256\t\t \t*MCS\t\t\t0.218\t\t \tC\t398 (90.5)\t406 (88.4)\t-\t1 (reference)\t \tG\t42 (9.5)\t54 (11.6)\t0.652\t1.11 (0.71-1.72)                     MCS = Monte Carlo Simulation; Significant values are in bold; For categorical data Cochrane Armitage trend test was used.     Overall Frequency Distribution of Selected Hormonal, Hepatocanalicular Transporter and Adipogenesis Differentiation Gene Polymorphisms in GSD Patients and Healthy Subjects Association of hormonal pathway gene polymorphisms with gallstone patients Table 2 shows the risk of gallstones in relation to each of the SNPs of ESR1, ESR2, PGR, and ADR in hormonal pathway. On comparing the genotype frequency distribution of our study groups i.e. gallstone patients with that of healthy subjects (HS), the homozygous variant genotypes of ESR1 IVS1-397C>T, IVS1-351A>G and ADRB3 -190 T>C polymorphism showed statistically significant increased risk for developing gallstone (p = <0.001; [OR], 2.9: p = 0.002; [OR], 2.6: p = <0.001; [OR], 1.9.). On the contrary, no significant differences were observed in the distribution of Ex4-122C>G, (ptrend = 0.605; MCS = 0.599), ESR2 -789 A>C (ptrend = 0.630; MCS = 0.578), Ex6 1082 G>A (ptrend = 0.546; MCS = 0.435), ADRA2A -1291 C>G (ptrend = 0.070; MCS = 0.065) polymorphisms in selected groups, both at genotypic and allelic levels. The variant-containing genotypes (DI+II) of PGR ins/del showed low risk in gallstone patients which was also significant (p = 0.004; [OR], 0.4; p = 0.009; [OR], 0.4 Table 2) when compared with homozygous wild-type DD genotype. Furthermore, on subdividing the study groups on the basis of gender we observed that ESR1 IVS1-397C>T and ADRB3 -190 T>C conferred increased risk for gallstones in female gender (Table S5).                                                      Association of hepatocanalicular transporter pathway gene polymorphisms with gallstone patients Table 3 shows the risk of gallstones in relation to each of the SNPs of ABCG8 and SLCO1B1 in hepatocanalicular transporter pathway. We found that in single locus analysis, the variant genotypes (GC+CC) of ABCG8 145 G>C and (CA+AA) of SLCO1B1 463 C>A were significantly associated and conferred increased risk of gallstone disease (p = <0.019; [OR], 2.4: p = 0.007; [OR], 2.6). On the contrary, no significant difference were observed in the distribution of SLCO1B1 521 T>C (rs4149056) (ptrend = 0.416; MCS = 0.298) polymorphism, both at genotypic and allelic levels and therefore conferred no risk for developing gallstones.                  Association of adipogenesis differentiation pathway gene polymorphisms with gallstone patients Table 4 shows the genotype and allele frequency distribution of sequence variants in SREBP2 1784 G>C and PPAR gamma2 C>G. A borderline statistical significance was observed when the homozygous variant genotypes of SREBP2 1784 G>C (rs2228314) was compared i.e gallstone patients with that of healthy subjects (HS) (p = 0.045; [OR], 4.8). Furthermore, no significant difference was observed in the distribution of PPAR gamma2 C>G (rs1801282) (ptrend = 0.256; MCS = 0.218).        Haplotype Analysis Linkage disequilibrium and haplotypes analysis of ESR1 and ESR2 in case and control groups On LD analysis, ESR1 rs2234693 and rs9340799 were found to be in strong linkage disequilibrium (D' = 0.575). Haplotypes were constructed for the three polymorphisms in ESR1 gene including IVS1-397C>T, IVS1-351A>G and Ex4-122C>G. The haplotypes comprising the homozygous wild alleles were taken as reference and the difference in the frequencies of haplotypes between patients and controls were tested using chi-square test.       The results of the studied three polymorphisms of ESR1 revealed that distribution of T,G,C haplotypes was significantly higher in gallstone patients (25.1% v/s 13.7) in comparison to controls and was conferring high risk for gallstone disease (p = 0.0012; [OR], 2.2). Global haplotypes analysis indicated a statistically significant difference between cases and controls based on the distribution pattern of the ESR1 haplotypes (p = <0.001). Furthermore, none of the ESR2 haplotypes conferred risk for gallstones presenting the global haplotypes association p-value = 0.65 (Table S2; S3).             Linkage disequilibrium and haplotypes analysis of SLCO1B1 in case and control groups SLCO1B1 Exon4 C>A and Ex6+40T>C were found to be in strong linkage disequilibrium (D' = 0.8916). Haplotypes analysis of these two polymorphisms gave rise to three haplotypes, of which C, T was the most common haplotypes in control population. On comparing the haplotypes frequencies in controls and gallstone cases, A, T haplotypes was more commonly distributed in gallstone patients and was imposing risk for the disease (p = 0.017; OR = 2.21) (Table S4).                G-score For each individual, we counted the number of risk-increasing alleles. The number of risk alleles ranged from 1 to 11 in overall 450 subjects (Figure 1). The mean (+-SD) G-score was 5.43+-1.96 in gallstones subjects and 4.63+-1.95 in controls (p-value = <0.001) (Table 5). At the more extreme ends of the risk distribution, CIs around risk estimates became very wide because of small numbers. The number of risk alleles ranged from 1 to 11 with a median of 4 among control subjects and 6 among cases (Figure 1). The risk for gallstone disease was estimated for each number of risk alleles, relative to the median number of risk alleles of 4, and ranged from an OR of 2.27 (95% confidence interval [CI], 1.0-4.6) for 5 risk alleles to an OR of 8.27 (95% CI, 0.90-75.2) for 11 risk alleles. The average relative risk increase per risk allele, when treated as an ordinal variable, however, could be estimated with a high level of precision, and was 2.7 (95% CI, 1.12-1.16). This corresponded to several fold difference in risk between the lowest and the highest number of risk alleles in our population.           The 13-SNP G-score distribution in patients with gallstones and control subjects. Mean G-Scores in the Selected Pathway and their Corresponding p-values. Selected Pathways\tCases\tControls\tp-value\t \tHormonal\t4.46+-1.68\t3.92+-1.76\t0.001\t \tHepatocanalicular Transporter\t0.29+-0.54\t0.168+-0.37\t0.004\t \tAdipogenesis Differentiation\t0.67+-0.84\t0.54+-0.70\t0.062\t \tOverall Genotyping Score Mean for all pathways\t5.43+-1.96\t4.63+-1.95\t<0.001    Significant values are in bold. Association of High-Order Interactions with GSD Risk by MDR Analysis Table 6 shows the best interaction model by MDR analysis. The one-factor model for predicting GS risk was ABCG8 145 G>C SNP (testing accuracy = 0.515, CVC = 7/10, permutation p = 0.027). The two-factor model of ESR1 IVS1 351A>G and ADRB3 -190 T>C had an improved testing accuracy of 0.578 (permutation p = <0.001) however, the CVC was increased (10/10). The three factor model was the three-factor model including ESR1 IVS1-397C>T ESR1 IVS1 351A>G and ADRB3 -190T>C SNPs, which yielded the testing accuracy of 0.605 and the CVC of 08/10 (permutation p = <0.001). The best four-factor interaction model consisted of ESR1 IVS1-397C>T, ESR1 IVS1 351A>G, ADRB3 -190T>C and ABCG8 145 G>C with highest testing accuracy compared with the one-factor model (CVC = 10/10 permutation p = <0.001).                              Association of High-Order Interactions with GSD Risk by MDR Analysis. No. of interactingloci\tBest Interaction Model\tTesting Accuracy\t#CVC\tP for permutation Testing\t \t1\tABCG8 145 G>C\t0.5156\t7/10\t0.0027\t \t2\tESR1 IVS1 351A>G ADRB3 -190T>C\t0.5784\t10/10\t<0.001\t \t3\tESR1 IVS1-397C>T ESR1 IVS1 351A>G, ADRB3 -190T>C\t0.6050\t8/10\t<0.001\t \t4\taESR1 IVS1-397C>T, ESR1 IVS1 351A>G, ADRB3 -190T>CABCG8 145 G>C\t0.6212\t10/10\t<0.001    CVC: Cross Validation Consistency. The model with the maximum testing accuracy and maximum CVC cross was considered as the best model. The present study calculated, the best interaction model as the four-factor model including aESR1 IVS1-397C>T, ESR1 IVS1 351A>G, ADRB3-190T>C, ABCG8 145 G>C polymorphisms. Association of High-Order Interactions with GSD Risk by CART Analysis Table 7 shows the CART, which included all investigated genetic variants of the selected pathways. The final tree structure contained seven terminal nodes as defined by single-nucleotide polymorphisms of the hormonal, hepatocanalicular transporter and adipogenesis differentiation pathway genes. Consistent with the MDR best one-factor model, the initial split of the root node on the decision tree was ESR1 IVS1-397C>T, suggesting that this SNP is the strongest risk factor for GSD among the polymorphisms examined. Individuals carrying ESR1 IVS1 -397CC, ADRB3-190 TT, ABCG8 145 GG and ADRA2A GG genotypes had the lowest case rate of 17.2%, considered as reference. Further inspection of the tree structure revealed distinct interaction patterns between individuals carrying the ESR1 IVS1-397 variant and those with the ADRB3 variant and SLCO1B1 463 C>A wild genotypes. Using the terminal node with lowest case rate as reference, individuals carrying the combination of ESR1 IVS1-397TT, SLCO1B1 Exon4CC, ESR2 1082GG, ESR1 IVS1-351AA and ESR1 Ex4-122GG exhibited a significantly higher risk for GSD (adjusted OR 5.083; 95% CI, 1.3-18.48), whereas individuals with the combined genotypes of ESR1 IVS1-397TT, ABCG8 145 GC+CC, ESR2 1082GG+ ESR1 IVS1-351GG and ADRB3 TC+CC had the highest risk for CGD (adjusted OR 6.48; 95% CI, 1.9-22.08). (Table 7).      Risk Estimates of CART Terminal Nodes. Nodes\tGenotypes\tCase ratea (%)\tp-value\tORb\t \t1\tESR1IVS1397W+ADRB3W+ABCG8W+ADRA2A W\t17.2\t-\tReference\t \t2\tESR1IVS1-397V+SLCO1B1 463 W+ESR2 1082W+ ESR1IVS1-351V +ESRHinf1 W\t21.7\t0.352\t0.429 (0.07-2.55)\t \t2\tESR1IVS1-397W+ ADRB3W+ABCG8W +ADRA2AV+ESR2Bsa1 V\t29.3\t0.475\t1.576 (.453-5.479)\t \t3\tESR1IVS1-397W+ ADRB3W+ABCG8W +ADRA2AV+ESR2Bsa1W\t47.2\t0.018\t4.33 (1.29-14.59)\t \t4\tESR1IVS1-397V+SLCO1B1463 W+ESR21082W+ESR1IVS1-351V +ESRHinf1 V\t56.2\t0.014\t5.083 (1.39-18.48)\t \t5\tESR1IVS1397V+ABCG8V+ESR21082W+ESR1IVS1-351V+ADRB3V\t63.0\t0.003\t6.48 (1.90-22.08)\t \t6\tESR1IVS1-397V+ ADRB3V\t76.9\t0.002\t10.05 (2.33-43.29)\t \t7\tESR1IVS1-397W+ADRB3V+ ESRHinf1W\t78.6\t0.002\t24.554 (3.24-185.84)                    W = wild genotype. V = variant genotype.         Case rate is the percentage of gallstone patients among all individuals in each node. ORs of terminal nodes were calculated by LR analysis adjusted for age and gender. Significant values are in bold. Discussion In order to achieve a more comprehensive evaluation of CGD risk, present analysis was performed in order to identify high and low intrinsic risk sets of sequence variants. Of the included 13 polymorphisms, some of them were found to be significantly associated with CGD risk in our previous studies while others showed little or no influence on the risk for CGD development. Moreover, accumulating evidence supports the importance of adipogenesis differentiation and adrenergic receptor pathways in cholesterol associated diseases. Therefore, we further extended our work by incorporating these two pathways. In the single-locus analysis, genetic variants of hormonal pathway, ESR1 IVS1-397C>T, IVS1-351A>G and ADRB3 190 T>C were significantly associated with GSD risk. However, Alu insertion polymorphism of progesterone receptors (PGR) conferred lower risk with gallstones. In hepatocanalicular transporter pathway ABCG8 D19H and SLCO1B1 Exon4 C>A conferred increased risk for CGD At haplotypes level, we found that the gallstones subjects who carry ESR1 haplotypes IVS1-397T, IVS1-351G, Ex4-122C and SLCO1B1 haplotypes Exon4A, Ex6+40T conferred increased risk for gallstones. Based on the candidate SNPs in genes involved in the gallstone pathway. We created a consolidated Genotype Score (G-score) from the number of risk alleles as previously reported for risk assessment of cardiovascular events and diabetes. Our assumption was that individuals with a high G-score might have a higher probability of gallstone development as compared to those with the low G-score. The overall G-scores for the three selected pathways obtained were highly significant and conferred increased risk for gallstone development. Further calculating the G-score individually in respective pathways we found both hormonal and hepatocanalicular transporter pathway conferred increase risk. These results suggest significant role of hormonal receptor and hepatocanalicular transporters in gallstone disease. For the higher order gene-gene interaction analysis, we employed statistical approaches namely MDR and CART analysis to find out the particular combinations of genetic variants contributing to CGD risk. In MDR analysis, we observed the best four-factor interaction model consisting of ESR1 IVS1-397C>T, ESR1 IVS1 351A>G, ADRB3 -190T>C and ABCG8 145 G>C with highest testing accuracy compared with the one-factor model. In CART analysis, which is a non-parametric statistical approach for conducting regression and classification analyses by recursive partitioning., study subjects were grouped according to different risk levels on the basis of the different gene polymorphisms. From this analysis, we found that development of CGD involves complex genetic interactions among the hormonal and hepatocanalicular transporter genetic variants. As our results from CART analyses consistently suggested that ESR1IVS1-397TT, ABCG8GC+CC, ESR1IVS1-351GG and ADRB3 TC+CC polymorphisms are the most important single susceptibility factor for CGD development. The association between hormonal receptor gene polymorphisms and risk of gallstones are biologically convincing. It has been assumed that the gallbladder is a female sex hormone responsive organ, and these hormones might be involved in the pathogenesis of gallbladder diseases. Elaborating on estrogen receptor the animal studies have shown that ESRs are present in the hepato-pancreatic-biliary tree including bile duct epithelial cells and gallbladder. In addition, immunohistochemical and quantitative RT PCR studies have also revealed that the expression level of ESR1 gene is approximately 50 fold higher compared to ESR2. In animal models, 17beta estradiol promoted gallstone formation which further involves the upregulation of hepatic expression of ERalpha but not ERbeta. These studies show that ESR-1 is key player and findings may offer a new approach to treat gallstones by inhibiting hepatic ER activity with a liver-specific, ERalpha-selective antagonists. The literature regarding the ADRB3 confirms that it is localized in the smooth muscles of the vasculature and the muscularis propria of the gallbladder where it is thought to mediate relaxation and increase mucosal blood flow. The T>C polymorphism results in lowered responsiveness to potent agonists including endogenous catecholamines. The mutated receptor had less ability to stimulate adenylyl cyclase and therefore less accumulation of cAMP. Activation of ADRB3 also results in smooth muscle relaxation in the guinea-pig common bile duct, and since the ductal smooth muscle appear to be more sensitive to activation of the ss3-adrenoceptor, there is the possibility that these receptors may be involved in the regulation of tone in the ductal smooth muscle and hence the outflow of bile. Thus the inhibiting variant C in ADRB3 might result in gallstone formation by impairing the relaxation of the gallbladder and probably the biliary tree too, setting the stage for crystal formation. In the selected hepatocanalicular transporters ABCG8 145G>C conferred increased risk both individually and in combination to hormonal receptors. A genome wide scan carried out by Buch et al., identified a variant D19H in the hepatic cholesterol transporter (ABCG8) as major susceptibility factor for human gallstone disease. Subsequently, this association has been replicated in various populations. The phenomenon that a combination of polymorphisms within genes of unrelated pathways may elevate the risk for CGD could be explained by two hypotheses. One possibility is that some connection between these genes or proteins exists but still remains to be discovered. Another hypothesis, more credible in our opinion, is that the genes influencing risk for CGD may as well comprise a set of alterations located within genes not related to each other. Our multi-analytic approach revealed that the combination of genotypes of respective polymorphisms as ESR1 IVS1-397 variant, ABCG8 145 variant, ESR1 IVS1-351 variant and ADRB3 190 variant pose a significant risk for developing gallstone. Comparing to the results of single locus analysis the role of SLCO1B1 Exon4 C>A SREBP2 1784 G>C and PGR ins/del was diminished when the overall analysis of 13 selected polymorphisms was performed. It also suggests that ESR1, ADRB3 and ABCG8 have significant incremental risk factors for gallstone disease. Thus, the application of these multi analytical approaches allowed creating a decision that has more sensitivity or specificity and was more accurate with reasonable power as compared to single strategy employed in calculating risk allele for disease prediction. Also a prominent significant role of hormonal pathway was elucidated when the means of genotyping scores of selected pathways was calculated separately or all together. Therefore, exhaustive analysis of multi-analytic approaches as MDR, CART and G-scores are well recognized methods in understanding complex traits, such as disease susceptibility and also the etiology of complex diseases. In summary, this is the first comprehensive study to use a multigenic analysis for cholesterol gallstone disease, and the data suggest that individuals with a higher number of genetic variations in hormonal and hepatocanalicular transporter pathway genes are at an increased risk for cholesterol gallstone disease, confirming the importance of taking a multigenic pathway based approach to risk assessment. The finding also indicates that the development of gallstone involves complex genetic interactions and follows different pathways depending on the specific genetic background of the subjects. The present study provided evidence supporting the cholesterol supersaturation contribution of hormonal, hepatocanalicular transporter and adipogenesis differentiation pathway genes, of which interaction between ESR1, ADRB3 and ABCG8 genes were the most important. Thus, our results support the concept that genetic polymorphisms can be used as cholesterol gallstone risk predictors and multiple polymorphisms allow more precise delineation of risk groups and suggest the future direction of association studies. However, the present study included only North Indian individuals, therefore the results need to be replicated in other ethnic groups. Patients and Methods Ethics Statement The institutional ethical committee of Sanjay Gandhi Post Graduate Institute of Medical Sciences (SGPGIMS) approved the present study protocol and the authors followed the norms of World's Association Declaration of Helsinki. All the participants provided written informed consent.   Study Population The case control study recruited a total of 450 subjects, including 230 cholesterol gallstone patients (GS) and 220 healthy subjects. From the year June 2006 to September 2011 symptomatic cholesterol GS patients attending the Department of Gastro-surgery, Sanjay Gandhi Post Graduate Institute of Medical Sciences and Department of Surgical Oncology Lucknow India, were approached for participation in the present study. All subjects were unrelated and confirmed to North Indian ethnicity. Phenotype data For each individual, ultrasound examinations were conducted at the Department of Radio-diagnosis and Imaging SGPGIMS, Lucknow. Participants were considered as having gallstones when one of the subsequent diagnostic criteria was satisfied: (1) Gallbladder lumen with mobile nodular or dependent layering echoes that exhibited posterior acoustic shadowing, or (2) Gallbladder with hyperechoic shadowing material filling the gallbladder lumen with an appearance of the WES triad (i.e., the gallbladder wall, the echo of the stone, and the acoustic shadow-a specific ultrasonographic sign of gallstones used to make a reliable diagnosis of cholelithiasis. The healthy controls were randomly selected from a pool of healthy volunteers that visited the general health check-up center at SGPGIMS Lucknow, during the same period. In addition to a self-reported gallstone history, transabdominal ultrasound was performed to validate gallstone status and to identify silent gallstones. Inclusion criteria for controls also included absence of asthma, coronary artery disease, diabetes mellitus determined through maternal and paternal family history. At recruitment, informed consent was obtained from each subject and the information on demographic characteristics, such as sex and age was collected by questionnaire. Both patients and controls had similar ethnicity. The blood sample and the clinical details were collected from each participant at recruitment.   DNA Samples and Genotyping Genomic DNA was isolated from peripheral blood leukocytes using salting out method. The polymorphisms were genotyped using the PCR or PCR restriction fragment length polymorphism method. The details of genotyping for studied polymorphisms are shown in Table S1. Ten percent of masked, random sample of cases and controls were tested twice by different laboratory personnel and the reproducibility was 100%. Genotype Score Calculation (G-score) A Genotype score (G-score) was defined as the cumulative number that counts the total number of risk-increasing alleles in individuals. Genotyping of 13 selected SNPs in candidate genes involved in hormonal, hepatocanalicular and adipogenesis differentiation pathways was performed and G-score was computed from the number of variant alleles. A value of 2, 1 and 0 was allotted to homozygous variant, heterozygous and homozygous wild type genotypes respectively. Variant genotype was considered as risk conferring. Using these 13 SNPs a Genotype Score (G-score) was constructed ranging from 0 to 26 on the basis of the number of risk alleles. For each sample a consolidated G-score was calculated by adding the values from all 13 SNPs together. Statistical Analysis Descriptive statistics were presented as mean and standard deviation [SD] for continuous measures while absolute value and percentages were used for categorical measures. Differences in genotype and allele frequencies between study groups were estimated by chi-square test. Unconditional logistic regression was used to estimate odds ratios [ORs] and their 95% confidence intervals [CIs] adjusting for age and sex. A two-tailed p-value of less than 0.05 was considered a statistical significant result. All statistical analyses were performed using SPSS software version 16.0 (SPSS, Chicago, IL, USA). Ptrend and Monte Carlo Simulation (MCS) were calculated through Cochrane Armitage trend using XLstats whereas haplotype analysis was performed using SNPstats (http://bioinfo.iconcologia.net/SNPstats). Furthermore, higher-order gene-gene interactions associated with CGD risk were determined through multifactor dimensionality reduction (MDR) using software version 2.0 beta8 and classification regression tree analysis (CRT) using SPSS software version 16.0. Supporting Information References Prevalence and ethnic differences in gallbladder disease in the United States The burden of selected digestive diseases in the United States Prevalence of biliary tract disease in India: a sonographic study in adult population in Kashmir Epidemiology of gallbladder disease: cholelithiasis and cancer Dissecting the genetic heterogeneity of gallbladder stone formation Genetic and environmental influences on symptomatic gallstone disease: a Swedish study of 43,141 twin pairs Buch S, Schafmayer C, Volzke H, Seeger M, Miquel JF, .. (2010) Loci from a genome-wide analysis of bilirubin levels are associated with gallstone risk and composition. Gastroenterology 139: 1942-1951 e1942.   Gallstone disease in Swedish twins: risk is associated with ABCG8 D19H genotype Molecular pathophysiology and physical chemistry of cholesterol gallstones Epidemiology and natural history of gallstone disease Incidence of gallstones in a Danish population A population study on the prevalence of gallstone disease: the Sirmione Study The role of estrogen receptors in the development of gallstones and gallbladder cancer Association of polymorphism of estrogen receptor-alpha gene with circulating levels of adiponectin in postmenopausal women with type 2 diabetes Polymorphisms of the beta adrenergic receptor predict left ventricular remodeling following acute myocardial infarction Variants in hormone-related genes and the risk of biliary tract cancers and stones: a population-based study in China Significant role of estrogen and progesterone receptor sequence variants in gallbladder cancer predisposition: a multi-analytical strategy Organic anion transporter 1B1 (SLCO1B1) polymorphism and gallstone formation: High incidence of Exon4 CA genotype in female patients in North India Role of ABCG8 D19H (rs11887534) variant in gallstone susceptibility in northern India Multiple SNP testing improves risk prediction of first venous thrombosis Screening large-scale association study data: exploiting interactions using random forests Interactions among genetic variants from SREBP2 activating-related pathway on risk of coronary heart disease in Chinese Han population Interaction of -55CT polymorphism of UCP3 gene with Trp64Arg polymorphism of beta3adrenoreceptor gene on insulin resistance in obese patients [The Trp64Arg polymorphism of beta3-adrenoreceptor gene study in persons with overweight and obesity] Genotype score in addition to common risk factors for prediction of type 2 diabetes Polymorphisms associated with cholesterol and risk of cardiovascular events Estrogens stimulate proliferation of intrahepatic biliary epithelium in rats Alfa and beta estrogen receptors and the biliary tree Estrogen receptor expression in anomalous arrangement of the pancreaticobiliary duct Localization of the beta(beta)3-adrenoceptor in the human gastrointestinal tract: an immunohistochemical study Mutated human beta3-adrenergic receptor (Trp64Arg) lowers the response to beta3-adrenergic agonists in transfected 3T3-L1 preadipocytes Functional evidence for the presence of beta 3-adrenoceptors in the guinea pig common bile duct and colon A genome-wide association scan identifies the hepatic cholesterol transporter ABCG8 as a susceptibility factor for human gallstone disease Cholesterol metabolism gene polymorphisms and the risk of biliary tract cancers and stones: a population-based case-control study in Shanghai, China Hepatic cholesterol transporter ABCG8 polymorphisms in gallstone disease in an Indian population The WES triad - a specific sonographic sign of gallstones in the contracted gallbladder   A simple salting out procedure for extracting DNA from human nucleated cells",
+    "entities": [
+        {
+            "entityId": "118_135",
+            "span": {
+                "begin": 118,
+                "end": 135
+            },
+            "entityType": "disease",
+            "entityName": "Gallstone Disease",
+            "id": "UMLS:C0008350"
+        },
+        {
+            "entityId": "173_202",
+            "span": {
+                "begin": 173,
+                "end": 202
+            },
+            "entityType": "disease",
+            "entityName": "Cholesterol gallstone disease",
+            "id": "UMLS:C0856727"
+        },
+        {
+            "entityId": "204_207",
+            "span": {
+                "begin": 204,
+                "end": 207
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "348_358",
+            "span": {
+                "begin": 348,
+                "end": 358
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "430_433",
+            "span": {
+                "begin": 430,
+                "end": 433
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "572_583",
+            "span": {
+                "begin": 572,
+                "end": 583
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "809_838",
+            "span": {
+                "begin": 809,
+                "end": 838
+            },
+            "entityType": "gene",
+            "entityName": "hepatocanalicular transporter",
+            "id": "UMLS:C0596902"
+        },
+        {
+            "entityId": "912_915",
+            "span": {
+                "begin": 912,
+                "end": 915
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "1002_1005",
+            "span": {
+                "begin": 1002,
+                "end": 1005
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "1006_1014",
+            "span": {
+                "begin": 1006,
+                "end": 1014
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1052_1056",
+            "span": {
+                "begin": 1052,
+                "end": 1056
+            },
+            "entityType": "gene",
+            "entityName": "ESR1",
+            "id": "NCBIGene:2099"
+        },
+        {
+            "entityId": "1058_1062",
+            "span": {
+                "begin": 1058,
+                "end": 1062
+            },
+            "entityType": "gene",
+            "entityName": "ESR2",
+            "id": "NCBIGene:2100"
+        },
+        {
+            "entityId": "1064_1067",
+            "span": {
+                "begin": 1064,
+                "end": 1067
+            },
+            "entityType": "gene",
+            "entityName": "PGR",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "1069_1074",
+            "span": {
+                "begin": 1069,
+                "end": 1074
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "1076_1082",
+            "span": {
+                "begin": 1076,
+                "end": 1082
+            },
+            "entityType": "gene",
+            "entityName": "ADRA2A",
+            "id": "UMLS:C1332028"
+        },
+        {
+            "entityId": "1084_1089",
+            "span": {
+                "begin": 1084,
+                "end": 1089
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "1091_1098",
+            "span": {
+                "begin": 1091,
+                "end": 1098
+            },
+            "entityType": "gene",
+            "entityName": "SLCO1B1",
+            "id": "UMLS:C1420131"
+        },
+        {
+            "entityId": "1203_1206",
+            "span": {
+                "begin": 1203,
+                "end": 1206
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "1348_1352",
+            "span": {
+                "begin": 1348,
+                "end": 1352
+            },
+            "entityType": "gene",
+            "entityName": "ESR1",
+            "id": "NCBIGene:2099"
+        },
+        {
+            "entityId": "1402_1410",
+            "span": {
+                "begin": 1402,
+                "end": 1410
+            },
+            "entityType": "gene",
+            "entityName": "PGR ins/",
+            "id": "UMLS:C4082178"
+        },
+        {
+            "entityId": "1426_1431",
+            "span": {
+                "begin": 1426,
+                "end": 1431
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "1449_1459",
+            "span": {
+                "begin": 1449,
+                "end": 1459
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8 D19H",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "1474_1489",
+            "span": {
+                "begin": 1474,
+                "end": 1489
+            },
+            "entityType": "gene",
+            "entityName": "SLCO1B1 Exon4 C",
+            "id": "UMLS:C1420131"
+        },
+        {
+            "entityId": "1509_1521",
+            "span": {
+                "begin": 1509,
+                "end": 1521
+            },
+            "entityType": "gene",
+            "entityName": "SREBP2 1784G",
+            "id": "UMLS:C1420399"
+        },
+        {
+            "entityId": "1541_1544",
+            "span": {
+                "begin": 1541,
+                "end": 1544
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "1624_1633",
+            "span": {
+                "begin": 1624,
+                "end": 1633
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3-190",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "1651_1661",
+            "span": {
+                "begin": 1651,
+                "end": 1661
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8 D19H",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "1895_1906",
+            "span": {
+                "begin": 1895,
+                "end": 1906
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "1985_1989",
+            "span": {
+                "begin": 1985,
+                "end": 1989
+            },
+            "entityType": "gene",
+            "entityName": "ESR1",
+            "id": "NCBIGene:2099"
+        },
+        {
+            "entityId": "1991_1996",
+            "span": {
+                "begin": 1991,
+                "end": 1996
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "2064_2093",
+            "span": {
+                "begin": 2064,
+                "end": 2093
+            },
+            "entityType": "disease",
+            "entityName": "cholesterol gallstone disease",
+            "id": "UMLS:C0856727"
+        },
+        {
+            "entityId": "2108_2137",
+            "span": {
+                "begin": 2108,
+                "end": 2137
+            },
+            "entityType": "disease",
+            "entityName": "Cholesterol Gallstone disease",
+            "id": "UMLS:C0856727"
+        },
+        {
+            "entityId": "2139_2142",
+            "span": {
+                "begin": 2139,
+                "end": 2142
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "2196_2224",
+            "span": {
+                "begin": 2196,
+                "end": 2224
+            },
+            "entityType": "disease",
+            "entityName": "gastroenterological disorder",
+            "id": "UMLS:C0012634"
+        },
+        {
+            "entityId": "2486_2496",
+            "span": {
+                "begin": 2486,
+                "end": 2496
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "2569_2572",
+            "span": {
+                "begin": 2569,
+                "end": 2572
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "2707_2718",
+            "span": {
+                "begin": 2707,
+                "end": 2718
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "2768_2777",
+            "span": {
+                "begin": 2768,
+                "end": 2777
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "2825_2831",
+            "span": {
+                "begin": 2825,
+                "end": 2831
+            },
+            "entityType": "species",
+            "entityName": "humans",
+            "id": "UMLS:C1300203"
+        },
+        {
+            "entityId": "3007_3017",
+            "span": {
+                "begin": 3007,
+                "end": 3017
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "3176_3181",
+            "span": {
+                "begin": 3176,
+                "end": 3181
+            },
+            "entityType": "species",
+            "entityName": "human",
+            "id": "UMLS:C0086418"
+        },
+        {
+            "entityId": "3379_3401",
+            "span": {
+                "begin": 3379,
+                "end": 3401
+            },
+            "entityType": "disease",
+            "entityName": "cholesterol gallstones",
+            "id": "UMLS:C0856727"
+        },
+        {
+            "entityId": "3441_3449",
+            "span": {
+                "begin": 3441,
+                "end": 3449
+            },
+            "entityType": "drug",
+            "entityName": "estrogen",
+            "id": "UMLS:C2936882"
+        },
+        {
+            "entityId": "3451_3463",
+            "span": {
+                "begin": 3451,
+                "end": 3463
+            },
+            "entityType": "drug",
+            "entityName": "progesterone",
+            "id": "UMLS:C0033308"
+        },
+        {
+            "entityId": "3468_3482",
+            "span": {
+                "begin": 3468,
+                "end": 3482
+            },
+            "entityType": "drug",
+            "entityName": "catecholamines",
+            "id": "UMLS:C0007412"
+        },
+        {
+            "entityId": "3549_3567",
+            "span": {
+                "begin": 3549,
+                "end": 3567
+            },
+            "entityType": "gene",
+            "entityName": "estrogen receptors",
+            "id": "UMLS:C0034804"
+        },
+        {
+            "entityId": "3569_3573",
+            "span": {
+                "begin": 3569,
+                "end": 3573
+            },
+            "entityType": "gene",
+            "entityName": "ESRs",
+            "id": "UMLS:C0034804"
+        },
+        {
+            "entityId": "3576_3588",
+            "span": {
+                "begin": 3576,
+                "end": 3588
+            },
+            "entityType": "drug",
+            "entityName": "progesterone",
+            "id": "UMLS:C0033308"
+        },
+        {
+            "entityId": "3599_3602",
+            "span": {
+                "begin": 3599,
+                "end": 3602
+            },
+            "entityType": "gene",
+            "entityName": "PGR",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "3608_3627",
+            "span": {
+                "begin": 3608,
+                "end": 3627
+            },
+            "entityType": "gene",
+            "entityName": "adrenergic receptor",
+            "id": "UMLS:C1704463"
+        },
+        {
+            "entityId": "3629_3632",
+            "span": {
+                "begin": 3629,
+                "end": 3632
+            },
+            "entityType": "gene",
+            "entityName": "ADR",
+            "id": "UMLS:C4521369"
+        },
+        {
+            "entityId": "3659_3662",
+            "span": {
+                "begin": 3659,
+                "end": 3662
+            },
+            "entityType": "gene",
+            "entityName": "PGR",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "3667_3676",
+            "span": {
+                "begin": 3667,
+                "end": 3676
+            },
+            "entityType": "gene",
+            "entityName": "ADR genes",
+            "id": "UMLS:C4521369"
+        },
+        {
+            "entityId": "3776_3797",
+            "span": {
+                "begin": 3776,
+                "end": 3797
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "3799_3821",
+            "span": {
+                "begin": 3799,
+                "end": 3821
+            },
+            "entityType": "disease",
+            "entityName": "cholesterol gallstones",
+            "id": "UMLS:C0856727"
+        },
+        {
+            "entityId": "3826_3848",
+            "span": {
+                "begin": 3826,
+                "end": 3848
+            },
+            "entityType": "disease",
+            "entityName": "biliary tract diseases",
+            "id": "UMLS:C0005424"
+        },
+        {
+            "entityId": "3916_3949",
+            "span": {
+                "begin": 3916,
+                "end": 3949
+            },
+            "entityType": "gene",
+            "entityName": "ATP-binding cassette transporters",
+            "id": "UMLS:C0242738"
+        },
+        {
+            "entityId": "3951_3967",
+            "span": {
+                "begin": 3951,
+                "end": 3967
+            },
+            "entityType": "gene",
+            "entityName": "ABC transporters",
+            "id": "UMLS:C0242738"
+        },
+        {
+            "entityId": "4123_4145",
+            "span": {
+                "begin": 4123,
+                "end": 4145
+            },
+            "entityType": "disease",
+            "entityName": "cholesterol gallstones",
+            "id": "UMLS:C0856727"
+        },
+        {
+            "entityId": "4272_4322",
+            "span": {
+                "begin": 4272,
+                "end": 4322
+            },
+            "entityType": "gene",
+            "entityName": "Peroxisome proliferator-activated receptor gamma 2",
+            "id": "UMLS:C0166417"
+        },
+        {
+            "entityId": "4324_4334",
+            "span": {
+                "begin": 4324,
+                "end": 4334
+            },
+            "entityType": "gene",
+            "entityName": "PPARgamma2",
+            "id": "UMLS:C0287593"
+        },
+        {
+            "entityId": "4352_4361",
+            "span": {
+                "begin": 4352,
+                "end": 4361
+            },
+            "entityType": "cell",
+            "entityName": "adipocyte",
+            "id": "UMLS:C0206131"
+        },
+        {
+            "entityId": "4394_4437",
+            "span": {
+                "begin": 4394,
+                "end": 4437
+            },
+            "entityType": "gene",
+            "entityName": "sterol regulatory element binding protein 2",
+            "id": "UMLS:C1420399"
+        },
+        {
+            "entityId": "4439_4446",
+            "span": {
+                "begin": 4439,
+                "end": 4446
+            },
+            "entityType": "gene",
+            "entityName": "SREBP-2",
+            "id": "NCBIGene:6721"
+        },
+        {
+            "entityId": "4463_4472",
+            "span": {
+                "begin": 4463,
+                "end": 4472
+            },
+            "entityType": "cell",
+            "entityName": "adipocyte",
+            "id": "UMLS:C0206131"
+        },
+        {
+            "entityId": "4501_4512",
+            "span": {
+                "begin": 4501,
+                "end": 4512
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "4625_4635",
+            "span": {
+                "begin": 4625,
+                "end": 4635
+            },
+            "entityType": "gene",
+            "entityName": "PPARgamma2",
+            "id": "UMLS:C0287593"
+        },
+        {
+            "entityId": "4651_4662",
+            "span": {
+                "begin": 4651,
+                "end": 4662
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "4667_4677",
+            "span": {
+                "begin": 4667,
+                "end": 4677
+            },
+            "entityType": "drug",
+            "entityName": "fatty acid",
+            "id": "UMLS:C0015684"
+        },
+        {
+            "entityId": "4759_4770",
+            "span": {
+                "begin": 4759,
+                "end": 4770
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "4828_4831",
+            "span": {
+                "begin": 4828,
+                "end": 4831
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "4911_4914",
+            "span": {
+                "begin": 4911,
+                "end": 4914
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "5159_5162",
+            "span": {
+                "begin": 5159,
+                "end": 5162
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "5972_5975",
+            "span": {
+                "begin": 5972,
+                "end": 5975
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "6202_6213",
+            "span": {
+                "begin": 6202,
+                "end": 6213
+            },
+            "entityType": "gene",
+            "entityName": "PGR ins/del",
+            "id": "UMLS:C4082178"
+        },
+        {
+            "entityId": "6226_6231",
+            "span": {
+                "begin": 6226,
+                "end": 6231
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "6253_6259",
+            "span": {
+                "begin": 6253,
+                "end": 6259
+            },
+            "entityType": "gene",
+            "entityName": "ADRA2A",
+            "id": "UMLS:C1332028"
+        },
+        {
+            "entityId": "6274_6303",
+            "span": {
+                "begin": 6274,
+                "end": 6303
+            },
+            "entityType": "gene",
+            "entityName": "hepatocanalicular transporter",
+            "id": "UMLS:C0596902"
+        },
+        {
+            "entityId": "6313_6323",
+            "span": {
+                "begin": 6313,
+                "end": 6323
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8 D19H",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "6338_6345",
+            "span": {
+                "begin": 6338,
+                "end": 6345
+            },
+            "entityType": "gene",
+            "entityName": "SLCO1B1",
+            "id": "UMLS:C1420131"
+        },
+        {
+            "entityId": "6435_6446",
+            "span": {
+                "begin": 6435,
+                "end": 6446
+            },
+            "entityType": "gene",
+            "entityName": "PPAR gamma2",
+            "id": "UMLS:C0287593"
+        },
+        {
+            "entityId": "6463_6469",
+            "span": {
+                "begin": 6463,
+                "end": 6469
+            },
+            "entityType": "gene",
+            "entityName": "SREBP2",
+            "id": "UMLS:C1420399"
+        },
+        {
+            "entityId": "6619_6628",
+            "span": {
+                "begin": 6619,
+                "end": 6628
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "6629_6637",
+            "span": {
+                "begin": 6629,
+                "end": 6637
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "7078_7082",
+            "span": {
+                "begin": 7078,
+                "end": 7082
+            },
+            "entityType": "gene",
+            "entityName": "ESR1",
+            "id": "NCBIGene:2099"
+        },
+        {
+            "entityId": "7145_7148",
+            "span": {
+                "begin": 7145,
+                "end": 7148
+            },
+            "entityType": "gene",
+            "entityName": "PGR",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "7157_7162",
+            "span": {
+                "begin": 7157,
+                "end": 7162
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "7175_7181",
+            "span": {
+                "begin": 7175,
+                "end": 7181
+            },
+            "entityType": "gene",
+            "entityName": "ADRA2A",
+            "id": "UMLS:C1332028"
+        },
+        {
+            "entityId": "7213_7223",
+            "span": {
+                "begin": 7213,
+                "end": 7223
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8 D19H",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "7225_7232",
+            "span": {
+                "begin": 7225,
+                "end": 7232
+            },
+            "entityType": "gene",
+            "entityName": "SLCO1B1",
+            "id": "UMLS:C1420131"
+        },
+        {
+            "entityId": "7257_7286",
+            "span": {
+                "begin": 7257,
+                "end": 7286
+            },
+            "entityType": "gene",
+            "entityName": "hepatocanalicular transporter",
+            "id": "UMLS:C0596902"
+        },
+        {
+            "entityId": "7299_7312",
+            "span": {
+                "begin": 7299,
+                "end": 7312
+            },
+            "entityType": "gene",
+            "entityName": "PPAR gamma2 C",
+            "id": "UMLS:C0287593"
+        },
+        {
+            "entityId": "12183_12186",
+            "span": {
+                "begin": 12183,
+                "end": 12186
+            },
+            "entityType": "disease",
+            "entityName": "GSD",
+            "id": "mesh:D016098"
+        },
+        {
+            "entityId": "12187_12195",
+            "span": {
+                "begin": 12187,
+                "end": 12195
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "12273_12282",
+            "span": {
+                "begin": 12273,
+                "end": 12282
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "12283_12291",
+            "span": {
+                "begin": 12283,
+                "end": 12291
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "12318_12328",
+            "span": {
+                "begin": 12318,
+                "end": 12328
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "12364_12368",
+            "span": {
+                "begin": 12364,
+                "end": 12368
+            },
+            "entityType": "gene",
+            "entityName": "ESR1",
+            "id": "NCBIGene:2099"
+        },
+        {
+            "entityId": "12370_12374",
+            "span": {
+                "begin": 12370,
+                "end": 12374
+            },
+            "entityType": "gene",
+            "entityName": "ESR2",
+            "id": "NCBIGene:2100"
+        },
+        {
+            "entityId": "12376_12379",
+            "span": {
+                "begin": 12376,
+                "end": 12379
+            },
+            "entityType": "gene",
+            "entityName": "PGR",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "12385_12388",
+            "span": {
+                "begin": 12385,
+                "end": 12388
+            },
+            "entityType": "gene",
+            "entityName": "ADR",
+            "id": "UMLS:C4521369"
+        },
+        {
+            "entityId": "12484_12493",
+            "span": {
+                "begin": 12484,
+                "end": 12493
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "12494_12502",
+            "span": {
+                "begin": 12494,
+                "end": 12502
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "12575_12579",
+            "span": {
+                "begin": 12575,
+                "end": 12579
+            },
+            "entityType": "gene",
+            "entityName": "ESR1",
+            "id": "NCBIGene:2099"
+        },
+        {
+            "entityId": "12700_12709",
+            "span": {
+                "begin": 12700,
+                "end": 12709
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "12905_12909",
+            "span": {
+                "begin": 12905,
+                "end": 12909
+            },
+            "entityType": "gene",
+            "entityName": "ESR2",
+            "id": "NCBIGene:2100"
+        },
+        {
+            "entityId": "12994_13006",
+            "span": {
+                "begin": 12994,
+                "end": 13006
+            },
+            "entityType": "gene",
+            "entityName": "ADRA2A -1291",
+            "id": "UMLS:C1332028"
+        },
+        {
+            "entityId": "13157_13168",
+            "span": {
+                "begin": 13157,
+                "end": 13168
+            },
+            "entityType": "gene",
+            "entityName": "PGR ins/del",
+            "id": "UMLS:C4082178"
+        },
+        {
+            "entityId": "13188_13197",
+            "span": {
+                "begin": 13188,
+                "end": 13197
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "13198_13206",
+            "span": {
+                "begin": 13198,
+                "end": 13206
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13327_13329",
+            "span": {
+                "begin": 13327,
+                "end": 13329
+            },
+            "entityType": "disease",
+            "entityName": "DD",
+            "id": "mim:222600"
+        },
+        {
+            "entityId": "13446_13451",
+            "span": {
+                "begin": 13446,
+                "end": 13451
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "13490_13500",
+            "span": {
+                "begin": 13490,
+                "end": 13500
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "13660_13669",
+            "span": {
+                "begin": 13660,
+                "end": 13669
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "13670_13678",
+            "span": {
+                "begin": 13670,
+                "end": 13678
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13705_13715",
+            "span": {
+                "begin": 13705,
+                "end": 13715
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "13751_13756",
+            "span": {
+                "begin": 13751,
+                "end": 13756
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "13761_13768",
+            "span": {
+                "begin": 13761,
+                "end": 13768
+            },
+            "entityType": "gene",
+            "entityName": "SLCO1B1",
+            "id": "UMLS:C1420131"
+        },
+        {
+            "entityId": "13772_13801",
+            "span": {
+                "begin": 13772,
+                "end": 13801
+            },
+            "entityType": "gene",
+            "entityName": "hepatocanalicular transporter",
+            "id": "UMLS:C0596902"
+        },
+        {
+            "entityId": "13884_13889",
+            "span": {
+                "begin": 13884,
+                "end": 13889
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "13913_13920",
+            "span": {
+                "begin": 13913,
+                "end": 13920
+            },
+            "entityType": "gene",
+            "entityName": "SLCO1B1",
+            "id": "UMLS:C1420131"
+        },
+        {
+            "entityId": "13991_14008",
+            "span": {
+                "begin": 13991,
+                "end": 14008
+            },
+            "entityType": "disease",
+            "entityName": "gallstone disease",
+            "id": "UMLS:C0008350"
+        },
+        {
+            "entityId": "14136_14147",
+            "span": {
+                "begin": 14136,
+                "end": 14147
+            },
+            "entityType": "gene",
+            "entityName": "SLCO1B1 521",
+            "id": "UMLS:C1420131"
+        },
+        {
+            "entityId": "14292_14302",
+            "span": {
+                "begin": 14292,
+                "end": 14302
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "14397_14406",
+            "span": {
+                "begin": 14397,
+                "end": 14406
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "14407_14415",
+            "span": {
+                "begin": 14407,
+                "end": 14415
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "14501_14507",
+            "span": {
+                "begin": 14501,
+                "end": 14507
+            },
+            "entityType": "gene",
+            "entityName": "SREBP2",
+            "id": "UMLS:C1420399"
+        },
+        {
+            "entityId": "14521_14532",
+            "span": {
+                "begin": 14521,
+                "end": 14532
+            },
+            "entityType": "gene",
+            "entityName": "PPAR gamma2",
+            "id": "UMLS:C0287593"
+        },
+        {
+            "entityId": "14630_14641",
+            "span": {
+                "begin": 14630,
+                "end": 14641
+            },
+            "entityType": "gene",
+            "entityName": "SREBP2 1784",
+            "id": "UMLS:C1420399"
+        },
+        {
+            "entityId": "14675_14684",
+            "span": {
+                "begin": 14675,
+                "end": 14684
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "14685_14693",
+            "span": {
+                "begin": 14685,
+                "end": 14693
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "14828_14839",
+            "span": {
+                "begin": 14828,
+                "end": 14839
+            },
+            "entityType": "gene",
+            "entityName": "PPAR gamma2",
+            "id": "UMLS:C0287593"
+        },
+        {
+            "entityId": "14963_14967",
+            "span": {
+                "begin": 14963,
+                "end": 14967
+            },
+            "entityType": "gene",
+            "entityName": "ESR1",
+            "id": "NCBIGene:2099"
+        },
+        {
+            "entityId": "14972_14976",
+            "span": {
+                "begin": 14972,
+                "end": 14976
+            },
+            "entityType": "gene",
+            "entityName": "ESR2",
+            "id": "NCBIGene:2100"
+        },
+        {
+            "entityId": "15172_15181",
+            "span": {
+                "begin": 15172,
+                "end": 15181
+            },
+            "entityType": "gene",
+            "entityName": "ESR1 gene",
+            "id": "UMLS:C1414461"
+        },
+        {
+            "entityId": "15371_15379",
+            "span": {
+                "begin": 15371,
+                "end": 15379
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "15484_15488",
+            "span": {
+                "begin": 15484,
+                "end": 15488
+            },
+            "entityType": "gene",
+            "entityName": "ESR1",
+            "id": "NCBIGene:2099"
+        },
+        {
+            "entityId": "15564_15573",
+            "span": {
+                "begin": 15564,
+                "end": 15573
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "15574_15582",
+            "span": {
+                "begin": 15574,
+                "end": 15582
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "15659_15676",
+            "span": {
+                "begin": 15659,
+                "end": 15676
+            },
+            "entityType": "disease",
+            "entityName": "gallstone disease",
+            "id": "UMLS:C0008350"
+        },
+        {
+            "entityId": "15936_15946",
+            "span": {
+                "begin": 15936,
+                "end": 15946
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "16085_16092",
+            "span": {
+                "begin": 16085,
+                "end": 16092
+            },
+            "entityType": "gene",
+            "entityName": "SLCO1B1",
+            "id": "UMLS:C1420131"
+        },
+        {
+            "entityId": "16120_16127",
+            "span": {
+                "begin": 16120,
+                "end": 16127
+            },
+            "entityType": "gene",
+            "entityName": "SLCO1B1",
+            "id": "UMLS:C1420131"
+        },
+        {
+            "entityId": "16419_16428",
+            "span": {
+                "begin": 16419,
+                "end": 16428
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "16485_16494",
+            "span": {
+                "begin": 16485,
+                "end": 16494
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "16495_16503",
+            "span": {
+                "begin": 16495,
+                "end": 16503
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "16796_16806",
+            "span": {
+                "begin": 16796,
+                "end": 16806
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "17125_17142",
+            "span": {
+                "begin": 17125,
+                "end": 17142
+            },
+            "entityType": "disease",
+            "entityName": "gallstone disease",
+            "id": "UMLS:C0008350"
+        },
+        {
+            "entityId": "18222_18225",
+            "span": {
+                "begin": 18222,
+                "end": 18225
+            },
+            "entityType": "disease",
+            "entityName": "GSD",
+            "id": "mesh:D016098"
+        },
+        {
+            "entityId": "18479_18484",
+            "span": {
+                "begin": 18479,
+                "end": 18484
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "18898_18903",
+            "span": {
+                "begin": 18898,
+                "end": 18903
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "18916_18925",
+            "span": {
+                "begin": 18916,
+                "end": 18925
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8 145",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "19832_19835",
+            "span": {
+                "begin": 19832,
+                "end": 19835
+            },
+            "entityType": "disease",
+            "entityName": "GSD",
+            "id": "mesh:D016098"
+        },
+        {
+            "entityId": "20076_20105",
+            "span": {
+                "begin": 20076,
+                "end": 20105
+            },
+            "entityType": "gene",
+            "entityName": "hepatocanalicular transporter",
+            "id": "UMLS:C0596902"
+        },
+        {
+            "entityId": "20337_20340",
+            "span": {
+                "begin": 20337,
+                "end": 20340
+            },
+            "entityType": "disease",
+            "entityName": "GSD",
+            "id": "mesh:D016098"
+        },
+        {
+            "entityId": "20414_20423",
+            "span": {
+                "begin": 20414,
+                "end": 20423
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3-190",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "20428_20437",
+            "span": {
+                "begin": 20428,
+                "end": 20437
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8 145",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "20445_20451",
+            "span": {
+                "begin": 20445,
+                "end": 20451
+            },
+            "entityType": "gene",
+            "entityName": "ADRA2A",
+            "id": "UMLS:C1332028"
+        },
+        {
+            "entityId": "20679_20692",
+            "span": {
+                "begin": 20679,
+                "end": 20692
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3 variant",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "20846_20861",
+            "span": {
+                "begin": 20846,
+                "end": 20861
+            },
+            "entityType": "gene",
+            "entityName": "SLCO1B1 Exon4CC",
+            "id": "UMLS:C1420131"
+        },
+        {
+            "entityId": "20953_20956",
+            "span": {
+                "begin": 20953,
+                "end": 20956
+            },
+            "entityType": "disease",
+            "entityName": "GSD",
+            "id": "mesh:D016098"
+        },
+        {
+            "entityId": "21065_21074",
+            "span": {
+                "begin": 21065,
+                "end": 21074
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8 145",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "21082_21086",
+            "span": {
+                "begin": 21082,
+                "end": 21086
+            },
+            "entityType": "gene",
+            "entityName": "ESR2",
+            "id": "NCBIGene:2100"
+        },
+        {
+            "entityId": "21115_21120",
+            "span": {
+                "begin": 21115,
+                "end": 21120
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "21152_21155",
+            "span": {
+                "begin": 21152,
+                "end": 21155
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "22252_22255",
+            "span": {
+                "begin": 22252,
+                "end": 22255
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "22463_22466",
+            "span": {
+                "begin": 22463,
+                "end": 22466
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "22555_22558",
+            "span": {
+                "begin": 22555,
+                "end": 22558
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "22664_22683",
+            "span": {
+                "begin": 22664,
+                "end": 22683
+            },
+            "entityType": "gene",
+            "entityName": "adrenergic receptor",
+            "id": "UMLS:C1704463"
+        },
+        {
+            "entityId": "22696_22707",
+            "span": {
+                "begin": 22696,
+                "end": 22707
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "22874_22878",
+            "span": {
+                "begin": 22874,
+                "end": 22878
+            },
+            "entityType": "gene",
+            "entityName": "ESR1",
+            "id": "NCBIGene:2099"
+        },
+        {
+            "entityId": "22908_22913",
+            "span": {
+                "begin": 22908,
+                "end": 22913
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "22957_22960",
+            "span": {
+                "begin": 22957,
+                "end": 22960
+            },
+            "entityType": "disease",
+            "entityName": "GSD",
+            "id": "mesh:D016098"
+        },
+        {
+            "entityId": "23006_23028",
+            "span": {
+                "begin": 23006,
+                "end": 23028
+            },
+            "entityType": "gene",
+            "entityName": "progesterone receptors",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "23030_23033",
+            "span": {
+                "begin": 23030,
+                "end": 23033
+            },
+            "entityType": "gene",
+            "entityName": "PGR",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "23061_23071",
+            "span": {
+                "begin": 23061,
+                "end": 23071
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "23076_23105",
+            "span": {
+                "begin": 23076,
+                "end": 23105
+            },
+            "entityType": "gene",
+            "entityName": "hepatocanalicular transporter",
+            "id": "UMLS:C0596902"
+        },
+        {
+            "entityId": "23114_23119",
+            "span": {
+                "begin": 23114,
+                "end": 23119
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "23176_23179",
+            "span": {
+                "begin": 23176,
+                "end": 23179
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "23219_23229",
+            "span": {
+                "begin": 23219,
+                "end": 23229
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "23249_23253",
+            "span": {
+                "begin": 23249,
+                "end": 23253
+            },
+            "entityType": "gene",
+            "entityName": "ESR1",
+            "id": "NCBIGene:2099"
+        },
+        {
+            "entityId": "23300_23307",
+            "span": {
+                "begin": 23300,
+                "end": 23307
+            },
+            "entityType": "gene",
+            "entityName": "SLCO1B1",
+            "id": "UMLS:C1420131"
+        },
+        {
+            "entityId": "23364_23374",
+            "span": {
+                "begin": 23364,
+                "end": 23374
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "23429_23438",
+            "span": {
+                "begin": 23429,
+                "end": 23438
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "23603_23611",
+            "span": {
+                "begin": 23603,
+                "end": 23611
+            },
+            "entityType": "disease",
+            "entityName": "diabetes",
+            "id": "UMLS:C0011847"
+        },
+        {
+            "entityId": "23704_23713",
+            "span": {
+                "begin": 23704,
+                "end": 23713
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "23888_23897",
+            "span": {
+                "begin": 23888,
+                "end": 23897
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "24006_24035",
+            "span": {
+                "begin": 24006,
+                "end": 24035
+            },
+            "entityType": "gene",
+            "entityName": "hepatocanalicular transporter",
+            "id": "UMLS:C0596902"
+        },
+        {
+            "entityId": "24167_24184",
+            "span": {
+                "begin": 24167,
+                "end": 24184
+            },
+            "entityType": "disease",
+            "entityName": "gallstone disease",
+            "id": "UMLS:C0008350"
+        },
+        {
+            "entityId": "24379_24382",
+            "span": {
+                "begin": 24379,
+                "end": 24382
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "24507_24512",
+            "span": {
+                "begin": 24507,
+                "end": 24512
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "24525_24534",
+            "span": {
+                "begin": 24525,
+                "end": 24534
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8 145",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "24914_24917",
+            "span": {
+                "begin": 24914,
+                "end": 24917
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "25136_25141",
+            "span": {
+                "begin": 25136,
+                "end": 25141
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "25218_25221",
+            "span": {
+                "begin": 25218,
+                "end": 25221
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "25308_25318",
+            "span": {
+                "begin": 25308,
+                "end": 25318
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "25491_25511",
+            "span": {
+                "begin": 25491,
+                "end": 25511
+            },
+            "entityType": "disease",
+            "entityName": "gallbladder diseases",
+            "id": "UMLS:C0016977"
+        },
+        {
+            "entityId": "25528_25545",
+            "span": {
+                "begin": 25528,
+                "end": 25545
+            },
+            "entityType": "gene",
+            "entityName": "estrogen receptor",
+            "id": "UMLS:C1414461"
+        },
+        {
+            "entityId": "25581_25585",
+            "span": {
+                "begin": 25581,
+                "end": 25585
+            },
+            "entityType": "gene",
+            "entityName": "ESRs",
+            "id": "UMLS:C0034804"
+        },
+        {
+            "entityId": "25646_25672",
+            "span": {
+                "begin": 25646,
+                "end": 25672
+            },
+            "entityType": "cell",
+            "entityName": "bile duct epithelial cells",
+            "id": "UMLS:C0014597"
+        },
+        {
+            "entityId": "25803_25812",
+            "span": {
+                "begin": 25803,
+                "end": 25812
+            },
+            "entityType": "gene",
+            "entityName": "ESR1 gene",
+            "id": "UMLS:C1414461"
+        },
+        {
+            "entityId": "25857_25861",
+            "span": {
+                "begin": 25857,
+                "end": 25861
+            },
+            "entityType": "gene",
+            "entityName": "ESR2",
+            "id": "NCBIGene:2100"
+        },
+        {
+            "entityId": "25881_25897",
+            "span": {
+                "begin": 25881,
+                "end": 25897
+            },
+            "entityType": "drug",
+            "entityName": "17beta estradiol",
+            "id": "UMLS:C0014912"
+        },
+        {
+            "entityId": "25907_25916",
+            "span": {
+                "begin": 25907,
+                "end": 25916
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "25992_25999",
+            "span": {
+                "begin": 25992,
+                "end": 25999
+            },
+            "entityType": "gene",
+            "entityName": "ERalpha",
+            "id": "UMLS:C1414461"
+        },
+        {
+            "entityId": "26008_26014",
+            "span": {
+                "begin": 26008,
+                "end": 26014
+            },
+            "entityType": "gene",
+            "entityName": "ERbeta",
+            "id": "UMLS:C1414462"
+        },
+        {
+            "entityId": "26040_26045",
+            "span": {
+                "begin": 26040,
+                "end": 26045
+            },
+            "entityType": "gene",
+            "entityName": "ESR-1",
+            "id": "NCBIGene:2099"
+        },
+        {
+            "entityId": "26107_26117",
+            "span": {
+                "begin": 26107,
+                "end": 26117
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "26175_26182",
+            "span": {
+                "begin": 26175,
+                "end": 26182
+            },
+            "entityType": "gene",
+            "entityName": "ERalpha",
+            "id": "UMLS:C1414461"
+        },
+        {
+            "entityId": "26235_26240",
+            "span": {
+                "begin": 26235,
+                "end": 26240
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "26528_26542",
+            "span": {
+                "begin": 26528,
+                "end": 26542
+            },
+            "entityType": "drug",
+            "entityName": "catecholamines",
+            "id": "UMLS:C0007412"
+        },
+        {
+            "entityId": "26595_26611",
+            "span": {
+                "begin": 26595,
+                "end": 26611
+            },
+            "entityType": "gene",
+            "entityName": "adenylyl cyclase",
+            "id": "UMLS:C0001492"
+        },
+        {
+            "entityId": "26647_26651",
+            "span": {
+                "begin": 26647,
+                "end": 26651
+            },
+            "entityType": "drug",
+            "entityName": "cAMP",
+            "id": "UMLS:C0050063"
+        },
+        {
+            "entityId": "26667_26672",
+            "span": {
+                "begin": 26667,
+                "end": 26672
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "26721_26731",
+            "span": {
+                "begin": 26721,
+                "end": 26731
+            },
+            "entityType": "species",
+            "entityName": "guinea-pig",
+            "id": "UMLS:C0085979"
+        },
+        {
+            "entityId": "26834_26850",
+            "span": {
+                "begin": 26834,
+                "end": 26850
+            },
+            "entityType": "gene",
+            "entityName": "ss3-adrenoceptor",
+            "id": "UMLS:C0034783"
+        },
+        {
+            "entityId": "27032_27037",
+            "span": {
+                "begin": 27032,
+                "end": 27037
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "27054_27063",
+            "span": {
+                "begin": 27054,
+                "end": 27063
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "27244_27254",
+            "span": {
+                "begin": 27244,
+                "end": 27254
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8 145G",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "27422_27453",
+            "span": {
+                "begin": 27422,
+                "end": 27453
+            },
+            "entityType": "gene",
+            "entityName": "hepatic cholesterol transporter",
+            "id": "UMLS:C0596902"
+        },
+        {
+            "entityId": "27455_27460",
+            "span": {
+                "begin": 27455,
+                "end": 27460
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "27497_27502",
+            "span": {
+                "begin": 27497,
+                "end": 27502
+            },
+            "entityType": "species",
+            "entityName": "human",
+            "id": "UMLS:C0086418"
+        },
+        {
+            "entityId": "27503_27520",
+            "span": {
+                "begin": 27503,
+                "end": 27520
+            },
+            "entityType": "disease",
+            "entityName": "gallstone disease",
+            "id": "UMLS:C0008350"
+        },
+        {
+            "entityId": "27708_27711",
+            "span": {
+                "begin": 27708,
+                "end": 27711
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "27954_27957",
+            "span": {
+                "begin": 27954,
+                "end": 27957
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        },
+        {
+            "entityId": "28173_28190",
+            "span": {
+                "begin": 28173,
+                "end": 28190
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8 145 variant",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "28218_28235",
+            "span": {
+                "begin": 28218,
+                "end": 28235
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3 190 variant",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "28275_28284",
+            "span": {
+                "begin": 28275,
+                "end": 28284
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "28348_28355",
+            "span": {
+                "begin": 28348,
+                "end": 28355
+            },
+            "entityType": "gene",
+            "entityName": "SLCO1B1",
+            "id": "UMLS:C1420131"
+        },
+        {
+            "entityId": "28366_28377",
+            "span": {
+                "begin": 28366,
+                "end": 28377
+            },
+            "entityType": "gene",
+            "entityName": "SREBP2 1784",
+            "id": "UMLS:C1420399"
+        },
+        {
+            "entityId": "28505_28509",
+            "span": {
+                "begin": 28505,
+                "end": 28509
+            },
+            "entityType": "gene",
+            "entityName": "ESR1",
+            "id": "NCBIGene:2099"
+        },
+        {
+            "entityId": "28511_28516",
+            "span": {
+                "begin": 28511,
+                "end": 28516
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "28521_28526",
+            "span": {
+                "begin": 28521,
+                "end": 28526
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "28573_28590",
+            "span": {
+                "begin": 28573,
+                "end": 28590
+            },
+            "entityType": "disease",
+            "entityName": "gallstone disease",
+            "id": "UMLS:C0008350"
+        },
+        {
+            "entityId": "29227_29243",
+            "span": {
+                "begin": 29227,
+                "end": 29243
+            },
+            "entityType": "disease",
+            "entityName": "complex diseases",
+            "id": "UMLS:C0012634"
+        },
+        {
+            "entityId": "29328_29357",
+            "span": {
+                "begin": 29328,
+                "end": 29357
+            },
+            "entityType": "disease",
+            "entityName": "cholesterol gallstone disease",
+            "id": "UMLS:C0856727"
+        },
+        {
+            "entityId": "29529_29558",
+            "span": {
+                "begin": 29529,
+                "end": 29558
+            },
+            "entityType": "disease",
+            "entityName": "cholesterol gallstone disease",
+            "id": "UMLS:C0856727"
+        },
+        {
+            "entityId": "29703_29712",
+            "span": {
+                "begin": 29703,
+                "end": 29712
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "29895_29906",
+            "span": {
+                "begin": 29895,
+                "end": 29906
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "30056_30060",
+            "span": {
+                "begin": 30056,
+                "end": 30060
+            },
+            "entityType": "gene",
+            "entityName": "ESR1",
+            "id": "NCBIGene:2099"
+        },
+        {
+            "entityId": "30062_30067",
+            "span": {
+                "begin": 30062,
+                "end": 30067
+            },
+            "entityType": "gene",
+            "entityName": "ADRB3",
+            "id": "UMLS:C1439274"
+        },
+        {
+            "entityId": "30072_30077",
+            "span": {
+                "begin": 30072,
+                "end": 30077
+            },
+            "entityType": "gene",
+            "entityName": "ABCG8",
+            "id": "UMLS:C1422256"
+        },
+        {
+            "entityId": "30189_30210",
+            "span": {
+                "begin": 30189,
+                "end": 30210
+            },
+            "entityType": "disease",
+            "entityName": "cholesterol gallstone",
+            "id": "UMLS:C0856727"
+        },
+        {
+            "entityId": "30492_30500",
+            "span": {
+                "begin": 30492,
+                "end": 30500
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "30764_30776",
+            "span": {
+                "begin": 30764,
+                "end": 30776
+            },
+            "entityType": "species",
+            "entityName": "participants",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "30903_30924",
+            "span": {
+                "begin": 30903,
+                "end": 30924
+            },
+            "entityType": "disease",
+            "entityName": "cholesterol gallstone",
+            "id": "UMLS:C0856727"
+        },
+        {
+            "entityId": "30925_30933",
+            "span": {
+                "begin": 30925,
+                "end": 30933
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "31034_31042",
+            "span": {
+                "begin": 31034,
+                "end": 31042
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "31463_31475",
+            "span": {
+                "begin": 31463,
+                "end": 31475
+            },
+            "entityType": "species",
+            "entityName": "Participants",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "31502_31512",
+            "span": {
+                "begin": 31502,
+                "end": 31512
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "31924_31934",
+            "span": {
+                "begin": 31924,
+                "end": 31934
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "31972_31986",
+            "span": {
+                "begin": 31972,
+                "end": 31986
+            },
+            "entityType": "disease",
+            "entityName": "cholelithiasis",
+            "id": "UMLS:C0008350"
+        },
+        {
+            "entityId": "32189_32198",
+            "span": {
+                "begin": 32189,
+                "end": 32198
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "32260_32269",
+            "span": {
+                "begin": 32260,
+                "end": 32269
+            },
+            "entityType": "disease",
+            "entityName": "gallstone",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "32300_32310",
+            "span": {
+                "begin": 32300,
+                "end": 32310
+            },
+            "entityType": "disease",
+            "entityName": "gallstones",
+            "id": "UMLS:C0947622"
+        },
+        {
+            "entityId": "32369_32375",
+            "span": {
+                "begin": 32369,
+                "end": 32375
+            },
+            "entityType": "disease",
+            "entityName": "asthma",
+            "id": "UMLS:C0004096"
+        },
+        {
+            "entityId": "32377_32400",
+            "span": {
+                "begin": 32377,
+                "end": 32400
+            },
+            "entityType": "disease",
+            "entityName": "coronary artery disease",
+            "id": "UMLS:C1956346"
+        },
+        {
+            "entityId": "32402_32419",
+            "span": {
+                "begin": 32402,
+                "end": 32419
+            },
+            "entityType": "disease",
+            "entityName": "diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "32650_32658",
+            "span": {
+                "begin": 32650,
+                "end": 32658
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "32762_32773",
+            "span": {
+                "begin": 32762,
+                "end": 32773
+            },
+            "entityType": "species",
+            "entityName": "participant",
+            "id": "UMLS:C4723954"
+        },
+        {
+            "entityId": "32849_32876",
+            "span": {
+                "begin": 32849,
+                "end": 32876
+            },
+            "entityType": "cell",
+            "entityName": "peripheral blood leukocytes",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "34897_34900",
+            "span": {
+                "begin": 34897,
+                "end": 34900
+            },
+            "entityType": "disease",
+            "entityName": "CGD",
+            "id": "UMLS:C0018203"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "1426_1431",
+            "subjectText": "ADRB3",
+            "rel_name": "associate",
+            "objectId": "1348_1352",
+            "objectText": "ESR1"
+        }
+    ]
+}

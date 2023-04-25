@@ -1,0 +1,4802 @@
+{
+    "sourcid": "PMC3606410",
+    "publisher": "BioMed Central",
+    "journal": "BMC Biology",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3606410/",
+    "text": "MST1, a key player, in enhancing fast skeletal muscle atrophy Background Skeletal muscle undergoes rapid atrophy upon denervation and the underlying mechanisms are complicated. FOXO3a has been implicated as a major mediator of muscle atrophy, but how its subcellular location and activity is controlled during the pathogenesis of muscle atrophy remains largely unknown. MST1 (Mammalian Sterile 20-like kinase 1) is identified as a central component of the Hippo signaling pathway. MST1 has been shown to mediate phosphorylation of FOXO3a at Ser207. Whether this MST1-FOXO signaling cascade exerts any functional consequence on cellular homeostasis remains to be investigated. Result We identified that MST1 kinase was expressed widely in skeletal muscles and was dramatically up-regulated in fast- but not slow-dominant skeletal muscles immediately following denervation. The results of our histological and biochemical studies demonstrated that deletion of MST1 significantly attenuated denervation-induced skeletal muscle wasting and decreased expression of Atrogin-1 and LC3 genes in fast-dominant skeletal muscles from three- to five-month-old adult mice. Further studies indicated that MST1, but not MST2, remarkably increased FOXO3a phosphorylation level at Ser207 and promoted its nuclear translocation in atrophic fast-dominant muscles. Conclusions We have established that MST1 kinase plays an important role in regulating denervation-induced skeletal muscle atrophy. During the early stage of muscle atrophy, the up-regulated MST1 kinase promoted progression of neurogenic atrophy in fast-dominant skeletal muscles through activation of FOXO3a transcription factors. Background Skeletal muscle atrophy occurs upon denervation and disuse, as well as during aging and under many catabolic disease states, including cardiac and renal failure, sepsis, cancer cachexia and diabetes. During the pathogenesis of muscle atrophy, protein synthesis is significantly suppressed largely due to the inhibition of the IGF-1/PI3K/Akt pathway. Protein degradation is accelerated due to activation of both the ubiquitin-proteasome system and autophagy, which work coordinately to remove the myofibrillar proteins and myocyte organelles and thus results in rapid loss of muscle mass and contractile function. Expression of two E3 ligase genes, Atrogin-1 (MAFbx) and MuRF-1, as well as several autophagy genes, including LC3, Bnip-3 and Gabarapl1, are shown to be rapidly up-regulated at an early stage of multiple types of muscle atrophy. FOXO3a transcription factor is able to bind to its consensus DNA-binding motif - TTGTTTAC - in the promoter regions of several of these atrogenes, including Atrogin-1, LC3, Bnip3 and Gabarapl1 . Transactivation of these atrogenes by FOXO3a together with other transcription regulatory mechanisms, including NFkappaB and myogenic factors, results in the initiation of muscle atrophy. The subcellular localization and activity of FOXO transcription factors are regulated by multiple post-translational modifications (PTM), including phosphorylation, ubiquitination and acetylation. Some of these modifications of FOXO factors have been reported to regulate its activity and subcellular location in skeletal muscle. Under physiological conditions, in response to insulin and/or IGF-1 signaling, FOXO transcription factors are phosphorylated and thus inhibited by the IGF-1/PI3K/Akt pathway. Akt kinases phosphorylate FOXO at multiple sites and create binding sites for 14-3-3 proteins, causing sequestration of FOXO factors in the cytosol. In response to atrophy stimuli, activity of IGF-1/PI3K/Akt pathway is largely decreased, which results in the dephosphorylation of FOXO transcription factors, allowing its dissociation with 14-3-3 proteins and thus nuclear translocation. Beyond phosphorylation and inhibition of FOXO by Akt kinases, whether there is any other regulatory mechanisms functioning upstream of FOXO factors during the pathogenic process of skeletal muscle atrophy remains to be investigated. The mammalian Ste20-like kinase (MST) family is widely expressed in multiple tissues and consists of four members: MST1, MST2, MST3 and MST4. MST1 kinase was shown to be activated under multiple stress conditions, including oxidative stress and activation of caspases. As a central component of the mammalian Hippo signaling cascade, MST1 transcript was found in multiple skeletal muscles and in cardiac muscle. In cardiac muscle, MST1 kinase has been shown to co-localize with and be capable of phosphorylating cardiac troponin I in vivo . During the pathological process of myocardial infarction and hypertension-induced cardiac hypertrophy, MST1 kinase is activated and results in apoptosis of cardiomyocytes. It has been identified that MST1 was activated through cleavage by caspase-3 during in vitro differentiation of the myoblast. Cleaved MST1 translocates into the nucleus and promotes chromatin condensation and myotube differentiation. Whether MST1 plays any role during in vivo differentiation of skeletal muscle is unknown. Under in vivo conditions, fiber type composition of mammalian skeletal muscles is well determined during postnatal development. Immediately after birth, multiple mouse skeletal muscles contain both slow- and fast-twitch fibers; following postnatal development and growth, fiber type composition of skeletal muscles is fully differentiated and maintained throughout adulthood before aging. However, the underlying molecular mechanisms are still largely elusive. It has been identified that a conserved MST-FOXO signaling pathway regulates subcellular localization and transactivation function of FOXO transcription factors in neurons. Upon oxidative stress, neuronal MST1 kinase is activated and phosphorylates FOXO proteins at a conserved serine site. The phosphorylated FOXO factors dissociate with 14-3-3 proteins and translocate into neuronal nucleus to activate its downstream pro-apoptotic genes, thus resulting in apoptosis of the neuron. However, whether the function of this conserved MST-FOXO signaling pathway is fundamental in regulating any pathophysiological process in vivo is still not well understood. In the present study, we examined expression of MST1 in multiple striated muscles during postnatal development. We observed that the protein level of MST1 was enriched at early postnatal stages and dramatically declined in adulthood. In order to elucidate whether MST1 plays any role during the pathological remodeling process of adult skeletal muscles, we performed sciatic denervation on hindlimb muscles from three- to five-month-old adult wild type (WT) and MST1 knockout (KO) mice. Through biochemical and histological studies, we identified that MST1 kinase was a key regulator of denervation-induced atrophy in fast- but not in slow-dominant skeletal muscles. Immediately following denervation, MST1 promoted increases in gene expression of LC3 and Atrogin-1 through activation of FOXO3a. MST1 deficient fast-dominant muscles in three- to five-month-old adult mice showed significantly attenuated progression of denervation-induced atrophy. Thus functioning upstream of FOXO3a transcription factor, MST1 kinase provides a potential therapeutic target for the clinical treatment of skeletal muscle atrophy. Results MST1/2 kinases are widely expressed in multiple skeletal muscles and enriched at the neonatal stage In order to investigate the function of MST1 under pathophysiological conditions, we initially examined protein expression of MST1/2 kinases and their downstream transcriptional factor, FOXO3a, in multiple striated muscles, including cardiac muscle, diaphragm muscle, soleus (Sol), tibial anterior (TA), gastrocnemius (Gas) and extensor digitorum longus (EDL) muscles (Figure 1A). Densitometry analysis revealed that expression of MST1/2 kinases and FOXO3a was more predominant in cardiac muscle and slow fiber-dominant soleus muscles, compared with fast-dominant TA, gastrocnemius and EDL muscles (Figure 1B-D). Although it has been shown that transcripts of mammalian Hippo signaling components are found in multiple skeletal muscles and cardiac muscle, our data identified that the amount of protein of MST1/2 kinases was enriched in slow-dominant muscles and cardiac muscle. This suggests differential roles played by MST1/2 kinases in maintaining physiological homeostasis of different striated muscles. MST1 is expressed in striated muscles and enriched at early stage of postnatal muscle development. A. Expressions of MST1/2 and FOXO3a in striated muscles from three-month-old adult wild type mice were identified by Western blotting. B-D. Densitometry analysis showed the expressions of MST1/2 kinases were enriched in cardiac muscle, diaphragm as well as soleus muscles, which contain significant amount of type I fibers. E. Representative blotting shows protein level of MST1 was decreased during postnatal development in diaphragm, cardiac, TA and soleus muscles. F. Quantification of muscular MST1 expression during postnatal development. To investigate whether the differential expression of MST1 kinase in fast- and slow-dominant muscles is established during postnatal development, we examined expression of MST1 kinase in fast- and slow-dominant muscles at different postnatal stages (Figure 1E, F). The results of Western blotting and densitometry revealed that the amount of MST1 kinase protein was at its highest level on postnatal Day 1 in cardiac muscle and multiple skeletal muscles, including the diaphragm, soleus and tibial anterior muscles (Figure 1E, F). From postnatal Day 1 to Day 21, protein levels of MST1 were continuously down-regulated in both slow-dominant soleus and fast-dominant TA muscles. At postnatal Day 21 (wean age), MST1 kinase protein level in soleus muscle remained 30.2 +- 0.01% of that at postnatal Day 1. In fast-dominant TA muscle at postnatal Day 21, MST1 protein level remained barely detectable. Thus, MST1 kinase decreased in soleus muscle at a slower rate compared with that in fast-dominant TA muscle, suggesting that differential expression of MST1 kinase in slow- versus fast-muscle is determined during postnatal development of skeletal muscles. Our data identified the differential expression pattern of MST1 kinase in slow- versus fast-dominant muscles and implicated the MST1 gene as potentially regulated by the postnatal myogenic regulatory program. MST1 kinase is up-regulated during muscle atrophy In order to elucidate the function of MST1 during the pathological remodeling process of adult skeletal muscles, we performed sciatic denervation on hindlimb muscles from three- to five-month-old adult WT and MST1 KO mice. It has been shown in the literature that seven days after denervation, protein degradation mechanisms were fully activated within myofibers; and fourteen days after denervation, muscle mass and myofiber size were both dramatically decreased compared with contralateral level. We, therefore, collected contralateral and denervated muscle samples at denervation Days 3, 7 and 14, and examined transcription of muscle atrophy genes, and compared muscle mass and myofiber size. Quantitative PCR revealed that MST1 gene transcription was up-regulated at three and seven days after denervation (Figure 2A). Western blotting also revealed that protein levels of MST1 and MST2 kinases were immediately up-regulated in TA muscle following denervation (Figure 2B, C). One week after denervation, the increase in MST1 kinase occurred in fast-dominant TA, Gas and EDL muscles, but much less dramatic in slow-dominant soleus and flexor digitorum brevis (FDB) muscles (Figure 2D, E), indicating MST1 kinase function regulates neurogenic muscle atrophy in a myofiber type-dependent manner. Thus, MST1 kinase function provides a potential mechanism mediating fast- but not slow-dominant muscle atrophy. MST1 kinase is dramatically increased during denervation-induced atrophy in fast-dominant muscles from adult mice. A. Quantitative PCR showed mRNA of MST1 was continuously increased three and seven days after denervation. B and C. Western blotting and densitometry showed MST1 and MST2 protein levels were both increased during the process of denervation-induced atrophy in TA muscle. D and E. Seven days after denervation, MST1 protein levels were dramatically increased in multiple fast-dominant muscles (TA, Gas and EDL), but not in slow-dominant soleus and FDB muscles. *P < 0.05 by two-tailed Student's test. We also observed increased MST1 kinase protein level in gastrocnemius muscle following two weeks of hindlimb unloading (Additional file 1). Interestingly, MST2 protein level was not altered in this model of muscle atrophy, indicating MST1 and MST2 kinases play differential roles in mediating the occurrence of muscle atrophy. In a 48-hour starvation-induced muscle atrophy model, neither MST1 nor MST2 kinase protein level was altered in the gastrocnemius muscle examined (Additional file 1). MST1 deficient fast-dominant skeletal muscles are resistant to denervation-induced atrophy The rapid increase in MST1 protein levels in fast-dominant muscles during denervation-induced atrophy suggests that MST1 kinase may functionally contribute to the muscle wasting process. However, it might also reflect an accumulation of undegraded protein in atrophying myofibers. In order to elucidate whether the up-regulated MST1 kinase exerts any functional influence on neurogenic muscle atrophy, we examined atrophy process in muscles from three- to five-month-old adult WT and MST1 KO littermate mice. MST1 KO mice were generated as previously described and was a kind gift from Dr. Wufan Tao. Genomic deletion of exon 4 resulted in a reading frame shift and a premature stop codon in exon 5. We initially observed the normalized muscle mass of fast-dominant TA and gastrocnemius muscles were decreased in adult MST1 KO mice (Additional file 2). It has been demonstrated that MST1 was activated during myoblast differentiation. However, whether MST1 is necessary for myogenic differentiation of myoblast in vivo is unknown. Our data suggest that MST1 expression was predominant in neonatal mouse skeletal muscles; MST1 was potentially involved in regulating postnatal development of fast-dominant muscles, and represents a neonatal gene program in skeletal myofiber. We examined the pathological process of denervation-induced atrophy in adult WT and MST1 KO mice, by measuring muscle mass and myofiber size. Muscle mass data revealed that MST1 deficient gastrocnemius (Gas) and TA muscles were significantly resistant to denervation-induced muscle wasting (Figure 3A, B). Seven and fourteen days after denervation, wild type TA muscle mass decreased to 64.47% +- 2.4% and 50.81% +- 2.5% of contralateral level, respectively; while MST1 deficient TA muscle mass remained at 74.43% +- 1.36% and 66.35% +- 2.56% of its contralateral level (Figure 3B). Gastrocnemius muscle mass data measured seven and fourteen days after denervation also indicated that MST1 deficiency protected the muscle against denervation-induced atrophy (Figure 3A). Myofiber area quantification using alpha-laminin staining on TA muscle cryosections also revealed better preservation of myofiber size in MST1 deficient TA muscles fourteen days after denervation (Figure 3C). Although the myofiber size of MST1 deficient TA muscles was generally smaller than that in WT muscles under innervated conditions, normalized myofiber area in denervated MST1 deficient TA muscle was better preserved by more than 15% than that of WT myofibers on average (Figure 3D). Fourteen days after denervation, myofiber size distribution calculated from MST1 deficient TA muscles showed a delayed leftward shift from its contralateral conditions (Figure 3E, F). Thus, we identified that deficiency in MST1 kinase protected fast-dominant skeletal muscles against denervation-induced atrophy. The rapid increase in MST1 immediately following denervation potentially represents a pro-atrophy mechanism. MST1 deficiency protects fast- but not slow-dominant skeletal muscles against denervation-induced atrophy. Sciatic denervation was performed on three- to five-month-old adult WT and MST1 KO mice littermates. Three pairs of WT and MST1 KO mice were sacrificed at Day 7 after denervation and the other three pairs were examined at Dday 14. A. Mass of denervated gastrocnemius muscles from MST1 deficient mice remained at 79.18% +- 1.73% (on Day 7) and 67.14% +- 2.37% (on Day 14) of the contralateral muscles, both of which were significantly higher than 64.83% +- 2.01% and 53.53% +- 1.09% in WT mice, respectively. B. Seven and 14 days after denervation, mass of denervated TA muscles from MST1 KO mice remained at 74.43% +- 1.36% and 66.35% +- 2.56% of contralateral levels, whereas WT TA muscle mass remained at 64.47% +- 2.4% and 50.81% +- 2.5%, respectively. C. Representative images of alpha-laminin staining on contralateral and denervated TA muscle cryosections, indicating myofiber size was better preserved in MST1 deficient TA muscles at Day 14 after denervation. D. Fourteen days after denervation, averaged myofiber cross-sectional area of denervated TA muscle decreased to 71.61% +- 5.11% of the contralateral level in MST1 KO mice and 55.56% +- 0.87% in WT mice. E and F. TA myofiber size distribution showed a suppressed leftward shift in MST1 deficient TA muscles (F) 14 days after denervation, indicating less atrophy compared with WT muscles (E). G. Fourteen days after denervation, WT soleus muscle mass remained at 82.78% +- 5.32% of contralateral and MST1 deficient soleus muscle mass remained at 76.43% +- 2.45% of its contralateral level. H. Representative images of MHC I staining on contralateral and post-denervated Day 14 soleus muscles from WT and MST1 KO mice. WT and MST1 deficient soleus muscles developed similar level of atrophy 14 days after denervation. I. The ratio of slow-to-fast fiber content was significantly higher in MST1 deficient contralateral soleus muscles than that of WT muscles. 14 days after denervation, the ratios of slow-to-fast fiber content in WT and MST1 deficient soleus muscle were both increased. * P < 0.05 compared with wild type by two-tailed Student's test. MST1 deficiency does not prevent denervation-induced atrophy in slow-dominant muscle Next we sought to examine whether MST1 kinase deficiency also affects the progression of denervation-induced atrophy in slow-dominant soleus muscles from adult mice. Western blotting and densitometry revealed that, unlike in fast-dominant muscles, protein levels of MST1 and MST2 kinases were not altered in atrophic soleus muscles compared with contralateral levels (Additional file 3). Two weeks after denervation, WT soleus muscle mass decreased to 82.8% +- 0.05% and MST1 deficient soleus muscle mass remained 76.4% +- 0.03% of their contralateral levels (Figure 3G), indicating that MST1 deficiency did not prevent the progression of denervation-induced atrophy in slow-dominant soleus muscle. The enriched expression of MST1 kinase in slow-dominant soleus muscle encouraged us to investigate whether MST1 kinase activity contributes to the determination of muscle fiber type composition within the skeletal muscles. In diaphragm muscle obtained from adult MST1 deficient mice, type I fiber content was not significantly different from that of WT littermates (Additional file 4), indicating that MST1 kinase deficiency did not affect diaphragmatic myofiber composition. Interestingly, we observed a mildly increased content of type I fiber (Figure 3H, I) in MST1 deficient soleus muscle. In soleus muscles from adult wild type mice, type I fibers account for about 44% of total muscle content; while in MST1 deficient soleus muscles, about 50% of fibers are MHC I expressing type I fibers, suggesting that MST1 kinase deletion leads to a moderate slow-ward fiber type transition of soleus muscle (Figure 3I). MST1 deficiency reduces FOXO3a-dependent transcription of Atrogin-1 and LC3 genes in muscle atrophy The atrophy resistant phenotype of MST1 deficient fast muscles encouraged us to investigate the expression of the genes functionally involved in protein degradation and autophagy during muscle atrophy, including the two major E3 ligases identified in muscle wasting studies, Atrogin-1 and MuRF-1, as well as LC3 and Bnip3, which are involved in an activated autophagy pathway. Through quantitative PCR, we observed significant increases in expression of Atrogin-1 and MuRF-1 genes in both WT and MST1 deficient atrophic gastrocnemius muscles at post-denervation Day 3 (Figure 4A, D). Expression of autophagy related Bnip3 and LC3 genes did not show apparent increases upon contralateral levels (Figure 4B, C), indicating activation of the ubiquitin-proteasome system is prior to activation of the autophagy pathway in early stages of neurogenic muscle atrophy. Thus, the degradation of myofiber proteins immediately following onset of atrophy is potentially through the ubiquitin-proteasome system. Interestingly, increase in Atrogin-1 gene expression in MST1 deficient gastrocnemius muscles was suppressed by approximately 40% compared with WT atrophic muscles (Figure 4A). Relative expressional levels of the MuRF-1 gene were higher in atrophic MST1 deficient muscles than that of WT although statistically not significant (Figure 4D). Seven days after denervation, the relative expressional levels of Atrogin-1, MuRF-1, LC3 and Bnip3 genes were all increased upon contralateral level in both WT and MST1 deficient atrophic muscles (Figure 4E-H). However, increases in expression of Atrogin-1 and LC3 were statistically less dramatic in atrophic MST1 deficient muscles compared with WT (Figure 4E, F), indicating that these genes were much less activated in MST1 deficient muscles compared with those of WT during muscle atrophy. Expression of atrophy related genes in denervated gastrocnemius muscles from WT and MST1 KO mice. A-D. Quantitative PCR results showed three days after denervation, Atrogin-1 mRNA levels in WT and MST1 deficient gastrocnemius muscle were both increased (by 4.57 +- 0.70 folds and 2.68 +- 0.28 folds of the contralateral level, respectively). The increases in mRNA levels of LC-3 (1.76 +- 0.35 and 1.54 +- 0.15, WT vs. MST1 KO) and Bnip-3 were both less than two-fold and there is no significant difference in the WT and MST1 deficient muscles. MuRF-1 mRNA levels were upregulated to 9.51 +- 0.88 and 24.07 +- 7.68 folds in WT and MST1 deficient muscles, respectively. E-H. At Day 7 after denervation, the mRNA levels of muscle atrophy-related genes were significantly increased in both WT and MST1 deficient denervated muscles. The mRNA levels of Atrogin-1 and LC3 in denervated WT muscles (4.45 +- 0.47 and 4.43 +- 0.26 folds increased, respectively) were both significantly higher than that of MST1 KO mice (1.82 +- 0.12 folds and 2.91 +- 0.06 folds, respectively). Bnip-3 and MuRF-1 mRNA levels were also increased in denervated WT and MST1 deficient muscles but showed no differences between the genotypes. I-L. The protein levels of total LC3 and lapidated form (LC3 II) were both increased in MST1 deficient and WT muscles. Total LC3 protein was increased at 3.95 +- 0.37 folds in WT denervated muscle and 2.65 +- 0.48 folds in MST1 deficient denervated muscles. The LC3 II protein level in WT denervated muscle was increased 3.95 +- 0.31 folds and 2.44 +- 0.54 folds in MST1 deficient muscles, respectively. The ratio of LC3 II/LC3 I was 1.68 +- 0.20 and 1.31 +- 0.12 in WT and MST1 deficient muscles after denervation. * P < 0.05 by two-tailed Student's test. During the process of autophagy, LC3 I is converted to LC3 II through proteolysis and lipidation. However, recent evidence showed that up-regulated autophagy activity was also accompanied by an increased total protein level of LC3 II but not the conversion ratio of LC3 II/I. In our study, LC3 blotting and densitometry revealed up-regulation of total and activated LC3 proteins were less dramatic in MST1 deficient atrophic muscles than those of WT (Figure 4I-K). Although the ratio of conversion of LC3 into the activated forms (LC3 II/I) did not show a difference between WT and MST1 KO groups (Figure 4L), our data revealed that activation of LC3 gene expression in atrophic muscles was at least partially suppressed due to MST1 deficiency. Among the genes examined in atrophic muscles, Atrogin-1, Bnip3 and LC3 were shown to be regulated by the FOXO3a transcription factor. FOXO3a is able to bind to the promoter regions of the genes encoding Atrogin-1, LC3, Bnip3 and Gabarap1, and induces dramatic increases in the expression of these atrogenes in muscles to initiate atrophy. Thus, our results revealed that deficiency in MST1 kinase suppressed the activation of FOXO3a regulated genes in atrophic muscles, indicating that the activity of this transcription factor was differentially modulated in WT and MST1 deficient atrophic muscles. MST1 phosphorylates FOXO3a at Serine207 and promotes its nuclear translocation at early stage of muscle atrophy It has been shown that FOXO3a shuffles into myofiber nucleus and its activity is up-regulated upon atrophy stimuli. The subcellular location and activity of FOXO3a are precisely determined by multiple post-translational modification mechanisms. The suppressed up-regulation of FOXO3a-mediated atrogenes in MST1 deficient fast muscles undergoing atrophy leads us to investigate whether the activation of FOXO3a is differentially modulated in atrophic WT and MST1 deficient muscles. It has been previously reported that MST kinases are functionally upstream of FOXO transcription factors in a MST-FOXO signaling cascade. Through phosphorylating FOXO factors at a conserved serine site, MST kinases promote nuclear translocation of FOXO factors and activation of pro-apoptotic genes, thus promoting apoptosis of neurons upon oxidative stress. In order to elucidate whether such a MST-FOXO signaling mechanism contributes to modulating the subcellular localization and activity of FOXO3a during the pathogenic process of neurogenic muscle atrophy, we examined the phosphorylation status of FOXO3a at Ser207 in both WT and MST1 deficient TA muscles undergoing atrophy. We first confirmed the absence of MST1 protein in fast- and slow-dominant muscles from adult MST1 KO mice (Figure 5A and Additional file 3A). Western blotting and densitometry revealed three days after denervation, the phosphorylation level of FOXO3a by MST kinase at Ser207 was significantly up-regulated by 29.5% +- 0.07% (Figure 5A, B) in WT TA muscle, indicating the activation of FOXO3a transcription factor due to the up-regulation of MST kinases. Interestingly, the phosphorylation of FOXO3a at Ser207 was not increased in MST1 deficient muscles during atrophy, indicating that immediately following denervation, the phosphorylation of FOXO3a at Ser207 was mediated by MST1 but not MST2. Three and seven days after denervation, the FOXO3a protein amount was continuously increased in WT TA muscles and the total protein level of FOXO3a was consistently higher in MST1 deficient muscles (Figure 5C), suggesting a potential compensatory effect by FOXO3a gene expression under a MST1 deficient background. Three and seven days after denervation, the protein level of MST1 kinase was up-regulated in WT muscle (Figure 5A, D); while the protein level of MST2 kinase was also increased in both WT and MST1 deficient muscles to similar levels, indicating there was no functional compensation by MST2 kinase due to MST1 deficiency during muscle atrophy (Figure 5A, E). Further study indicated that seven days after denervation, the phosphorylation of FOXO3a by MST1 kinase was decreased in atrophic muscles. Thus the activation of FOXO3a was potentially tightly controlled by a dephosphorylation mechanism to restrict activation of this transcription factor. MST1 phosphorylates FOXO3a at Ser207 during muscle atrophy. A. Representative western blotting of MST1/2 and FOXO3a in atrophic TA muscles. B. Phosphorylation of FOXO3a at serine 207 by MST1 kinase was increased (by 29.5% +- 7.40%) in WT TA muscles but not in MST1 deficient muscles at denervation Day 3. FOXO3a Ser207 phosphorylation was decreased both in WT and MST1 KO muscles at Day 7 after denervation. C. Total FOXO3a protein level was continuously increased at Day 3 and Day 7 after denervation in WT TA muscles. D and E. Both the expression levels of MST1 and MST2 kinases were increased in atrophic muscles. MST2 protein levels were similarly increased in wild type and MST1 deficient muscles and WT muscles after denervation. At Dday 7 after denervation, comparing with the contralateral, the protein levels of MST2 kinase were increased 2.91 +- 0.15 and 2.92 +- 0.10 folds in the atrophic TA muscles obtained from WT and MST1 KO mice, respectively. * P < 0.05 by two-tailed Student's test. It has been previously shown that phosphorylation of FOXO by MST kinases was sufficient to promote its dissociation from 14-3-3 proteins in cytosol and to promote nuclear accumulation of FOXO transcription factors. In order to clarify whether MST1-mediated phosphorylation of FOXO3a also contributes to modulating its subcellular location during skeletal muscle atrophy, we examined the subcellular distribution of FOXO3a in atrophic muscles obtained from denervated adult MST1 deficient mice and their WT littermates. We observed a dramatic increase in nuclear localization of FOXO3a in both WT and MST1 deficient atrophic muscles (Figure 6A) at Day 3 after denervation. However, the level of nuclear accumulated FOXO3a in MST1 deficient muscles was significantly less compared to that in WT muscles (Figure 6B). In order to further elucidate whether the phosphorylation of FOXO3a on Ser207 is directly involved in its nuclear transportation, we examined the subcellular distribution of Ser207-phosphorylated FOXO3a on atrophic muscle sections. As shown in Figure 6C, D, nuclear localized Ser207-phosphorylated FOXO3a was significantly increased in WT atrophic muscles at Day 3 after denervation. In contrast, nuclear accumulation of Ser207-phosphorylated FOXO3a was dramatically suppressed in MST1 deficient muscles (Figure 6C, D). MST1 promotes nuclear translocation of FOXO3a through phosphorylation at Ser207. A and C. Representative immunostaining using pan-FOXO3a and Ser207-phosphorylated FOXO3a antibodies on TA muscle sections obtained on denervation Day 3. B. At Day 3 after denervation, 41.46% +- 3.07% and 27.51% +- 2.28% of the total myofiber nucleus were stained with FOXO3a in WT and MST1 deficient TA muscles, respectively. D. At Day 3 after denervation, 32.63% +- 1.82% and 12.10% +- 1.49% of total TA muscle nuclei stained with serine 207-posphorylated FoxO3a in WT and MST1 mice, respectively. *** P < 0.0001 by two-tailed Student's test.. Taken together, our results revealed that the up-regulated MST1 kinase was functionally involved in activation of FOXO3a through phosphorylation at Ser207, and thus promoted its nuclear translocation in fast-twitch myofibers undergoing atrophy; MST1 deficiency result in less activation of FOXO3a and suppressed nuclear translocation of this transcription factor, and thus lead to an atrophy-resistant phenotype in fast-dominant muscles from adult MST1 KO mice. Discussion In the present study we have identified the role of MST1 kinase in mediating the pathologic process of neurogenic muscle atrophy. Upon denervation, MST1 kinase was immediately up-regulated in fast-dominant muscles. The up-regulated MST1 kinase directly phosphorylated FOXO3a transcription factor at Ser207, and promoted its nuclear translocation and activation of atrogenes (Figure 7). Schematic diagram of MST1's function in mediating fast skeletal muscle atrophy. Within an innervated myofiber, Akt kinase is active and MST1 kinase amount is restricted at low level. Thus FOXO3a is phosphorylated by Akt at multiple sites (Thr32, Ser253 and Ser315), and is restricted within the myofiber cytosol through interaction with 14-3-3 proteins. Denervation induces rapid up-regulation of MST1 kinase. MST1 phosphorylates FOXO3a at Ser207 and causes its translocation into myofiber nucleus to activate expression of LC3 and Atrogin-1 genes, which leads to rapid muscle mass loss during the progression of muscle atrophy. MST1/2 was widely expressed in multiple striated muscles, including cardiac muscle, and slow- and fast-dominant skeletal muscles (Figure 1A). Interestingly, the expression of MST1 kinase was enriched in skeletal muscles at neonatal stages (Figure 1E, F), suggesting that MST1 kinase was potentially involved in regulating postnatal development of myofibers. It has been generally identified that a group of gene regulatory mechanisms functioning during early development of an organism are re-deployed under certain pathogenic conditions in adulthood. Here we identified that the MST1 gene expression was rapidly increased during the process of neurogenic fast muscle atrophy, thus MST1 represented one such re-deployed developmental gene program in fast muscles undergoing atrophy. Further studies using the MST1 deficient mouse model identified that the role of the up-regulated MST1 kinase was to promote the development of muscle atrophy, rather than functions as an adaptive mechanism to prevent rapid loss of muscle mass. We had also observed an enriched MST1 protein amount in slow-dominant soleus muscle compared with fast-dominant muscles under physiological conditions (Figure 1A, B). However, deficiency in MST1 leads to only a moderate switch in fiber type composition in soleus muscle (Figure 3 H). Thus, aims of future studies will be directed to investigate the role of MST1 in muscle development at early postnatal stages as well as whether MST1 contributes to maintaining the fiber type composition of skeletal muscle. In skeletal muscles, under both physiological and pathogenic conditions, MST1 kinase deficiency did not lead to expressional nor functional compensations by MST2 kinase (Figure 5A, E), suggesting MST1 and MST2 kinases play differential roles in maintaining the pathophysiological homeostasis of skeletal muscles. It is well characterized that remodeling of gene expression in atrophic myofibers is orchestrated by multiple regulatory mechanisms. FOXO3a transcription factor has been shown to mediate up-regulation of genes involved in both ubiquitin-proteasome and autophagy pathways. Studies have shown that inhibition of FOXO3a in muscles treated with atrophic stimuli is capable of preventing muscle from atrophying. We have previously shown that a conserved MST-FOXO signaling mechanism mediates the apoptotic response of neurons under oxidative stress. In the present study, we have identified that the MST-FOXO signaling mechanism is also conserved in mouse skeletal muscles. MST1 phosphorylates and thus activates FOXO3a during neurogenic skeletal muscle atrophy, which provides a new molecular mechanism to precisely determine the subcellular location and activity of FOXO3a in myofibers undergoing atrophy. Immediately following denervation, phosphorylation of FOXO3a at Ser207 was significantly enhanced (Figure 5A, B). Comparison between WT and MST1 deficient skeletal muscles further revealed that the phosphorylation of FOXO3a at Ser207 was mainly mediated by MST1, since a normalized level of Ser207-phosphorylated FOXO3a was consistently lower in MST1 deficient muscles under both normal and atrophic conditions. We had also observed an increased FOXO3a protein level in MST1 deficient fast muscles, which might reflect a functional compensation by FOXO3a for MST1 deficiency. Our results revealed that the subcellular location of FOXO3a transcription factor in myofibers was controlled by both Akt kinase and MST1 kinase in a counter-balanced manner. Up-regulation of MST1 kinase function following denervation further promoted nuclear accumulation of FOXO3a and thus full development of muscle atrophy. FOXO3a transcription factor is able to bind to promoter regions of multiple atrophy related genes, including Atrogin-1, LC3, Bnip3, Gabarapl1. Among these atrogenes, we found that activation of FOXO3a by MST1 kinase especially affected the expression of Atrogin-1 and LC3 genes, but not Bnip3. Our results suggested that a differential post-translational modification status of FOXO3a might potentially result in activation of different groups of its target genes. However, the underlying mechanisms still need to be elucidated in further studies. The transcriptional mechanism mediating MST1 gene expression is still not well understood, especially under multiple pathophysiological conditions. During muscle atrophy, many gene regulatory mechanisms have been reported to be activated to promote expression of protein degradation machineries, including myogenic factor myogenin and MyoD, NF-kappaB, as well as FOXO transcription factors. The dramatic decrease in MST1 protein level in multiple striated muscles during postnatal development indicates that MST1 is potentially regulated by the muscle differentiation program. However, the molecular mechanisms mediating the expression of MST1 during both neonatal development and atrophic remodeling need to be determined in further studies. We have observed that both MST1 and MST2 kinase were up-regulated during fast-dominant muscle atrophy. However, MST2 could not compensate for MST1 deficiency in the aspects of phosphorylating FOXO3a and promoting myofiber atrophy. Thus, the molecular mechanisms differentiating the function of MST1 and MST2, as well as the function of MST2 during muscle atrophy, need to be elucidated in future studies. The present study has focused on the biological consequence of an up-regulated MST1 kinase in atrophic muscles and its downstream molecular mechanisms. By elucidating the MST1-FOXO3a signaling mechanism in neurogenic muscle atrophy, we provide a potential therapeutic target for the clinical treatment of muscle atrophy. Methods Animal and muscle atrophy models The use of animals and experimental procedures were approved by the Institutional Animal Use and Care Committee of Institute of Biophysics at Chinese Academy of Sciences. Generation of MST1 deficient mice was described previously. For denervation studies, three- to five-month-old WT (n = 6) and MST1 KO (n = 7) mice, both male and female, were used. For denervation-induced muscle atrophy, mice were anesthetized, the sciatic nerve of left hind limb was exposed by blunt dissection and a 3 mm piece was excised. An identical incision into the right hind limb was made but the muscles remained innervated to serve as control. Muscle samples were harvested at 3, 7, 10 and 14 days after the denervation surgery. For disuse-induced muscle atrophy models, mice tails were suspended and fixed onto a mobile hook mounted to the cage. Hind feet of the mice were maintained 1 to 2 mm above the ground of the cage for 7 and 14 days. Mice were allowed free access to food and water during the suspension period. For starvation experiments, mice were deprived of food but allowed free access to water for 48 hours. Muscle atrophy was evaluated by decrease in muscle mass relative to individual contralateral level. Western blotting Mice were anesthetized and muscles were quickly isolated, and 10 to 20 mg pieces of the muscle tissues were homogenized in a SDS-PAGE sample buffer containing 2% SDS and 1% beta-mercaptoethanol, using a mechanical homogenizer (Pro Scientific, Oxford, CT, USA). Protein samples were heated at 85 C for five minutes and centrifuged to remove the insoluble materials. Protein samples were then resolved on either 10% or 15% SDS-PAGE with an acrylamide to bis-acrylamide ratio of 29:1. The resulting gels were transferred to nitrocellulose membranes and probed with primary antibodies as indicated. The signals of the protein bands were visualized using enhanced chemiluminescence method (GE Amersham, Pittsburgh, PA, USA). Relative quantity of protein was analyzed by densitometry using NIH Image J program (Bethesda, Maryland, USA). Primary antibodies used in this study were as follows: anti-MST1 (Cell Signaling Technology, Danvers, MA, USA), anti-MST2 (Abcam, Cambridge, UK), anti-GAPDH (Sigma, St. Louis, MO, USA), anti-LC3b (Cell Signaling Technology, Danvers, MA, USA), anti-Ser207-phosphorylated FOXO3a (Invitrogen, Grand Island, NY, USA). A monoclonal antibody against the C-terminal region of mouse FOXO3a was prepared and used to detect FOXO3a protein level from muscle lysates. Quantitative PCR Total RNA from the freshly isolated muscle tissues were extracted using a Trizol method according to the manufacturer's instruction (Invitrogen). Two micrograms of RNA were converted to first strand cDNA using M-MLV reverse transcriptase (Promega, Madison, WI, USA) following the manufacturer's instruction. The quantitative PCR were carried out with a Corbett 6200 machine (Valencia, CA, USA) using a three-step protocol and PCR reaction for each sample was performed in triplicate. Primers used in quantitative PCR are as follows: Mouse MST1: Forward-GAACCATGAAAAGAAGAGATGAGA, Reverse-GTCCAGCTCTTGAGAAACTCAT; Atrogin-1: Forward-TGAATAATCCCAGCACACGA, Reverse-ATCGGCAACTGCATCTCTTC; MuRF-1: Forward-TAACTGCATCTCCATGCTGGTG, Reverse-TGGCGTAGAGGGTGTCAAACTT; LC3: Forward-CGGCTTCCTGTACATGGTTT, Reverse-ATGTGGGTGCCTACGTTCTC; Bnip3: Forward-CACCTTCTGATGAAGATTTGGA, Reverse-GGAACACCGCATTTACAGAA. For each primer pair, analysis of the melting curve was performed to verify the specificity of the PCR product and reaction conditions. Cycle numbers were measured using Rotor-Gene 6000 software (Valencia, CA, USA) and results were analyzed using the 2-DeltaDeltaCt method. Immunofluorescence Muscles were freshly isolated and mounted in a plastic bowl containing OCT (Thermo Scientific, Rockfield, IL, USA), and the orientation of the muscle fibers was maintained to ensure the sectioning is performed in a transverse manner. The mounted muscle tissues were frozen in isopentane pre-chilled at -159 C for 30 to 40 seconds and stored at -80 C. Transverse sectioning of the muscle tissues was performed using a Leica CM3050S cryostat (Wetzlar, Germany). Serial sections with 10 nm thickness were used for immunostaining and H&E staining following a protocol as described previously. Briefly, after being rehydrated in PBS containing 0.05% Tween-20 (PBST) for 15 minutes and blocked in PBST containing 3% BSA for 30 minutes, muscle sections were probed with primary antibodies at 4 C overnight. After three washes with PBST for 10 minutes each, muscle sections were incubated with fluorescent chromophore conjugated secondary antibodies. After three washes with PBST, muscle sections were mounted and images were captured using a Leica SP5 confocal microscopy. Muscle fiber areas were quantified using NIH Image J software (Bethesda, Maryland, USA). Primary antibodies used in immunostaining were as followings: anti-MHC I (Developmental Hybridoma Bank, Iowa, USA) and anti-alpha-laminin (Cambridge, UK).    Abbreviations Gas: Gastrocnemius; KO: knockout; MST: Mammalian Sterile 20-like kinase; PBS: phosphate-buffered saline; PBST: phosphate-buffered saline containing 0.05% Tween-20; PTM: post-translational modifications; Sol: soleus; TA: tibial anterior Competing interests The authors declare that they have no competing interests. Authors' contributions BW, ZY and GJ designed the experiments. BW and WD performed the experiments. DL contributed when this project was initiated. BW, ZY and GJ analyzed the data and prepared the manuscript. ZY is also a member of the Chinese Hippo Consortium. All authors have read and approved the final manuscript. Supplementary Material Acknowledgements This work was supported by grants from the National Basic Research Program of China (2011CB809104 to GJ, 973-2009CB918701-4 to ZY and 973-2012CB910701 to ZY) and the National Science Foundation of China (81125010 and 81030025 to ZY). We thank Dr. Wufan Tao for the MST1 KO mice. We thank Prof. Jian-ping Jin from Wayne State University and Prof. Andrew Marks from Columbia University for their advice on data presentation and critical reading of the manuscript. Mechanical signal transduction in skeletal muscle growth and adaptation Ryanodine receptor oxidation causes intracellular calcium leak and muscle weakness in aging Muscle atrophy in cancer: a role for nutrition and exercise Muscle atrophy in experimental cancer cachexia: is the IGF-1 signaling pathway involved? Heart failure increases atrogin-1 and MuRF1 gene expression in skeletal muscle with fiber type-specific atrophy Chronic heart failure-induced skeletal muscle atrophy, necrosis, and changes in myogenic regulatory factors Altered REDD1, myostatin, and Akt/mTOR/FoxO/MAPK signaling in streptozotocin-induced diabetic muscle atrophy Akt/mTOR pathway is a crucial regulator of skeletal muscle hypertrophy and can prevent muscle atrophy in vivo Atrogin-1, a muscle-specific F-box protein highly expressed during muscle atrophy During muscle atrophy, thick, but not thin, filament components are degraded by MuRF1-dependent ubiquitylation Identification of ubiquitin ligases required for skeletal muscle atrophy Role of different proteolytic systems in the degradation of muscle proteins during denervation atrophy FOXO transcription factors induce the atrophy-related ubiquitin ligase atrogin-1 and cause skeletal muscle atrophy FoxO3 coordinately activates protein degradation by the autophagic/lysosomal and proteasomal pathways in atrophying muscle cells FoxO3 controls autophagy in skeletal muscle in vivo Myogenin and class II HDACs control neurogenic muscle atrophy by inducing E3 ubiquitin ligases Inhibition of IkappaB kinase alpha (IKKalpha) or IKKbeta (IKKbeta) plus forkhead box O (FOXO) abolishes skeletal muscle atrophy IKKbeta/NF-kappaB activation causes severe muscle wasting in mice The FoxO code The ins and outs of FoxO shuttling: mechanisms of FoxO translocation and transcriptional regulation Does AMP-activated protein kinase negatively mediate aged fast-twitch skeletal muscle mass? AMPK activation stimulates myofibrillar protein degradation and expression of atrophy-related ubiquitin ligases by increasing FOXO transcription factors in C2C12 myotubes MDM2 acts downstream of p53 as an E3 ligase to promote FOXO ubiquitination and degradation p300 Acetyltransferase activity differentially regulates the localization and activity of the FOXO homologues in skeletal muscle Posttranslational modifications control FoxO3 activity during denervation Akt promotes cell survival by phosphorylating and inhibiting a Forkhead transcription factor The IGF-1/PI3K/Akt pathway prevents expression of muscle atrophy-induced ubiquitin ligases by inhibiting FOXO transcription factors 14-3-3 Protein interacts with nuclear localization sequence of forkhead transcription factor FoxO4 The c-Abl-MST1 signaling pathway mediates oxidative stress-induced neuronal cell death A conserved MST-FOXO signaling pathway mediates oxidative-stress responses and extends life span Cloning and characterization of a human STE20-like protein kinase with unusual cofactor requirements MST4, a new Ste20-related kinase that mediates cell growth and transformation via modulating ERK pathway c-Jun N-terminal kinase enhances MST1-mediated pro-apoptotic signaling through phosphorylation at serine 82 Phosphoinositide 3-kinase/Akt inhibits MST1-mediated pro-apoptotic signaling through phosphorylation of threonine 120 Both phosphorylation and caspase-mediated cleavage contribute to regulation of the Ste20-like protein kinase Mst1 during CD95/Fas-induced apoptosis Caspase-mediated activation and induction of apoptosis by the mammalian Ste20-like kinase Mst1 Hippo signaling at a glance Yap is a novel regulator of C2C12 myogenesis Phosphorylation of cardiac troponin I by mammalian sterile 20-like kinase 1 Inhibition of endogenous Mst1 prevents apoptosis and cardiac dysfunction without affecting cardiac hypertrophy after myocardial infarction Caspase 3 activity is required for skeletal muscle differentiation Myosin heavy chain isoforms in postnatal muscle development of mice Fiber types in mammalian skeletal muscles A cell-intrinsic role for Mst1 in regulating thymocyte egress Autophagy in skeletal muscle LC3, a mammalian homologue of yeast Apg8p, is localized in autophagosome membranes after processing Post-translational modifications of three members of the human MAP1LC3 family and detection of a novel type of modification for MAP1LC3B How to interpret LC3 immunoblotting Signaling in muscle atrophy and hypertrophy Inhibition of FoxO transcriptional activity prevents muscle fiber atrophy during cachexia and induces hypertrophy Lysine methylation of FOXO3 regulates oxidative stress-induced neuronal cell death Deletion of a genomic segment containing the cardiac troponin I gene knocks down expression of the slow troponin T gene and impairs fatigue tolerance of diaphragm muscle Post-translational regulation of FOXO",
+    "entities": [
+        {
+            "entityId": "0_4",
+            "span": {
+                "begin": 0,
+                "end": 4
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "38_61",
+            "span": {
+                "begin": 38,
+                "end": 61
+            },
+            "entityType": "disease",
+            "entityName": "skeletal muscle atrophy",
+            "id": "UMLS:C0541794"
+        },
+        {
+            "entityId": "105_112",
+            "span": {
+                "begin": 105,
+                "end": 112
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "177_183",
+            "span": {
+                "begin": 177,
+                "end": 183
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "227_241",
+            "span": {
+                "begin": 227,
+                "end": 241
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "330_344",
+            "span": {
+                "begin": 330,
+                "end": 344
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "370_374",
+            "span": {
+                "begin": 370,
+                "end": 374
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "376_410",
+            "span": {
+                "begin": 376,
+                "end": 410
+            },
+            "entityType": "gene",
+            "entityName": "Mammalian Sterile 20-like kinase 1",
+            "id": "UMLS:C1420481"
+        },
+        {
+            "entityId": "481_485",
+            "span": {
+                "begin": 481,
+                "end": 485
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "531_537",
+            "span": {
+                "begin": 531,
+                "end": 537
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "562_566",
+            "span": {
+                "begin": 562,
+                "end": 566
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "567_571",
+            "span": {
+                "begin": 567,
+                "end": 571
+            },
+            "entityType": "gene",
+            "entityName": "FOXO",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "702_713",
+            "span": {
+                "begin": 702,
+                "end": 713
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "958_962",
+            "span": {
+                "begin": 958,
+                "end": 962
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "1008_1031",
+            "span": {
+                "begin": 1008,
+                "end": 1031
+            },
+            "entityType": "disease",
+            "entityName": "skeletal muscle wasting",
+            "id": "UMLS:C0541794"
+        },
+        {
+            "entityId": "1060_1069",
+            "span": {
+                "begin": 1060,
+                "end": 1069
+            },
+            "entityType": "gene",
+            "entityName": "Atrogin-1",
+            "id": "UMLS:C3539871"
+        },
+        {
+            "entityId": "1074_1077",
+            "span": {
+                "begin": 1074,
+                "end": 1077
+            },
+            "entityType": "gene",
+            "entityName": "LC3",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "1154_1158",
+            "span": {
+                "begin": 1154,
+                "end": 1158
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "1191_1195",
+            "span": {
+                "begin": 1191,
+                "end": 1195
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "1205_1209",
+            "span": {
+                "begin": 1205,
+                "end": 1209
+            },
+            "entityType": "gene",
+            "entityName": "MST2",
+            "id": "UMLS:C1420479"
+        },
+        {
+            "entityId": "1232_1238",
+            "span": {
+                "begin": 1232,
+                "end": 1238
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "1382_1393",
+            "span": {
+                "begin": 1382,
+                "end": 1393
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "1452_1475",
+            "span": {
+                "begin": 1452,
+                "end": 1475
+            },
+            "entityType": "disease",
+            "entityName": "skeletal muscle atrophy",
+            "id": "UMLS:C0541794"
+        },
+        {
+            "entityId": "1503_1517",
+            "span": {
+                "begin": 1503,
+                "end": 1517
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "1536_1547",
+            "span": {
+                "begin": 1536,
+                "end": 1547
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "1647_1653",
+            "span": {
+                "begin": 1647,
+                "end": 1653
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "1688_1711",
+            "span": {
+                "begin": 1688,
+                "end": 1711
+            },
+            "entityType": "disease",
+            "entityName": "Skeletal muscle atrophy",
+            "id": "UMLS:C0541794"
+        },
+        {
+            "entityId": "1787_1804",
+            "span": {
+                "begin": 1787,
+                "end": 1804
+            },
+            "entityType": "disease",
+            "entityName": "catabolic disease",
+            "id": "UMLS:C0012634"
+        },
+        {
+            "entityId": "1823_1848",
+            "span": {
+                "begin": 1823,
+                "end": 1848
+            },
+            "entityType": "disease",
+            "entityName": "cardiac and renal failure",
+            "id": "UMLS:C0035078"
+        },
+        {
+            "entityId": "1850_1856",
+            "span": {
+                "begin": 1850,
+                "end": 1856
+            },
+            "entityType": "disease",
+            "entityName": "sepsis",
+            "id": "UMLS:C0243026"
+        },
+        {
+            "entityId": "1858_1864",
+            "span": {
+                "begin": 1858,
+                "end": 1864
+            },
+            "entityType": "disease",
+            "entityName": "cancer",
+            "id": "UMLS:C0006826"
+        },
+        {
+            "entityId": "1865_1873",
+            "span": {
+                "begin": 1865,
+                "end": 1873
+            },
+            "entityType": "disease",
+            "entityName": "cachexia",
+            "id": "UMLS:C0006625"
+        },
+        {
+            "entityId": "1878_1886",
+            "span": {
+                "begin": 1878,
+                "end": 1886
+            },
+            "entityType": "disease",
+            "entityName": "diabetes",
+            "id": "UMLS:C0011847"
+        },
+        {
+            "entityId": "1915_1929",
+            "span": {
+                "begin": 1915,
+                "end": 1929
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "2014_2019",
+            "span": {
+                "begin": 2014,
+                "end": 2019
+            },
+            "entityType": "gene",
+            "entityName": "IGF-1",
+            "id": "UMLS:C1334089"
+        },
+        {
+            "entityId": "2020_2024",
+            "span": {
+                "begin": 2020,
+                "end": 2024
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "2025_2028",
+            "span": {
+                "begin": 2025,
+                "end": 2028
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "2103_2112",
+            "span": {
+                "begin": 2103,
+                "end": 2112
+            },
+            "entityType": "gene",
+            "entityName": "ubiquitin",
+            "id": "UMLS:C0041538"
+        },
+        {
+            "entityId": "2210_2217",
+            "span": {
+                "begin": 2210,
+                "end": 2217
+            },
+            "entityType": "cell",
+            "entityName": "myocyte",
+            "id": "UMLS:C0596981"
+        },
+        {
+            "entityId": "2319_2328",
+            "span": {
+                "begin": 2319,
+                "end": 2328
+            },
+            "entityType": "gene",
+            "entityName": "E3 ligase",
+            "id": "UMLS:C0077678"
+        },
+        {
+            "entityId": "2336_2345",
+            "span": {
+                "begin": 2336,
+                "end": 2345
+            },
+            "entityType": "gene",
+            "entityName": "Atrogin-1",
+            "id": "UMLS:C3539871"
+        },
+        {
+            "entityId": "2347_2352",
+            "span": {
+                "begin": 2347,
+                "end": 2352
+            },
+            "entityType": "gene",
+            "entityName": "MAFbx",
+            "id": "UMLS:C1424509"
+        },
+        {
+            "entityId": "2358_2364",
+            "span": {
+                "begin": 2358,
+                "end": 2364
+            },
+            "entityType": "gene",
+            "entityName": "MuRF-1",
+            "id": "UMLS:C1540067"
+        },
+        {
+            "entityId": "2412_2415",
+            "span": {
+                "begin": 2412,
+                "end": 2415
+            },
+            "entityType": "gene",
+            "entityName": "LC3",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "2417_2423",
+            "span": {
+                "begin": 2417,
+                "end": 2423
+            },
+            "entityType": "gene",
+            "entityName": "Bnip-3",
+            "id": "NCBIGene:664"
+        },
+        {
+            "entityId": "2428_2437",
+            "span": {
+                "begin": 2428,
+                "end": 2437
+            },
+            "entityType": "gene",
+            "entityName": "Gabarapl1",
+            "id": "UMLS:C1414902"
+        },
+        {
+            "entityId": "2515_2529",
+            "span": {
+                "begin": 2515,
+                "end": 2529
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "2531_2558",
+            "span": {
+                "begin": 2531,
+                "end": 2558
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a transcription factor",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "2688_2697",
+            "span": {
+                "begin": 2688,
+                "end": 2697
+            },
+            "entityType": "gene",
+            "entityName": "Atrogin-1",
+            "id": "UMLS:C3539871"
+        },
+        {
+            "entityId": "2699_2702",
+            "span": {
+                "begin": 2699,
+                "end": 2702
+            },
+            "entityType": "gene",
+            "entityName": "LC3",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "2704_2709",
+            "span": {
+                "begin": 2704,
+                "end": 2709
+            },
+            "entityType": "gene",
+            "entityName": "Bnip3",
+            "id": "UMLS:C1412812"
+        },
+        {
+            "entityId": "2714_2723",
+            "span": {
+                "begin": 2714,
+                "end": 2723
+            },
+            "entityType": "gene",
+            "entityName": "Gabarapl1",
+            "id": "UMLS:C1414902"
+        },
+        {
+            "entityId": "2764_2770",
+            "span": {
+                "begin": 2764,
+                "end": 2770
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "2838_2846",
+            "span": {
+                "begin": 2838,
+                "end": 2846
+            },
+            "entityType": "gene",
+            "entityName": "NFkappaB",
+            "id": "UMLS:C0079904"
+        },
+        {
+            "entityId": "2898_2912",
+            "span": {
+                "begin": 2898,
+                "end": 2912
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "2959_2985",
+            "span": {
+                "begin": 2959,
+                "end": 2985
+            },
+            "entityType": "gene",
+            "entityName": "FOXO transcription factors",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "3142_3154",
+            "span": {
+                "begin": 3142,
+                "end": 3154
+            },
+            "entityType": "gene",
+            "entityName": "FOXO factors",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "3291_3298",
+            "span": {
+                "begin": 3291,
+                "end": 3298
+            },
+            "entityType": "gene",
+            "entityName": "insulin",
+            "id": "UMLS:C0021641"
+        },
+        {
+            "entityId": "3306_3311",
+            "span": {
+                "begin": 3306,
+                "end": 3311
+            },
+            "entityType": "gene",
+            "entityName": "IGF-1",
+            "id": "UMLS:C1334089"
+        },
+        {
+            "entityId": "3323_3349",
+            "span": {
+                "begin": 3323,
+                "end": 3349
+            },
+            "entityType": "gene",
+            "entityName": "FOXO transcription factors",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "3395_3400",
+            "span": {
+                "begin": 3395,
+                "end": 3400
+            },
+            "entityType": "gene",
+            "entityName": "IGF-1",
+            "id": "UMLS:C1334089"
+        },
+        {
+            "entityId": "3401_3405",
+            "span": {
+                "begin": 3401,
+                "end": 3405
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "3406_3409",
+            "span": {
+                "begin": 3406,
+                "end": 3409
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "3419_3430",
+            "span": {
+                "begin": 3419,
+                "end": 3430
+            },
+            "entityType": "gene",
+            "entityName": "Akt kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "3445_3449",
+            "span": {
+                "begin": 3445,
+                "end": 3449
+            },
+            "entityType": "gene",
+            "entityName": "FOXO",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "3497_3512",
+            "span": {
+                "begin": 3497,
+                "end": 3512
+            },
+            "entityType": "gene",
+            "entityName": "14-3-3 proteins",
+            "id": "UMLS:C0090388"
+        },
+        {
+            "entityId": "3539_3551",
+            "span": {
+                "begin": 3539,
+                "end": 3551
+            },
+            "entityType": "gene",
+            "entityName": "FOXO factors",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "3583_3590",
+            "span": {
+                "begin": 3583,
+                "end": 3590
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "3612_3617",
+            "span": {
+                "begin": 3612,
+                "end": 3617
+            },
+            "entityType": "gene",
+            "entityName": "IGF-1",
+            "id": "UMLS:C1334089"
+        },
+        {
+            "entityId": "3618_3622",
+            "span": {
+                "begin": 3618,
+                "end": 3622
+            },
+            "entityType": "gene",
+            "entityName": "PI3K",
+            "id": "UMLS:C1709402"
+        },
+        {
+            "entityId": "3623_3626",
+            "span": {
+                "begin": 3623,
+                "end": 3626
+            },
+            "entityType": "gene",
+            "entityName": "Akt",
+            "id": "UMLS:C0812228"
+        },
+        {
+            "entityId": "3699_3725",
+            "span": {
+                "begin": 3699,
+                "end": 3725
+            },
+            "entityType": "gene",
+            "entityName": "FOXO transcription factors",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "3758_3773",
+            "span": {
+                "begin": 3758,
+                "end": 3773
+            },
+            "entityType": "gene",
+            "entityName": "14-3-3 proteins",
+            "id": "UMLS:C0090388"
+        },
+        {
+            "entityId": "3847_3851",
+            "span": {
+                "begin": 3847,
+                "end": 3851
+            },
+            "entityType": "gene",
+            "entityName": "FOXO",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "3855_3866",
+            "span": {
+                "begin": 3855,
+                "end": 3866
+            },
+            "entityType": "gene",
+            "entityName": "Akt kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "3941_3953",
+            "span": {
+                "begin": 3941,
+                "end": 3953
+            },
+            "entityType": "gene",
+            "entityName": "FOXO factors",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "3987_4010",
+            "span": {
+                "begin": 3987,
+                "end": 4010
+            },
+            "entityType": "disease",
+            "entityName": "skeletal muscle atrophy",
+            "id": "UMLS:C0541794"
+        },
+        {
+            "entityId": "4043_4070",
+            "span": {
+                "begin": 4043,
+                "end": 4070
+            },
+            "entityType": "gene",
+            "entityName": "mammalian Ste20-like kinase",
+            "id": "UMLS:C1420246"
+        },
+        {
+            "entityId": "4072_4075",
+            "span": {
+                "begin": 4072,
+                "end": 4075
+            },
+            "entityType": "gene",
+            "entityName": "MST",
+            "id": "NCBIGene:4294"
+        },
+        {
+            "entityId": "4154_4158",
+            "span": {
+                "begin": 4154,
+                "end": 4158
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "4160_4164",
+            "span": {
+                "begin": 4160,
+                "end": 4164
+            },
+            "entityType": "gene",
+            "entityName": "MST2",
+            "id": "UMLS:C1420479"
+        },
+        {
+            "entityId": "4166_4170",
+            "span": {
+                "begin": 4166,
+                "end": 4170
+            },
+            "entityType": "gene",
+            "entityName": "MST3",
+            "id": "UMLS:C1420476"
+        },
+        {
+            "entityId": "4175_4179",
+            "span": {
+                "begin": 4175,
+                "end": 4179
+            },
+            "entityType": "gene",
+            "entityName": "MST4",
+            "id": "UMLS:C1845191"
+        },
+        {
+            "entityId": "4181_4192",
+            "span": {
+                "begin": 4181,
+                "end": 4192
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "4298_4306",
+            "span": {
+                "begin": 4298,
+                "end": 4306
+            },
+            "entityType": "gene",
+            "entityName": "caspases",
+            "id": "UMLS:C0010656"
+        },
+        {
+            "entityId": "4373_4388",
+            "span": {
+                "begin": 4373,
+                "end": 4388
+            },
+            "entityType": "gene",
+            "entityName": "MST1 transcript",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "4470_4481",
+            "span": {
+                "begin": 4470,
+                "end": 4481
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "4551_4569",
+            "span": {
+                "begin": 4551,
+                "end": 4569
+            },
+            "entityType": "gene",
+            "entityName": "cardiac troponin I",
+            "id": "UMLS:C1305957"
+        },
+        {
+            "entityId": "4615_4636",
+            "span": {
+                "begin": 4615,
+                "end": 4636
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "4641_4653",
+            "span": {
+                "begin": 4641,
+                "end": 4653
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "4662_4681",
+            "span": {
+                "begin": 4662,
+                "end": 4681
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "4683_4694",
+            "span": {
+                "begin": 4683,
+                "end": 4694
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "4736_4750",
+            "span": {
+                "begin": 4736,
+                "end": 4750
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "4780_4784",
+            "span": {
+                "begin": 4780,
+                "end": 4784
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "4819_4828",
+            "span": {
+                "begin": 4819,
+                "end": 4828
+            },
+            "entityType": "gene",
+            "entityName": "caspase-3",
+            "id": "UMLS:C0291573"
+        },
+        {
+            "entityId": "4868_4876",
+            "span": {
+                "begin": 4868,
+                "end": 4876
+            },
+            "entityType": "cell",
+            "entityName": "myoblast",
+            "id": "UMLS:C0596995"
+        },
+        {
+            "entityId": "4886_4890",
+            "span": {
+                "begin": 4886,
+                "end": 4890
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "4961_4968",
+            "span": {
+                "begin": 4961,
+                "end": 4968
+            },
+            "entityType": "cell",
+            "entityName": "myotube",
+            "id": "UMLS:C0242697"
+        },
+        {
+            "entityId": "4994_4998",
+            "span": {
+                "begin": 4994,
+                "end": 4998
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "5238_5243",
+            "span": {
+                "begin": 5238,
+                "end": 5243
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "5577_5580",
+            "span": {
+                "begin": 5577,
+                "end": 5580
+            },
+            "entityType": "gene",
+            "entityName": "MST",
+            "id": "NCBIGene:4294"
+        },
+        {
+            "entityId": "5581_5585",
+            "span": {
+                "begin": 5581,
+                "end": 5585
+            },
+            "entityType": "gene",
+            "entityName": "FOXO",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "5671_5697",
+            "span": {
+                "begin": 5671,
+                "end": 5697
+            },
+            "entityType": "gene",
+            "entityName": "FOXO transcription factors",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "5701_5708",
+            "span": {
+                "begin": 5701,
+                "end": 5708
+            },
+            "entityType": "cell",
+            "entityName": "neurons",
+            "id": "UMLS:C0027882"
+        },
+        {
+            "entityId": "5733_5753",
+            "span": {
+                "begin": 5733,
+                "end": 5753
+            },
+            "entityType": "gene",
+            "entityName": "neuronal MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "5786_5799",
+            "span": {
+                "begin": 5786,
+                "end": 5799
+            },
+            "entityType": "gene",
+            "entityName": "FOXO proteins",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "5815_5821",
+            "span": {
+                "begin": 5815,
+                "end": 5821
+            },
+            "entityType": "drug",
+            "entityName": "serine",
+            "id": "UMLS:C0036720"
+        },
+        {
+            "entityId": "5847_5859",
+            "span": {
+                "begin": 5847,
+                "end": 5859
+            },
+            "entityType": "gene",
+            "entityName": "FOXO factors",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "5876_5891",
+            "span": {
+                "begin": 5876,
+                "end": 5891
+            },
+            "entityType": "gene",
+            "entityName": "14-3-3 proteins",
+            "id": "UMLS:C0090388"
+        },
+        {
+            "entityId": "6013_6019",
+            "span": {
+                "begin": 6013,
+                "end": 6019
+            },
+            "entityType": "cell",
+            "entityName": "neuron",
+            "id": "UMLS:C0027882"
+        },
+        {
+            "entityId": "6069_6072",
+            "span": {
+                "begin": 6069,
+                "end": 6072
+            },
+            "entityType": "gene",
+            "entityName": "MST",
+            "id": "NCBIGene:4294"
+        },
+        {
+            "entityId": "6073_6077",
+            "span": {
+                "begin": 6073,
+                "end": 6077
+            },
+            "entityType": "gene",
+            "entityName": "FOXO",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "6242_6246",
+            "span": {
+                "begin": 6242,
+                "end": 6246
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "6344_6348",
+            "span": {
+                "begin": 6344,
+                "end": 6348
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "6458_6462",
+            "span": {
+                "begin": 6458,
+                "end": 6462
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "6656_6660",
+            "span": {
+                "begin": 6656,
+                "end": 6660
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "6675_6679",
+            "span": {
+                "begin": 6675,
+                "end": 6679
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "6746_6757",
+            "span": {
+                "begin": 6746,
+                "end": 6757
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "6801_6808",
+            "span": {
+                "begin": 6801,
+                "end": 6808
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "6896_6900",
+            "span": {
+                "begin": 6896,
+                "end": 6900
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "6942_6945",
+            "span": {
+                "begin": 6942,
+                "end": 6945
+            },
+            "entityType": "gene",
+            "entityName": "LC3",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "6950_6959",
+            "span": {
+                "begin": 6950,
+                "end": 6959
+            },
+            "entityType": "gene",
+            "entityName": "Atrogin-1",
+            "id": "UMLS:C3539871"
+        },
+        {
+            "entityId": "6982_6988",
+            "span": {
+                "begin": 6982,
+                "end": 6988
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "6990_6994",
+            "span": {
+                "begin": 6990,
+                "end": 6994
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "7061_7065",
+            "span": {
+                "begin": 7061,
+                "end": 7065
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "7133_7140",
+            "span": {
+                "begin": 7133,
+                "end": 7140
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "7171_7198",
+            "span": {
+                "begin": 7171,
+                "end": 7198
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a transcription factor",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "7200_7211",
+            "span": {
+                "begin": 7200,
+                "end": 7211
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "7282_7305",
+            "span": {
+                "begin": 7282,
+                "end": 7305
+            },
+            "entityType": "disease",
+            "entityName": "skeletal muscle atrophy",
+            "id": "UMLS:C0541794"
+        },
+        {
+            "entityId": "7315_7329",
+            "span": {
+                "begin": 7315,
+                "end": 7329
+            },
+            "entityType": "gene",
+            "entityName": "MST1/2 kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "7455_7459",
+            "span": {
+                "begin": 7455,
+                "end": 7459
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "7541_7555",
+            "span": {
+                "begin": 7541,
+                "end": 7555
+            },
+            "entityType": "gene",
+            "entityName": "MST1/2 kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "7601_7607",
+            "span": {
+                "begin": 7601,
+                "end": 7607
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "7846_7860",
+            "span": {
+                "begin": 7846,
+                "end": 7860
+            },
+            "entityType": "gene",
+            "entityName": "MST1/2 kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "7865_7871",
+            "span": {
+                "begin": 7865,
+                "end": 7871
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "8060_8071",
+            "span": {
+                "begin": 8060,
+                "end": 8071
+            },
+            "entityType": "DNA",
+            "entityName": "transcripts",
+            "id": "UMLS:C1519595"
+        },
+        {
+            "entityId": "8221_8235",
+            "span": {
+                "begin": 8221,
+                "end": 8235
+            },
+            "entityType": "gene",
+            "entityName": "MST1/2 kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "8337_8351",
+            "span": {
+                "begin": 8337,
+                "end": 8351
+            },
+            "entityType": "gene",
+            "entityName": "MST1/2 kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "9121_9132",
+            "span": {
+                "begin": 9121,
+                "end": 9132
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "9239_9250",
+            "span": {
+                "begin": 9239,
+                "end": 9250
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "9409_9428",
+            "span": {
+                "begin": 9409,
+                "end": 9428
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase protein",
+            "id": "UMLS:C0033640"
+        },
+        {
+            "entityId": "9648_9652",
+            "span": {
+                "begin": 9648,
+                "end": 9652
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "9777_9796",
+            "span": {
+                "begin": 9777,
+                "end": 9796
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase protein",
+            "id": "UMLS:C0033640"
+        },
+        {
+            "entityId": "9919_9931",
+            "span": {
+                "begin": 9919,
+                "end": 9931
+            },
+            "entityType": "gene",
+            "entityName": "MST1 protein",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "9972_9983",
+            "span": {
+                "begin": 9972,
+                "end": 9983
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "10118_10129",
+            "span": {
+                "begin": 10118,
+                "end": 10129
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "10281_10292",
+            "span": {
+                "begin": 10281,
+                "end": 10292
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "10350_10359",
+            "span": {
+                "begin": 10350,
+                "end": 10359
+            },
+            "entityType": "gene",
+            "entityName": "MST1 gene",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "10431_10442",
+            "span": {
+                "begin": 10431,
+                "end": 10442
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "10466_10480",
+            "span": {
+                "begin": 10466,
+                "end": 10480
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "10519_10523",
+            "span": {
+                "begin": 10519,
+                "end": 10523
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "10690_10694",
+            "span": {
+                "begin": 10690,
+                "end": 10694
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "10698_10702",
+            "span": {
+                "begin": 10698,
+                "end": 10702
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "11209_11218",
+            "span": {
+                "begin": 11209,
+                "end": 11218
+            },
+            "entityType": "gene",
+            "entityName": "MST1 gene",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "11359_11363",
+            "span": {
+                "begin": 11359,
+                "end": 11363
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "11368_11380",
+            "span": {
+                "begin": 11368,
+                "end": 11380
+            },
+            "entityType": "gene",
+            "entityName": "MST2 kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "11506_11517",
+            "span": {
+                "begin": 11506,
+                "end": 11517
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "11685_11696",
+            "span": {
+                "begin": 11685,
+                "end": 11696
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "11716_11741",
+            "span": {
+                "begin": 11716,
+                "end": 11741
+            },
+            "entityType": "disease",
+            "entityName": "neurogenic muscle atrophy",
+            "id": "UMLS:C0270948"
+        },
+        {
+            "entityId": "11785_11796",
+            "span": {
+                "begin": 11785,
+                "end": 11796
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "12532_12551",
+            "span": {
+                "begin": 12532,
+                "end": 12551
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase protein",
+            "id": "UMLS:C0033640"
+        },
+        {
+            "entityId": "12660_12672",
+            "span": {
+                "begin": 12660,
+                "end": 12672
+            },
+            "entityType": "gene",
+            "entityName": "MST2 protein",
+            "id": "UMLS:C1420479"
+        },
+        {
+            "entityId": "12712_12726",
+            "span": {
+                "begin": 12712,
+                "end": 12726
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "12739_12743",
+            "span": {
+                "begin": 12739,
+                "end": 12743
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "12748_12760",
+            "span": {
+                "begin": 12748,
+                "end": 12760
+            },
+            "entityType": "gene",
+            "entityName": "MST2 kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "12816_12830",
+            "span": {
+                "begin": 12816,
+                "end": 12830
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "12864_12878",
+            "span": {
+                "begin": 12864,
+                "end": 12878
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "12894_12898",
+            "span": {
+                "begin": 12894,
+                "end": 12898
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "12903_12914",
+            "span": {
+                "begin": 12903,
+                "end": 12914
+            },
+            "entityType": "gene",
+            "entityName": "MST2 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "13082_13089",
+            "span": {
+                "begin": 13082,
+                "end": 13089
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "13112_13124",
+            "span": {
+                "begin": 13112,
+                "end": 13124
+            },
+            "entityType": "gene",
+            "entityName": "MST1 protein",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "13184_13191",
+            "span": {
+                "begin": 13184,
+                "end": 13191
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "13206_13217",
+            "span": {
+                "begin": 13206,
+                "end": 13217
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "13253_13267",
+            "span": {
+                "begin": 13253,
+                "end": 13267
+            },
+            "entityType": "disease",
+            "entityName": "muscle wasting",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "13418_13429",
+            "span": {
+                "begin": 13418,
+                "end": 13429
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "13465_13490",
+            "span": {
+                "begin": 13465,
+                "end": 13490
+            },
+            "entityType": "disease",
+            "entityName": "neurogenic muscle atrophy",
+            "id": "UMLS:C0270948"
+        },
+        {
+            "entityId": "13504_13511",
+            "span": {
+                "begin": 13504,
+                "end": 13511
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "13574_13578",
+            "span": {
+                "begin": 13574,
+                "end": 13578
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "13593_13597",
+            "span": {
+                "begin": 13593,
+                "end": 13597
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "13599_13603",
+            "span": {
+                "begin": 13599,
+                "end": 13603
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "13607_13611",
+            "span": {
+                "begin": 13607,
+                "end": 13611
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "13711_13717",
+            "span": {
+                "begin": 13711,
+                "end": 13717
+            },
+            "entityType": "DNA",
+            "entityName": "exon 4",
+            "id": "UMLS:C0015295"
+        },
+        {
+            "entityId": "13909_13913",
+            "span": {
+                "begin": 13909,
+                "end": 13913
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "13917_13921",
+            "span": {
+                "begin": 13917,
+                "end": 13921
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "13973_13977",
+            "span": {
+                "begin": 13973,
+                "end": 13977
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "13999_14007",
+            "span": {
+                "begin": 13999,
+                "end": 14007
+            },
+            "entityType": "cell",
+            "entityName": "myoblast",
+            "id": "UMLS:C0596995"
+        },
+        {
+            "entityId": "14042_14046",
+            "span": {
+                "begin": 14042,
+                "end": 14046
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "14092_14100",
+            "span": {
+                "begin": 14092,
+                "end": 14100
+            },
+            "entityType": "cell",
+            "entityName": "myoblast",
+            "id": "UMLS:C0596995"
+        },
+        {
+            "entityId": "14143_14147",
+            "span": {
+                "begin": 14143,
+                "end": 14147
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "14187_14192",
+            "span": {
+                "begin": 14187,
+                "end": 14192
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "14211_14215",
+            "span": {
+                "begin": 14211,
+                "end": 14215
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "14424_14431",
+            "span": {
+                "begin": 14424,
+                "end": 14431
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "14448_14452",
+            "span": {
+                "begin": 14448,
+                "end": 14452
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "14456_14460",
+            "span": {
+                "begin": 14456,
+                "end": 14460
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "14639_14653",
+            "span": {
+                "begin": 14639,
+                "end": 14653
+            },
+            "entityType": "disease",
+            "entityName": "muscle wasting",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "15049_15064",
+            "span": {
+                "begin": 15049,
+                "end": 15064
+            },
+            "entityType": "disease",
+            "entityName": "MST1 deficiency",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "15114_15121",
+            "span": {
+                "begin": 15114,
+                "end": 15121
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "15170_15183",
+            "span": {
+                "begin": 15170,
+                "end": 15183
+            },
+            "entityType": "gene",
+            "entityName": "alpha-laminin",
+            "id": "UMLS:C0022984"
+        },
+        {
+            "entityId": "15836_15861",
+            "span": {
+                "begin": 15836,
+                "end": 15861
+            },
+            "entityType": "disease",
+            "entityName": "deficiency in MST1 kinase",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "15931_15938",
+            "span": {
+                "begin": 15931,
+                "end": 15938
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "15962_15966",
+            "span": {
+                "begin": 15962,
+                "end": 15966
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "16030_16037",
+            "span": {
+                "begin": 16030,
+                "end": 16037
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "18271_18286",
+            "span": {
+                "begin": 18271,
+                "end": 18286
+            },
+            "entityType": "disease",
+            "entityName": "MST1 deficiency",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "18324_18331",
+            "span": {
+                "begin": 18324,
+                "end": 18331
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "18390_18412",
+            "span": {
+                "begin": 18390,
+                "end": 18412
+            },
+            "entityType": "disease",
+            "entityName": "MST1 kinase deficiency",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "18465_18472",
+            "span": {
+                "begin": 18465,
+                "end": 18472
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "18516_18520",
+            "span": {
+                "begin": 18516,
+                "end": 18520
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "18622_18626",
+            "span": {
+                "begin": 18622,
+                "end": 18626
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "18631_18643",
+            "span": {
+                "begin": 18631,
+                "end": 18643
+            },
+            "entityType": "gene",
+            "entityName": "MST2 kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "18664_18679",
+            "span": {
+                "begin": 18664,
+                "end": 18679
+            },
+            "entityType": "disease",
+            "entityName": "atrophic soleus",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "18944_18959",
+            "span": {
+                "begin": 18944,
+                "end": 18959
+            },
+            "entityType": "disease",
+            "entityName": "MST1 deficiency",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "19015_19022",
+            "span": {
+                "begin": 19015,
+                "end": 19022
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "19082_19093",
+            "span": {
+                "begin": 19082,
+                "end": 19093
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "19162_19173",
+            "span": {
+                "begin": 19162,
+                "end": 19173
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "19219_19236",
+            "span": {
+                "begin": 19219,
+                "end": 19236
+            },
+            "entityType": "cell",
+            "entityName": "muscle fiber type",
+            "id": "UMLS:C0242697"
+        },
+        {
+            "entityId": "19318_19322",
+            "span": {
+                "begin": 19318,
+                "end": 19322
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "19333_19337",
+            "span": {
+                "begin": 19333,
+                "end": 19337
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "19457_19479",
+            "span": {
+                "begin": 19457,
+                "end": 19479
+            },
+            "entityType": "disease",
+            "entityName": "MST1 kinase deficiency",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "19688_19692",
+            "span": {
+                "begin": 19688,
+                "end": 19692
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "19867_19878",
+            "span": {
+                "begin": 19867,
+                "end": 19878
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "19970_19985",
+            "span": {
+                "begin": 19970,
+                "end": 19985
+            },
+            "entityType": "disease",
+            "entityName": "MST1 deficiency",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "19994_20000",
+            "span": {
+                "begin": 19994,
+                "end": 20000
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "20055_20069",
+            "span": {
+                "begin": 20055,
+                "end": 20069
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "20074_20081",
+            "span": {
+                "begin": 20074,
+                "end": 20081
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "20256_20270",
+            "span": {
+                "begin": 20256,
+                "end": 20270
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "20296_20306",
+            "span": {
+                "begin": 20296,
+                "end": 20306
+            },
+            "entityType": "gene",
+            "entityName": "E3 ligases",
+            "id": "UMLS:C0077678"
+        },
+        {
+            "entityId": "20321_20335",
+            "span": {
+                "begin": 20321,
+                "end": 20335
+            },
+            "entityType": "disease",
+            "entityName": "muscle wasting",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "20345_20354",
+            "span": {
+                "begin": 20345,
+                "end": 20354
+            },
+            "entityType": "gene",
+            "entityName": "Atrogin-1",
+            "id": "UMLS:C3539871"
+        },
+        {
+            "entityId": "20359_20365",
+            "span": {
+                "begin": 20359,
+                "end": 20365
+            },
+            "entityType": "gene",
+            "entityName": "MuRF-1",
+            "id": "UMLS:C1540067"
+        },
+        {
+            "entityId": "20378_20381",
+            "span": {
+                "begin": 20378,
+                "end": 20381
+            },
+            "entityType": "gene",
+            "entityName": "LC3",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "20386_20391",
+            "span": {
+                "begin": 20386,
+                "end": 20391
+            },
+            "entityType": "gene",
+            "entityName": "Bnip3",
+            "id": "UMLS:C1412812"
+        },
+        {
+            "entityId": "20566_20603",
+            "span": {
+                "begin": 20566,
+                "end": 20603
+            },
+            "entityType": "disease",
+            "entityName": "MST1 deficient atrophic gastrocnemius",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "20809_20818",
+            "span": {
+                "begin": 20809,
+                "end": 20818
+            },
+            "entityType": "gene",
+            "entityName": "ubiquitin",
+            "id": "UMLS:C0041538"
+        },
+        {
+            "entityId": "20904_20929",
+            "span": {
+                "begin": 20904,
+                "end": 20929
+            },
+            "entityType": "disease",
+            "entityName": "neurogenic muscle atrophy",
+            "id": "UMLS:C0270948"
+        },
+        {
+            "entityId": "21005_21012",
+            "span": {
+                "begin": 21005,
+                "end": 21012
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "21040_21049",
+            "span": {
+                "begin": 21040,
+                "end": 21049
+            },
+            "entityType": "gene",
+            "entityName": "ubiquitin",
+            "id": "UMLS:C0041538"
+        },
+        {
+            "entityId": "21096_21110",
+            "span": {
+                "begin": 21096,
+                "end": 21110
+            },
+            "entityType": "gene",
+            "entityName": "Atrogin-1 gene",
+            "id": "UMLS:C3539871"
+        },
+        {
+            "entityId": "21212_21214",
+            "span": {
+                "begin": 21212,
+                "end": 21214
+            },
+            "entityType": "disease",
+            "entityName": "WT",
+            "id": "mesh:D009396"
+        },
+        {
+            "entityId": "21215_21231",
+            "span": {
+                "begin": 21215,
+                "end": 21231
+            },
+            "entityType": "disease",
+            "entityName": "atrophic muscles",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "21281_21292",
+            "span": {
+                "begin": 21281,
+                "end": 21292
+            },
+            "entityType": "gene",
+            "entityName": "MuRF-1 gene",
+            "id": "UMLS:C1540067"
+        },
+        {
+            "entityId": "21308_21316",
+            "span": {
+                "begin": 21308,
+                "end": 21316
+            },
+            "entityType": "disease",
+            "entityName": "atrophic",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "21474_21483",
+            "span": {
+                "begin": 21474,
+                "end": 21483
+            },
+            "entityType": "gene",
+            "entityName": "Atrogin-1",
+            "id": "UMLS:C3539871"
+        },
+        {
+            "entityId": "21485_21491",
+            "span": {
+                "begin": 21485,
+                "end": 21491
+            },
+            "entityType": "gene",
+            "entityName": "MuRF-1",
+            "id": "UMLS:C1540067"
+        },
+        {
+            "entityId": "21587_21603",
+            "span": {
+                "begin": 21587,
+                "end": 21603
+            },
+            "entityType": "disease",
+            "entityName": "atrophic muscles",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "21655_21664",
+            "span": {
+                "begin": 21655,
+                "end": 21664
+            },
+            "entityType": "gene",
+            "entityName": "Atrogin-1",
+            "id": "UMLS:C3539871"
+        },
+        {
+            "entityId": "21669_21672",
+            "span": {
+                "begin": 21669,
+                "end": 21672
+            },
+            "entityType": "gene",
+            "entityName": "LC3",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "21709_21732",
+            "span": {
+                "begin": 21709,
+                "end": 21732
+            },
+            "entityType": "disease",
+            "entityName": "atrophic MST1 deficient",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "21886_21900",
+            "span": {
+                "begin": 21886,
+                "end": 21900
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "23703_23708",
+            "span": {
+                "begin": 23703,
+                "end": 23708
+            },
+            "entityType": "gene",
+            "entityName": "LC3 I",
+            "id": "UMLS:C0221138"
+        },
+        {
+            "entityId": "23725_23731",
+            "span": {
+                "begin": 23725,
+                "end": 23731
+            },
+            "entityType": "gene",
+            "entityName": "LC3 II",
+            "id": "UMLS:C3642279"
+        },
+        {
+            "entityId": "23897_23903",
+            "span": {
+                "begin": 23897,
+                "end": 23903
+            },
+            "entityType": "gene",
+            "entityName": "LC3 II",
+            "id": "UMLS:C3642279"
+        },
+        {
+            "entityId": "23936_23939",
+            "span": {
+                "begin": 23936,
+                "end": 23939
+            },
+            "entityType": "gene",
+            "entityName": "LC3",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "23960_23963",
+            "span": {
+                "begin": 23960,
+                "end": 23963
+            },
+            "entityType": "gene",
+            "entityName": "LC3",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "24036_24048",
+            "span": {
+                "begin": 24036,
+                "end": 24048
+            },
+            "entityType": "gene",
+            "entityName": "LC3 proteins",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "24071_24102",
+            "span": {
+                "begin": 24071,
+                "end": 24102
+            },
+            "entityType": "disease",
+            "entityName": "MST1 deficient atrophic muscles",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "24171_24174",
+            "span": {
+                "begin": 24171,
+                "end": 24174
+            },
+            "entityType": "gene",
+            "entityName": "LC3",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "24201_24209",
+            "span": {
+                "begin": 24201,
+                "end": 24209
+            },
+            "entityType": "gene",
+            "entityName": "LC3 II/I",
+            "id": "UMLS:C0221138"
+        },
+        {
+            "entityId": "24252_24256",
+            "span": {
+                "begin": 24252,
+                "end": 24256
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "24317_24325",
+            "span": {
+                "begin": 24317,
+                "end": 24325
+            },
+            "entityType": "gene",
+            "entityName": "LC3 gene",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "24340_24356",
+            "span": {
+                "begin": 24340,
+                "end": 24356
+            },
+            "entityType": "disease",
+            "entityName": "atrophic muscles",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "24398_24413",
+            "span": {
+                "begin": 24398,
+                "end": 24413
+            },
+            "entityType": "disease",
+            "entityName": "MST1 deficiency",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "24443_24459",
+            "span": {
+                "begin": 24443,
+                "end": 24459
+            },
+            "entityType": "disease",
+            "entityName": "atrophic muscles",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "24461_24470",
+            "span": {
+                "begin": 24461,
+                "end": 24470
+            },
+            "entityType": "gene",
+            "entityName": "Atrogin-1",
+            "id": "UMLS:C3539871"
+        },
+        {
+            "entityId": "24472_24477",
+            "span": {
+                "begin": 24472,
+                "end": 24477
+            },
+            "entityType": "gene",
+            "entityName": "Bnip3",
+            "id": "UMLS:C1412812"
+        },
+        {
+            "entityId": "24482_24485",
+            "span": {
+                "begin": 24482,
+                "end": 24485
+            },
+            "entityType": "gene",
+            "entityName": "LC3",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "24520_24547",
+            "span": {
+                "begin": 24520,
+                "end": 24547
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a transcription factor",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "24549_24555",
+            "span": {
+                "begin": 24549,
+                "end": 24555
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "24618_24627",
+            "span": {
+                "begin": 24618,
+                "end": 24627
+            },
+            "entityType": "gene",
+            "entityName": "Atrogin-1",
+            "id": "UMLS:C3539871"
+        },
+        {
+            "entityId": "24629_24632",
+            "span": {
+                "begin": 24629,
+                "end": 24632
+            },
+            "entityType": "gene",
+            "entityName": "LC3",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "24634_24639",
+            "span": {
+                "begin": 24634,
+                "end": 24639
+            },
+            "entityType": "gene",
+            "entityName": "Bnip3",
+            "id": "UMLS:C1412812"
+        },
+        {
+            "entityId": "24745_24752",
+            "span": {
+                "begin": 24745,
+                "end": 24752
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "24786_24811",
+            "span": {
+                "begin": 24786,
+                "end": 24811
+            },
+            "entityType": "disease",
+            "entityName": "deficiency in MST1 kinase",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "24841_24847",
+            "span": {
+                "begin": 24841,
+                "end": 24847
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "24867_24883",
+            "span": {
+                "begin": 24867,
+                "end": 24883
+            },
+            "entityType": "disease",
+            "entityName": "atrophic muscles",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "24997_25013",
+            "span": {
+                "begin": 24997,
+                "end": 25013
+            },
+            "entityType": "disease",
+            "entityName": "atrophic muscles",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "25015_25019",
+            "span": {
+                "begin": 25015,
+                "end": 25019
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "25035_25041",
+            "span": {
+                "begin": 25035,
+                "end": 25041
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "25112_25126",
+            "span": {
+                "begin": 25112,
+                "end": 25126
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "25150_25156",
+            "span": {
+                "begin": 25150,
+                "end": 25156
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "25226_25233",
+            "span": {
+                "begin": 25226,
+                "end": 25233
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "25284_25290",
+            "span": {
+                "begin": 25284,
+                "end": 25290
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "25404_25410",
+            "span": {
+                "begin": 25404,
+                "end": 25410
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "25472_25479",
+            "span": {
+                "begin": 25472,
+                "end": 25479
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "25530_25536",
+            "span": {
+                "begin": 25530,
+                "end": 25536
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "25568_25579",
+            "span": {
+                "begin": 25568,
+                "end": 25579
+            },
+            "entityType": "disease",
+            "entityName": "atrophic WT",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "25645_25656",
+            "span": {
+                "begin": 25645,
+                "end": 25656
+            },
+            "entityType": "gene",
+            "entityName": "MST kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "25686_25712",
+            "span": {
+                "begin": 25686,
+                "end": 25712
+            },
+            "entityType": "gene",
+            "entityName": "FOXO transcription factors",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "25718_25721",
+            "span": {
+                "begin": 25718,
+                "end": 25721
+            },
+            "entityType": "gene",
+            "entityName": "MST",
+            "id": "NCBIGene:55154"
+        },
+        {
+            "entityId": "25722_25726",
+            "span": {
+                "begin": 25722,
+                "end": 25726
+            },
+            "entityType": "gene",
+            "entityName": "FOXO",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "25770_25782",
+            "span": {
+                "begin": 25770,
+                "end": 25782
+            },
+            "entityType": "gene",
+            "entityName": "FOXO factors",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "25798_25804",
+            "span": {
+                "begin": 25798,
+                "end": 25804
+            },
+            "entityType": "drug",
+            "entityName": "serine",
+            "id": "UMLS:C0036720"
+        },
+        {
+            "entityId": "25811_25822",
+            "span": {
+                "begin": 25811,
+                "end": 25822
+            },
+            "entityType": "gene",
+            "entityName": "MST kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "25856_25868",
+            "span": {
+                "begin": 25856,
+                "end": 25868
+            },
+            "entityType": "gene",
+            "entityName": "FOXO factors",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "25936_25943",
+            "span": {
+                "begin": 25936,
+                "end": 25943
+            },
+            "entityType": "cell",
+            "entityName": "neurons",
+            "id": "UMLS:C0027882"
+        },
+        {
+            "entityId": "26004_26007",
+            "span": {
+                "begin": 26004,
+                "end": 26007
+            },
+            "entityType": "gene",
+            "entityName": "MST",
+            "id": "NCBIGene:55154"
+        },
+        {
+            "entityId": "26008_26012",
+            "span": {
+                "begin": 26008,
+                "end": 26012
+            },
+            "entityType": "gene",
+            "entityName": "FOXO",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "26104_26110",
+            "span": {
+                "begin": 26104,
+                "end": 26110
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "26144_26169",
+            "span": {
+                "begin": 26144,
+                "end": 26169
+            },
+            "entityType": "disease",
+            "entityName": "neurogenic muscle atrophy",
+            "id": "UMLS:C0270948"
+        },
+        {
+            "entityId": "26213_26219",
+            "span": {
+                "begin": 26213,
+                "end": 26219
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "26245_26249",
+            "span": {
+                "begin": 26245,
+                "end": 26249
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "26282_26289",
+            "span": {
+                "begin": 26282,
+                "end": 26289
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "26325_26337",
+            "span": {
+                "begin": 26325,
+                "end": 26337
+            },
+            "entityType": "gene",
+            "entityName": "MST1 protein",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "26384_26388",
+            "span": {
+                "begin": 26384,
+                "end": 26388
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "26392_26396",
+            "span": {
+                "begin": 26392,
+                "end": 26396
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "26535_26541",
+            "span": {
+                "begin": 26535,
+                "end": 26541
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "26545_26555",
+            "span": {
+                "begin": 26545,
+                "end": 26555
+            },
+            "entityType": "gene",
+            "entityName": "MST kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "26676_26703",
+            "span": {
+                "begin": 26676,
+                "end": 26703
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a transcription factor",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "26732_26743",
+            "span": {
+                "begin": 26732,
+                "end": 26743
+            },
+            "entityType": "gene",
+            "entityName": "MST kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "26783_26789",
+            "span": {
+                "begin": 26783,
+                "end": 26789
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "26851_26858",
+            "span": {
+                "begin": 26851,
+                "end": 26858
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "26934_26940",
+            "span": {
+                "begin": 26934,
+                "end": 26940
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "26967_26971",
+            "span": {
+                "begin": 26967,
+                "end": 26971
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "26980_26984",
+            "span": {
+                "begin": 26980,
+                "end": 26984
+            },
+            "entityType": "gene",
+            "entityName": "MST2",
+            "id": "UMLS:C1420479"
+        },
+        {
+            "entityId": "27127_27133",
+            "span": {
+                "begin": 27127,
+                "end": 27133
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "27161_27165",
+            "span": {
+                "begin": 27161,
+                "end": 27165
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "27243_27254",
+            "span": {
+                "begin": 27243,
+                "end": 27254
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a gene",
+            "id": "UMLS:C2348503"
+        },
+        {
+            "entityId": "27274_27278",
+            "span": {
+                "begin": 27274,
+                "end": 27278
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "27362_27373",
+            "span": {
+                "begin": 27362,
+                "end": 27373
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "27447_27458",
+            "span": {
+                "begin": 27447,
+                "end": 27458
+            },
+            "entityType": "gene",
+            "entityName": "MST2 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "27586_27597",
+            "span": {
+                "begin": 27586,
+                "end": 27597
+            },
+            "entityType": "gene",
+            "entityName": "MST2 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "27605_27609",
+            "span": {
+                "begin": 27605,
+                "end": 27609
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "27628_27642",
+            "span": {
+                "begin": 27628,
+                "end": 27642
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "27741_27747",
+            "span": {
+                "begin": 27741,
+                "end": 27747
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "27751_27762",
+            "span": {
+                "begin": 27751,
+                "end": 27762
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "27780_27796",
+            "span": {
+                "begin": 27780,
+                "end": 27796
+            },
+            "entityType": "disease",
+            "entityName": "atrophic muscles",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "27821_27827",
+            "span": {
+                "begin": 27821,
+                "end": 27827
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "29003_29007",
+            "span": {
+                "begin": 29003,
+                "end": 29007
+            },
+            "entityType": "gene",
+            "entityName": "FOXO",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "29011_29022",
+            "span": {
+                "begin": 29011,
+                "end": 29022
+            },
+            "entityType": "gene",
+            "entityName": "MST kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "29071_29086",
+            "span": {
+                "begin": 29071,
+                "end": 29086
+            },
+            "entityType": "gene",
+            "entityName": "14-3-3 proteins",
+            "id": "UMLS:C0090388"
+        },
+        {
+            "entityId": "29137_29163",
+            "span": {
+                "begin": 29137,
+                "end": 29163
+            },
+            "entityType": "gene",
+            "entityName": "FOXO transcription factors",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "29193_29197",
+            "span": {
+                "begin": 29193,
+                "end": 29197
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "29226_29232",
+            "span": {
+                "begin": 29226,
+                "end": 29232
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "29296_29319",
+            "span": {
+                "begin": 29296,
+                "end": 29319
+            },
+            "entityType": "disease",
+            "entityName": "skeletal muscle atrophy",
+            "id": "UMLS:C0541794"
+        },
+        {
+            "entityId": "29365_29371",
+            "span": {
+                "begin": 29365,
+                "end": 29371
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "29375_29391",
+            "span": {
+                "begin": 29375,
+                "end": 29391
+            },
+            "entityType": "disease",
+            "entityName": "atrophic muscles",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "29423_29427",
+            "span": {
+                "begin": 29423,
+                "end": 29427
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "29438_29442",
+            "span": {
+                "begin": 29438,
+                "end": 29442
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "29528_29534",
+            "span": {
+                "begin": 29528,
+                "end": 29534
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "29565_29581",
+            "span": {
+                "begin": 29565,
+                "end": 29581
+            },
+            "entityType": "disease",
+            "entityName": "atrophic muscles",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "29664_29670",
+            "span": {
+                "begin": 29664,
+                "end": 29670
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "29825_29831",
+            "span": {
+                "begin": 29825,
+                "end": 29831
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "29960_29966",
+            "span": {
+                "begin": 29960,
+                "end": 29966
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "29970_29985",
+            "span": {
+                "begin": 29970,
+                "end": 29985
+            },
+            "entityType": "disease",
+            "entityName": "atrophic muscle",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "30103_30119",
+            "span": {
+                "begin": 30103,
+                "end": 30119
+            },
+            "entityType": "disease",
+            "entityName": "atrophic muscles",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "30969_30980",
+            "span": {
+                "begin": 30969,
+                "end": 30980
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "31024_31030",
+            "span": {
+                "begin": 31024,
+                "end": 31030
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "31146_31153",
+            "span": {
+                "begin": 31146,
+                "end": 31153
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "31155_31170",
+            "span": {
+                "begin": 31155,
+                "end": 31170
+            },
+            "entityType": "disease",
+            "entityName": "MST1 deficiency",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "31200_31206",
+            "span": {
+                "begin": 31200,
+                "end": 31206
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "31294_31301",
+            "span": {
+                "begin": 31294,
+                "end": 31301
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "31358_31362",
+            "span": {
+                "begin": 31358,
+                "end": 31362
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "31366_31370",
+            "span": {
+                "begin": 31366,
+                "end": 31370
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "31435_31446",
+            "span": {
+                "begin": 31435,
+                "end": 31446
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "31486_31511",
+            "span": {
+                "begin": 31486,
+                "end": 31511
+            },
+            "entityType": "disease",
+            "entityName": "neurogenic muscle atrophy",
+            "id": "UMLS:C0270948"
+        },
+        {
+            "entityId": "31531_31542",
+            "span": {
+                "begin": 31531,
+                "end": 31542
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "31615_31626",
+            "span": {
+                "begin": 31615,
+                "end": 31626
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "31651_31678",
+            "span": {
+                "begin": 31651,
+                "end": 31678
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a transcription factor",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "32398_32404",
+            "span": {
+                "begin": 32398,
+                "end": 32404
+            },
+            "entityType": "gene",
+            "entityName": "MST1/2",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "32573_32584",
+            "span": {
+                "begin": 32573,
+                "end": 32584
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "32669_32680",
+            "span": {
+                "begin": 32669,
+                "end": 32680
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "32978_32987",
+            "span": {
+                "begin": 32978,
+                "end": 32987
+            },
+            "entityType": "gene",
+            "entityName": "MST1 gene",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "33043_33073",
+            "span": {
+                "begin": 33043,
+                "end": 33073
+            },
+            "entityType": "disease",
+            "entityName": "neurogenic fast muscle atrophy",
+            "id": "UMLS:C0270948"
+        },
+        {
+            "entityId": "33080_33084",
+            "span": {
+                "begin": 33080,
+                "end": 33084
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "33172_33179",
+            "span": {
+                "begin": 33172,
+                "end": 33179
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "33207_33211",
+            "span": {
+                "begin": 33207,
+                "end": 33211
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "33222_33227",
+            "span": {
+                "begin": 33222,
+                "end": 33227
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "33279_33290",
+            "span": {
+                "begin": 33279,
+                "end": 33290
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "33325_33339",
+            "span": {
+                "begin": 33325,
+                "end": 33339
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "33459_33471",
+            "span": {
+                "begin": 33459,
+                "end": 33471
+            },
+            "entityType": "gene",
+            "entityName": "MST1 protein",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "33602_33620",
+            "span": {
+                "begin": 33602,
+                "end": 33620
+            },
+            "entityType": "disease",
+            "entityName": "deficiency in MST1",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "33783_33787",
+            "span": {
+                "begin": 33783,
+                "end": 33787
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "33855_33859",
+            "span": {
+                "begin": 33855,
+                "end": 33859
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "34007_34029",
+            "span": {
+                "begin": 34007,
+                "end": 34029
+            },
+            "entityType": "disease",
+            "entityName": "MST1 kinase deficiency",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "34091_34102",
+            "span": {
+                "begin": 34091,
+                "end": 34102
+            },
+            "entityType": "gene",
+            "entityName": "MST2 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "34130_34134",
+            "span": {
+                "begin": 34130,
+                "end": 34134
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "34139_34151",
+            "span": {
+                "begin": 34139,
+                "end": 34151
+            },
+            "entityType": "gene",
+            "entityName": "MST2 kinases",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "34310_34328",
+            "span": {
+                "begin": 34310,
+                "end": 34328
+            },
+            "entityType": "disease",
+            "entityName": "atrophic myofibers",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "34380_34407",
+            "span": {
+                "begin": 34380,
+                "end": 34407
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a transcription factor",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "34474_34483",
+            "span": {
+                "begin": 34474,
+                "end": 34483
+            },
+            "entityType": "gene",
+            "entityName": "ubiquitin",
+            "id": "UMLS:C0041538"
+        },
+        {
+            "entityId": "34557_34563",
+            "span": {
+                "begin": 34557,
+                "end": 34563
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "34588_34596",
+            "span": {
+                "begin": 34588,
+                "end": 34596
+            },
+            "entityType": "disease",
+            "entityName": "atrophic",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "34642_34652",
+            "span": {
+                "begin": 34642,
+                "end": 34652
+            },
+            "entityType": "disease",
+            "entityName": "atrophying",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "34696_34699",
+            "span": {
+                "begin": 34696,
+                "end": 34699
+            },
+            "entityType": "gene",
+            "entityName": "MST",
+            "id": "NCBIGene:55154"
+        },
+        {
+            "entityId": "34700_34704",
+            "span": {
+                "begin": 34700,
+                "end": 34704
+            },
+            "entityType": "gene",
+            "entityName": "FOXO",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "34760_34767",
+            "span": {
+                "begin": 34760,
+                "end": 34767
+            },
+            "entityType": "cell",
+            "entityName": "neurons",
+            "id": "UMLS:C0027882"
+        },
+        {
+            "entityId": "34842_34845",
+            "span": {
+                "begin": 34842,
+                "end": 34845
+            },
+            "entityType": "gene",
+            "entityName": "MST",
+            "id": "NCBIGene:55154"
+        },
+        {
+            "entityId": "34846_34850",
+            "span": {
+                "begin": 34846,
+                "end": 34850
+            },
+            "entityType": "gene",
+            "entityName": "FOXO",
+            "id": "UMLS:C3899164"
+        },
+        {
+            "entityId": "34916_34920",
+            "span": {
+                "begin": 34916,
+                "end": 34920
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "34955_34961",
+            "span": {
+                "begin": 34955,
+                "end": 34961
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "34969_35003",
+            "span": {
+                "begin": 34969,
+                "end": 35003
+            },
+            "entityType": "disease",
+            "entityName": "neurogenic skeletal muscle atrophy",
+            "id": "UMLS:C0270948"
+        },
+        {
+            "entityId": "35110_35116",
+            "span": {
+                "begin": 35110,
+                "end": 35116
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "35141_35148",
+            "span": {
+                "begin": 35141,
+                "end": 35148
+            },
+            "entityType": "disease",
+            "entityName": "atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "35204_35210",
+            "span": {
+                "begin": 35204,
+                "end": 35210
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "35290_35294",
+            "span": {
+                "begin": 35290,
+                "end": 35294
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "35367_35373",
+            "span": {
+                "begin": 35367,
+                "end": 35373
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "35407_35411",
+            "span": {
+                "begin": 35407,
+                "end": 35411
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "35541_35549",
+            "span": {
+                "begin": 35541,
+                "end": 35549
+            },
+            "entityType": "disease",
+            "entityName": "atrophic",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "35698_35704",
+            "span": {
+                "begin": 35698,
+                "end": 35704
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "35709_35724",
+            "span": {
+                "begin": 35709,
+                "end": 35724
+            },
+            "entityType": "disease",
+            "entityName": "MST1 deficiency",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "35780_35807",
+            "span": {
+                "begin": 35780,
+                "end": 35807
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a transcription factor",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "35844_35854",
+            "span": {
+                "begin": 35844,
+                "end": 35854
+            },
+            "entityType": "gene",
+            "entityName": "Akt kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "35859_35870",
+            "span": {
+                "begin": 35859,
+                "end": 35870
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "35918_35929",
+            "span": {
+                "begin": 35918,
+                "end": 35929
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "36002_36008",
+            "span": {
+                "begin": 36002,
+                "end": 36008
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "36038_36052",
+            "span": {
+                "begin": 36038,
+                "end": 36052
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "36054_36081",
+            "span": {
+                "begin": 36054,
+                "end": 36081
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a transcription factor",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "36163_36172",
+            "span": {
+                "begin": 36163,
+                "end": 36172
+            },
+            "entityType": "gene",
+            "entityName": "Atrogin-1",
+            "id": "UMLS:C3539871"
+        },
+        {
+            "entityId": "36174_36177",
+            "span": {
+                "begin": 36174,
+                "end": 36177
+            },
+            "entityType": "gene",
+            "entityName": "LC3",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "36179_36184",
+            "span": {
+                "begin": 36179,
+                "end": 36184
+            },
+            "entityType": "gene",
+            "entityName": "Bnip3",
+            "id": "UMLS:C1412812"
+        },
+        {
+            "entityId": "36186_36195",
+            "span": {
+                "begin": 36186,
+                "end": 36195
+            },
+            "entityType": "gene",
+            "entityName": "Gabarapl1",
+            "id": "UMLS:C1414902"
+        },
+        {
+            "entityId": "36248_36254",
+            "span": {
+                "begin": 36248,
+                "end": 36254
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "36258_36269",
+            "span": {
+                "begin": 36258,
+                "end": 36269
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "36341_36346",
+            "span": {
+                "begin": 36341,
+                "end": 36346
+            },
+            "entityType": "gene",
+            "entityName": "Bnip3",
+            "id": "UMLS:C1412812"
+        },
+        {
+            "entityId": "36432_36438",
+            "span": {
+                "begin": 36432,
+                "end": 36438
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "36642_36651",
+            "span": {
+                "begin": 36642,
+                "end": 36651
+            },
+            "entityType": "gene",
+            "entityName": "MST1 gene",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "36757_36771",
+            "span": {
+                "begin": 36757,
+                "end": 36771
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "36924_36932",
+            "span": {
+                "begin": 36924,
+                "end": 36932
+            },
+            "entityType": "gene",
+            "entityName": "myogenin",
+            "id": "UMLS:C0067053"
+        },
+        {
+            "entityId": "36937_36941",
+            "span": {
+                "begin": 36937,
+                "end": 36941
+            },
+            "entityType": "gene",
+            "entityName": "MyoD",
+            "id": "UMLS:C1417574"
+        },
+        {
+            "entityId": "36943_36952",
+            "span": {
+                "begin": 36943,
+                "end": 36952
+            },
+            "entityType": "gene",
+            "entityName": "NF-kappaB",
+            "id": "UMLS:C0079904"
+        },
+        {
+            "entityId": "36965_36991",
+            "span": {
+                "begin": 36965,
+                "end": 36991
+            },
+            "entityType": "gene",
+            "entityName": "FOXO transcription factors",
+            "id": "UMLS:C0040648"
+        },
+        {
+            "entityId": "37018_37030",
+            "span": {
+                "begin": 37018,
+                "end": 37030
+            },
+            "entityType": "gene",
+            "entityName": "MST1 protein",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "37110_37114",
+            "span": {
+                "begin": 37110,
+                "end": 37114
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "37241_37245",
+            "span": {
+                "begin": 37241,
+                "end": 37245
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "37283_37302",
+            "span": {
+                "begin": 37283,
+                "end": 37302
+            },
+            "entityType": "disease",
+            "entityName": "atrophic remodeling",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "37372_37376",
+            "span": {
+                "begin": 37372,
+                "end": 37376
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "37381_37392",
+            "span": {
+                "begin": 37381,
+                "end": 37392
+            },
+            "entityType": "gene",
+            "entityName": "MST2 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "37418_37446",
+            "span": {
+                "begin": 37418,
+                "end": 37446
+            },
+            "entityType": "disease",
+            "entityName": "fast-dominant muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "37457_37461",
+            "span": {
+                "begin": 37457,
+                "end": 37461
+            },
+            "entityType": "gene",
+            "entityName": "MST2",
+            "id": "UMLS:C1420479"
+        },
+        {
+            "entityId": "37487_37502",
+            "span": {
+                "begin": 37487,
+                "end": 37502
+            },
+            "entityType": "disease",
+            "entityName": "MST1 deficiency",
+            "id": "UMLS:C3553943"
+        },
+        {
+            "entityId": "37537_37543",
+            "span": {
+                "begin": 37537,
+                "end": 37543
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "37558_37574",
+            "span": {
+                "begin": 37558,
+                "end": 37574
+            },
+            "entityType": "disease",
+            "entityName": "myofiber atrophy",
+            "id": "UMLS:C0333641"
+        },
+        {
+            "entityId": "37639_37643",
+            "span": {
+                "begin": 37639,
+                "end": 37643
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "37648_37652",
+            "span": {
+                "begin": 37648,
+                "end": 37652
+            },
+            "entityType": "gene",
+            "entityName": "MST2",
+            "id": "UMLS:C1420479"
+        },
+        {
+            "entityId": "37681_37685",
+            "span": {
+                "begin": 37681,
+                "end": 37685
+            },
+            "entityType": "gene",
+            "entityName": "MST2",
+            "id": "UMLS:C1420479"
+        },
+        {
+            "entityId": "37693_37707",
+            "span": {
+                "begin": 37693,
+                "end": 37707
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "37829_37840",
+            "span": {
+                "begin": 37829,
+                "end": 37840
+            },
+            "entityType": "gene",
+            "entityName": "MST1 kinase",
+            "id": "UMLS:C0031727"
+        },
+        {
+            "entityId": "37844_37860",
+            "span": {
+                "begin": 37844,
+                "end": 37860
+            },
+            "entityType": "disease",
+            "entityName": "atrophic muscles",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "37921_37925",
+            "span": {
+                "begin": 37921,
+                "end": 37925
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "37926_37932",
+            "span": {
+                "begin": 37926,
+                "end": 37932
+            },
+            "entityType": "gene",
+            "entityName": "FOXO3a",
+            "id": "NCBIGene:2309"
+        },
+        {
+            "entityId": "37956_37981",
+            "span": {
+                "begin": 37956,
+                "end": 37981
+            },
+            "entityType": "disease",
+            "entityName": "neurogenic muscle atrophy",
+            "id": "UMLS:C0270948"
+        },
+        {
+            "entityId": "38055_38069",
+            "span": {
+                "begin": 38055,
+                "end": 38069
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "38090_38104",
+            "span": {
+                "begin": 38090,
+                "end": 38104
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "38297_38301",
+            "span": {
+                "begin": 38297,
+                "end": 38301
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "38312_38316",
+            "span": {
+                "begin": 38312,
+                "end": 38316
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "38408_38412",
+            "span": {
+                "begin": 38408,
+                "end": 38412
+            },
+            "entityType": "gene",
+            "entityName": "MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "38424_38428",
+            "span": {
+                "begin": 38424,
+                "end": 38428
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "38487_38501",
+            "span": {
+                "begin": 38487,
+                "end": 38501
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "38503_38507",
+            "span": {
+                "begin": 38503,
+                "end": 38507
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "38842_38856",
+            "span": {
+                "begin": 38842,
+                "end": 38856
+            },
+            "entityType": "disease",
+            "entityName": "muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "38865_38869",
+            "span": {
+                "begin": 38865,
+                "end": 38869
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "38958_38962",
+            "span": {
+                "begin": 38958,
+                "end": 38962
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "39037_39041",
+            "span": {
+                "begin": 39037,
+                "end": 39041
+            },
+            "entityType": "species",
+            "entityName": "Mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "39143_39147",
+            "span": {
+                "begin": 39143,
+                "end": 39147
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "39217_39231",
+            "span": {
+                "begin": 39217,
+                "end": 39231
+            },
+            "entityType": "disease",
+            "entityName": "Muscle atrophy",
+            "id": "UMLS:C0026846"
+        },
+        {
+            "entityId": "39334_39338",
+            "span": {
+                "begin": 39334,
+                "end": 39338
+            },
+            "entityType": "species",
+            "entityName": "Mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "39459_39462",
+            "span": {
+                "begin": 39459,
+                "end": 39462
+            },
+            "entityType": "drug",
+            "entityName": "SDS",
+            "id": "mesh:D012967"
+        },
+        {
+            "entityId": "39496_39499",
+            "span": {
+                "begin": 39496,
+                "end": 39499
+            },
+            "entityType": "drug",
+            "entityName": "SDS",
+            "id": "mesh:D012967"
+        },
+        {
+            "entityId": "39507_39527",
+            "span": {
+                "begin": 39507,
+                "end": 39527
+            },
+            "entityType": "drug",
+            "entityName": "beta-mercaptoethanol",
+            "id": "UMLS:C0025402"
+        },
+        {
+            "entityId": "39755_39758",
+            "span": {
+                "begin": 39755,
+                "end": 39758
+            },
+            "entityType": "drug",
+            "entityName": "SDS",
+            "id": "mesh:D012967"
+        },
+        {
+            "entityId": "39772_39782",
+            "span": {
+                "begin": 39772,
+                "end": 39782
+            },
+            "entityType": "drug",
+            "entityName": "acrylamide",
+            "id": "UMLS:C0050587"
+        },
+        {
+            "entityId": "39786_39800",
+            "span": {
+                "begin": 39786,
+                "end": 39800
+            },
+            "entityType": "drug",
+            "entityName": "bis-acrylamide",
+            "id": "UMLS:C0050587"
+        },
+        {
+            "entityId": "40220_40229",
+            "span": {
+                "begin": 40220,
+                "end": 40229
+            },
+            "entityType": "gene",
+            "entityName": "anti-MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "40277_40286",
+            "span": {
+                "begin": 40277,
+                "end": 40286
+            },
+            "entityType": "gene",
+            "entityName": "anti-MST2",
+            "id": "UMLS:C1420479"
+        },
+        {
+            "entityId": "40311_40321",
+            "span": {
+                "begin": 40311,
+                "end": 40321
+            },
+            "entityType": "gene",
+            "entityName": "anti-GAPDH",
+            "id": "UMLS:C1414968"
+        },
+        {
+            "entityId": "40351_40360",
+            "span": {
+                "begin": 40351,
+                "end": 40360
+            },
+            "entityType": "gene",
+            "entityName": "anti-LC3b",
+            "id": "UMLS:C1421946"
+        },
+        {
+            "entityId": "40802_40805",
+            "span": {
+                "begin": 40802,
+                "end": 40805
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "40848_40875",
+            "span": {
+                "begin": 40848,
+                "end": 40875
+            },
+            "entityType": "gene",
+            "entityName": "M-MLV reverse transcriptase",
+            "id": "UMLS:C0035379"
+        },
+        {
+            "entityId": "41171_41181",
+            "span": {
+                "begin": 41171,
+                "end": 41181
+            },
+            "entityType": "gene",
+            "entityName": "Mouse MST1",
+            "id": "UMLS:C1417377"
+        },
+        {
+            "entityId": "41249_41258",
+            "span": {
+                "begin": 41249,
+                "end": 41258
+            },
+            "entityType": "gene",
+            "entityName": "Atrogin-1",
+            "id": "UMLS:C3539871"
+        },
+        {
+            "entityId": "41320_41326",
+            "span": {
+                "begin": 41320,
+                "end": 41326
+            },
+            "entityType": "gene",
+            "entityName": "MuRF-1",
+            "id": "UMLS:C1540067"
+        },
+        {
+            "entityId": "41392_41395",
+            "span": {
+                "begin": 41392,
+                "end": 41395
+            },
+            "entityType": "gene",
+            "entityName": "LC3",
+            "id": "UMLS:C1417005"
+        },
+        {
+            "entityId": "41457_41462",
+            "span": {
+                "begin": 41457,
+                "end": 41462
+            },
+            "entityType": "gene",
+            "entityName": "Bnip3",
+            "id": "UMLS:C1412812"
+        },
+        {
+            "entityId": "41962_41975",
+            "span": {
+                "begin": 41962,
+                "end": 41975
+            },
+            "entityType": "cell",
+            "entityName": "muscle fibers",
+            "id": "UMLS:C0242697"
+        },
+        {
+            "entityId": "42095_42105",
+            "span": {
+                "begin": 42095,
+                "end": 42105
+            },
+            "entityType": "drug",
+            "entityName": "isopentane",
+            "id": "UMLS:C0083072"
+        },
+        {
+            "entityId": "42464_42472",
+            "span": {
+                "begin": 42464,
+                "end": 42472
+            },
+            "entityType": "drug",
+            "entityName": "Tween-20",
+            "id": "UMLS:C0041415"
+        },
+        {
+            "entityId": "43036_43046",
+            "span": {
+                "begin": 43036,
+                "end": 43046
+            },
+            "entityType": "gene",
+            "entityName": "anti-MHC I",
+            "id": "UMLS:C0370188"
+        },
+        {
+            "entityId": "43093_43111",
+            "span": {
+                "begin": 43093,
+                "end": 43111
+            },
+            "entityType": "gene",
+            "entityName": "anti-alpha-laminin",
+            "id": "UMLS:C0022984"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "1382_1393",
+            "subjectText": "MST1 kinase",
+            "rel_name": "associate",
+            "objectId": "1452_1475",
+            "objectText": "skeletal muscle atrophy"
+        },
+        {
+            "subjectID": "958_962",
+            "subjectText": "MST1",
+            "rel_name": "stimulate",
+            "objectId": "1008_1031",
+            "objectText": "skeletal muscle wasting"
+        },
+        {
+            "subjectID": "1503_1517",
+            "subjectText": "muscle atrophy",
+            "rel_name": "regulate",
+            "objectId": "1536_1547",
+            "objectText": "MST1 kinase"
+        }
+    ]
+}

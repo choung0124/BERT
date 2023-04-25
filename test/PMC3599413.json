@@ -1,0 +1,3908 @@
+{
+    "sourcid": "PMC3599413",
+    "publisher": "BioMed Central",
+    "journal": "Cardiovascular Diabetology",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3599413/",
+    "text": "Impaired cardioprotective function of transplantation of mesenchymal stem cells from patients with diabetes mellitus to rats with experimentally induced myocardial infarction Background Diabetes mellitus (DM) exacerbates coronary artery disease (CAD) morbidity and mortality. Mesenchymal stem cells (MSCs) play an important therapeutic role in myocardial ischemic injury. However, little is known about changes in the cardioprotective characteristics of MSCs from patients with DM. Methods Sternal bone marrow aspirates were taken at the time of coronary artery bypass graft surgery. The morphology and growth characteristics of hMSCs were observed in passage 3. Differences in gene expression profiling were measured by Affymetrix GeneChipHuman Genome U133 Plus 2.0 Arrays. Forty two adult male rats with experimentally CAD were randomized into three groups. MSCs from patients with CAD+DM or CAD were injected into the infarcted myocardium. Control animals received culture medium. Echocardiography, TUNEL, immunohistochemistry and Western-blot analysis were performed 4 weeks after transplantation.  Results Growth curves showed that proliferation of hMSCs in the CAD+DM group was significantly lower than in the CAD group. Nine transcripts of genes related to apoptosis containing Bcl-2 were found to differentiate the two groups. Transplantation of hMSCs in the infarcted border zone improved cardiac function, but DM partly impaired this effect. Similar results were observed from TUNEL, immunohistochemistry and Western-blot analysis. Conclusions hMSCs from patients with CAD+DM and CAD alone both have proliferative properties. Transplantation of hMSCs ameliorate heart function, but proliferative ability and myocardial protection decrease significantly in MSCs obtained from patients with CAD+DM compared with cultures from patients with CAD alone, possibly as a result of differences in Bcl-2 protein expression and reduced anti-apoptosis. Background Myocardial infarction (MI) and diabetes mellitus (DM) are serious diseases with high morbidity and mortality. It was estimated in 2010 that there were almost 1,000,000 patients with MI in the USA, with a 3-year mortality of nearly 25%. Diabetes mellitus has been widely recognized as a major risk factor for cardiovascular disease, and carries the same risk of mortality as MI itself. Previous studies have demonstrated that the prognosis of the coronary artery disease (CAD) in patients with DM is significantly worse than in patients with CAD alone. However, the mechanisms that underlie this observation are not fully understood. Mesenchymal stem cells (MSCs) transplantation has been widely used as an effective method of protecting the damaged myocardium and improving cardiac function. MSCs can be readily isolated from bone marrow, adipose tissue, and umbilical cord blood. Ex vivo experiments indicate that MSCs express CD105, CD73, CD90, CD29 and CD166, but lack expression of CD45, CD34, CD14, CD11b, CD79alpha, CD19 and HLA-DR. It has also been shown that MSCs transplantation improves heart function through various mechanisms, including angiogenesis, myogenesis, and inhibition of left ventricular (LV) remodeling. The paracrine effects of MSCs have also been highlighted as an important mechanism responsible for improving cardiac function. MSCs have been shown to secrete various cytokines, including vascular endothelial growth factor (VEGF), and hepatocyte growth factor (HGF), etc. These cytokines play vital roles in paracrine function and contribute to cardiac repair through mechanisms involving cytoprotection, neovascularization and inhibition of apoptosis, all of which minimize ischemic reperfusion injury. The beneficial effects of MSCs transplantation are well documented in both animal and clinical studies. However, it is possible that age and other risk factors, such as the presence of DM might reduce the potential for MSCs differentiation and proliferation. Age-related changes in MSCs function have previously been reported, but to date little is known about the effects of DM on MSCs proliferation. Previous studies have described the biological characteristics of MSCs in a rat model and in patients with CAD. The present study was undertaken to investigate the differences in the gene expression profile of MSCs obtained from human subjects with CAD and DM, and with CAD alone, and to determine if this had the potential to alter the cardioprotective effect of hMSCs transplantation against MI in patients with CAD+DM. Methods Isolation and culture of human MSCs Bone marrow collection for research purpose was approved by the Ethics Committee of the Shenyang Northern Hospital, Shenyang City, China. All patients provided informed consent and the study was conducted according to the ethical guidelines of the Declaration of Helsinki (1975). MSCs were isolated and cultured as previously reported. Briefly, 3 to 5 mL of bone marrow was aspirated from the sternum of patients with CAD who were undergoing coronary artery bypass graft surgery (CABG). Patients were divided into CAD+DM and CAD groups (n = 10 per group). The study inclusion and exclusion criteria are shown in Table 1, and patient demographic and clinical data are summarized in Table 2. The diagnosis of DM was based on The American Diabetes Association (ADA) diagnostic criteria.        Inclusion and exclusion criteria Inclusion criterion\tMale\t \t \tAge between 50 and 60 years old\t \t \tPrevious myocardial infarction with multiple vessels involved\t \t \tType II diabetes mellitus for over 10 years\t \tExclusion criterion\tInfectious, systemic immunologic diseases, malignancy, hepatic and nephritic dysfunction         Patient demographic data CAD+DM (n = 10)\tDM (n = 10)\tP-value\t \tAge, years\t54.40 +- 3.10\t55.8 +- 1.69\t0.226\t \tBMI, kg/m2\t26.81 +- 2.74\t25.97 +- 4.57\t0.624\t \tLVEF,%\t43.9 +- 6.72\t44.2 +- 4.89\t0.910\t \tSmoker, n\t7\t5\t0.157\t \tHypertension, n\t6\t8\t0.261\t \tHyperlipidemia, n\t3\t2\t0.158\t \tTarget vessel, n\t \t \t \t \tLM\t3\t2\t0.158\t \tLAD\t10\t10\t1.000\t \tLCX\t5\t6\t0.247\t \tRCA\t5\t6\t0.247\t \tOM\t5\t4\t0.247\t \tDiagonal\t4\t3\t0.572                                          Values are presented as n, or mean +- SD.     BMI body mass index; LVEF left ventricular ejection fraction; LM left main coronary artery; LAD left anterior descending coronary artery; RCA right coronary artery; OM obtuse marginal. Bone marrow aspirates were placed in a 5 mL tube containing phosphate-buffered saline (PBS) and 1250U of heparin. The marrow samples were washed twice with PBS twice after centrifugation at 900 x g for 10 min to discard the fat layer. The residual cells were added into the equal volume of 1.073 g/mL Percoll solution in a 50 mL conical tube and centrifuged at 1100 x g/min for 30 min. The mononuclear cells were collected from the upper layer and interface, diluted with two volumes of PBS, and collected by centrifugation at 1100 x g/min. The cells were resuspended in low glucose Dulbecco's Modified Eagle Medium (DMEM-LG; Gibco, Grand Isle, NY, USA) supplemented with 10% fetal bovine serum (Gibco, Mulgrave, Victoria, Australia), 100U/mL penicillin, and 100 mg/mL streptomycin. The nucleated cells were plated into 100 mm plastic culture dishes (Beckton Dickinson, San Jose, CA, USA) and incubated at 37 C in 5% CO2 and 95% humidity. The culture medium was replaced by new medium every 3 days. On each occasion, floating cells or non-adherent hematopoietic cells were removed. After 12 to 15 days of primary culture, the adherent cells were nearly 80% confluent. The cells were dissociated using 0.25% trypsin, replated at a ratio of 1:4 in 100 mm plastic culture dishes and grown to near confluence to expand the cells through successive passages.                             Growth curves of MSCs from patients were depicted using the 3-(4, 5-dimethylthiazol-2-yl)-2, 5-diphenyltetrazlium bromide (MTT) assay. Briefly, cells from Passage 3 were cultured in 96-well plastic culture dishes at a density of 2.5 x 103cells/well. After 1,2,3,4,5,6,7 and 8 days of culture, MTT (Sigma, St. Louis, MO, USA) dissolved in PBS was added to each well at a final concentration of 5 mg/mL, and the samples were incubated at 37 C for 4 h. Water-insoluble dark blue formazan crystals formed during MTT cleavage in actively metabolizing cells. These were dissolved in dimethyl sulfoxide (DMSO) (Gibco/Invitrogen, NY, USA). Optical density was measured at a wave length of 490 nm using a Bio-Rad 680 microplatereader (Bio-Rad, Califronia, USA)           Phenotype analysis of hMSCs The hMSCs from Passage 3 were trypsinized, incubated and stained with mouse anti-human antibody for 30 min at room temperature. The cells were then rinsed twice with PBS and resuspended in 500muL PBS after centrifugation at 900 x g. The cells were analyzed using a flow cytometer (Beckton Dickinson, San Jose, CA,USA). The antibodies used in this experiment were: CD34-PE, CD45-PE, CD29-PE and CD44-PE (Beckton Dickinson, San Jose, CA, USA).       Approximately 5 x 105 cells per 100muL were labeled with primary mouse antibodies against human CD29, CD34, CD44 and CD45. Cells were incubated at 4 C for 30 min and washed. Mouse IgG1-PE (Beckton Dickinson, San Jose, CA, USA) was used as an isotype control.        Gene expression profiling and protein validation The hMSCs from Passage 3 were used for RNA extraction. Total RNA (2 mug) from human CAD-MSCs and CAD+DM-MSCs (n = 3 per group) were used for microarray analysis. Affymetrix (Santa Clara, USA) GeneChipHuman Genome U133 Plus 2.0 Arrays, which allowed analysis of 47,000 transcripts, were performed in triplicate and analyzed with Affymetrix Microarray Suite (MAS 5.0). The transcripts were annotated using various databases to compile a list of apoptosis candidates. All the experiments of gene expression profiling were authorized to be carried out by CapitalBio Corporation (Beijing, China). Gene expression profiling was determined by Western blot analysis for proteins expressed by selected genes. Briefly, the hMSCs were treated with cell lysis buffer (Promega, Madison, WI, USA). Concentration was determined using a BCA protein assay (Pierce, Rockford, IL, USA). Total proteins (20 mug) were separated using 12.5% sodium dodecyl sulfate-polyacrylamide gel electrophoresis and transferred to a 0.2 mm nitrocellulose membrane. The membrane was blocked in PBS buffer containing 0.2% Tween 20 and 5% non-fat milk for 1 h. The membrane was then incubated overnight at 4 C with rabbit Bcl-2 protein polyclonal antibody (1:2000dilution; Abcam, Cambridge, MA, USA). Housekeeping protein beta-actin was employed as loading control. Antibody binding was detected using horseradish peroxidase conjugated secondary antibody, and visualized by an ECL kit (Amersham Biosciences, Piscataway, NJ, USA).   Myocardial infarction formation and hMSCs transplantation Male Sprague-Dawley (SD) rats weighing 280 to 300 g were divided into three groups (CAD+DM group; CAD group; control group, n = 14 per group). All animals received humane care, and all animal protocols complied with the institution's guidelines.        Rats were anesthetized by intraperitoneal injection with pentobarital (50 mg/kg), intubated via an endotracheal cannula and mechanically ventilated. A left lateral thoracotomy was performed. The proximal portion of the left anterior descending artery was ligated with a 6-0 Prolene (Ethicon, Somerville, NJ, USA) suture. MSCs from Passage 3 were used for transplantation. The MSCs were dissociated from the culture dishes with 0.25% trypsin, neutralized with culture medium, washed with PBS and collected by centrifugation at 900 x g for 5 min at room temperature. The cells were then suspended in culture medium at a concentration of 2 x 106 cells in 50muL and were kept on ice until transplantation. Animals in the CAD+DM (n = 11) and CAD (n = 9) groups received a sub-epicardial injection of hMSCs obtained from patients with CAD+DM and CAD respectively. The cells were injected into the infarcted scar and adjacent myocardium. The control group (n = 11) received injections of culture medium into the same area. Intramuscular penicillin G benzathine (100,000U/kg) was used to prevent infection. The hMSCs from different patients were injected respectively. Immunosupprerssion was provided by daily intramuscular administration of cyclosporine (10 mg/kg/day; Novartis, Switzerland) for 4 weeks post transplantation.                           Echocardiography A blinded investigator performed transthoracic echocardiographic studies on the anesthetized rats. Left ventricle dimension and function were assessed immediately prior to myocardial infarction, and at 1 and 4 weeks after hMSCs transplantation. Images were recorded using a 12-MHz high frequency liner phased-array transducer (Philips SONOS 5500, Bothell, WA, USA). Left ventricular end diastolic and systolic dimensions were derived from two-dimensionally targeted M-mode tracings obtained along the para-sternal short-axis view of the left ventricle at the papillary muscle level. Ejection fraction (EF) and fractional shortening (FS) were calculated. All measurements were performed and averaged over three consecutive cardiac cycles.  TUNEL (Terminal Doxynucleotidyl Transferase-mediated dUTP-x Nick End Labeling) staining The histochemical detection of apoptotic cells was performed as previously reported. The tissue blocks were fixed in 4% paraformaldehyde and incubated with proteinase K. Fragments of DNA in the tissue sections were analyzed using a TUNEL detection kit (Promega Corporation, Madison, WI, USA). For each slide, color images of 10 separate fields were captured randomly and digitized. Cells with clear nuclear labeling were defined as TUNEL-positive cells. The apoptotic index was calculated as the number of TUNEL-positive cells/ total number of myocytes. Immunohistochemistry and Western-blot analysis Myocardial tissue was embedded in paraffin and cut into 5 mum sections. Detection of Bcl-2 expression was performed as described previously. Tissue sections were exposed overnight to rabbit Bcl-2 protein polyclonal antibody (1:2000 dilution; Abcam, Cambridge, MA, USA) at 4 C, washed in PBS and incubated with biotinylated goat anti-rabbit IgG for 60 min at 37 C. After two washing steps, sections were exposed to streptavidin-horseradish-peroxidase complex for 30 min at 37oCand visualized with 3, 3'-diaminobenzidine, embedded in glycerol gelatin. Images were captured digitally and analyzed using IPP version 6.0. Cytoplasmic staining was considered positive, and scored as: absent (-); weakly positive (+), moderately positive (++) or strongly positive (+++). Myocardial tissue samples were homogenized in RIPA buffer and the protein expression of Bcl-2 and VEGF were identified by Western blotting as described above.         Statistical analysis Data were analyzed using SPSS version 12.0 for Windows (SPSS, Chicago, IL, USA). All variables were presented as means and standard deviations (+-SD). The t-test was used to compare treatments in the in vitro experiments. The results of hMSCs transplantation into rat models were tested using one-way analysis of variance. Tukey's method was used for post-hoc analysis. Values of P < 0.05 were considered statistically significant.       Results Growth characteristics of hMSCs The hMSCs were tightly attached to the culture dishes after 24 h. They appeared as spindle shaped cells after 3 to 4 days' culture of the primary passage, after which they proliferated rapidly. After 12 to 15 days of primary culture, the hMSCs reached nearly 80% confluences. The hMSCs in passage 3 from the CAD+DM group had a more flattened appearance were larger in size than those from the CAD group (Figure 1A).       Characteristic of hMSCs in Passage-3 and proliferative abilities of hMSCs between each group. (A) In Passage 3, the hMSCs from CAD+DM group showed more flattened appearance and a larger size than those from the CAD group. (B) A MTT assay was performed and the optical densities of the two groups were detected at 490 nm. The proliferative potential of MSCs from the CAD+DM group decreased significantly compared with CAD group at each time point of the log phase and plateau phase after 2 days post transplantation (*P < 0.05 vs. CAD group).       Proliferative abilities of MSCs from each group Growth curves were characterized by an initial lag phase (during the first 2 days) followed by a log phase (from 3 to 7 day) during which cells divided at exponential rates. This was followed by a plateau phase after Day 8. The proliferative potential of hMSCs obtained from patients with CAD+DM was significantly impaired relative to that seen in cells from patients with CAD (P <0.05). These differences were apparent at each time point after Day 2 (Figure 1B).    Phenotype of human MSCs Human MSCs contained a unique phenotypic population which was identified by flow cytometric analysis of expressed surface antigens. All hMSCs were uniformly positive for CD29, CD44 and negative for CD34 and CD45 (Figure 2).  The phenotypic nature of human MSCs. The phenotype of human MSCs from CAD+DM and CAD groups were positive for CD29, CD44 and negative for CD34, CD45. Differences of genes expression profile of hMSCs between CAD+DM and CAD groups Three transcripts were dramatically up-regulated (TNFRSF10B, TNFRSF21, NGF) and six transcripts that were down-regulated (EPR1, BIRC5, HELLS, BCL2, TNFRSF1B, CASP1) in the CAD+DM group relative to the CAD group (Table 3). In addition, expression of Bcl-2 mRNA was significantly lower in the CAD+DM group than in the CAD group (Figure 3A).   Differential apoptosis-related genes from hMSCs obtained from CAD+DM and CAD ProbeSet ID\tGene title\tGene symbol\tCAD+DM/CAD\t \t206814_at\tNerve growth factor(beta polypeptide)\tNGF\t4.1658\t \t209295_at\tTumor necrosis factor receptor superfamily, member 10b\tTNFRSF10B\t2.3979\t \t218856_at\tTumor necrosis factor receptor superfamily, member 21\tTNFRSF21\t2.2182\t \t1555826_at\tEffector cell peptidase receptor 1 (non-protein coding)\tEPR1\t0.2846\t \t202094_at\tBaculoviral IAP repeat-containing 5\tBIRC5\t0.1978\t \t203508_at\tTumor necrosis factor receptor superfamily, member 1B\tTNFRSF1B\t0.3262\t \t203685_at\tB-cell CLL/lymphoma 2\tBCL2\t0.4131\t \t209970_x_at\tCaspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)\tCASP1\t0.3542\t \t220085_at\tHelicase, lymphoid-specific\tHELLS\t0.4298    Bcl-2 expression in human MSCs. (A) Levels of Bcl-2 expression estimated by Affymetrix microarray analysis show a nearly 2.5-fold down-regulation in CAD+DM-MSCs compared with CAD-MSCs. (B) Western blot validation of protein levels demonstrated a great than 2-fold down-regulation in CAD+DM-MSCs compared with CAD-MSCs. (*P < 0.05 vs. CAD group).     To confirm the gene expression profile results, Bcl-2 protein was evaluated in vitro and Western bolt analysis was performed on cell samples at the same time points. These results also showed that the expression of Bcl-2 protein was significantly lower in the CAD+DM group than in the CAD group (Figure 3B).  Evaluation of myocardial function Transplantation of hMSCs into the infarcted border of zone of rats with experimentally induced CAD significantly improved left ventricular function. There were no remarkable differences in EF and FS between the three groups preinfarction or at 1 week postinfarction.  In the CAD+DM and CAD groups, both EF and FS increased significantly, relative to the control group, after MSC transplantation. However, EF and FS were significantly lower in the CAD+DM group than in the CAD group. Contractile function was impaired in all three groups after infarction, but significantly improved after 4 weeks in animals transplanted with hMSCs (CAD+DM and CAD groups) relative to values in the control group. Improvements in contractile function were significantly less marked in the CAD+DM group than in the CAD group (Figure 4).   Evaluation of myocardial function. Ejection fraction EF (A) and fractional shortening FS (B) were not significantly changed in any of the three groups at 1 week post infarction. However, EF and FS increased significantly in CAD+DM and CAD groups after MSC transplantation. EF and FS were significantly lower in the CAD+DM group than in the CAD group after 4 weeks. (*P < 0.05 CAD+DM and CAD groups compared with control group, #P < 0.05 CAD+DM group compared with CAD group).           Myocardial apoptosis after hMSCs transplantation The degree of apoptosis 4 week after hMSCs transplantation was significantly lower in the CAD+DM and CAD groups than in the control group. However, myocardial apoptosis was significantly higher in the CAD+DM group than in the CAD group (Figure 5).   Myocardial apoptosis 4 weeks after cells transplantation. Myocardial apoptosis was detected by TUNEL staining. TUNEL-positive cells (TP indicated) decreased significantly in CAD+DM and CAD groups compared with control group. However, the number of TUNEL-positive cells was significantly higher in the CAD+DM group than in the CAD group. (*p < 0.05 vs. control group, #P < 0.05 vs. CAD group).          Protein expression in infarcted myocardium Protein expression of Bcl-2 following hMSC transplantation in the CAD+DM and CAD groups were both significantly higher than in the control group, as evidenced by immunohistochemical staining and Western-blot analysis. However, Bcl-2 levels in the CAD+DM were significantly lower than in the CAD group. Meanwhile, VEGF levels in the CAD+DM were also significantly lower than in the CAD group (Figure 6).  Protein expression in infarcted myocardium. (A) Immunohistochemical detection of Bcl-2 expression in infarcted myocardium from control (+), CAD+DM (++) and CAD (+++) groups. (B) Western-blot analysis shows that hMSCs transplantation from patients with CAD+DM and CAD significantly increased Bcl-2 expression in the myocardium compared with the control group. However, Bcl-2 protein level was significantly lower in the CAD+DM group than in the CAD group. (C) Western-blot analysis shows that VEGF expression after hMSCs transplantation in CAD+DM group was significantly lower than in the CAD group. (*P < 0.05 vs. control group, #P < 0.05 vs. CAD group).         Discussion The present study demonstrated that hMSCs, isolated from the sternum had a unique appearance and phenotype similar to the MSCs isolated from iliac bone marrow. A previous study demonstrated that hMSCs from Passage 1 to 5 had significantly greater proliferative potential than those from later passages. We therefore chose hMSCs from Passage 3 for all our in vitro and in vivo experiments. We demonstrated there was a significant difference in proliferation and gene expression profiling of hMSCs derived from patients with CAD+DM relative to those derived from patients with CAD only. These findings provided initial evidence that DM reduces the proliferation of hMSCs in vitro. The current results were consistent with previous reports in which they found that endothelial progenitor cells were depleted even in DM patients without clinical evidence of macrovascular disease. We also showed that Bcl-2 as well as other differential genes may play a crucial role in hMSC proliferation. The other important finding was that transplantation of hMSCs from CAD patients into rats with experimentally induced myocardial infarction improved cardiac contractility and attenuated apoptosis of cardiomyocytes. These effects were also weakened in MSCs derived from patients with CAD+DM, possibly due in part to reduced expression of Bcl-2 in these cells. These results were consistent with those from a previous study using a rat model. In our study, we identified several differentially expressed genes related to apoptosis. From differential genes, TNFRSF10B, TNFRSF21 and TNFRSF1B are a member of the TNF-receptor superfamily, which deliver signals for cell death, survival, proliferation and differentiation. However, their effects on apoptosis are diverse. TNFRSF10B, TNFRSF21 can be activated by tumor necrosis factor-related apoptosis inducing ligand and transducer apoptosis signals. In contrast, TNFRSF1B plays a vital role in preventing apoptosis. Moreover, BIRC5, which positively correlated with the expression of Bcl-2, is a member of the inhibitor of apoptosis gene family and take part in the prevention of apoptotic cell death. From all the differential genes related to apoptosis, Bcl-2 was selected for further study since our previous studies demonstrated that Bcl-xl gene transfer has a cardioprotective function against ischemia/reperfusion injury. Both Bcl-2 and Bcl-xl belong to the Bcl-2 family, and are overexpressed in B-cell lymphoma. Bcl-2 family of proteins acts as critical regulators of pathways involved in anti-apoptosis and inhibition of cell death. It has also been shown that Bcl-2 contributes to cardiac protection during ischemic conditions, where it acts as one of the regulators of the metabolic functions of mitochondria. In the present study, mRNA and protein expression of Bcl-2 were significantly lower in the CAD+DM group than in the CAD group, suggesting that Bcl-2 expression in patients with CAD might be impaired by DM. MSCs exhibit the property of immune-tolerance whereby they express low levels of major histocompatabilty complex (MHC) and co-stimulant molecules. This means that MSCs are generally safe and effective when used for allo-transplantion. However, post-transplant rejection has previously been reported in a xenogenic model, and for this reason we used, cyclosporine to suppress the immune response in our study. We also showed that hMSCs transplantation improved myocardial but that the improvement was significantly more marked with cells derived from patients with CAD than with those derived from patients with CAD+DM. The findings that MSCs transplantation improves heart function after myocardial infarction and that DM may weaken myocardial protective function of hMSCs transplantation significantly are in accordance with previous studies. In our study, myocardial tissue from the infarcted zone and border was determined by TUNEL, imunohistochemistry and Western-blot analysis. We found that apoptosis of myocardial cells increased dramatically in CAD+DM group compared with CAD group, in accordance with a previous study in a rat model. We also showed that, expression of Bcl-2 decreased markedly in the CAD+DM group compared with CAD group. Previous studies revealed a reduced expression of VEGF in the myocardium in diabetes. However, there is no difference between the two groups at mRNA level in Gene Chip results of cultured hMSCs. On the contrary, protein expression of VEGF after hMSCs transplantation decreased significantly in the CAD+DM group compared with CAD group. This might be due to the elevated VEGF secretion induced by high-level expression of Bcl-2 in response to hypoxic condition. Thus, different levels between protein and mRNA expression existed in cell culture under normoxic condition and infarcted myocardium under hypoxic condition. Thus, inhibition of Bcl-2 expression may result in increased apoptosis which in turn decreases myocardial protection; decreased secretion of VEGF may one of the possible reasons. It has been shown that the function of MSCs can be modulated by introduction of specific genes.. It is therefore possible that hMSCs from CAD+DM patients modified with Bcl-2 gene may have improved expression levels of Bcl-2 protein and enhanced ability to protect the ischemic myocardium. At the same time, the method of human stem cell based three dimensional microtissues may also represent a translational therapy strategy which may enhance cellular retention, survival and integration. Both of above can be studied in deep-going way in the future. Limitations Previous studies have demonstrated that aging impairs the quantity, quality and mobilization capacity of MSCs. Thus, hMSCs were obtained from patients 50 to 60 years of age, which limited the number of relative younger patients with CAD+DM. This may have compromised the capacity of MSCs to offer myocardial protection. The relatively small sample size in our study may also have impacted our results to some extent. Our findings therefore need to be substantiated in larger populations of patients of different age groups.  Conclusions The present study indicates that hMSCs from patients with CAD+DM and CAD have proliferative properties, and that transplantation of hMSCs from all patients improved heart function in rats with experimentally-induced myocardial infarction. The ability to proliferate and preserve myocardial function decreased significantly in MSCs obtained from patients with CAD+DM compared with those obtained from patients with CAD. The differential effects of transplantation of different human MSCs might result from differences of Bcl-2 protein expression, which determine the extent of anti-apoptosis. Abbreviations MI: Myocardial infarction;DM: Diabetes mellitus;CAD: Coronary artery disease;MSCs: Mesencymal stem cells;LV: Left ventricular;VEGF: Vascular endothelial growth factor;HGF: Hepatocyte growth factor;hMSCs: human MSCs;CABG: Coronary artery bypass graft surgery;ADA: American diabetes association;PBS: Phosphate-buffered saline;DMEM-LG: Low glucose Dulbecco's modified Eagle Medium;MTT: 3-(4,5-dimethylthiazol-2-yl)-2, 5-diphenyltetrazlium bromide;DMSO: Dimethyl sulfoxide;EF: Ejection fraction;FS: Fractional shortening;TUNEL: Terminal doxynucleotidyl transferase-mediated dUTP-x Nick End Labeling   Competing interests The authors declare that they have no competing interests. Authors' contributions   HW and JH made substantial contributions to the conception and design of this study. XX participated in designing the study, performing the experiments. HJ participated in acquisition of hMSCs. YL carried out the cells culture studies, acquisition of data, performed the statistical analysis and drafted the manuscript. TL carried out animal experiments and performed Immunohistochemistry analysis. ZL carried out TUNEL staining and Western-blot analysis. All authors read and approved the final manuscript. Acknowledgments This study was funded in part by the National Science Foundation of China (81071267). Stem cell therapy for the heart: a perspective Explaining the sex difference in coronary heart disease mortality among patients with type 2 diabetes mellitus: a meta-analysis Cardiovascular disease risk in type 2 diabetes mellitus: insights from mechanistic studies Allogeneic mesenchymal stem cells restore cardiac function in chronic ischemic cardiomyopathy via trilineage differentiating capacity Minimal criteria for defining multipotent mesenchymal stromal cells, The International Society for Cellular Therapy position statement Intravenous delivery of autologous mesenchymal stem cells limits infarct size and improves left ventricular function in the infarcted porcine heart Mesenchymal stem cells as trophic mediators Human progenitor cells from bone marrow or adipose tissue produce VEGF, HGF, and IGF-I in response to TNF by a p38 MAPK-dependent mechanism Embryonic endothelial progenitor cells expressing a broad range of proangiogenic and remodeling factors enhance vascularization and tissue recovery in acute and chronic ischemia Paracrine mechanisms in adult stem cell signaling and therapy A randomized, double-blind, placebo-controlled, dose-escalation study of intravenous adult human mesenchymal stem cells (prochymal) after acute myocardial infarction Transplantation of mesenchymal stem cells preconditioned with diazoxide, a mitochondrial ATP-sensitive potassium channel opener, promotes repair of myocardial infarction in rats Transplantation of mesenchymal stem cells from human bone marrow improves damaged heart function in rats Aging of mesenchymal stem cells Human endothelial progenitor cells from type II diabetics exhibit impaired proliferation, adhesion, and incorporation into vascular structures Age-related changes in the frequency of mesenchymal stem cells in the bone marrow of rats Age-dependent depression in circulating endothelial progenitor cells in patients undergoing coronary artery bypass grafting Aging Adversely Impacts Biological Properties of Human Bone Marrow-derived Mesenchymal Stem Cells: Implications for Tissue Engineering Heart Valve Construction Streptozotocin-induced diabetic rat-derived bone marrow mesenchymal stem cells have impaired abilities in proliferation, paracrine, antiapoptosis, and myogenic differentiation Diagnosis and classification of diabetes mellitus Identification of mesenchymal stem/progenitor cells in human first-trimester fetal blood, liver, and bone marrow Anti-apoptotic effect of benidipine, a long-lasting vasodilating calcium antagonist, in ischaemic/reperfused myocardial cells Postconditioning inhibits myocardial apoptosis during prolonged reperfusion via a JAK2-STAT3-Bcl-2 pathway Myocardial dysfunction in patients with type 2 diabetes mellitus: role of endothelial progenitor cells and oxidative stress The TNF and TNF receptor superfamilies: integrating mammalian biology Influence of survivin and Bcl-2 expression on the biological behavior of non-small cell lung cancer Bcl-xL gene transfer protects the heart against ischemia/reperfusion injury Bcl-xL gene transfer inhibits Bax translocation and prolongs cardiac cold preservation time in rats BCL-2 family members and the mitochondria in apoptosis The Bcl-2-regulated apoptotic pathway Transgenic expression of Bcl-2 modulates energy metabolism, prevents cytosolic acidification during ischemia, and reduces ischemia/reperfusion injury Myocardial regenerative therapy: immunologic basis for the potential \"universal donor cells\" Immunomodulatory properties of mesenchymal stromal cells Reduced cardioprotective action of adiponectin in high-fat diet-induced type II diabetic mice and its underlying mechanisms Vascular stem cells in diabetic complications: evidence for a role in the pathogenesis and the therapeutic promise Bcl-2 engineered MSCs inhibited apoptosis and improved heart function Transcatheter based electromechanical mapping guided intramyocardial transplantation and in vivo tracking of human stem cell based three dimensional microtissues in the porcine heart Transcoronary transplantation of functionally competent BMCs is associated with a decrease in natriuretic peptide serum levels and improved survival of patients with chronic postinfarction heart failure: results of the TOPCARE-CHD Registry",
+    "entities": [
+        {
+            "entityId": "57_79",
+            "span": {
+                "begin": 57,
+                "end": 79
+            },
+            "entityType": "cell",
+            "entityName": "mesenchymal stem cells",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "85_93",
+            "span": {
+                "begin": 85,
+                "end": 93
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "99_116",
+            "span": {
+                "begin": 99,
+                "end": 116
+            },
+            "entityType": "disease",
+            "entityName": "diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "120_124",
+            "span": {
+                "begin": 120,
+                "end": 124
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "153_174",
+            "span": {
+                "begin": 153,
+                "end": 174
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "186_203",
+            "span": {
+                "begin": 186,
+                "end": 203
+            },
+            "entityType": "disease",
+            "entityName": "Diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "205_207",
+            "span": {
+                "begin": 205,
+                "end": 207
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "221_244",
+            "span": {
+                "begin": 221,
+                "end": 244
+            },
+            "entityType": "disease",
+            "entityName": "coronary artery disease",
+            "id": "UMLS:C1956346"
+        },
+        {
+            "entityId": "246_249",
+            "span": {
+                "begin": 246,
+                "end": 249
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "276_298",
+            "span": {
+                "begin": 276,
+                "end": 298
+            },
+            "entityType": "cell",
+            "entityName": "Mesenchymal stem cells",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "300_304",
+            "span": {
+                "begin": 300,
+                "end": 304
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "454_458",
+            "span": {
+                "begin": 454,
+                "end": 458
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "464_472",
+            "span": {
+                "begin": 464,
+                "end": 472
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "478_480",
+            "span": {
+                "begin": 478,
+                "end": 480
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "796_800",
+            "span": {
+                "begin": 796,
+                "end": 800
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "821_824",
+            "span": {
+                "begin": 821,
+                "end": 824
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "860_864",
+            "span": {
+                "begin": 860,
+                "end": 864
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "870_878",
+            "span": {
+                "begin": 870,
+                "end": 878
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "884_887",
+            "span": {
+                "begin": 884,
+                "end": 887
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "888_890",
+            "span": {
+                "begin": 888,
+                "end": 890
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "894_897",
+            "span": {
+                "begin": 894,
+                "end": 897
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "1167_1170",
+            "span": {
+                "begin": 1167,
+                "end": 1170
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "1171_1173",
+            "span": {
+                "begin": 1171,
+                "end": 1173
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "1216_1219",
+            "span": {
+                "begin": 1216,
+                "end": 1219
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "1232_1243",
+            "span": {
+                "begin": 1232,
+                "end": 1243
+            },
+            "entityType": "DNA",
+            "entityName": "transcripts",
+            "id": "UMLS:C1519595"
+        },
+        {
+            "entityId": "1285_1290",
+            "span": {
+                "begin": 1285,
+                "end": 1290
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "1420_1422",
+            "span": {
+                "begin": 1420,
+                "end": 1422
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "1565_1573",
+            "span": {
+                "begin": 1565,
+                "end": 1573
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1579_1582",
+            "span": {
+                "begin": 1579,
+                "end": 1582
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "1583_1585",
+            "span": {
+                "begin": 1583,
+                "end": 1585
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "1590_1593",
+            "span": {
+                "begin": 1590,
+                "end": 1593
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "1766_1770",
+            "span": {
+                "begin": 1766,
+                "end": 1770
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "1785_1793",
+            "span": {
+                "begin": 1785,
+                "end": 1793
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1799_1802",
+            "span": {
+                "begin": 1799,
+                "end": 1802
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "1803_1805",
+            "span": {
+                "begin": 1803,
+                "end": 1805
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "1834_1842",
+            "span": {
+                "begin": 1834,
+                "end": 1842
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1848_1851",
+            "span": {
+                "begin": 1848,
+                "end": 1851
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "1898_1911",
+            "span": {
+                "begin": 1898,
+                "end": 1911
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2 protein",
+            "id": "UMLS:C4042483"
+        },
+        {
+            "entityId": "1962_1983",
+            "span": {
+                "begin": 1962,
+                "end": 1983
+            },
+            "entityType": "disease",
+            "entityName": "Myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "1985_1987",
+            "span": {
+                "begin": 1985,
+                "end": 1987
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "1993_2010",
+            "span": {
+                "begin": 1993,
+                "end": 2010
+            },
+            "entityType": "disease",
+            "entityName": "diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "2012_2014",
+            "span": {
+                "begin": 2012,
+                "end": 2014
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "2130_2138",
+            "span": {
+                "begin": 2130,
+                "end": 2138
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2144_2146",
+            "span": {
+                "begin": 2144,
+                "end": 2146
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "2198_2215",
+            "span": {
+                "begin": 2198,
+                "end": 2215
+            },
+            "entityType": "disease",
+            "entityName": "Diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "2270_2292",
+            "span": {
+                "begin": 2270,
+                "end": 2292
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular disease",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "2336_2338",
+            "span": {
+                "begin": 2336,
+                "end": 2338
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "2408_2431",
+            "span": {
+                "begin": 2408,
+                "end": 2431
+            },
+            "entityType": "disease",
+            "entityName": "coronary artery disease",
+            "id": "UMLS:C1956346"
+        },
+        {
+            "entityId": "2433_2436",
+            "span": {
+                "begin": 2433,
+                "end": 2436
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "2441_2449",
+            "span": {
+                "begin": 2441,
+                "end": 2449
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2455_2457",
+            "span": {
+                "begin": 2455,
+                "end": 2457
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "2489_2497",
+            "span": {
+                "begin": 2489,
+                "end": 2497
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2503_2506",
+            "span": {
+                "begin": 2503,
+                "end": 2506
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "2595_2617",
+            "span": {
+                "begin": 2595,
+                "end": 2617
+            },
+            "entityType": "cell",
+            "entityName": "Mesenchymal stem cells",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "2619_2623",
+            "span": {
+                "begin": 2619,
+                "end": 2623
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "2754_2758",
+            "span": {
+                "begin": 2754,
+                "end": 2758
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "2877_2881",
+            "span": {
+                "begin": 2877,
+                "end": 2881
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "2897_2901",
+            "span": {
+                "begin": 2897,
+                "end": 2901
+            },
+            "entityType": "gene",
+            "entityName": "CD73",
+            "id": "UMLS:C1417861"
+        },
+        {
+            "entityId": "2903_2907",
+            "span": {
+                "begin": 2903,
+                "end": 2907
+            },
+            "entityType": "gene",
+            "entityName": "CD90",
+            "id": "UMLS:C2348635"
+        },
+        {
+            "entityId": "2909_2913",
+            "span": {
+                "begin": 2909,
+                "end": 2913
+            },
+            "entityType": "gene",
+            "entityName": "CD29",
+            "id": "UMLS:C1416496"
+        },
+        {
+            "entityId": "2918_2923",
+            "span": {
+                "begin": 2918,
+                "end": 2923
+            },
+            "entityType": "gene",
+            "entityName": "CD166",
+            "id": "UMLS:C1332075"
+        },
+        {
+            "entityId": "2948_2952",
+            "span": {
+                "begin": 2948,
+                "end": 2952
+            },
+            "entityType": "gene",
+            "entityName": "CD45",
+            "id": "UMLS:C1870006"
+        },
+        {
+            "entityId": "2954_2958",
+            "span": {
+                "begin": 2954,
+                "end": 2958
+            },
+            "entityType": "gene",
+            "entityName": "CD34",
+            "id": "NCBIGene:947"
+        },
+        {
+            "entityId": "2960_2964",
+            "span": {
+                "begin": 2960,
+                "end": 2964
+            },
+            "entityType": "gene",
+            "entityName": "CD14",
+            "id": "UMLS:C1367477"
+        },
+        {
+            "entityId": "2966_2971",
+            "span": {
+                "begin": 2966,
+                "end": 2971
+            },
+            "entityType": "gene",
+            "entityName": "CD11b",
+            "id": "UMLS:C1701032"
+        },
+        {
+            "entityId": "2973_2982",
+            "span": {
+                "begin": 2973,
+                "end": 2982
+            },
+            "entityType": "gene",
+            "entityName": "CD79alpha",
+            "id": "NCBIGene:973"
+        },
+        {
+            "entityId": "2984_2988",
+            "span": {
+                "begin": 2984,
+                "end": 2988
+            },
+            "entityType": "gene",
+            "entityName": "CD19",
+            "id": "UMLS:C4316926"
+        },
+        {
+            "entityId": "2993_2999",
+            "span": {
+                "begin": 2993,
+                "end": 2999
+            },
+            "entityType": "gene",
+            "entityName": "HLA-DR",
+            "id": "UMLS:C0019764"
+        },
+        {
+            "entityId": "3029_3033",
+            "span": {
+                "begin": 3029,
+                "end": 3033
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "3215_3219",
+            "span": {
+                "begin": 3215,
+                "end": 3219
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "3317_3321",
+            "span": {
+                "begin": 3317,
+                "end": 3321
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "3378_3412",
+            "span": {
+                "begin": 3378,
+                "end": 3412
+            },
+            "entityType": "gene",
+            "entityName": "vascular endothelial growth factor",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "3414_3418",
+            "span": {
+                "begin": 3414,
+                "end": 3418
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "3425_3449",
+            "span": {
+                "begin": 3425,
+                "end": 3449
+            },
+            "entityType": "gene",
+            "entityName": "hepatocyte growth factor",
+            "id": "UMLS:C0369286"
+        },
+        {
+            "entityId": "3451_3454",
+            "span": {
+                "begin": 3451,
+                "end": 3454
+            },
+            "entityType": "gene",
+            "entityName": "HGF",
+            "id": "UMLS:C0369286"
+        },
+        {
+            "entityId": "3720_3724",
+            "span": {
+                "begin": 3720,
+                "end": 3724
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "3879_3881",
+            "span": {
+                "begin": 3879,
+                "end": 3881
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "3913_3917",
+            "span": {
+                "begin": 3913,
+                "end": 3917
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "3976_3980",
+            "span": {
+                "begin": 3976,
+                "end": 3980
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "4070_4072",
+            "span": {
+                "begin": 4070,
+                "end": 4072
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "4076_4080",
+            "span": {
+                "begin": 4076,
+                "end": 4080
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "4162_4166",
+            "span": {
+                "begin": 4162,
+                "end": 4166
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "4172_4175",
+            "span": {
+                "begin": 4172,
+                "end": 4175
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "4189_4197",
+            "span": {
+                "begin": 4189,
+                "end": 4197
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4203_4206",
+            "span": {
+                "begin": 4203,
+                "end": 4206
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "4306_4310",
+            "span": {
+                "begin": 4306,
+                "end": 4310
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "4325_4330",
+            "span": {
+                "begin": 4325,
+                "end": 4330
+            },
+            "entityType": "species",
+            "entityName": "human",
+            "id": "UMLS:C0086418"
+        },
+        {
+            "entityId": "4345_4348",
+            "span": {
+                "begin": 4345,
+                "end": 4348
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "4353_4355",
+            "span": {
+                "begin": 4353,
+                "end": 4355
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "4366_4369",
+            "span": {
+                "begin": 4366,
+                "end": 4369
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "4490_4492",
+            "span": {
+                "begin": 4490,
+                "end": 4492
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "4496_4504",
+            "span": {
+                "begin": 4496,
+                "end": 4504
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4510_4513",
+            "span": {
+                "begin": 4510,
+                "end": 4513
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "4514_4516",
+            "span": {
+                "begin": 4514,
+                "end": 4516
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "4704_4712",
+            "span": {
+                "begin": 4704,
+                "end": 4712
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4842_4846",
+            "span": {
+                "begin": 4842,
+                "end": 4846
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "4966_4974",
+            "span": {
+                "begin": 4966,
+                "end": 4974
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4980_4983",
+            "span": {
+                "begin": 4980,
+                "end": 4983
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "5049_5057",
+            "span": {
+                "begin": 5049,
+                "end": 5057
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5076_5079",
+            "span": {
+                "begin": 5076,
+                "end": 5079
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "5080_5082",
+            "span": {
+                "begin": 5080,
+                "end": 5082
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "5087_5090",
+            "span": {
+                "begin": 5087,
+                "end": 5090
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "5187_5194",
+            "span": {
+                "begin": 5187,
+                "end": 5194
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5269_5271",
+            "span": {
+                "begin": 5269,
+                "end": 5271
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "5298_5306",
+            "span": {
+                "begin": 5298,
+                "end": 5306
+            },
+            "entityType": "disease",
+            "entityName": "Diabetes",
+            "id": "UMLS:C0011847"
+        },
+        {
+            "entityId": "6413_6422",
+            "span": {
+                "begin": 6413,
+                "end": 6422
+            },
+            "entityType": "drug",
+            "entityName": "phosphate",
+            "id": "UMLS:C0031603"
+        },
+        {
+            "entityId": "6743_6760",
+            "span": {
+                "begin": 6743,
+                "end": 6760
+            },
+            "entityType": "cell",
+            "entityName": "mononuclear cells",
+            "id": "UMLS:C0806987"
+        },
+        {
+            "entityId": "6928_6935",
+            "span": {
+                "begin": 6928,
+                "end": 6935
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "7035_7041",
+            "span": {
+                "begin": 7035,
+                "end": 7041
+            },
+            "entityType": "species",
+            "entityName": "bovine",
+            "id": "UMLS:C3667982"
+        },
+        {
+            "entityId": "7096_7106",
+            "span": {
+                "begin": 7096,
+                "end": 7106
+            },
+            "entityType": "drug",
+            "entityName": "penicillin",
+            "id": "UMLS:C0030842"
+        },
+        {
+            "entityId": "7122_7134",
+            "span": {
+                "begin": 7122,
+                "end": 7134
+            },
+            "entityType": "drug",
+            "entityName": "streptomycin",
+            "id": "UMLS:C0038425"
+        },
+        {
+            "entityId": "7140_7155",
+            "span": {
+                "begin": 7140,
+                "end": 7155
+            },
+            "entityType": "cell",
+            "entityName": "nucleated cells",
+            "id": "UMLS:C1180059"
+        },
+        {
+            "entityId": "7270_7273",
+            "span": {
+                "begin": 7270,
+                "end": 7273
+            },
+            "entityType": "drug",
+            "entityName": "CO2",
+            "id": "UMLS:C2347816"
+        },
+        {
+            "entityId": "7388_7420",
+            "span": {
+                "begin": 7388,
+                "end": 7420
+            },
+            "entityType": "cell",
+            "entityName": "non-adherent hematopoietic cells",
+            "id": "UMLS:C2323499"
+        },
+        {
+            "entityId": "7752_7756",
+            "span": {
+                "begin": 7752,
+                "end": 7756
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "7762_7770",
+            "span": {
+                "begin": 7762,
+                "end": 7770
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "7795_7856",
+            "span": {
+                "begin": 7795,
+                "end": 7856
+            },
+            "entityType": "drug",
+            "entityName": "3-(4, 5-dimethylthiazol-2-yl)-2, 5-diphenyltetrazlium bromide",
+            "id": "UMLS:C0006222"
+        },
+        {
+            "entityId": "7858_7861",
+            "span": {
+                "begin": 7858,
+                "end": 7861
+            },
+            "entityType": "drug",
+            "entityName": "MTT",
+            "id": "UMLS:C0647210"
+        },
+        {
+            "entityId": "8028_8031",
+            "span": {
+                "begin": 8028,
+                "end": 8031
+            },
+            "entityType": "drug",
+            "entityName": "MTT",
+            "id": "UMLS:C0647210"
+        },
+        {
+            "entityId": "8211_8219",
+            "span": {
+                "begin": 8211,
+                "end": 8219
+            },
+            "entityType": "drug",
+            "entityName": "formazan",
+            "id": "mesh:C033302"
+        },
+        {
+            "entityId": "8243_8246",
+            "span": {
+                "begin": 8243,
+                "end": 8246
+            },
+            "entityType": "drug",
+            "entityName": "MTT",
+            "id": "UMLS:C0647210"
+        },
+        {
+            "entityId": "8312_8330",
+            "span": {
+                "begin": 8312,
+                "end": 8330
+            },
+            "entityType": "drug",
+            "entityName": "dimethyl sulfoxide",
+            "id": "UMLS:C0012403"
+        },
+        {
+            "entityId": "8332_8336",
+            "span": {
+                "begin": 8332,
+                "end": 8336
+            },
+            "entityType": "drug",
+            "entityName": "DMSO",
+            "id": "UMLS:C0012403"
+        },
+        {
+            "entityId": "8595_8600",
+            "span": {
+                "begin": 8595,
+                "end": 8600
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "8606_8611",
+            "span": {
+                "begin": 8606,
+                "end": 8611
+            },
+            "entityType": "species",
+            "entityName": "human",
+            "id": "UMLS:C0086418"
+        },
+        {
+            "entityId": "8889_8893",
+            "span": {
+                "begin": 8889,
+                "end": 8893
+            },
+            "entityType": "gene",
+            "entityName": "CD34",
+            "id": "NCBIGene:947"
+        },
+        {
+            "entityId": "8898_8902",
+            "span": {
+                "begin": 8898,
+                "end": 8902
+            },
+            "entityType": "gene",
+            "entityName": "CD45",
+            "id": "UMLS:C1870006"
+        },
+        {
+            "entityId": "8907_8911",
+            "span": {
+                "begin": 8907,
+                "end": 8911
+            },
+            "entityType": "gene",
+            "entityName": "CD29",
+            "id": "UMLS:C1416496"
+        },
+        {
+            "entityId": "8919_8923",
+            "span": {
+                "begin": 8919,
+                "end": 8923
+            },
+            "entityType": "gene",
+            "entityName": "CD44",
+            "id": "UMLS:C1097299"
+        },
+        {
+            "entityId": "9038_9043",
+            "span": {
+                "begin": 9038,
+                "end": 9043
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "9063_9068",
+            "span": {
+                "begin": 9063,
+                "end": 9068
+            },
+            "entityType": "species",
+            "entityName": "human",
+            "id": "UMLS:C0086418"
+        },
+        {
+            "entityId": "9069_9073",
+            "span": {
+                "begin": 9069,
+                "end": 9073
+            },
+            "entityType": "gene",
+            "entityName": "CD29",
+            "id": "UMLS:C1416496"
+        },
+        {
+            "entityId": "9075_9079",
+            "span": {
+                "begin": 9075,
+                "end": 9079
+            },
+            "entityType": "gene",
+            "entityName": "CD34",
+            "id": "NCBIGene:947"
+        },
+        {
+            "entityId": "9081_9085",
+            "span": {
+                "begin": 9081,
+                "end": 9085
+            },
+            "entityType": "gene",
+            "entityName": "CD44",
+            "id": "UMLS:C1097299"
+        },
+        {
+            "entityId": "9090_9094",
+            "span": {
+                "begin": 9090,
+                "end": 9094
+            },
+            "entityType": "gene",
+            "entityName": "CD45",
+            "id": "UMLS:C1870006"
+        },
+        {
+            "entityId": "9147_9152",
+            "span": {
+                "begin": 9147,
+                "end": 9152
+            },
+            "entityType": "species",
+            "entityName": "Mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "9327_9330",
+            "span": {
+                "begin": 9327,
+                "end": 9330
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "9549_9567",
+            "span": {
+                "begin": 9549,
+                "end": 9567
+            },
+            "entityType": "DNA",
+            "entityName": "47,000 transcripts",
+            "id": "UMLS:C1519595"
+        },
+        {
+            "entityId": "10207_10229",
+            "span": {
+                "begin": 10207,
+                "end": 10229
+            },
+            "entityType": "drug",
+            "entityName": "sodium dodecyl sulfate",
+            "id": "UMLS:C0037506"
+        },
+        {
+            "entityId": "10230_10244",
+            "span": {
+                "begin": 10230,
+                "end": 10244
+            },
+            "entityType": "drug",
+            "entityName": "polyacrylamide",
+            "id": "UMLS:C0071499"
+        },
+        {
+            "entityId": "10373_10381",
+            "span": {
+                "begin": 10373,
+                "end": 10381
+            },
+            "entityType": "drug",
+            "entityName": "Tween 20",
+            "id": "UMLS:C0041415"
+        },
+        {
+            "entityId": "10465_10471",
+            "span": {
+                "begin": 10465,
+                "end": 10471
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "10472_10505",
+            "span": {
+                "begin": 10472,
+                "end": 10505
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2 protein polyclonal antibody",
+            "id": "UMLS:C0312586"
+        },
+        {
+            "entityId": "10572_10582",
+            "span": {
+                "begin": 10572,
+                "end": 10582
+            },
+            "entityType": "gene",
+            "entityName": "beta-actin",
+            "id": "UMLS:C0005186"
+        },
+        {
+            "entityId": "10652_10674",
+            "span": {
+                "begin": 10652,
+                "end": 10674
+            },
+            "entityType": "gene",
+            "entityName": "horseradish peroxidase",
+            "id": "UMLS:C0019941"
+        },
+        {
+            "entityId": "10782_10803",
+            "span": {
+                "begin": 10782,
+                "end": 10803
+            },
+            "entityType": "disease",
+            "entityName": "Myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "10845_10859",
+            "span": {
+                "begin": 10845,
+                "end": 10859
+            },
+            "entityType": "species",
+            "entityName": "Sprague-Dawley",
+            "id": "UMLS:C2699239"
+        },
+        {
+            "entityId": "10861_10863",
+            "span": {
+                "begin": 10861,
+                "end": 10863
+            },
+            "entityType": "species",
+            "entityName": "SD",
+            "id": "UMLS:C2699239"
+        },
+        {
+            "entityId": "10865_10869",
+            "span": {
+                "begin": 10865,
+                "end": 10869
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "10924_10927",
+            "span": {
+                "begin": 10924,
+                "end": 10927
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "10928_10930",
+            "span": {
+                "begin": 10928,
+                "end": 10930
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "10938_10941",
+            "span": {
+                "begin": 10938,
+                "end": 10941
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "11093_11097",
+            "span": {
+                "begin": 11093,
+                "end": 11097
+            },
+            "entityType": "species",
+            "entityName": "Rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "11367_11374",
+            "span": {
+                "begin": 11367,
+                "end": 11374
+            },
+            "entityType": "drug",
+            "entityName": "Prolene",
+            "id": "UMLS:C0917843"
+        },
+        {
+            "entityId": "11414_11418",
+            "span": {
+                "begin": 11414,
+                "end": 11418
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "11469_11473",
+            "span": {
+                "begin": 11469,
+                "end": 11473
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "11810_11813",
+            "span": {
+                "begin": 11810,
+                "end": 11813
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "11814_11816",
+            "span": {
+                "begin": 11814,
+                "end": 11816
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "11830_11833",
+            "span": {
+                "begin": 11830,
+                "end": 11833
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "11908_11916",
+            "span": {
+                "begin": 11908,
+                "end": 11916
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "11922_11925",
+            "span": {
+                "begin": 11922,
+                "end": 11925
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "11926_11928",
+            "span": {
+                "begin": 11926,
+                "end": 11928
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "11933_11936",
+            "span": {
+                "begin": 11933,
+                "end": 11936
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "11984_11993",
+            "span": {
+                "begin": 11984,
+                "end": 11993
+            },
+            "entityType": "disease",
+            "entityName": "infarcted",
+            "id": "mesh:D007238"
+        },
+        {
+            "entityId": "12123_12146",
+            "span": {
+                "begin": 12123,
+                "end": 12146
+            },
+            "entityType": "drug",
+            "entityName": "penicillin G benzathine",
+            "id": "UMLS:C0030829"
+        },
+        {
+            "entityId": "12217_12225",
+            "span": {
+                "begin": 12217,
+                "end": 12225
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "12327_12339",
+            "span": {
+                "begin": 12327,
+                "end": 12339
+            },
+            "entityType": "drug",
+            "entityName": "cyclosporine",
+            "id": "UMLS:C0010592"
+        },
+        {
+            "entityId": "12548_12552",
+            "span": {
+                "begin": 12548,
+                "end": 12552
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "12627_12648",
+            "span": {
+                "begin": 12627,
+                "end": 12648
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "13201_13237",
+            "span": {
+                "begin": 13201,
+                "end": 13237
+            },
+            "entityType": "gene",
+            "entityName": "Terminal Doxynucleotidyl Transferase",
+            "id": "UMLS:C3887634"
+        },
+        {
+            "entityId": "13247_13251",
+            "span": {
+                "begin": 13247,
+                "end": 13251
+            },
+            "entityType": "drug",
+            "entityName": "dUTP",
+            "id": "UMLS:CHEBI:61555"
+        },
+        {
+            "entityId": "13402_13418",
+            "span": {
+                "begin": 13402,
+                "end": 13418
+            },
+            "entityType": "drug",
+            "entityName": "paraformaldehyde",
+            "id": "mesh:C003043"
+        },
+        {
+            "entityId": "13438_13450",
+            "span": {
+                "begin": 13438,
+                "end": 13450
+            },
+            "entityType": "gene",
+            "entityName": "proteinase K",
+            "id": "UMLS:C0059256"
+        },
+        {
+            "entityId": "13826_13834",
+            "span": {
+                "begin": 13826,
+                "end": 13834
+            },
+            "entityType": "cell",
+            "entityName": "myocytes",
+            "id": "UMLS:C0596981"
+        },
+        {
+            "entityId": "13917_13925",
+            "span": {
+                "begin": 13917,
+                "end": 13925
+            },
+            "entityType": "drug",
+            "entityName": "paraffin",
+            "id": "UMLS:C0030415"
+        },
+        {
+            "entityId": "13968_13973",
+            "span": {
+                "begin": 13968,
+                "end": 13973
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "14066_14072",
+            "span": {
+                "begin": 14066,
+                "end": 14072
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "14206_14210",
+            "span": {
+                "begin": 14206,
+                "end": 14210
+            },
+            "entityType": "species",
+            "entityName": "goat",
+            "id": "UMLS:C1510458"
+        },
+        {
+            "entityId": "14216_14222",
+            "span": {
+                "begin": 14216,
+                "end": 14222
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "14297_14309",
+            "span": {
+                "begin": 14297,
+                "end": 14309
+            },
+            "entityType": "gene",
+            "entityName": "streptavidin",
+            "id": "UMLS:C0075278"
+        },
+        {
+            "entityId": "14310_14332",
+            "span": {
+                "begin": 14310,
+                "end": 14332
+            },
+            "entityType": "gene",
+            "entityName": "horseradish-peroxidase",
+            "id": "UMLS:C0019941"
+        },
+        {
+            "entityId": "14379_14401",
+            "span": {
+                "begin": 14379,
+                "end": 14401
+            },
+            "entityType": "drug",
+            "entityName": "3, 3'-diaminobenzidine",
+            "id": "mesh:D015100"
+        },
+        {
+            "entityId": "14415_14423",
+            "span": {
+                "begin": 14415,
+                "end": 14423
+            },
+            "entityType": "drug",
+            "entityName": "glycerol",
+            "id": "UMLS:C0017861"
+        },
+        {
+            "entityId": "14735_14740",
+            "span": {
+                "begin": 14735,
+                "end": 14740
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "14745_14749",
+            "span": {
+                "begin": 14745,
+                "end": 14749
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "14981_14983",
+            "span": {
+                "begin": 14981,
+                "end": 14983
+            },
+            "entityType": "species",
+            "entityName": "SD",
+            "id": "UMLS:C2699239"
+        },
+        {
+            "entityId": "15099_15102",
+            "span": {
+                "begin": 15099,
+                "end": 15102
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "15396_15416",
+            "span": {
+                "begin": 15396,
+                "end": 15416
+            },
+            "entityType": "cell",
+            "entityName": "spindle shaped cells",
+            "id": "UMLS:C0682540"
+        },
+        {
+            "entityId": "15621_15624",
+            "span": {
+                "begin": 15621,
+                "end": 15624
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "15625_15627",
+            "span": {
+                "begin": 15625,
+                "end": 15627
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "15706_15709",
+            "span": {
+                "begin": 15706,
+                "end": 15709
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "16310_16314",
+            "span": {
+                "begin": 16310,
+                "end": 16314
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "16606_16614",
+            "span": {
+                "begin": 16606,
+                "end": 16614
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "16620_16623",
+            "span": {
+                "begin": 16620,
+                "end": 16623
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "16624_16626",
+            "span": {
+                "begin": 16624,
+                "end": 16626
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "16690_16698",
+            "span": {
+                "begin": 16690,
+                "end": 16698
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "16704_16707",
+            "span": {
+                "begin": 16704,
+                "end": 16707
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "16992_16996",
+            "span": {
+                "begin": 16992,
+                "end": 16996
+            },
+            "entityType": "gene",
+            "entityName": "CD29",
+            "id": "UMLS:C1416496"
+        },
+        {
+            "entityId": "16998_17002",
+            "span": {
+                "begin": 16998,
+                "end": 17002
+            },
+            "entityType": "gene",
+            "entityName": "CD44",
+            "id": "UMLS:C1097299"
+        },
+        {
+            "entityId": "17020_17024",
+            "span": {
+                "begin": 17020,
+                "end": 17024
+            },
+            "entityType": "gene",
+            "entityName": "CD34",
+            "id": "NCBIGene:947"
+        },
+        {
+            "entityId": "17029_17033",
+            "span": {
+                "begin": 17029,
+                "end": 17033
+            },
+            "entityType": "gene",
+            "entityName": "CD45",
+            "id": "UMLS:C1870006"
+        },
+        {
+            "entityId": "17254_17257",
+            "span": {
+                "begin": 17254,
+                "end": 17257
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "17258_17260",
+            "span": {
+                "begin": 17258,
+                "end": 17260
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "17265_17268",
+            "span": {
+                "begin": 17265,
+                "end": 17268
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "17326_17335",
+            "span": {
+                "begin": 17326,
+                "end": 17335
+            },
+            "entityType": "gene",
+            "entityName": "TNFRSF10B",
+            "id": "UMLS:C1336644"
+        },
+        {
+            "entityId": "17337_17345",
+            "span": {
+                "begin": 17337,
+                "end": 17345
+            },
+            "entityType": "gene",
+            "entityName": "TNFRSF21",
+            "id": "UMLS:C1422006"
+        },
+        {
+            "entityId": "17347_17350",
+            "span": {
+                "begin": 17347,
+                "end": 17350
+            },
+            "entityType": "gene",
+            "entityName": "NGF",
+            "id": "UMLS:C1417719"
+        },
+        {
+            "entityId": "17398_17402",
+            "span": {
+                "begin": 17398,
+                "end": 17402
+            },
+            "entityType": "gene",
+            "entityName": "EPR1",
+            "id": "UMLS:C1414436"
+        },
+        {
+            "entityId": "17404_17409",
+            "span": {
+                "begin": 17404,
+                "end": 17409
+            },
+            "entityType": "gene",
+            "entityName": "BIRC5",
+            "id": "UMLS:C1332416"
+        },
+        {
+            "entityId": "17411_17416",
+            "span": {
+                "begin": 17411,
+                "end": 17416
+            },
+            "entityType": "gene",
+            "entityName": "HELLS",
+            "id": "UMLS:C1415508"
+        },
+        {
+            "entityId": "17418_17422",
+            "span": {
+                "begin": 17418,
+                "end": 17422
+            },
+            "entityType": "gene",
+            "entityName": "BCL2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "17424_17432",
+            "span": {
+                "begin": 17424,
+                "end": 17432
+            },
+            "entityType": "gene",
+            "entityName": "TNFRSF1B",
+            "id": "UMLS:C1363982"
+        },
+        {
+            "entityId": "17434_17439",
+            "span": {
+                "begin": 17434,
+                "end": 17439
+            },
+            "entityType": "gene",
+            "entityName": "CASP1",
+            "id": "UMLS:C1366479"
+        },
+        {
+            "entityId": "17448_17451",
+            "span": {
+                "begin": 17448,
+                "end": 17451
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "17452_17454",
+            "span": {
+                "begin": 17452,
+                "end": 17454
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "17477_17480",
+            "span": {
+                "begin": 17477,
+                "end": 17480
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "17525_17535",
+            "span": {
+                "begin": 17525,
+                "end": 17535
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2 mRNA",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "17567_17570",
+            "span": {
+                "begin": 17567,
+                "end": 17570
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "17571_17573",
+            "span": {
+                "begin": 17571,
+                "end": 17573
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "17592_17595",
+            "span": {
+                "begin": 17592,
+                "end": 17595
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "18800_18813",
+            "span": {
+                "begin": 18800,
+                "end": 18813
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2 protein",
+            "id": "UMLS:C4042483"
+        },
+        {
+            "entityId": "18967_18980",
+            "span": {
+                "begin": 18967,
+                "end": 18980
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2 protein",
+            "id": "UMLS:C4042483"
+        },
+        {
+            "entityId": "19012_19015",
+            "span": {
+                "begin": 19012,
+                "end": 19015
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "19016_19018",
+            "span": {
+                "begin": 19016,
+                "end": 19018
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "19037_19040",
+            "span": {
+                "begin": 19037,
+                "end": 19040
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "19157_19161",
+            "span": {
+                "begin": 19157,
+                "end": 19161
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "19190_19193",
+            "span": {
+                "begin": 19190,
+                "end": 19193
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "19370_19373",
+            "span": {
+                "begin": 19370,
+                "end": 19373
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "19374_19376",
+            "span": {
+                "begin": 19374,
+                "end": 19376
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "19381_19384",
+            "span": {
+                "begin": 19381,
+                "end": 19384
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "19542_19545",
+            "span": {
+                "begin": 19542,
+                "end": 19545
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "19546_19548",
+            "span": {
+                "begin": 19546,
+                "end": 19548
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "19567_19570",
+            "span": {
+                "begin": 19567,
+                "end": 19570
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "19727_19730",
+            "span": {
+                "begin": 19727,
+                "end": 19730
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "19731_19733",
+            "span": {
+                "begin": 19731,
+                "end": 19733
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "19738_19741",
+            "span": {
+                "begin": 19738,
+                "end": 19741
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "19866_19869",
+            "span": {
+                "begin": 19866,
+                "end": 19869
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "19870_19872",
+            "span": {
+                "begin": 19870,
+                "end": 19872
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "19891_19894",
+            "span": {
+                "begin": 19891,
+                "end": 19894
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "20540_20543",
+            "span": {
+                "begin": 20540,
+                "end": 20543
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "20544_20546",
+            "span": {
+                "begin": 20544,
+                "end": 20546
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "20551_20554",
+            "span": {
+                "begin": 20551,
+                "end": 20554
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "20651_20654",
+            "span": {
+                "begin": 20651,
+                "end": 20654
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "20655_20657",
+            "span": {
+                "begin": 20655,
+                "end": 20657
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "20676_20679",
+            "span": {
+                "begin": 20676,
+                "end": 20679
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "21167_21172",
+            "span": {
+                "begin": 21167,
+                "end": 21172
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "21211_21214",
+            "span": {
+                "begin": 21211,
+                "end": 21214
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "21215_21217",
+            "span": {
+                "begin": 21215,
+                "end": 21217
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "21222_21225",
+            "span": {
+                "begin": 21222,
+                "end": 21225
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "21372_21377",
+            "span": {
+                "begin": 21372,
+                "end": 21377
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "21392_21395",
+            "span": {
+                "begin": 21392,
+                "end": 21395
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "21396_21398",
+            "span": {
+                "begin": 21396,
+                "end": 21398
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "21436_21439",
+            "span": {
+                "begin": 21436,
+                "end": 21439
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "21458_21462",
+            "span": {
+                "begin": 21458,
+                "end": 21462
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "21477_21480",
+            "span": {
+                "begin": 21477,
+                "end": 21480
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "21481_21483",
+            "span": {
+                "begin": 21481,
+                "end": 21483
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "21526_21529",
+            "span": {
+                "begin": 21526,
+                "end": 21529
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "22345_22349",
+            "span": {
+                "begin": 22345,
+                "end": 22349
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "22732_22740",
+            "span": {
+                "begin": 22732,
+                "end": 22740
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "22746_22749",
+            "span": {
+                "begin": 22746,
+                "end": 22749
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "22750_22752",
+            "span": {
+                "begin": 22750,
+                "end": 22752
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "22784_22792",
+            "span": {
+                "begin": 22784,
+                "end": 22792
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "22798_22801",
+            "span": {
+                "begin": 22798,
+                "end": 22801
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "22854_22856",
+            "span": {
+                "begin": 22854,
+                "end": 22856
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "22985_23013",
+            "span": {
+                "begin": 22985,
+                "end": 23013
+            },
+            "entityType": "cell",
+            "entityName": "endothelial progenitor cells",
+            "id": "UMLS:C3850017"
+        },
+        {
+            "entityId": "23036_23038",
+            "span": {
+                "begin": 23036,
+                "end": 23038
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "23039_23047",
+            "span": {
+                "begin": 23039,
+                "end": 23047
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23077_23098",
+            "span": {
+                "begin": 23077,
+                "end": 23098
+            },
+            "entityType": "disease",
+            "entityName": "macrovascular disease",
+            "id": "UMLS:C0012634"
+        },
+        {
+            "entityId": "23120_23125",
+            "span": {
+                "begin": 23120,
+                "end": 23125
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "23276_23279",
+            "span": {
+                "begin": 23276,
+                "end": 23279
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "23280_23288",
+            "span": {
+                "begin": 23280,
+                "end": 23288
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23294_23298",
+            "span": {
+                "begin": 23294,
+                "end": 23298
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "23327_23348",
+            "span": {
+                "begin": 23327,
+                "end": 23348
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "23408_23422",
+            "span": {
+                "begin": 23408,
+                "end": 23422
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "23460_23464",
+            "span": {
+                "begin": 23460,
+                "end": 23464
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "23478_23486",
+            "span": {
+                "begin": 23478,
+                "end": 23486
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23492_23495",
+            "span": {
+                "begin": 23492,
+                "end": 23495
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "23496_23498",
+            "span": {
+                "begin": 23496,
+                "end": 23498
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "23546_23551",
+            "span": {
+                "begin": 23546,
+                "end": 23551
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "23639_23642",
+            "span": {
+                "begin": 23639,
+                "end": 23642
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "23764_23773",
+            "span": {
+                "begin": 23764,
+                "end": 23773
+            },
+            "entityType": "gene",
+            "entityName": "TNFRSF10B",
+            "id": "UMLS:C1336644"
+        },
+        {
+            "entityId": "23775_23783",
+            "span": {
+                "begin": 23775,
+                "end": 23783
+            },
+            "entityType": "gene",
+            "entityName": "TNFRSF21",
+            "id": "UMLS:C1422006"
+        },
+        {
+            "entityId": "23788_23796",
+            "span": {
+                "begin": 23788,
+                "end": 23796
+            },
+            "entityType": "gene",
+            "entityName": "TNFRSF1B",
+            "id": "UMLS:C1363982"
+        },
+        {
+            "entityId": "23817_23841",
+            "span": {
+                "begin": 23817,
+                "end": 23841
+            },
+            "entityType": "gene",
+            "entityName": "TNF-receptor superfamily",
+            "id": "UMLS:C0077503"
+        },
+        {
+            "entityId": "23975_23984",
+            "span": {
+                "begin": 23975,
+                "end": 23984
+            },
+            "entityType": "gene",
+            "entityName": "TNFRSF10B",
+            "id": "UMLS:C1336644"
+        },
+        {
+            "entityId": "23986_23994",
+            "span": {
+                "begin": 23986,
+                "end": 23994
+            },
+            "entityType": "gene",
+            "entityName": "TNFRSF21",
+            "id": "UMLS:C1422006"
+        },
+        {
+            "entityId": "24015_24070",
+            "span": {
+                "begin": 24015,
+                "end": 24070
+            },
+            "entityType": "gene",
+            "entityName": "tumor necrosis factor-related apoptosis inducing ligand",
+            "id": "UMLS:C0385242"
+        },
+        {
+            "entityId": "24118_24126",
+            "span": {
+                "begin": 24118,
+                "end": 24126
+            },
+            "entityType": "gene",
+            "entityName": "TNFRSF1B",
+            "id": "UMLS:C1363982"
+        },
+        {
+            "entityId": "24181_24186",
+            "span": {
+                "begin": 24181,
+                "end": 24186
+            },
+            "entityType": "gene",
+            "entityName": "BIRC5",
+            "id": "UMLS:C1332416"
+        },
+        {
+            "entityId": "24239_24244",
+            "span": {
+                "begin": 24239,
+                "end": 24244
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "24411_24416",
+            "span": {
+                "begin": 24411,
+                "end": 24416
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "24493_24499",
+            "span": {
+                "begin": 24493,
+                "end": 24499
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-xl",
+            "id": "UMLS:C1332397"
+        },
+        {
+            "entityId": "24554_24581",
+            "span": {
+                "begin": 24554,
+                "end": 24581
+            },
+            "entityType": "disease",
+            "entityName": "ischemia/reperfusion injury",
+            "id": "mesh:D015427"
+        },
+        {
+            "entityId": "24588_24593",
+            "span": {
+                "begin": 24588,
+                "end": 24593
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "24598_24604",
+            "span": {
+                "begin": 24598,
+                "end": 24604
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-xl",
+            "id": "UMLS:C1332397"
+        },
+        {
+            "entityId": "24619_24631",
+            "span": {
+                "begin": 24619,
+                "end": 24631
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2 family",
+            "id": "UMLS:C4727027"
+        },
+        {
+            "entityId": "24658_24673",
+            "span": {
+                "begin": 24658,
+                "end": 24673
+            },
+            "entityType": "disease",
+            "entityName": "B-cell lymphoma",
+            "id": "UMLS:C0079731"
+        },
+        {
+            "entityId": "24675_24687",
+            "span": {
+                "begin": 24675,
+                "end": 24687
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2 family",
+            "id": "UMLS:C4727027"
+        },
+        {
+            "entityId": "24825_24830",
+            "span": {
+                "begin": 24825,
+                "end": 24830
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "24998_25002",
+            "span": {
+                "begin": 24998,
+                "end": 25002
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "25029_25034",
+            "span": {
+                "begin": 25029,
+                "end": 25034
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "25067_25070",
+            "span": {
+                "begin": 25067,
+                "end": 25070
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "25071_25073",
+            "span": {
+                "begin": 25071,
+                "end": 25073
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "25092_25095",
+            "span": {
+                "begin": 25092,
+                "end": 25095
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "25119_25124",
+            "span": {
+                "begin": 25119,
+                "end": 25124
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "25139_25147",
+            "span": {
+                "begin": 25139,
+                "end": 25147
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "25153_25156",
+            "span": {
+                "begin": 25153,
+                "end": 25156
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "25178_25180",
+            "span": {
+                "begin": 25178,
+                "end": 25180
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "25182_25186",
+            "span": {
+                "begin": 25182,
+                "end": 25186
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "25296_25299",
+            "span": {
+                "begin": 25296,
+                "end": 25299
+            },
+            "entityType": "gene",
+            "entityName": "MHC",
+            "id": "UMLS:C4049595"
+        },
+        {
+            "entityId": "25345_25349",
+            "span": {
+                "begin": 25345,
+                "end": 25349
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "25532_25544",
+            "span": {
+                "begin": 25532,
+                "end": 25544
+            },
+            "entityType": "drug",
+            "entityName": "cyclosporine",
+            "id": "UMLS:C0010592"
+        },
+        {
+            "entityId": "25732_25740",
+            "span": {
+                "begin": 25732,
+                "end": 25740
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "25746_25749",
+            "span": {
+                "begin": 25746,
+                "end": 25749
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "25779_25787",
+            "span": {
+                "begin": 25779,
+                "end": 25787
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "25793_25796",
+            "span": {
+                "begin": 25793,
+                "end": 25796
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "25797_25799",
+            "span": {
+                "begin": 25797,
+                "end": 25799
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "25819_25823",
+            "span": {
+                "begin": 25819,
+                "end": 25823
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "25870_25891",
+            "span": {
+                "begin": 25870,
+                "end": 25891
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "25901_25903",
+            "span": {
+                "begin": 25901,
+                "end": 25903
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "26192_26208",
+            "span": {
+                "begin": 26192,
+                "end": 26208
+            },
+            "entityType": "cell",
+            "entityName": "myocardial cells",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "26235_26238",
+            "span": {
+                "begin": 26235,
+                "end": 26238
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "26239_26241",
+            "span": {
+                "begin": 26239,
+                "end": 26241
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "26262_26265",
+            "span": {
+                "begin": 26262,
+                "end": 26265
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "26314_26317",
+            "span": {
+                "begin": 26314,
+                "end": 26317
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "26360_26365",
+            "span": {
+                "begin": 26360,
+                "end": 26365
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "26392_26395",
+            "span": {
+                "begin": 26392,
+                "end": 26395
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "26396_26398",
+            "span": {
+                "begin": 26396,
+                "end": 26398
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "26419_26422",
+            "span": {
+                "begin": 26419,
+                "end": 26422
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "26480_26484",
+            "span": {
+                "begin": 26480,
+                "end": 26484
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "26506_26514",
+            "span": {
+                "begin": 26506,
+                "end": 26514
+            },
+            "entityType": "disease",
+            "entityName": "diabetes",
+            "id": "UMLS:C0011847"
+        },
+        {
+            "entityId": "26574_26578",
+            "span": {
+                "begin": 26574,
+                "end": 26578
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "26664_26668",
+            "span": {
+                "begin": 26664,
+                "end": 26668
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "26728_26731",
+            "span": {
+                "begin": 26728,
+                "end": 26731
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "26732_26734",
+            "span": {
+                "begin": 26732,
+                "end": 26734
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "26755_26758",
+            "span": {
+                "begin": 26755,
+                "end": 26758
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "26800_26804",
+            "span": {
+                "begin": 26800,
+                "end": 26804
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "26851_26856",
+            "span": {
+                "begin": 26851,
+                "end": 26856
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "26934_26938",
+            "span": {
+                "begin": 26934,
+                "end": 26938
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "27069_27074",
+            "span": {
+                "begin": 27069,
+                "end": 27074
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "27190_27194",
+            "span": {
+                "begin": 27190,
+                "end": 27194
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "27267_27271",
+            "span": {
+                "begin": 27267,
+                "end": 27271
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "27366_27369",
+            "span": {
+                "begin": 27366,
+                "end": 27369
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "27370_27372",
+            "span": {
+                "begin": 27370,
+                "end": 27372
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "27373_27381",
+            "span": {
+                "begin": 27373,
+                "end": 27381
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "27396_27406",
+            "span": {
+                "begin": 27396,
+                "end": 27406
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2 gene",
+            "id": "UMLS:C0376515"
+        },
+        {
+            "entityId": "27446_27459",
+            "span": {
+                "begin": 27446,
+                "end": 27459
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2 protein",
+            "id": "UMLS:C4042483"
+        },
+        {
+            "entityId": "27549_27564",
+            "span": {
+                "begin": 27549,
+                "end": 27564
+            },
+            "entityType": "cell",
+            "entityName": "human stem cell",
+            "id": "UMLS:C0038250"
+        },
+        {
+            "entityId": "27897_27901",
+            "span": {
+                "begin": 27897,
+                "end": 27901
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "27934_27942",
+            "span": {
+                "begin": 27934,
+                "end": 27942
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28011_28019",
+            "span": {
+                "begin": 28011,
+                "end": 28019
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28025_28028",
+            "span": {
+                "begin": 28025,
+                "end": 28028
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "28029_28031",
+            "span": {
+                "begin": 28029,
+                "end": 28031
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "28075_28079",
+            "span": {
+                "begin": 28075,
+                "end": 28079
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "28282_28290",
+            "span": {
+                "begin": 28282,
+                "end": 28290
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28373_28381",
+            "span": {
+                "begin": 28373,
+                "end": 28381
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28387_28390",
+            "span": {
+                "begin": 28387,
+                "end": 28390
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "28391_28393",
+            "span": {
+                "begin": 28391,
+                "end": 28393
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "28398_28401",
+            "span": {
+                "begin": 28398,
+                "end": 28401
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "28476_28484",
+            "span": {
+                "begin": 28476,
+                "end": 28484
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28512_28516",
+            "span": {
+                "begin": 28512,
+                "end": 28516
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "28545_28566",
+            "span": {
+                "begin": 28545,
+                "end": 28566
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "28655_28659",
+            "span": {
+                "begin": 28655,
+                "end": 28659
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "28674_28682",
+            "span": {
+                "begin": 28674,
+                "end": 28682
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28688_28691",
+            "span": {
+                "begin": 28688,
+                "end": 28691
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "28692_28694",
+            "span": {
+                "begin": 28692,
+                "end": 28694
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "28729_28737",
+            "span": {
+                "begin": 28729,
+                "end": 28737
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28743_28746",
+            "span": {
+                "begin": 28743,
+                "end": 28746
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "28849_28862",
+            "span": {
+                "begin": 28849,
+                "end": 28862
+            },
+            "entityType": "gene",
+            "entityName": "Bcl-2 protein",
+            "id": "UMLS:C4042483"
+        },
+        {
+            "entityId": "28935_28937",
+            "span": {
+                "begin": 28935,
+                "end": 28937
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "28939_28960",
+            "span": {
+                "begin": 28939,
+                "end": 28960
+            },
+            "entityType": "disease",
+            "entityName": "Myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "28961_28963",
+            "span": {
+                "begin": 28961,
+                "end": 28963
+            },
+            "entityType": "disease",
+            "entityName": "DM",
+            "id": "UMLS:C3250443"
+        },
+        {
+            "entityId": "28965_28982",
+            "span": {
+                "begin": 28965,
+                "end": 28982
+            },
+            "entityType": "disease",
+            "entityName": "Diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "28983_28986",
+            "span": {
+                "begin": 28983,
+                "end": 28986
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "28988_29011",
+            "span": {
+                "begin": 28988,
+                "end": 29011
+            },
+            "entityType": "disease",
+            "entityName": "Coronary artery disease",
+            "id": "UMLS:C1956346"
+        },
+        {
+            "entityId": "29012_29016",
+            "span": {
+                "begin": 29012,
+                "end": 29016
+            },
+            "entityType": "cell",
+            "entityName": "MSCs",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "29018_29039",
+            "span": {
+                "begin": 29018,
+                "end": 29039
+            },
+            "entityType": "cell",
+            "entityName": "Mesencymal stem cells",
+            "id": "UMLS:C0038250"
+        },
+        {
+            "entityId": "29061_29065",
+            "span": {
+                "begin": 29061,
+                "end": 29065
+            },
+            "entityType": "gene",
+            "entityName": "VEGF",
+            "id": "UMLS:C1522575"
+        },
+        {
+            "entityId": "29076_29101",
+            "span": {
+                "begin": 29076,
+                "end": 29101
+            },
+            "entityType": "gene",
+            "entityName": "endothelial growth factor",
+            "id": "UMLS:C0079280"
+        },
+        {
+            "entityId": "29102_29105",
+            "span": {
+                "begin": 29102,
+                "end": 29105
+            },
+            "entityType": "gene",
+            "entityName": "HGF",
+            "id": "UMLS:C0369286"
+        },
+        {
+            "entityId": "29107_29131",
+            "span": {
+                "begin": 29107,
+                "end": 29131
+            },
+            "entityType": "gene",
+            "entityName": "Hepatocyte growth factor",
+            "id": "UMLS:C0369286"
+        },
+        {
+            "entityId": "29207_29215",
+            "span": {
+                "begin": 29207,
+                "end": 29215
+            },
+            "entityType": "disease",
+            "entityName": "diabetes",
+            "id": "UMLS:C0011847"
+        },
+        {
+            "entityId": "29272_29279",
+            "span": {
+                "begin": 29272,
+                "end": 29279
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "29313_29316",
+            "span": {
+                "begin": 29313,
+                "end": 29316
+            },
+            "entityType": "drug",
+            "entityName": "MTT",
+            "id": "UMLS:C0647210"
+        },
+        {
+            "entityId": "29318_29378",
+            "span": {
+                "begin": 29318,
+                "end": 29378
+            },
+            "entityType": "drug",
+            "entityName": "3-(4,5-dimethylthiazol-2-yl)-2, 5-diphenyltetrazlium bromide",
+            "id": "UMLS:C0006222"
+        },
+        {
+            "entityId": "29379_29383",
+            "span": {
+                "begin": 29379,
+                "end": 29383
+            },
+            "entityType": "drug",
+            "entityName": "DMSO",
+            "id": "UMLS:C0012403"
+        },
+        {
+            "entityId": "29385_29403",
+            "span": {
+                "begin": 29385,
+                "end": 29403
+            },
+            "entityType": "drug",
+            "entityName": "Dimethyl sulfoxide",
+            "id": "UMLS:C0012403"
+        },
+        {
+            "entityId": "29468_29495",
+            "span": {
+                "begin": 29468,
+                "end": 29495
+            },
+            "entityType": "gene",
+            "entityName": "doxynucleotidyl transferase",
+            "id": "UMLS:C0040676"
+        },
+        {
+            "entityId": "29505_29509",
+            "span": {
+                "begin": 29505,
+                "end": 29509
+            },
+            "entityType": "drug",
+            "entityName": "dUTP",
+            "id": "UMLS:CHEBI:61555"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "99_116",
+            "subjectText": "diabetes mellitus",
+            "rel_name": "stimulate",
+            "objectId": "153_174",
+            "objectText": "myocardial infarction"
+        }
+    ]
+}

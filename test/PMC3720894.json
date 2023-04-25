@@ -1,0 +1,2718 @@
+{
+    "sourcid": "PMC3720894",
+    "publisher": "Public Library of Science",
+    "journal": "PLoS ONE",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3720894/",
+    "text": "Soluble Isoform of the Receptor for Advanced Glycation End Products as a Biomarker for Postoperative Respiratory Failure after Cardiac Surgery Purpose Postoperative respiratory failure is a major problem which can prolong the stay in the intensive care unit in patients undergoing cardiac surgery. We measured the serum levels of the soluble isoform of the receptor for advanced glycation end products (sRAGE), and we studied its association with postoperative respiratory failure. Methods Eighty-seven patients undergoing elective cardiac surgery were enrolled in this multicenter observational study in three university hospitals. Serum biomarker levels were measured perioperatively, and clinical data were collected for 7 days postoperatively. The duration of mechanical ventilation was studied for 28 days. Results Serum levels of sRAGE elevated immediately after surgery (median, 1751 pg/mL; interquartile range (IQR) 1080-3034 pg/mL) compared with the level after anesthetic induction (median, 884 pg/mL; IQR, 568-1462 pg/mL). Postoperative sRAGE levels in patients undergoing off-pump coronary artery bypass grafting (median, 1193 pg/mL; IQR 737-1869 pg/mL) were significantly lower than in patients undergoing aortic surgery (median, 1883 pg/mL; IQR, 1406-4456 pg/mL; p = 0.0024) and valve surgery (median, 2302 pg/mL; IQR, 1447-3585 pg/mL; p = 0.0005), and postoperative sRAGE correlated moderately with duration of cardiopulmonary bypass (rs = 0.44, p<0.0001). Receiver operating characteristic curve analysis demonstrated that postoperative sRAGE had a predictive performance with area under the curve of 0.81 (95% confidence interval 0.71-0.88) for postoperative respiratory failure, defined as prolonged mechanical ventilation >3 days. The optimum cutoff value for prediction of respiratory failure was 3656 pg/mL, with sensitivity and specificity of 62% and 91%, respectively.                         Conclusions Serum sRAGE levels elevated immediately after cardiac surgery, and the range of elevation was associated with the morbidity of postoperative respiratory failure. Early postoperative sRAGE levels appear to be linked to cardiopulmonary bypass, and may have predictive performance for postoperative respiratory failure; however, large-scale validation studies are needed. Introduction Respiratory failure is a relatively common postsurgical complication, which can prolong the duration of stay in the intensive care unit (ICU) in patients undergoing cardiac surgery. The reported incidence of respiratory failure ranges from 3-20%, depending on the definition of this complication. Several risk factors for respiratory failure after cardiac surgery have been analyzed previously; however, most were related to demographic information or early primary myocardial dysfunction and hemodynamic instability. Currently, evaluation for postoperative lung condition is limited to ventilatory parameters, arterial blood gas analysis and a radiographic approach. These methods are most common in clinical practice; however, they might not reflect the degree of damage to the lung tissue immediately after surgery. In this context, biomarkers reflecting lung tissue damage might be helpful for quantification of the severity of lung injury. Furthermore, early prediction for high-risk patients for development of respiratory failure enables early initiation of effective therapy and preventive intervention. In this context, plasma biomarkers may have potential to improve predicting performance.   The receptor for advanced glycation end products (RAGE) is a cell surface protein which is abundantly expressed in the lung and its expression has been demonstrated on the basal membranes of alveolar type I epithelial cells. We previously reported that the soluble isotype of RAGE (sRAGE) can be used as a biomarker of alveolar epithelial injury in an experimental study and in patients with acute lung injury. Subsequent studies also found that plasma sRAGE levels were associated with short-term outcomes in patients undergoing lung transplantation. Therefore, the principal objective of the present study was to determine whether early postoperative levels of sRAGE could be associated with the morbidity of respiratory failure after cardiac surgery. We also studied whether early postoperative elevation of serum sRAGE is related with the severity of impairment of oxygenation and radiographic appearance. Because several recent reports suggested that extrapulmonary inflammation could influence the serum levels of sRAGE, we studied whether we could eliminate the contribution of systemic inflammation (including endothelial injury) to the postoperative serum levels of sRAGE in our study cohort. For this purpose, we analyzed postoperative levels of interleukin-8 (as a biomarker for systemic inflammation) and von Willebrand factor antigen (vWF, as a biomarker for endothelial injury) concurrently with sRAGE, and studied the correlations between these biomarkers. Methods This study was designed as a multi-center study organized by the Japan Society of Respiratory Care Medicine. Three university hospitals participated in this study, and approval for the protocol was obtained from each institutional review board for clinical studies (Clinical Research Center, Tokyo Medical and Dental University Hospital, Faculty of Medicine; Research Ethics Committee of The University of Tokyo Hospital; and General Administration Division, General Affairs Section, Yokohama City University Medical Center). Each patient provided written informed consent. This study is registered in the UMIN Clinical Trials Registry (ID: UMIN000010674; www.umin.ac.jp/ctr/index/htm). Patients Between 4 February 2008 and 6 July 2009, patients undergoing cardiac surgery in each of the three institutions participated in this study. Preoperative exclusion criteria were: 1) patient's age <20 years; 2) history of myocardial infarction within 30 days before the day of surgery; 3) preoperative diagnosis of pneumothorax; 4) diagnosis of chronic obstructive pulmonary disease; 5) neuromuscular disease; 6) morbidly obese (body mass index >40); and 7) systemic connective tissue disease. Postoperative exclusion criteria were: 1) severe neurological complications requiring mechanical ventilation; 2) the need for an extracorporeal circuit due to cardiac failure; and 3) patients whose pulmonary artery occlusion pressure (PAOP) was >18 mm Hg in the first postoperative week.   Protocol for Postoperative Mechanical Ventilation Postoperative mechanical ventilation in the ICU began with synchronized intermittent mandatory ventilation (SIMV) with pressure support (PS) (5-10 cm H2O) with the same ventilator setting used in the operating room. We aimed to decrease the frequency of mandatory ventilation to the range necessary to maintain minimal minute volume (>30 mL/kg of body weight), and then decreased the PS level if needed. PEEP and FIO2 were set according to the patient's oxygenation level (PaO2/FIO2). First, FIO2 was reduced stepwise to 0.4 then PEEP was decreased stepwise in maximal increments of 3 cm H2O to the final target value of 5 cm H2O.     A weaning trial was attempted at least three times a day, and the result was judged successful when a patient passed the following tests successfully: 1) frequency of spontaneous breathing (fspont) <25 breaths/min; 2) maintenance of arterial partial pressure of carbon dioxide (PaCO2) between 35 and 50 mm Hg; 3) SpO2>90%; 4) patient remained clinically stable; and 5) in cases without mandatory ventilation, tidal volume >5 ml/kg of predicted body weight and rapid shallow breathing index (RSBI, calculated as fspont/tidal volume (L)) <100 within the allowed pressure support range. Predicted body weight (PBW) was calculated from the following equation: male PBW (kg) = 50+0.91(height (cm) -152.4), and female PBW (kg) = 45.5+0.91(height (cm) -152.4).             During the weaning process, a change to controlled ventilation was conducted in cases of induction of general anesthesia, e.g., for an invasive procedure or surgery. Biomarker Assays For the measurements of plasma biomarker levels, blood was sampled: 1) immediately after the induction of general anesthesia (Baseline); 2) at admission to ICU immediately after the operation (Post-Op); and 3) the day after the operation (POD 1). After the collection of arterial blood in serum separation tubes and citrated plasma sampling tubes, samples were centrifuged at 3000 g for 15 min at 4 C. Serum and plasma were separated and stored at -80 C in each institution until biomarker measurements were performed. Once all the samples were collected, they were transported to one institution (T.M.D.U.), and sRAGE, interleukin-8, and vWF were measured by one physician who was blinded to the patients' clinical data, using commercially available ELISA kits (Quantikine DRG00, R&D Systems, Minneapolis, MN for RAGE analysis; Quantikine D8000C, R&D Systems, Minneapolis, MN for interleukin-8 analysis; and IMUBIND vWF ELISA, American Diagnostica Inc., Stanford, CT for vWF antigen analysis). Each measurement was performed in duplicate following the manufacturer's instructions. vWF antigen levels are expressed as a percentage of a normal pooled plasma control reference that was assayed against a secondary standard of the 4th International Standard for vWF. Serum levels of NT-proBNP were measured by a clinical laboratory (SRL Inc., Tokyo, Japan).         Clinical Data Recordings Clinical data were collected from the medical records. Chest radiographs were taken during the first admission to ICU (POD 0), POD 1, 3, and 7, and scored by the number of quadrants of alveolar consolidation. Chest radiographs were quantified by an attending physician blinded to the values of the biomarkers. The worst score among the four chest radiographs was recorded. Respiratory failure was defined according to the New York State Department of Health (NYSDH) registry as: pulmonary insufficiency requiring intubation and ventilation for >72 h postoperatively. Statistical Analyses Total study size was designed using PS Power and Sample Calculations version 3.0 (http://biostat.mc.vanderbilt.edu/PowerSampleSize). Based on the data in the pilot study performed by the manufacturer of the ELISA kit, the standard deviation of serum levels of sRAGE was 755 pg/mL. We assumed the frequency of postoperative respiratory failure at 10% with the true difference of means between patients with or without respiratory failure of 1000 pg/mL. To reject the null hypothesis that the population means of these two groups are equal with statistical power of 0.9, we needed at least 7 patients in the respiratory failure group and 63 patients without respiratory failure. All other statistical analyses were performed using STATA/IC software (version 11, StataCorp, College Station, TX, USA). For two-group comparisons, we used the Mann-Whitney U-test. For intergroup comparisons, we used the chi-square test for categorical data, and analysis of variance with Tukey's test was used for post-hoc multiple comparisons for continuous numerical data. The biomarker levels were natural log-transformed for linearity. To find clinical variables with significant association with Post-Op sRAGE, multiple regression analysis was performed. Clinical data consisted of patients' demographic data (age, gender, body weight, and smoking history); past history (diabetes mellitus); the laboratory data at admission to the ICU (white blood cell count, hemoglobin, platelet count, albumin, creatinine, total bilirubin, Post-Op PaO2/FIO2, PEEP levels at ICU admission, and APACHE II score at admission to ICU); and the variables from surgery (intraoperative packed red cell transfusion, duration of operation and cardiopulmonary bypass (CPB), PEEP levels at ICU admission, intraoperative tidal volume). Because the results of this multiple regression analysis showed that Post-Op sRAGE levels significantly correlated with duration of operation, duration of CPB, and APACHE II score, we analyzed the association between Post-Op sRAGE levels and morbidity of prolonged ventilatory support (>3 days) by multiple logistic regression analyses, using these three variables as possible confounding factors. We used Spearman's test for correlation analyses and the correlation was graded depending on the rs value: 0.7> rs >0.4 as moderate correlation; and 0.4> rs >0.2 as weak correlation. To evaluate the predictive performance for postoperative prolonged ventilatory support (>3 days), non-parametric receiver operating characteristic (ROC) curves were computed. The area under the curve (AUC) was calculated with a 95% confidence interval and chi-square tests were performed for comparisons. The optimal cut-off point was determined by calculating Youden's index. Statistical significance was defined as p<0.05.         Results Between 4 February 2008 and 6 July 2009, 190 patients undergoing elective cardiac surgery were eligible for this study (100 patients in The University of Tokyo between 4 February 2008 and 26 September 2008; 49 patients in the Tokyo Medical and Dental University between 6 February 2009 and 22 June 2009; and 41 patients in the Yokohama City University Medical Center between 8 May 2009 and 6 July 2009). Informed consent was obtained from 92 patients for this study (32 patients in The University of Tokyo; 33 patients in the Tokyo Medical and Dental University; and 27 patients in the Yokohama City University Medical Center). After the analysis of the results from the first institution (n = 32, The University of Tokyo), we added two institutions to reach the required cohort size. One patient was withdrawn because of severe brain infarction diagnosed on POD 1 and the need for prolonged mechanical ventilation without lung complications. Two patients were withdrawn because of the need for percutaneous cardiopulmonary support on POD 3 due to cardiac failure. PAOP was monitored in 64 patients, and two were excluded because the PAOP exceeded 18 mm Hg during the first postoperative week. Postoperative levels of NT-proBNP in patients without PAOP monitoring (n = 25; median, 107 pg/mL; interquartile range (IQR), 69-289 pg/mL) were significantly lower than those managed with PAOP monitoring (n = 62; median, 233 pg/mL; IQR 91-871 pg/mL; p = 0.016). As a result, eighty-seven patients were included in this study, and this process is summarized in Figure 1.                     Flow chart for the enrollment of patients. The baseline demographic data and clinical variables are summarized in Table 1. Twenty-one patients underwent aortic surgery, 33 patients underwent valve surgery, and 33 patients underwent off-pump coronary artery bypass grafting (OPCAB). The duration of operation was significantly longer in the aortic surgery group (p = 0.0002, vs. the valve surgery group; p<0.0001, vs. the OPCAB group), whereas there were no significant differences in the CPB time between the aortic surgery group and the valve surgery group. Intraoperative tidal volume was 9.3+-1.4 mL/kg, and there were no significant difference among three surgical groups. Although intraoperative PEEP levels were slightly higher in the aortic surgery group, there were no significant differences in peak inspiratory pressure among the three surgical groups. In patients whose PAOP was monitored (n = 62), there were no differences in PAOP among the three surgical groups (10+-4 mmHg in the aortic surgery group (n = 5); 12+-3 mmHg in the valve surgery group (n = 32); and 10+-4 mmHg in the OPCAB group (n = 25), p = 0.11). More transfusions were performed in the aortic surgery group compared with the other two groups (Table 1). One patient (1.1%) died on POD 24 and another (1.1%) on POD 57, and respiratory failure requiring intubation and ventilation for at least 72 h postoperatively was observed in twelve patients (14.9%; seven in the aortic surgery group, three in the valve surgery group, and two in the OPCAB group).                         Patient characteristics. Total\tAortic Surgery\tValve surgery\tOPCAB\tp-value\t \tNumber of patients\t87\t21\t33\t33\t\t \tBaseline characteristics\t\t\t\t\tANOVA\t \tAge (year)\t64.0+-12.0\t60+-13\t63+-14\t68+-8#\t0.04*\t \tBody weight (kg)\t61.4+-11.7\t63.9+-10.7\t59.1+-13.1\t62.2+-10.6\t0.30\t \tWhite blood cell count (cells/mm3)\t5918+-1549\t6015+-1470\t5779+-1532\t5992+-1648\t0.81\t \tHemoglobin (g/dL)\t12.5+-1.6\t12.3+-1.3\t12.5+-1.3\t12.8+-1.9\t0.53\t \tPlatelet count (104/mm3)\t20.2+-6.3\t19.2+-7.0\t19.6+-5.5\t21.4+-6.4\t0.36\t \tTotal protein (g/dL)\t7.1+-0.5\t7.0+-0.5\t7.0+-0.5\t7.2+-0.6\t0.47\t \tAlbumin (g/dL)\t4.1+-0.5\t4.1+-0.4\t4.2+-0.4\t4.0+-0.4\t0.25\t \tBUN (mg/dL)\t19.8+-10.3\t17.6+-7.0\t19.2+-6.9\t21.8+-14.0\t0.32\t \tCreatinine (mg/dL)\t1.1+-0.7\t1.2+-0.9\t1.0+-0.3\t1.2+-0.8\t0.37\t \tMean Blood Pressure (mm Hg)\t91+-13\t93+-15\t85+-11$$\t95+-11\t0.004*\t \tHeart rate (beats/min)\t71+-12\t70+-11\t72+-13\t70+-13\t0.71\t \tPaO2/FIO2 after the anesthetic induction\t412+-112\t394+-116\t427+-110\t408+-112\t0.56\t \t\t\t\t\t\tChi square test\t \tMale/Female, (Male %)\t64/23 (74%)\t16/5 (76%)\t21/12 (64%)\t27/6 (82%)\t0.68\t \tDiabetes Mellitus +/-, (Morbidity %)\t27/60 (31%)\t1/20 (4.8%)\t9/24 (27%)\t18/15 (56%)\t0.006**\t \tHemodialysis +/-, (Morbidity %)\t2/85 (2.3%)\t1/20 (4.8%)\t1/32 (3.0%)\t0/33 (0%)\t0.50\t \tHistory of smoking +/-, (Morbidity %)\t51/36 (59%)\t16/5 (76%)\t20/13 (61%)\t16/17 (48%)\t0.44\t \tSurgical duration\t\t\t\t\tANOVA\t \tDuration of operation (min)\t400+-130\t515+-166\t384+-80##\t343+-99##\t<0.0001\t \t\t\t\t\t\tMann-Whitney U test\t \tDuration of cardiopulmonary bypass (min)\t\t213+-109\t197+-52\t\t0.33\t \tIntraoperative mechanical ventilation\t\t\t\t\tANOVA\t \tTidal volume (mL/kg of PBW 1)\t9.3+-1.4\t9.3+-1.3\t9.5+-1.4\t9.1+-1.3\t0.52\t \tPeak inspiratory pressure (cmH2O)\t20+-5\t21+-5\t20+-5\t18+-5\t0.12\t \tPEEP level (cmH2O)\t5+-2\t6+-2$$\t5+-1\t5+-1\t0.006**\t \tIntraoperative transfusion\t\t\t\t\tKruskal-Wallis test\t \tRed cell (units 2)  4\t\t4 (0-8)\t0 (0-4)\t0 (0-2)#\t0.0097**\t \tFresh frozen plasma (units 2)  4\t\t6 (0-12)\t0 (0-6)#\t0 (0-0)##\t0.001**\t \tPlatelet(units 3) 4\t\t20 (0-20)\t0 (0-0)##\t0 (0-0)##\t<0.0001**                                    OPCAB: off-pump coronary artery bypass grafting. p<0.05 vs. aortic surgery group.  p<0.05.  p<0.01 vs. OPCAB group.  p<0.01.  PBW: predicted body weight; male PBW (kg) = 50+0.91(height (cm) -152.4), and female PBW (kg) = 45.5+0.91(height (cm) -152.4).             1 unit of packed red cells or fresh frozen plasma is derived from 200 mL of donated blood. 1 unit of packed platelet concentrate contains 2x1010 platelets.  Data are shown as median with interquartile range. Perioperative Change in the Levels of sRAGE The perioperative changes in the serum levels of sRAGE are shown in Figure 2A. One sample at Baseline and two samples on POD 1 were lost because of problems in sample handling. Immediately after the operation (Post-Op), serum sRAGE increased significantly from the baseline level and decreased by POD 1. In patients requiring intubation and ventilation for at least 72 h postoperatively, Post-Op sRAGE level was significantly higher than those extubated within 72h (median, 4357 pg/mL; IQR, 2335-5445 pg/mL vs. median, 1555 pg/mL; IQR, 958-2540 pg/mL, p = 0.0005). Figure 2B shows the differences in the serum levels of Post-Op sRAGE among the three types of operation: aortic surgery, valve surgery, and OPCAB. In the OPCAB group, Post-Op sRAGE levels were significantly lower than those in the other two groups (p = 0.0024 vs. the aortic surgery group; p = 0.0005 vs. the valve surgery group). Post-Op sRAGE levels showed a moderate correlation with the duration of CPB (rs = 0.44, p<0.0001), and a weak correlation with the duration of operation (rs = 0.28, p = 0.0081); however, there were no significant correlations between intraoperative tidal volume and Post-Op sRAGE levels. Figure 2C shows that a longer duration of CPB resulted in higher levels of Post-Op sRAGE, and sRAGE levels were significantly different among the three groups categorized by duration of CPB: 0 min; between 0 and 240 min; and >=240 min. Clinical variables contributed to the postoperative elevation of serum levels of sRAGE was studied by multiple regression analysis, and the results are shown in Table 2. Significant correlations with Post-Op sRAGE were seen for APACHE II score (p = 0.03), duration of operation (p = 0.03), and duration of CPB (p = 0.008); however, history of diabetes mellitus, and number of packed red cell transfusions showed no significant correlation. We also analyzed the association between Post-Op sRAGE levels and morbidity of prolonged ventilatory support (>3 days) by multiple logistic regression analysis, using these three variables (duration of operation, duration of CPB and APACHE-II score) as possible confounding factors. The results are shown in Table 3. Post-Op sRAGE levels were significantly associated with prolonged ventilatory support (p = 0.0009), even when correcting for APACHE-II score (p = 0.01), duration of operation (p = 0.009), and duration of CPB (p = 0.005).                                                          Serum levels of the soluble isoform of the receptor for advanced glycation end products (sRAGE) in the perioperative period. (A) Perioperative change in the levels of sRAGE in the entire study cohort. Serum levels of sRAGE were measured at three points: 1) after induction of anesthesia (Baseline); 2) at admission to the intensive care unit immediately after the operation (Post-Op); and 3) post-operative day 1 (POD 1); (B) Differences in Post-Op levels of sRAGE according to the type of operation. The operations were categorized as: 1) aortic surgery (n = 21); 2) valve surgery (n = 33); and 3) off -pump coronary artery bypass grafting (OPCAB, n = 33); (C) Relationship between Post-Op sRAGE levels and duration of cardiopulmonary bypass. Patients were divided into three groups categorized by duration of cardiopulmonary bypass: 0 min; between 0 and 240 min; and >=240 min. In panel B and C, Post-Op values were selected for comparison. Box-whisker plots show the 5th, 25th, 50th, 75th, and 95th percentile in each study condition. p-values for the three-group comparison were calculated using Tukey's test. ns: not statistically significant.                Results of multiple regression analyses for the relationships between the serum levels of the soluble isoform of the receptor for advanced glycation end products (sRAGE) and patients' conditions. Coefficient.\tStandard Error\tP value\t95% Confidence Interval\t \tAge (year)\t-0.0089\t0.0093\t0.34\t-0.028-0.010\t \tSex\t-0.046\t0.24\t0.85\t-0.52-0.43\t \tWeight (kg)\t0.0049\t0.0081\t0.54\t-0.011-0.021\t \tType of Surgery\t-0.049\t0.17\t0.77\t-0.38-0.28\t \tHistory of diabetes mellitus\t0.15\t0.20\t0.46\t-0.25-0.54\t \tHistory of smoking\t-0.18\t0.19\t0.35\t-0.56-0.20\t \tWhite blood cell count (cells/mm3)\t-0.000001\t0.00002\t0.97\t-0.00005-0.00005\t \tHemoglobin (g/dL)\t0.044\t0.059\t0.46\t-0.073-0.16\t \tPlatelet count (104/mm3)\t-0.032\t0.020\t0.12\t-0.073-0.0082\t \tAlbumin (g/dL)\t-0.21\t0.17\t0.21\t-0.54-0.12\t \tCreatinine (mg/dL)\t0.17\t0.098\t0.082\t-0.023-0.37\t \tPaO2/FIO2\t-0.001\t0.002\t0.69\t-0.001-0.002\t \tAPACHE-II score\t0.076\t0.0339\t0.029*\t0.008-0.14\t \tTotal bilirubin (mg/dL)\t0.135\t0.157\t0.39\t-0.18-0.45\t \tPacked red cell transfusion (unit 1)\t0.031\t0.020\t0.13\t-0.010-0.072\t \tDuration of operation (min)\t-0.0020\t0.0009\t0.030*\t-0.0038--0.0002\t \tDuration of cardiopulmonary bypass (min)\t0.0036\t0.0013\t0.0075**\t0.0010-0.0062\t \tPEEP levels at ICU admission (cmH2O)\t0.027\t0.056\t0.63\t-0.084-0.14\t \tIntraoperative tidal volume (mL/kg PBW 2)\t0.050\t0.059\t0.39\t-0.066-0.17\t \tConstant\t7.0\t1.4\t0.00\t4.1-10                                                                                                       The serum levels of sRAGE were natural log-transformed. 1 unit of packed red cells is derived from 200 mL of donated blood. PBW: predicted body weight; male PBW (kg) = 50+0.91(height (cm) -152.4), and female PBW (kg) = 45.5+0.91(height (cm) -152.4).             Statistically significant at p<0.05; Statistically significant at p<0.01. Multivariable analyses of association between postoperative levels of the serum levels of the soluble isoform of the receptor for advanced glycation end products (sRAGE) and morbidity of prolonged mechanical ventilation (>3days). Models\tOdds ratio 1\t95% Confidence Interval\tp-value\t\t \tUnadjusted\t6.9\t2.2-21.9\t0.0009\t**\t \tAdjusted for\t\t\t\t\t \tDuration of operation (min)\t4.6\t1.5-14.6\t0.009\t**\t \tDuration of cardiopulmonary bypass (min)\t6.7\t1.8-25.1\t0.005\t**\t \tAPACHE-II score\t5.4\t1.5-20.0\t0.01\t*             The serum levels of sRAGE (pg/mL) were natural log-transformed. Odds ratio per 1 natural log transformed sRAGE level. Statistically significant at p<0.05; Statistically significant at p<0.01. The relationship between Post-Op sRAGE levels and radiographic presentation is demonstrated in Figure 3A. Patients with the worst chest radiograph score (>=2) during the first postoperative week showed significantly higher levels of postoperative sRAGE than those with a chest radiograph score = 0 in the same postoperative period (p = 0.030). On POD 1, PaO2/FIO2 was significantly lower than the values measured immediately after operation (median, 260; IQR, 194-342 on POD 1 vs. median, 363; IQR 249-428; p = 0.0002). When patients were dichotomized by the PaO2/FIO2 on POD 1 with a cut-off value of 200, patients whose PaO2/FIO2 was <200 (n = 25) showed significantly higher levels of serum sRAGE than those with PaO2/FIO2>=200 (n = 62) (p = 0.023) (Figure 3B).                               Relationship between serum levels of the soluble isoform of the receptor for advanced glycation end products (sRAGE) and the variables reflecting the condition of the lung. (A) Relationship between serum sRAGE and radiographic presentations scored by Murray's chest X-ray score. Box-whisker plots show the 5th, 25th, 50th, 75th, and 95th percentile in each study condition. p-values for the three-group comparison were calculated using Tukey's test; (B) Relationship between serum sRAGE levels and PaO2/FIO2 on POD 1. Patients were divided into two groups using a cut-off value for PaO2/FIO2 = 200. Box-whisker plots show the 5th, 25th, 50th, 75th, and 95th percentile in each study condition. The p-value was calculated using the Mann-Whitney U-test.         To study correlations with perioperative inflammatory reactions or endothelial injury, the correlation with interleukin-8 (median, 48 pg/mL; IQR, 28-93 pg/mL) and vWF antigen (median, 106%; IQR, 74-165%) at Post-Op were analyzed using Spearman's correlation analysis. Post-Op sRAGE levels showed a weak positive correlation with interleukin-8 (rs = 0.28, p = 0.0089) and a weak negative correlation with vWF antigen (rs = -0.36, p = 0.0006). The results of multiple comparisons among the three surgical subgroups showed that interleukin-8 levels in the aortic surgery group (median, 100 pg/mL; IQR, 32-196 pg/mL) tended to be higher than the valve surgery group (median, 49 pg/mL; IQR, 31-79 pg/mL) with near significance (p = 0.065), and significantly higher than the OPCAB group (median, 35 pg/mL; IQR, 20-57 pg/mL) (p = 0.001). However, there were no significant differences in interleukin-8 between the valve surgery group and the OPCAB group (p = 0.23).                                           To study whether postoperative levels of sRAGE were affected by the presence of cardiac failure in our study cohort, we measured NT-proBNP as a biomarker for heart failure. The median value of Post-Op NT-proBNP level was 178 pg/mL (IQR, 81-628 pg/mL) in the total study cohort, and there were no significant correlations between NT-proBNP and Post-Op sRAGE levels (rs = 0.14, p = 0.20).           Prediction of Postoperative Respiratory Failure based on the Serum Levels of sRAGE We tested the potential for the post-operative levels of sRAGE to predict postoperative respiratory failure and prolongation of stay in the ICU. Figure 4A shows the receiver operating characteristic (ROC) curve for the prediction of respiratory failure, in which the area under the curve (AUC) was 0.81 (95% confidence interval (CI): 0.72-0.89). We also calculated ROC for Post-Op interleukin-8 (AUC, 0.81 with CI 0.71-0.88), and PaO2/FIO2 on POD 1(AUC, 0.72 with CI 0.61-0.80) (Figure 4A). Although the AUC for PaO2/FIO2 on POD 1 was lower than the AUC for sRAGE, the difference was not statistically significant. The optimal cut-off point for sRAGE for the prediction of respiratory failure was 3656 pg/mL, with sensitivity and specificity of 62% and 91%, respectively. When patients were divided into the two groups using this cut-off point for sRAGE, the high sRAGE group (sRAGE >=3656 pg/mL) showed a significantly longer duration of mechanical ventilation (median, 4 days; IQR, 1-11 days vs. median, 1 day; IQR, 1-1 day, p = 0.0001); a longer duration of ICU stay (median, 7 days; IQR, 5-10 days vs. median, 2 days; IQR, 2-3 days, p<0.0001); and a lower PaO2/FIO2 on POD 1 (median, 178; IQR, 150-322 vs. median, 270; IQR, 205-354, p = 0.017).                            Predictive performance of the post-operative levels of the soluble isoform of the receptor for advanced glycation end products (sRAGE) for postoperative respiratory failure and prolongation of stay in the intensive care unit (ICU). (A) Receiver operating characteristic (ROC) curve analysis for predicting performance of Post-Op levels of biomarkers (sRAGE and interleukin-8) and PaO2/FIO2 on POD 1. ROC curves for sRAGE, interleukin-8, and PaO2/FIO2 are shown with their area under the curve (AUC) calculations; (B) Relationship between serum levels of sRAGE and duration of mechanical ventilation; (C) Relationship between the serum levels of sRAGE and the length of stay in the ICU. In graph B and C, patients were dichotomized using the cut-off value of 3656 pg/mL, which was calculated from the ROC curve analysis shown in graph A. Patients with a high level of sRAGE (>=3656 pg/mL) showed a significantly longer duration of mechanical ventilation (p = 0.0001) and a longer stay in the ICU (p<0.0001) than those with low sRAGE (<3656 pg/mL) (Mann-Whitney U-test). Spearman's correlation coefficients (rs) are shown with p values.        Discussion RAGE is abundantly expressed in alveolar type I epithelium in the lung, and its soluble isoform (sRAGE) is released into the plasma when lung tissue is injured. In a study of patients with severe trauma at high risk for acute lung injury, sRAGE was one of four biomarkers with the highest diagnostic performance in a panel of 21 biomarkers for distinguishing patients with acute lung injury. Furthermore, Calfee and colleagues showed that sRAGE was a marker of worse clinical outcomes in patients ventilated with higher tidal volumes in a study of 676 patients from the ARDS net trial for low tidal volume ventilation. The precise mechanism of its release into plasma has not been elucidated; however, animal studies suggested that sRAGE was shed from alveolar type I epithelial cells by proteases. In our study, serum levels of sRAGE elevated immediately after surgery. Patients with Post-Op sRAGE >=3656 pg/mL showed significantly lower PaO2/FIO2 on POD 1 than those with sRAGE <3656 pg/mL. These results are consistent with the hypothesis that sRAGE reflects postoperative lung dysfunction. Christie and colleagues studied patients undergoing lung transplantation, and demonstrated that postoperative elevation of sRAGE levels was related to primary graft dysfunction, and sRAGE levels peaked immediately after the operation. Our results are consistent with this report, and Post-Op sRAGE levels demonstrated a good discriminating performance for prolonged mechanical ventilation. The predictive performance for prolonged mechanical ventilation tended to be better than postoperative PaO2/FIO2, probably because some surgically-induced responses and the effects of perioperative mechanical ventilation continued in the postoperative period, and the maximum reduction in PaO2/FIO2 might be observed later than POD 1.  Postoperative changes in the level of sRAGE were less in patients in the OPCAB group than in patients undergoing surgery with CPB (Figure 2B), and Post-Op sRAGE levels showed a moderate positive correlation with the duration of CPB. Multivariate analysis also showed a significant correlation between these two variables. Previous studies showed that insufficient bronchial artery blood flow during CPB could result in lung tissue ischemia and pulmonary lactate release, which correlated with prolonged mechanical ventilation. Also, CPB causes activation of the complement system and the release of various pro-inflammatory cytokines, which results in post-CPB lung dysfunction and systemic inflammation. Extracorporeal circulation increased the level of sRAGE in patients undergoing lung transplantation and elective on-pump coronary artery bypass surgery. Our results for sRAGE were consistent with these reports, and suggested that sRAGE was sensitive to lung dysfunction caused by CPB. Interestingly, our results showed that there were no significant differences in Post-Op sRAGE between the aortic surgery and the valve surgery groups, whereas Post-Op interleukin-8 levels in the aortic surgery group tended to be higher than in the valve surgery group with near statistical significance. This might reflect more transfusions and a longer duration of operation in the aortic surgery group, a possible additive factor for elevation of interleukin-8. In other words, Post-Op sRAGE elevation might be a more specific reaction reflecting post-CPB lung dysfunction. We eliminated patients with pulmonary artery occlusion pressure >18 mm Hg to exclude high filling pressure-induced pulmonary edema, because cardiogenic pulmonary edema could be a confounding factor for prolonged mechanical ventilation. Although PAOP was not monitored in 25 patients, the Post-Op NT-proBNP levels in these patients were significantly lower than those in patients with PAOP monitoring. Furthermore, the Post-Op NT-proBNP in the total current study cohort was within the range previously reported from patients with acute respiratory distress syndrome or transfusion-related acute lung injury, and Post-Op NT-proBNP levels showed no significant correlation with Post-Op sRAGE levels. Although several previous studies demonstrated a positive correlation between the severity of heart failure and sRAGE levels, the postoperative elevation of sRAGE in our study cohort could not be explained by the mechanisms related to heart failure or cardiogenic pulmonary edema. Previous reports have the following criticisms for the use of sRAGE as a biomarker for perioperative lung injury: First, plasma or serum levels of sRAGE begin to decrease in the postoperative period, and there is a disparity between the sRAGE levels and clinical symptoms. Our results also demonstrated that sRAGE levels decreased by POD 1 in almost all of the cases, regardless of their outcome. As a possible explanation, sRAGE could be released by proteolysis in the lung, induced by surgical stress and inflammation, peaking at surgery. Therefore, sRAGE could indicate the severity of alveolar epithelial damage suffered from various intraoperative insults, especially from CPB, rather than reflect a real-time change in lung epithelial condition postoperatively. Second, previous reports stated that sRAGE might not be a lung-specific marker, because extrapulmonary sources of sRAGE could affect the plasma or serum levels of this biomarker. However, our results showed only a weak positive correlation between serum sRAGE levels and interleukin-8. As discussed above, this weak correlation could be related to the finding that interleukin-8 tended to be more affected by systemic stress from surgery (e.g., duration of operation and numbers of transfusion) than sRAGE, causing a disparity in the pattern of elevation of the serum levels. Another explanation is that our results could reflect a small contribution by the release of sRAGE from inflammatory cells, although we could not determine the exact source of the serum sRAGE in our study design. Interestingly, in our results, Post-Op sRAGE showed a weak negative correlation with the levels of vWF antigen, a biomarker for endothelial injury. This result could be explained by the hypothesis that sRAGE might at least partially ameliorate endothelial injury by binding its pro-inflammatory ligands and function as a decoy receptor, although this endothelial anti-inflammatory effect may have no effect on the prognosis of respiratory failure. Nevertheless, this negative correlation between sRAGE and vWF antigen suggests that endothelial injury might not be a major factor in determining postoperative serum level of sRAGE in our study cohort. Our study has limitations. First, the severity of lung injury was evaluated by one attending physician using chest radiographs, which have limited sensitivity and reproducibility for detecting lung injury. Chest computed tomography (CT) might be a better choice and a recent study demonstrated a positive correlation between CT score and plasma sRAGE levels. Furthermore, our previous reports showed bronchoalveolar lavage (BAL) fluid was more sensitive for detecting local damage to lung tissue, because sRAGE concentration is higher in BAL than in blood when epithelial injury caused shedding of sRAGE into the alveolar space. Therefore, sRAGE levels in BAL could correlate better with the variables related to respiratory failure. However, this study was designed for routine clinical practices, so we included neither chest CT scans nor BAL. Determination of sRAGE levels in BAL and chest CT analysis are considerations for future studies. Second, intraoperative tidal volume was relatively high. Although the association between Post-Op sRAGE levels and intraoperative tidal volume was not significant (rs = 0.12, p = 0.27), high tidal volume settings might aggravate lung injury, and small tidal volume settings could result in smaller increases in postoperative sRAGE levels and lower morbidity of postoperative respiratory failure. Finally, the relatively small number of patients with postoperative respiratory failure limits the strength of the statistical power, and the size of the total study cohort was not sufficiently large to carry out a validation cohort. Large-scale multicenter studies are needed to confirm the hypotheses established from our results.         In summary, we studied the perioperative change in the serum levels of sRAGE over time and found that it elevated immediately after surgery. The range of elevation was associated with morbidity of respiratory failure after cardiac surgery, and CPB-related lung dysfunction might be a key mechanism for postoperative sRAGE elevation. Early postoperative levels of sRAGE may have predictive performance for respiratory failure after cardiac surgery; however, these hypotheses require validation in large-scale multicenter studies. References Cardiopulmonary bypass induced inflammation: pathophysiology and treatment. An update Time-course of impairment of respiratory mechanics after cardiac surgery and cardiopulmonary bypass Predictors and early and late outcomes of respiratory failure in contemporary cardiac surgery Logistic risk model for prolonged ventilation after adult cardiac surgery Long-term outcome and quality of life of patients requiring prolonged mechanical ventilation after cardiac surgery Canver CC, Chanda J (2003) Intraoperative and postoperative risk factors for respiratory failure after coronary bypass. Ann Thorac Surg 75: 853-857; discussion 857-858.     Preoperative prediction of postoperative respiratory outcome. Coronary artery bypass grafting Morbid results of prolonged intubation after coronary artery bypass surgery Prolonged intubation rates after coronary artery bypass surgery and ICU risk stratification score Survey of the distribution of a newly characterized receptor for advanced glycation end products in tissues Receptor for advanced glycation end-products is a marker of type I lung alveolar cells Receptor for advanced glycation end-products is a marker of type I cell injury in acute lung injury Receptor for advanced glycation end products in donor lungs is associated with primary graft dysfunction after lung transplantation Plasma receptor for advanced glycation end-products predicts duration of ICU stay and mechanical ventilation in patients after lung transplantation Plasma levels of receptor for advanced glycation end products, blood transfusion, and risk of primary graft dysfunction sRAGE is elevated in septic patients and associated with patients outcome Adenosine infusion attenuates soluble RAGE in endotoxin-induced inflammation in human volunteers Standardisation of factor VIII and von Willebrand factor in plasma: calibration of the 4th International Standard (97/586) An expanded definition of the adult respiratory distress syndrome Estimation of the Youden Index and its Associated Cutoff Point Understanding diagnostic tests 3: receiver operating characteristic curves Elevated levels of the receptor for advanced glycation end products, a marker of alveolar epithelial type I cell injury, predict impaired alveolar fluid clearance in isolated perfused human lungs Physiological and biochemical markers of alveolar epithelial barrier dysfunction in perfused human lungs  Acute lung injury in patients with traumatic injuries: utility of a panel of biomarkers for diagnosis and pathogenesis Plasma receptor for advanced glycation end products and clinical outcomes in acute lung injury Purification and characterization of mouse soluble receptor for advanced glycation end products (sRAGE) Proteolytic release of the receptor for advanced glycation end products from in vitro and in situ alveolar epithelial cells Pulmonary lactate release following cardiopulmonary bypass Lung dysfunction following cardiopulmonary bypass Surfactant protein B and RAGE increases in the plasma during cardiopulmonary bypass: a pilot study Prognostic value of plasma N-terminal probrain natriuretic peptide levels in the acute respiratory distress syndrome The accuracy of natriuretic peptides (brain natriuretic peptide and N-terminal pro-brain natriuretic) in the differentiation between transfusion-related acute lung injury and transfusion-related circulatory overload in the critically ill Increased serum high-mobility group box-1 and cleaved receptor for advanced glycation endproducts levels and decreased endogenous secretory receptor for advanced glycation endproducts levels in diabetic and non-diabetic patients with heart failure Soluble receptor of advanced glycation end products levels are related to ischaemic aetiology and extent of coronary disease in chronic heart failure patients, independent of advanced glycation end products levels: New Roles for Soluble RAGE Kinetics of plasma SPB and RAGE during mechanical ventilation in patients undergoing major vascular surgery Receptor for advanced glycation endproducts and atherosclerosis: From basic mechanisms to clinical implications Soluble form of the receptor for advanced glycation end products is a marker of acute lung injury but not of severe sepsis in critically ill patients",
+    "entities": [
+        {
+            "entityId": "87_120",
+            "span": {
+                "begin": 87,
+                "end": 120
+            },
+            "entityType": "disease",
+            "entityName": "Postoperative Respiratory Failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "165_184",
+            "span": {
+                "begin": 165,
+                "end": 184
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "261_269",
+            "span": {
+                "begin": 261,
+                "end": 269
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "357_401",
+            "span": {
+                "begin": 357,
+                "end": 401
+            },
+            "entityType": "gene",
+            "entityName": "receptor for advanced glycation end products",
+            "id": "UMLS:C1412278"
+        },
+        {
+            "entityId": "403_408",
+            "span": {
+                "begin": 403,
+                "end": 408
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "447_480",
+            "span": {
+                "begin": 447,
+                "end": 480
+            },
+            "entityType": "disease",
+            "entityName": "postoperative respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "503_511",
+            "span": {
+                "begin": 503,
+                "end": 511
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "836_841",
+            "span": {
+                "begin": 836,
+                "end": 841
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "1048_1053",
+            "span": {
+                "begin": 1048,
+                "end": 1053
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "1064_1072",
+            "span": {
+                "begin": 1064,
+                "end": 1072
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1199_1207",
+            "span": {
+                "begin": 1199,
+                "end": 1207
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1219_1225",
+            "span": {
+                "begin": 1219,
+                "end": 1225
+            },
+            "entityType": "disease",
+            "entityName": "aortic",
+            "id": "mesh:D001018"
+        },
+        {
+            "entityId": "1381_1386",
+            "span": {
+                "begin": 1381,
+                "end": 1386
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "1553_1558",
+            "span": {
+                "begin": 1553,
+                "end": 1558
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "1662_1695",
+            "span": {
+                "begin": 1662,
+                "end": 1695
+            },
+            "entityType": "disease",
+            "entityName": "postoperative respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "1793_1812",
+            "span": {
+                "begin": 1793,
+                "end": 1812
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "1934_1939",
+            "span": {
+                "begin": 1934,
+                "end": 1939
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "2110_2115",
+            "span": {
+                "begin": 2110,
+                "end": 2115
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "2224_2243",
+            "span": {
+                "begin": 2224,
+                "end": 2243
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "2310_2329",
+            "span": {
+                "begin": 2310,
+                "end": 2329
+            },
+            "entityType": "disease",
+            "entityName": "Respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "2455_2463",
+            "span": {
+                "begin": 2455,
+                "end": 2463
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2518_2537",
+            "span": {
+                "begin": 2518,
+                "end": 2537
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "2632_2651",
+            "span": {
+                "begin": 2632,
+                "end": 2651
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "2776_2798",
+            "span": {
+                "begin": 2776,
+                "end": 2798
+            },
+            "entityType": "disease",
+            "entityName": "myocardial dysfunction",
+            "id": "UMLS:C0340515"
+        },
+        {
+            "entityId": "3242_3253",
+            "span": {
+                "begin": 3242,
+                "end": 3253
+            },
+            "entityType": "disease",
+            "entityName": "lung injury",
+            "id": "mesh:D055370"
+        },
+        {
+            "entityId": "3299_3307",
+            "span": {
+                "begin": 3299,
+                "end": 3307
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "3327_3346",
+            "span": {
+                "begin": 3327,
+                "end": 3346
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "3517_3561",
+            "span": {
+                "begin": 3517,
+                "end": 3561
+            },
+            "entityType": "gene",
+            "entityName": "receptor for advanced glycation end products",
+            "id": "UMLS:C1412278"
+        },
+        {
+            "entityId": "3563_3567",
+            "span": {
+                "begin": 3563,
+                "end": 3567
+            },
+            "entityType": "gene",
+            "entityName": "RAGE",
+            "id": "UMLS:C1412278"
+        },
+        {
+            "entityId": "3704_3736",
+            "span": {
+                "begin": 3704,
+                "end": 3736
+            },
+            "entityType": "cell",
+            "entityName": "alveolar type I epithelial cells",
+            "id": "UMLS:C0225698"
+        },
+        {
+            "entityId": "3770_3793",
+            "span": {
+                "begin": 3770,
+                "end": 3793
+            },
+            "entityType": "gene",
+            "entityName": "soluble isotype of RAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "3789_3793",
+            "span": {
+                "begin": 3789,
+                "end": 3793
+            },
+            "entityType": "gene",
+            "entityName": "RAGE",
+            "id": "UMLS:C1412278"
+        },
+        {
+            "entityId": "3795_3800",
+            "span": {
+                "begin": 3795,
+                "end": 3800
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "3891_3899",
+            "span": {
+                "begin": 3891,
+                "end": 3899
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "3966_3971",
+            "span": {
+                "begin": 3966,
+                "end": 3971
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "4023_4031",
+            "span": {
+                "begin": 4023,
+                "end": 4031
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4176_4181",
+            "span": {
+                "begin": 4176,
+                "end": 4181
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "4224_4243",
+            "span": {
+                "begin": 4224,
+                "end": 4243
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "4469_4496",
+            "span": {
+                "begin": 4469,
+                "end": 4496
+            },
+            "entityType": "disease",
+            "entityName": "extrapulmonary inflammation",
+            "id": "UMLS:C0021368"
+        },
+        {
+            "entityId": "4533_4538",
+            "span": {
+                "begin": 4533,
+                "end": 4538
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "4598_4619",
+            "span": {
+                "begin": 4598,
+                "end": 4619
+            },
+            "entityType": "disease",
+            "entityName": "systemic inflammation",
+            "id": "UMLS:C0021368"
+        },
+        {
+            "entityId": "4688_4693",
+            "span": {
+                "begin": 4688,
+                "end": 4693
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "4769_4782",
+            "span": {
+                "begin": 4769,
+                "end": 4782
+            },
+            "entityType": "gene",
+            "entityName": "interleukin-8",
+            "id": "UMLS:C0079633"
+        },
+        {
+            "entityId": "4803_4824",
+            "span": {
+                "begin": 4803,
+                "end": 4824
+            },
+            "entityType": "disease",
+            "entityName": "systemic inflammation",
+            "id": "UMLS:C0021368"
+        },
+        {
+            "entityId": "4830_4859",
+            "span": {
+                "begin": 4830,
+                "end": 4859
+            },
+            "entityType": "gene",
+            "entityName": "von Willebrand factor antigen",
+            "id": "UMLS:C0042971"
+        },
+        {
+            "entityId": "4861_4864",
+            "span": {
+                "begin": 4861,
+                "end": 4864
+            },
+            "entityType": "gene",
+            "entityName": "vWF",
+            "id": "UMLS:C1336938"
+        },
+        {
+            "entityId": "4923_4928",
+            "span": {
+                "begin": 4923,
+                "end": 4928
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "5524_5531",
+            "span": {
+                "begin": 5524,
+                "end": 5531
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5680_5688",
+            "span": {
+                "begin": 5680,
+                "end": 5688
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5730_5738",
+            "span": {
+                "begin": 5730,
+                "end": 5738
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5750_5757",
+            "span": {
+                "begin": 5750,
+                "end": 5757
+            },
+            "entityType": "disease",
+            "entityName": "cardiac",
+            "id": "mesh:D006331"
+        },
+        {
+            "entityId": "5869_5876",
+            "span": {
+                "begin": 5869,
+                "end": 5876
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5908_5929",
+            "span": {
+                "begin": 5908,
+                "end": 5929
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "6001_6013",
+            "span": {
+                "begin": 6001,
+                "end": 6013
+            },
+            "entityType": "disease",
+            "entityName": "pneumothorax",
+            "id": "UMLS:C0032326"
+        },
+        {
+            "entityId": "6031_6068",
+            "span": {
+                "begin": 6031,
+                "end": 6068
+            },
+            "entityType": "disease",
+            "entityName": "chronic obstructive pulmonary disease",
+            "id": "UMLS:C0024117"
+        },
+        {
+            "entityId": "6073_6094",
+            "span": {
+                "begin": 6073,
+                "end": 6094
+            },
+            "entityType": "disease",
+            "entityName": "neuromuscular disease",
+            "id": "UMLS:C0027868"
+        },
+        {
+            "entityId": "6099_6113",
+            "span": {
+                "begin": 6099,
+                "end": 6113
+            },
+            "entityType": "disease",
+            "entityName": "morbidly obese",
+            "id": "UMLS:C0028754"
+        },
+        {
+            "entityId": "6144_6178",
+            "span": {
+                "begin": 6144,
+                "end": 6178
+            },
+            "entityType": "disease",
+            "entityName": "systemic connective tissue disease",
+            "id": "UMLS:C0477583"
+        },
+        {
+            "entityId": "6229_6255",
+            "span": {
+                "begin": 6229,
+                "end": 6255
+            },
+            "entityType": "disease",
+            "entityName": "neurological complications",
+            "id": "UMLS:C0235029"
+        },
+        {
+            "entityId": "6339_6354",
+            "span": {
+                "begin": 6339,
+                "end": 6354
+            },
+            "entityType": "disease",
+            "entityName": "cardiac failure",
+            "id": "UMLS:C0018802"
+        },
+        {
+            "entityId": "6363_6371",
+            "span": {
+                "begin": 6363,
+                "end": 6371
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6964_6971",
+            "span": {
+                "begin": 6964,
+                "end": 6971
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "7146_7149",
+            "span": {
+                "begin": 7146,
+                "end": 7149
+            },
+            "entityType": "drug",
+            "entityName": "H2O",
+            "id": "UMLS:CHEBI:33813"
+        },
+        {
+            "entityId": "7257_7264",
+            "span": {
+                "begin": 7257,
+                "end": 7264
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "7417_7431",
+            "span": {
+                "begin": 7417,
+                "end": 7431
+            },
+            "entityType": "drug",
+            "entityName": "carbon dioxide",
+            "id": "UMLS:C0007012"
+        },
+        {
+            "entityId": "7481_7488",
+            "span": {
+                "begin": 7481,
+                "end": 7488
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "8717_8722",
+            "span": {
+                "begin": 8717,
+                "end": 8722
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "8724_8737",
+            "span": {
+                "begin": 8724,
+                "end": 8737
+            },
+            "entityType": "gene",
+            "entityName": "interleukin-8",
+            "id": "UMLS:C0079633"
+        },
+        {
+            "entityId": "8743_8746",
+            "span": {
+                "begin": 8743,
+                "end": 8746
+            },
+            "entityType": "gene",
+            "entityName": "vWF",
+            "id": "UMLS:C1336938"
+        },
+        {
+            "entityId": "8801_8809",
+            "span": {
+                "begin": 8801,
+                "end": 8809
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "8918_8922",
+            "span": {
+                "begin": 8918,
+                "end": 8922
+            },
+            "entityType": "gene",
+            "entityName": "RAGE",
+            "id": "UMLS:C1412278"
+        },
+        {
+            "entityId": "8985_8998",
+            "span": {
+                "begin": 8985,
+                "end": 8998
+            },
+            "entityType": "gene",
+            "entityName": "interleukin-8",
+            "id": "UMLS:C0079633"
+        },
+        {
+            "entityId": "9021_9024",
+            "span": {
+                "begin": 9021,
+                "end": 9024
+            },
+            "entityType": "gene",
+            "entityName": "vWF",
+            "id": "UMLS:C1336938"
+        },
+        {
+            "entityId": "9076_9087",
+            "span": {
+                "begin": 9076,
+                "end": 9087
+            },
+            "entityType": "gene",
+            "entityName": "vWF antigen",
+            "id": "UMLS:C1336938"
+        },
+        {
+            "entityId": "9186_9197",
+            "span": {
+                "begin": 9186,
+                "end": 9197
+            },
+            "entityType": "gene",
+            "entityName": "vWF antigen",
+            "id": "UMLS:C1336938"
+        },
+        {
+            "entityId": "9363_9366",
+            "span": {
+                "begin": 9363,
+                "end": 9366
+            },
+            "entityType": "gene",
+            "entityName": "vWF",
+            "id": "UMLS:C1336938"
+        },
+        {
+            "entityId": "9384_9393",
+            "span": {
+                "begin": 9384,
+                "end": 9393
+            },
+            "entityType": "gene",
+            "entityName": "NT-proBNP",
+            "id": "UMLS:C0754710"
+        },
+        {
+            "entityId": "9677_9699",
+            "span": {
+                "begin": 9677,
+                "end": 9699
+            },
+            "entityType": "disease",
+            "entityName": "alveolar consolidation",
+            "id": "UMLS:C0521530"
+        },
+        {
+            "entityId": "9865_9884",
+            "span": {
+                "begin": 9865,
+                "end": 9884
+            },
+            "entityType": "disease",
+            "entityName": "Respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "9971_9994",
+            "span": {
+                "begin": 9971,
+                "end": 9994
+            },
+            "entityType": "disease",
+            "entityName": "pulmonary insufficiency",
+            "id": "UMLS:C0034088"
+        },
+        {
+            "entityId": "10340_10345",
+            "span": {
+                "begin": 10340,
+                "end": 10345
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "10472_10480",
+            "span": {
+                "begin": 10472,
+                "end": 10480
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "10497_10516",
+            "span": {
+                "begin": 10497,
+                "end": 10516
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "10670_10678",
+            "span": {
+                "begin": 10670,
+                "end": 10678
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "10686_10705",
+            "span": {
+                "begin": 10686,
+                "end": 10705
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "10719_10727",
+            "span": {
+                "begin": 10719,
+                "end": 10727
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "10736_10755",
+            "span": {
+                "begin": 10736,
+                "end": 10755
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "11267_11272",
+            "span": {
+                "begin": 11267,
+                "end": 11272
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "11345_11353",
+            "span": {
+                "begin": 11345,
+                "end": 11353
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "11435_11452",
+            "span": {
+                "begin": 11435,
+                "end": 11452
+            },
+            "entityType": "disease",
+            "entityName": "diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "11500_11516",
+            "span": {
+                "begin": 11500,
+                "end": 11516
+            },
+            "entityType": "cell",
+            "entityName": "white blood cell",
+            "id": "UMLS:C0023516"
+        },
+        {
+            "entityId": "11524_11534",
+            "span": {
+                "begin": 11524,
+                "end": 11534
+            },
+            "entityType": "gene",
+            "entityName": "hemoglobin",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "11536_11544",
+            "span": {
+                "begin": 11536,
+                "end": 11544
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "11552_11559",
+            "span": {
+                "begin": 11552,
+                "end": 11559
+            },
+            "entityType": "gene",
+            "entityName": "albumin",
+            "id": "UMLS:C0001924"
+        },
+        {
+            "entityId": "11561_11571",
+            "span": {
+                "begin": 11561,
+                "end": 11571
+            },
+            "entityType": "drug",
+            "entityName": "creatinine",
+            "id": "UMLS:C0010294"
+        },
+        {
+            "entityId": "11579_11588",
+            "span": {
+                "begin": 11579,
+                "end": 11588
+            },
+            "entityType": "drug",
+            "entityName": "bilirubin",
+            "id": "UMLS:C0005437"
+        },
+        {
+            "entityId": "11950_11955",
+            "span": {
+                "begin": 11950,
+                "end": 11955
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "12098_12103",
+            "span": {
+                "begin": 12098,
+                "end": 12103
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "12940_12948",
+            "span": {
+                "begin": 12940,
+                "end": 12948
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13019_13027",
+            "span": {
+                "begin": 13019,
+                "end": 13027
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13105_13113",
+            "span": {
+                "begin": 13105,
+                "end": 13113
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13206_13214",
+            "span": {
+                "begin": 13206,
+                "end": 13214
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13337_13345",
+            "span": {
+                "begin": 13337,
+                "end": 13345
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13365_13373",
+            "span": {
+                "begin": 13365,
+                "end": 13373
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13405_13413",
+            "span": {
+                "begin": 13405,
+                "end": 13413
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13465_13473",
+            "span": {
+                "begin": 13465,
+                "end": 13473
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13684_13691",
+            "span": {
+                "begin": 13684,
+                "end": 13691
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13724_13740",
+            "span": {
+                "begin": 13724,
+                "end": 13740
+            },
+            "entityType": "disease",
+            "entityName": "brain infarction",
+            "id": "UMLS:C0751955"
+        },
+        {
+            "entityId": "13842_13850",
+            "span": {
+                "begin": 13842,
+                "end": 13850
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "13943_13958",
+            "span": {
+                "begin": 13943,
+                "end": 13958
+            },
+            "entityType": "disease",
+            "entityName": "cardiac failure",
+            "id": "UMLS:C0018802"
+        },
+        {
+            "entityId": "13985_13993",
+            "span": {
+                "begin": 13985,
+                "end": 13993
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "14113_14122",
+            "span": {
+                "begin": 14113,
+                "end": 14122
+            },
+            "entityType": "gene",
+            "entityName": "NT-proBNP",
+            "id": "UMLS:C0754710"
+        },
+        {
+            "entityId": "14126_14134",
+            "span": {
+                "begin": 14126,
+                "end": 14134
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "14377_14385",
+            "span": {
+                "begin": 14377,
+                "end": 14385
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "14613_14621",
+            "span": {
+                "begin": 14613,
+                "end": 14621
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "14632_14638",
+            "span": {
+                "begin": 14632,
+                "end": 14638
+            },
+            "entityType": "disease",
+            "entityName": "aortic",
+            "id": "mesh:D001018"
+        },
+        {
+            "entityId": "14651_14659",
+            "span": {
+                "begin": 14651,
+                "end": 14659
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "14692_14700",
+            "span": {
+                "begin": 14692,
+                "end": 14700
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "14819_14825",
+            "span": {
+                "begin": 14819,
+                "end": 14825
+            },
+            "entityType": "disease",
+            "entityName": "aortic",
+            "id": "mesh:D001018"
+        },
+        {
+            "entityId": "14988_14994",
+            "span": {
+                "begin": 14988,
+                "end": 14994
+            },
+            "entityType": "disease",
+            "entityName": "aortic",
+            "id": "mesh:D001018"
+        },
+        {
+            "entityId": "15220_15226",
+            "span": {
+                "begin": 15220,
+                "end": 15226
+            },
+            "entityType": "disease",
+            "entityName": "aortic",
+            "id": "mesh:D001018"
+        },
+        {
+            "entityId": "15345_15353",
+            "span": {
+                "begin": 15345,
+                "end": 15353
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "15474_15480",
+            "span": {
+                "begin": 15474,
+                "end": 15480
+            },
+            "entityType": "disease",
+            "entityName": "aortic",
+            "id": "mesh:D001018"
+        },
+        {
+            "entityId": "15647_15653",
+            "span": {
+                "begin": 15647,
+                "end": 15653
+            },
+            "entityType": "disease",
+            "entityName": "aortic",
+            "id": "mesh:D001018"
+        },
+        {
+            "entityId": "15718_15725",
+            "span": {
+                "begin": 15718,
+                "end": 15725
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "15782_15801",
+            "span": {
+                "begin": 15782,
+                "end": 15801
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "15896_15904",
+            "span": {
+                "begin": 15896,
+                "end": 15904
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "15926_15932",
+            "span": {
+                "begin": 15926,
+                "end": 15932
+            },
+            "entityType": "disease",
+            "entityName": "aortic",
+            "id": "mesh:D001018"
+        },
+        {
+            "entityId": "18576_18581",
+            "span": {
+                "begin": 18576,
+                "end": 18581
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "18631_18636",
+            "span": {
+                "begin": 18631,
+                "end": 18636
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "18808_18813",
+            "span": {
+                "begin": 18808,
+                "end": 18813
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "18889_18897",
+            "span": {
+                "begin": 18889,
+                "end": 18897
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "18978_18983",
+            "span": {
+                "begin": 18978,
+                "end": 18983
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "19210_19215",
+            "span": {
+                "begin": 19210,
+                "end": 19215
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "19252_19258",
+            "span": {
+                "begin": 19252,
+                "end": 19258
+            },
+            "entityType": "disease",
+            "entityName": "aortic",
+            "id": "mesh:D001018"
+        },
+        {
+            "entityId": "19322_19327",
+            "span": {
+                "begin": 19322,
+                "end": 19327
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "19415_19421",
+            "span": {
+                "begin": 19415,
+                "end": 19421
+            },
+            "entityType": "disease",
+            "entityName": "aortic",
+            "id": "mesh:D001018"
+        },
+        {
+            "entityId": "19486_19491",
+            "span": {
+                "begin": 19486,
+                "end": 19491
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "19752_19757",
+            "span": {
+                "begin": 19752,
+                "end": 19757
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "19849_19854",
+            "span": {
+                "begin": 19849,
+                "end": 19854
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "19860_19865",
+            "span": {
+                "begin": 19860,
+                "end": 19865
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "20083_20088",
+            "span": {
+                "begin": 20083,
+                "end": 20088
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "20210_20215",
+            "span": {
+                "begin": 20210,
+                "end": 20215
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "20345_20362",
+            "span": {
+                "begin": 20345,
+                "end": 20362
+            },
+            "entityType": "disease",
+            "entityName": "diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "20491_20496",
+            "span": {
+                "begin": 20491,
+                "end": 20496
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "20767_20772",
+            "span": {
+                "begin": 20767,
+                "end": 20772
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "24716_24721",
+            "span": {
+                "begin": 24716,
+                "end": 24721
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "24789_24797",
+            "span": {
+                "begin": 24789,
+                "end": 24797
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "24930_24935",
+            "span": {
+                "begin": 24930,
+                "end": 24935
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "25208_25216",
+            "span": {
+                "begin": 25208,
+                "end": 25216
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "25290_25298",
+            "span": {
+                "begin": 25290,
+                "end": 25298
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "26346_26359",
+            "span": {
+                "begin": 26346,
+                "end": 26359
+            },
+            "entityType": "gene",
+            "entityName": "interleukin-8",
+            "id": "UMLS:C0079633"
+        },
+        {
+            "entityId": "26401_26412",
+            "span": {
+                "begin": 26401,
+                "end": 26412
+            },
+            "entityType": "gene",
+            "entityName": "vWF antigen",
+            "id": "UMLS:C1336938"
+        },
+        {
+            "entityId": "26514_26519",
+            "span": {
+                "begin": 26514,
+                "end": 26519
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "26567_26580",
+            "span": {
+                "begin": 26567,
+                "end": 26580
+            },
+            "entityType": "gene",
+            "entityName": "interleukin-8",
+            "id": "UMLS:C0079633"
+        },
+        {
+            "entityId": "26642_26653",
+            "span": {
+                "begin": 26642,
+                "end": 26653
+            },
+            "entityType": "gene",
+            "entityName": "vWF antigen",
+            "id": "UMLS:C1336938"
+        },
+        {
+            "entityId": "26763_26776",
+            "span": {
+                "begin": 26763,
+                "end": 26776
+            },
+            "entityType": "gene",
+            "entityName": "interleukin-8",
+            "id": "UMLS:C0079633"
+        },
+        {
+            "entityId": "27119_27132",
+            "span": {
+                "begin": 27119,
+                "end": 27132
+            },
+            "entityType": "gene",
+            "entityName": "interleukin-8",
+            "id": "UMLS:C0079633"
+        },
+        {
+            "entityId": "27280_27285",
+            "span": {
+                "begin": 27280,
+                "end": 27285
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "27319_27334",
+            "span": {
+                "begin": 27319,
+                "end": 27334
+            },
+            "entityType": "disease",
+            "entityName": "cardiac failure",
+            "id": "UMLS:C0018802"
+        },
+        {
+            "entityId": "27368_27377",
+            "span": {
+                "begin": 27368,
+                "end": 27377
+            },
+            "entityType": "gene",
+            "entityName": "NT-proBNP",
+            "id": "UMLS:C0754710"
+        },
+        {
+            "entityId": "27397_27410",
+            "span": {
+                "begin": 27397,
+                "end": 27410
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "27440_27449",
+            "span": {
+                "begin": 27440,
+                "end": 27449
+            },
+            "entityType": "gene",
+            "entityName": "NT-proBNP",
+            "id": "UMLS:C0754710"
+        },
+        {
+            "entityId": "27568_27577",
+            "span": {
+                "begin": 27568,
+                "end": 27577
+            },
+            "entityType": "gene",
+            "entityName": "NT-proBNP",
+            "id": "UMLS:C0754710"
+        },
+        {
+            "entityId": "27590_27595",
+            "span": {
+                "begin": 27590,
+                "end": 27595
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "27650_27683",
+            "span": {
+                "begin": 27650,
+                "end": 27683
+            },
+            "entityType": "disease",
+            "entityName": "Postoperative Respiratory Failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "27713_27718",
+            "span": {
+                "begin": 27713,
+                "end": 27718
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "27776_27781",
+            "span": {
+                "begin": 27776,
+                "end": 27781
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "27807_27826",
+            "span": {
+                "begin": 27807,
+                "end": 27826
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "27952_27971",
+            "span": {
+                "begin": 27952,
+                "end": 27971
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "28277_28282",
+            "span": {
+                "begin": 28277,
+                "end": 28282
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "28364_28369",
+            "span": {
+                "begin": 28364,
+                "end": 28369
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "28392_28411",
+            "span": {
+                "begin": 28392,
+                "end": 28411
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "28496_28504",
+            "span": {
+                "begin": 28496,
+                "end": 28504
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28567_28572",
+            "span": {
+                "begin": 28567,
+                "end": 28572
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "28583_28588",
+            "span": {
+                "begin": 28583,
+                "end": 28588
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "28596_28601",
+            "span": {
+                "begin": 28596,
+                "end": 28601
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "30148_30152",
+            "span": {
+                "begin": 30148,
+                "end": 30152
+            },
+            "entityType": "gene",
+            "entityName": "RAGE",
+            "id": "UMLS:C1412278"
+        },
+        {
+            "entityId": "30245_30250",
+            "span": {
+                "begin": 30245,
+                "end": 30250
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "30323_30331",
+            "span": {
+                "begin": 30323,
+                "end": 30331
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "30387_30392",
+            "span": {
+                "begin": 30387,
+                "end": 30392
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "30507_30515",
+            "span": {
+                "begin": 30507,
+                "end": 30515
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "30587_30592",
+            "span": {
+                "begin": 30587,
+                "end": 30592
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "30636_30644",
+            "span": {
+                "begin": 30636,
+                "end": 30644
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "30700_30708",
+            "span": {
+                "begin": 30700,
+                "end": 30708
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "30880_30885",
+            "span": {
+                "begin": 30880,
+                "end": 30885
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "30900_30932",
+            "span": {
+                "begin": 30900,
+                "end": 30932
+            },
+            "entityType": "cell",
+            "entityName": "alveolar type I epithelial cells",
+            "id": "UMLS:C0225698"
+        },
+        {
+            "entityId": "30977_30982",
+            "span": {
+                "begin": 30977,
+                "end": 30982
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "31019_31027",
+            "span": {
+                "begin": 31019,
+                "end": 31027
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "31041_31046",
+            "span": {
+                "begin": 31041,
+                "end": 31046
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "31122_31127",
+            "span": {
+                "begin": 31122,
+                "end": 31127
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "31195_31200",
+            "span": {
+                "begin": 31195,
+                "end": 31200
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "31274_31282",
+            "span": {
+                "begin": 31274,
+                "end": 31282
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "31365_31370",
+            "span": {
+                "begin": 31365,
+                "end": 31370
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "31424_31429",
+            "span": {
+                "begin": 31424,
+                "end": 31429
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "31534_31539",
+            "span": {
+                "begin": 31534,
+                "end": 31539
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "32006_32011",
+            "span": {
+                "begin": 32006,
+                "end": 32011
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "32025_32033",
+            "span": {
+                "begin": 32025,
+                "end": 32033
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "32061_32069",
+            "span": {
+                "begin": 32061,
+                "end": 32069
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "32422_32429",
+            "span": {
+                "begin": 32422,
+                "end": 32429
+            },
+            "entityType": "drug",
+            "entityName": "lactate",
+            "id": "UMLS:C0376261"
+        },
+        {
+            "entityId": "32650_32671",
+            "span": {
+                "begin": 32650,
+                "end": 32671
+            },
+            "entityType": "disease",
+            "entityName": "systemic inflammation",
+            "id": "UMLS:C0021368"
+        },
+        {
+            "entityId": "32723_32728",
+            "span": {
+                "begin": 32723,
+                "end": 32728
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "32732_32740",
+            "span": {
+                "begin": 32732,
+                "end": 32740
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "32842_32847",
+            "span": {
+                "begin": 32842,
+                "end": 32847
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "32903_32908",
+            "span": {
+                "begin": 32903,
+                "end": 32908
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "33046_33051",
+            "span": {
+                "begin": 33046,
+                "end": 33051
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "33064_33070",
+            "span": {
+                "begin": 33064,
+                "end": 33070
+            },
+            "entityType": "disease",
+            "entityName": "aortic",
+            "id": "mesh:D001018"
+        },
+        {
+            "entityId": "33125_33138",
+            "span": {
+                "begin": 33125,
+                "end": 33138
+            },
+            "entityType": "gene",
+            "entityName": "interleukin-8",
+            "id": "UMLS:C0079633"
+        },
+        {
+            "entityId": "33153_33159",
+            "span": {
+                "begin": 33153,
+                "end": 33159
+            },
+            "entityType": "disease",
+            "entityName": "aortic",
+            "id": "mesh:D001018"
+        },
+        {
+            "entityId": "33341_33347",
+            "span": {
+                "begin": 33341,
+                "end": 33347
+            },
+            "entityType": "disease",
+            "entityName": "aortic",
+            "id": "mesh:D001018"
+        },
+        {
+            "entityId": "33407_33420",
+            "span": {
+                "begin": 33407,
+                "end": 33420
+            },
+            "entityType": "gene",
+            "entityName": "interleukin-8",
+            "id": "UMLS:C0079633"
+        },
+        {
+            "entityId": "33446_33451",
+            "span": {
+                "begin": 33446,
+                "end": 33451
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "33548_33556",
+            "span": {
+                "begin": 33548,
+                "end": 33556
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "33649_33664",
+            "span": {
+                "begin": 33649,
+                "end": 33664
+            },
+            "entityType": "disease",
+            "entityName": "pulmonary edema",
+            "id": "UMLS:C0034063"
+        },
+        {
+            "entityId": "33674_33701",
+            "span": {
+                "begin": 33674,
+                "end": 33701
+            },
+            "entityType": "disease",
+            "entityName": "cardiogenic pulmonary edema",
+            "id": "UMLS:C0398350"
+        },
+        {
+            "entityId": "33808_33816",
+            "span": {
+                "begin": 33808,
+                "end": 33816
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "33830_33839",
+            "span": {
+                "begin": 33830,
+                "end": 33839
+            },
+            "entityType": "gene",
+            "entityName": "NT-proBNP",
+            "id": "UMLS:C0754710"
+        },
+        {
+            "entityId": "33856_33864",
+            "span": {
+                "begin": 33856,
+                "end": 33864
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "33904_33912",
+            "span": {
+                "begin": 33904,
+                "end": 33912
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "33960_33969",
+            "span": {
+                "begin": 33960,
+                "end": 33969
+            },
+            "entityType": "gene",
+            "entityName": "NT-proBNP",
+            "id": "UMLS:C0754710"
+        },
+        {
+            "entityId": "34050_34058",
+            "span": {
+                "begin": 34050,
+                "end": 34058
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "34064_34099",
+            "span": {
+                "begin": 34064,
+                "end": 34099
+            },
+            "entityType": "disease",
+            "entityName": "acute respiratory distress syndrome",
+            "id": "UMLS:C0748355"
+        },
+        {
+            "entityId": "34154_34163",
+            "span": {
+                "begin": 34154,
+                "end": 34163
+            },
+            "entityType": "gene",
+            "entityName": "NT-proBNP",
+            "id": "UMLS:C0754710"
+        },
+        {
+            "entityId": "34218_34223",
+            "span": {
+                "begin": 34218,
+                "end": 34223
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "34326_34339",
+            "span": {
+                "begin": 34326,
+                "end": 34339
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "34344_34349",
+            "span": {
+                "begin": 34344,
+                "end": 34349
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "34389_34394",
+            "span": {
+                "begin": 34389,
+                "end": 34394
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "34467_34480",
+            "span": {
+                "begin": 34467,
+                "end": 34480
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "34484_34511",
+            "span": {
+                "begin": 34484,
+                "end": 34511
+            },
+            "entityType": "disease",
+            "entityName": "cardiogenic pulmonary edema",
+            "id": "UMLS:C0398350"
+        },
+        {
+            "entityId": "34575_34580",
+            "span": {
+                "begin": 34575,
+                "end": 34580
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "34614_34625",
+            "span": {
+                "begin": 34614,
+                "end": 34625
+            },
+            "entityType": "disease",
+            "entityName": "lung injury",
+            "id": "mesh:D055370"
+        },
+        {
+            "entityId": "34660_34665",
+            "span": {
+                "begin": 34660,
+                "end": 34665
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "34750_34755",
+            "span": {
+                "begin": 34750,
+                "end": 34755
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "34821_34826",
+            "span": {
+                "begin": 34821,
+                "end": 34826
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "34937_34942",
+            "span": {
+                "begin": 34937,
+                "end": 34942
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "35065_35070",
+            "span": {
+                "begin": 35065,
+                "end": 35070
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "35318_35323",
+            "span": {
+                "begin": 35318,
+                "end": 35323
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "35395_35400",
+            "span": {
+                "begin": 35395,
+                "end": 35400
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "35535_35540",
+            "span": {
+                "begin": 35535,
+                "end": 35540
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "35552_35565",
+            "span": {
+                "begin": 35552,
+                "end": 35565
+            },
+            "entityType": "gene",
+            "entityName": "interleukin-8",
+            "id": "UMLS:C0079633"
+        },
+        {
+            "entityId": "35646_35659",
+            "span": {
+                "begin": 35646,
+                "end": 35659
+            },
+            "entityType": "gene",
+            "entityName": "interleukin-8",
+            "id": "UMLS:C0079633"
+        },
+        {
+            "entityId": "35781_35786",
+            "span": {
+                "begin": 35781,
+                "end": 35786
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "35950_35955",
+            "span": {
+                "begin": 35950,
+                "end": 35955
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "35961_35979",
+            "span": {
+                "begin": 35961,
+                "end": 35979
+            },
+            "entityType": "cell",
+            "entityName": "inflammatory cells",
+            "id": "UMLS:C0440752"
+        },
+        {
+            "entityId": "36109_36114",
+            "span": {
+                "begin": 36109,
+                "end": 36114
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "36169_36180",
+            "span": {
+                "begin": 36169,
+                "end": 36180
+            },
+            "entityType": "gene",
+            "entityName": "vWF antigen",
+            "id": "UMLS:C1336938"
+        },
+        {
+            "entityId": "36272_36277",
+            "span": {
+                "begin": 36272,
+                "end": 36277
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "36497_36516",
+            "span": {
+                "begin": 36497,
+                "end": 36516
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "36566_36571",
+            "span": {
+                "begin": 36566,
+                "end": 36571
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "36576_36587",
+            "span": {
+                "begin": 36576,
+                "end": 36587
+            },
+            "entityType": "gene",
+            "entityName": "vWF antigen",
+            "id": "UMLS:C1336938"
+        },
+        {
+            "entityId": "36693_36698",
+            "span": {
+                "begin": 36693,
+                "end": 36698
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "36770_36781",
+            "span": {
+                "begin": 36770,
+                "end": 36781
+            },
+            "entityType": "disease",
+            "entityName": "lung injury",
+            "id": "mesh:D055370"
+        },
+        {
+            "entityId": "36913_36924",
+            "span": {
+                "begin": 36913,
+                "end": 36924
+            },
+            "entityType": "disease",
+            "entityName": "lung injury",
+            "id": "mesh:D055370"
+        },
+        {
+            "entityId": "37065_37070",
+            "span": {
+                "begin": 37065,
+                "end": 37070
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "37225_37230",
+            "span": {
+                "begin": 37225,
+                "end": 37230
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "37318_37323",
+            "span": {
+                "begin": 37318,
+                "end": 37323
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "37360_37365",
+            "span": {
+                "begin": 37360,
+                "end": 37365
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "37433_37452",
+            "span": {
+                "begin": 37433,
+                "end": 37452
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "37583_37588",
+            "span": {
+                "begin": 37583,
+                "end": 37588
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "37762_37767",
+            "span": {
+                "begin": 37762,
+                "end": 37767
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "37989_37994",
+            "span": {
+                "begin": 37989,
+                "end": 37994
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "38039_38058",
+            "span": {
+                "begin": 38039,
+                "end": 38058
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "38100_38108",
+            "span": {
+                "begin": 38100,
+                "end": 38108
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "38128_38147",
+            "span": {
+                "begin": 38128,
+                "end": 38147
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "38472_38477",
+            "span": {
+                "begin": 38472,
+                "end": 38477
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "38598_38617",
+            "span": {
+                "begin": 38598,
+                "end": 38617
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "38717_38722",
+            "span": {
+                "begin": 38717,
+                "end": 38722
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "38764_38769",
+            "span": {
+                "begin": 38764,
+                "end": 38769
+            },
+            "entityType": "gene",
+            "entityName": "sRAGE",
+            "id": "UMLS:C0021017"
+        },
+        {
+            "entityId": "38806_38825",
+            "span": {
+                "begin": 38806,
+                "end": 38825
+            },
+            "entityType": "disease",
+            "entityName": "respiratory failure",
+            "id": "UMLS:C1145670"
+        },
+        {
+            "entityId": "38832_38839",
+            "span": {
+                "begin": 38832,
+                "end": 38839
+            },
+            "entityType": "disease",
+            "entityName": "cardiac",
+            "id": "mesh:D006331"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "403_408",
+            "subjectText": "sRAGE",
+            "rel_name": "associate",
+            "objectId": "447_480",
+            "objectText": "postoperative respiratory failure"
+        }
+    ]
+}

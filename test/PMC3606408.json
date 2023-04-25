@@ -1,0 +1,3963 @@
+{
+    "sourcid": "PMC3606408",
+    "publisher": "Public Library of Science",
+    "journal": "PLoS ONE",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3606408/",
+    "text": "Wnt1 Inhibits Hydrogen Peroxide-Induced Apoptosis in Mouse Cardiac Stem Cells Background Because of their regenerative and paracrine abilities, cardiac stem cells (CSCs) are the most appropriate, optimal and promising candidates for the development of cardiac regenerative medicine strategies. However, native and exogenous CSCs in ischemic hearts are exposed to various pro-apoptotic or cytotoxic factors preventing their regenerative and paracrine abilities. Methods and Results We examined the effects of H2O2 on mouse CSCs (mCSCs), and observed that hydrogen peroxide (H2O2) treatment induces mCSCs apoptosis via the caspase 3 pathway, in a dose-dependent manner. We then examined the effects of Wnt1 over-expression on H2O2-induced apoptosis in mCSCs and observed that Wnt1 significantly decreased H2O2-induced apoptosis in mCSCs. On the other hand, inhibition of the canonical Wnt pathway by the secreted frizzled related protein 2 (SFRP2) or knockdown of beta-catenin in mCSCs reduced cells resistance to H2O2-induced apoptosis, suggesting that Wnt1 predominantly prevents H2O2-induced apoptosis through the canonical Wnt pathway. Conclusions Our results provide the first evidences that Wnt1 plays an important role in CSCs' defenses against H2O2-induced apoptosis through the canonical Wnt1/GSK3beta/beta-catenin signaling pathway. Introduction Accumulating evidences during the past decade in both humans and animal models documented the presence of endogenous cardiac stem cells (CSCs) in adult myocardium. In response to local tissue injury, CSCs differentiate into specialized cells, while the pool of stem cells is maintained in time through self-renewal and enhanced proliferation. Exogenous CSCs transplantation into 30-day infarcted rat hearts was shown to activate endogenous CSCs, thus alleviating left ventricular dysfunction. Furthermore, human cardiosphere-derived cells were reported to exhibit paracrine abilities through the secretion of growth factors, resulting in anti-apoptotic effects on surviving cardiomyocytes following their intra-myocardial injection after myocardial infarction MI in mice. Therefore, because of their direct regenerative and paracrine abilities, the use of CSCs is considered highly promising as the most appropriate and optimal candidate cell type for future cardiac regenerative medicine studies and strategies. The c-kit-positive (c-kit+) CSCs are the only adult-derived CSCs known to exhibit all the stem cells characteristics, being clonogenic, self-renewing, multipotent and having substantial regenerative potential in an in vivo animal MI regeneration assay. Native and exogenous stem cells in ischemic hearts are exposed to various pro-apoptotic and cytotoxic factors. Furthermore, during repopulation and differentiation, a number of newly produced cells may die by apoptosis during neocardiovascular tissue remodeling and morphogenesis. However, the molecular cues and signaling pathways modulating CSCs apoptosis in tissue injury, especially in MI, remain unclear. Wnt are secreted as glycosylated lipid-modified cysteine-rich proteins and play crucial roles in embryonic development, morphogenesis, cell proliferation, differentiation and migration. Wnt signaling includes the canonical (Wnt/beta-catenin and cTnnB1) and non-canonical (Wnt/Ca2+) pathways. A less described Wnt pathway is the Wnt-JnK pathway. Several reports proposed time- and context-dependent roles for canonical Wnt signaling in cardiogenesis and progenitor cell biology. Canonical Wnt signaling exhibits biphasic and antagonistic effects on cardiomyogenesis and hematopoiesis/vasculogenesis, depending on the stage of development. Also, some researchers showed biphasic and antagonistic effects on apoptosis in cardiac cells and stem cells. Studies using mesenchymal stem cells (MSC) demonstrated that Wnt3a, a canonical Wnt, reversed acetylsalicylic acid-induced MSC apoptosis. On the other hand, canonical Wnt signaling was also shown to promote apoptosis; however, this pathway is prevented by SFRP2 through direct binding in H9C2 cells. Caspase 3 is the most extensively studied apoptotic protein. Caspase 3 is synthesized as an inactive proenzyme that is processed in cells undergoing apoptosis by self-proteolysis and/or cleavage by another upstream protease. Since the Wnt/beta-catenin signaling pathway is crucial in adult mammals for regulating cell proliferation, cell fate, apoptosis, and axis polarity induction, we aimed to investigate the role of Wnt pathways in the oxidative stress-induced CSCs apoptosis. First, we examined if hydrogen peroxide (H2O2) treatment induced CSCs apoptosis via the caspase pathway. Secondly, we examined if Wnt1 is involved in the H2O2-induced CSCs apoptosis. This present study is the first to examine Wnt1 critical role as a cardiac protective agent against H2O2-induced CSCs apoptosis. Materials and Methods CSCs Isolation and Culture from Adult Babl/c Mice Hearts CSCs were isolated from the hearts of Babl/c mice (18-25 g) using a previously published method with a minor modification. All Babl/c mice were obtained from the Laboratory Animal Science Department, the Second Affiliated Hospital of Harbin Medical University, Heilongjiang, PR China. All experimental animal procedures were approved by the Local Ethical Committee of Harbin Medical University Animal Care and Use. Briefly, mice were injected with heparin (5,000 IU/kg, i.p.) 20 min prior to the experimental protocol, and were then killed by cervical dislocation. The heart was excised and the aorta was rapidly cannulated. The cannulated heart was mounted on a Langendorff perfusion apparatus with constant flow and perfusion pressure was monitored. The heart was firstly perfused with Ca2+-free Tyrode solution for 10 min to remove the blood, and was then digested using 0.5 mg/ml collagenase (Sigma, St-Louis, MO, USA) and 0.5 mg/ml trypsin (GIBCO, Invitrogen Inc., Carlsbad, CA, USA) at 37 C for 30 min. The heart tissue was then chopped and the cell suspension was filtered with a Steriflip (SCNY00100-1EA, Millipore corp., Billerica, MA, USA). Cells were incubated with a FITC rat anti-mouse CD117/c-kit antibody (BD Biosciences, Franklin Lake, NJ, USA) and separated using MACS anti-FITC microbeads (Miltenyi Biotec, Bergisch Gladbach, Germany). Small round cells, containing most of the c-kit+ population, were obtained and were cultured for 3-5 days in HyClone Dulbecco's MEM/F12 (Thermo Fisher Scientific, Waltham, MA, USA) containing fetal bovine serum (FBS), 10 ng/ml bFGF (PeproTech, Rocky Hill, NJ, USA), 10 ng/ml IGF (PeproTech) 10 ng/ml, EGF (PeproTech) and 10 ng/ml LIF (Sigma), at 37 C. After recovery, cells were used for subsequent experiments.         Construction of pEGFP-C3-Wnt1 Fusion Expression Plasmid and Transfection into Mouse CSCs Wnt1 full-length cDNA was cloned by RT-PCR from total RNA extracted from mouse CSCs (mCSCs) using the following primer pair: 5'-GCAAGCTTATGAGGTGGCTCCTGCCC-3' (forward) and 5'-GCGGTACCCTAATTGGCAATCTCTTCGAAGTC-3' (reverse). cDNA was purified and ligated to pGEM-T-easy vector (Promega, Madison, WI, USA). The insert was digested using the SacII enzyme and ligated into pEGFP-C3 to generate the fusion expression vector, pEGFP-C3-Wnt1. Orientation and integrity of the inserted Wnt1 cDNA sequence and the continuation of the open reading frame of the pEGFP-C3-Wnt1 fusion peptide were confirmed by restriction enzyme digestion (EcoRI) and by sequencing. mCSCs were plated on day 1 at 20,000 cells/well in a 6-well plate (~15% confluency). On day 2, culture medium (no antibiotics) was changed and culture was continued for 2-4 h. Plasmid transfection was performed by mixing 100 microl HyClone DMEM medium (Thermo Fisher Scientific) with 6 microl HP DNA Transfection Reagent (Roche Applied Science, Penzberg, Germany) for 5 min, then by adding 2 microg DNA to the HP-DMEM mix, incubating for 15 min and transferring with 1000 microl complete medium (no antibiotics). On day 3, fresh culture medium was provided. On days 3-5, cells were tested by real-time PCR and flow cytometry analysis to confirm the expression of pEGFP-C3-Wnt1.   Small Interfering RNA (siRNA) Knockdown of beta-catenin Gene silencing by small interfering RNA (siRNA) uses a small double-strand RNA that degrades target mRNA. beta-catenin siRNA duplex were synthesized by Shanghai GenePharma Co., Ltd (Shanghai, China) (sense: 5'-GCCUCUGAUAAAGGCAACUTT-3'; antisense: 5'-AGUUGCCUUUAUCAGAGGCTT-3'). In the control group, cells were treated with transfection reagents (vehicle) or with a non-targeting siRNA (siRNA-NC) (sense: 5'-UUCUCCGAACGUGUCACG-3'; antisense: 5'-ACGUGACACGUUCGGAGAATT -3').               Cells were transfected using the X-treme siRNA Transfection Reagent (Roche Applied Science, Penzberg, Germany), according to the manufacturer's instructions. In brief, mCSCs were plated in a 6-well plate and treated with the X-treme GENE siRNA Transfection Reagent in a 5:1 ratio to the siRNA mass for 20 min. Cells were then transfected with a mixture containing 150 microM siRNA and incubated in 2 ml of FBS-free Opti-MEM medium (Invitrogen Inc., Carlsbad, CA, USA) for 4-6 h. Transfection efficiency was analyzed by western blot analysis, and revealed an >80% reduction of beta-catenin. Transfection efficiency was also analyzed by fluorescence analysis using a confocal laser-scanning microscope (Fluo View v5.0 FV300; Olympus Corporation, Tokyo, Japan) and counted in 10 randomly selected fields. After a 48 h growth in conditioned medium, transfected cells were subjected to analysis.  Treatment of the Mouse CSCs with H2O2  After transfection with pEGFP-C3-Wnt1 fusion plasmid and negative control (pEGFP-C3) for 72 h, medium was replaced with 1000 microl of fresh DMEM medium without serum and culture was continued at 37 C for 1 h. Different concentrations of H2O2 were prepared in DMEM medium without serum. Final H2O2 concentrations were 0, 50, 100, 150, 200, 250, 300 microM. medium was replaced with this new medium and cells were cultured for 2 h. Immunofluorescence To characterize the c-kit+ cells among the isolated cells, cells were fixed with 4% (v/v) formaldehyde for 15 min. After washing with PBS, cells were blocked with 10% BSA, and incubated at 37 C for 1 h with rabbit anti-c-kit (1:100, BA0467, Boster Bioengineering Co., Wuhan, China), rabbit anti-GATA4 (1:100, bs-1778R, Boster Bioengineering Co.) and mouse anti-desmin antibodies (1:100, BM0036, Boster Bioengineering Co.). Mouse anti-cardiac myosin heavy chain antibodies (1:100, ab15, Abcam Ltd., Cambridge, MA, USA) and mouse anti-Tn-I (1:100, ab19615, Abcam Ltd.). Cells were then washed and incubated in the dark for 1 h at 37 C with Rhodamine (TRITC)-conjugated AffiniPure Goat Anti-Mouse IgG (H+L)- antibodies (1:200, ZSGB-BIO, Beijing, China) and Fluorescein (FITC)-conjugated AffiniPure Goat Anti-Rabbit IgG (H+L) antibodies (1:200, ZSGB-BIO, Beijing, China). After washing, nuclei were counterstained with 4',6-diamidino-2-phhenylindole dihydrochloride (DAPI, Sigma, St-Louis, MO, USA). Cells were examined under a fluorescence microscope (DMI4000B, Leica, Germany).                   Quantitative RT-PCR Total RNA was extracted from mCSCs after various combinations with or without pEGFP-C3-Wnt1 fusion plasmid and SFRP2 treatment. After pretreatment using RNase-free DNase I, 2 microg of total RNA was used for cDNA synthesis using a ThermoScript RT-PCR System (Invitrogen). Real-time RT-PCR experiments were performed on a Capillary Lightcycler (Roche Applied Science) using a Roche Fast Start SYBR Green I Kit. Genes amplification was confirmed by calculating melting temperatures (Tm) for the products from the melting peak curve (-dF/dT vs. temperature). All amplicons were collected and confirmed by agarose gel electrophoresis and sequencing. A standard curve of cross-point versus logarithmic concentration was created using one of the cDNA samples with serial dilutions or with known concentrations of plasmid DNA with a Wnt1 gene insert. Negative controls were included, using cDNAs synthesized in the same way as above but with no reverse transcriptase. Each cDNA sample was run in triplicate. Data were averaged and standard deviations were calculated. The GAPDH gene was used as the standard control. The primers used in this study and PCR conditions are described in Table 1. PCR primers and PCR conditions. Primer\tAnnealing temperature  C\t \tWnt1\tGAPDH\t \t5'-GCAAGCTTATGAGGTGGCTCCTGCCC-3';\t5'-GGCACAGTCAAGGCTGAGAATG-3';\t \t5'-GCGGTACCCTAATTGGCAATCTCTTCGAAGTC-3'';\t5'-ATG GTG GTG AAG ACG CCA GTA-3';\t \t55\t55                       Western Blotting Protein samples were denatured at 95 C for 5 min before loading onto an SDS-polyacrylamide gel (reducing or non-reducing, 4-15%) and run under standard conditions. Proteins were transferred onto polyvinylidene difluoride (PVDF, Millipore) membranes. Membranes were blocked with 5% non-fat milk at room temperature for 1 h in Tris-buffered saline containing Tween 20 (TBST). Primary antibodies against GSK-3beta, p-GSK-3beta, caspase 3 and beta-catenin (Cell Signaling, Danvers, MA, USA), or beta-actin (Zhongshan Goldenbridge Biotechnology Co. Ltd., Beijing, China) were incubated overnight with the membranes at 4 C. Membranes were then incubated 60 min with peroxidase-conjugated Affinipure goat anti-rabbit IgG (H+L) and anti-mouse IgG (H+L)-labeled secondary antibodies diluted 1:2000. Membranes were washed in TBST solution with 0.5% Tween-20 before the ECL detection with BeyoECL Plus (Beyotime Institute of Biotechnology, Haimen, China). After exposure on an X-ray film, the blot was stripped in 5 ml sripping buffer (CoWin Biotech, Beijing, China) for 15 min at room temperature and hybridized using the antibody against beta-actin for normalization. The protein band densitometry was analyzed using the Tanon Gel Imaging System (Shanghai Tanon Co. Ltd., Shanghai, China). TUNEL Assay Terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling (TUNEL) staining was performed using an in situ cell death detection kit (Roche) according to the manufacturer's protocol. The c-kit+ cells were fixed in 4% paraformaldehyde and stained. TUNEL-positive cells were imaged using a confocal laser-scanning microscope (Fluo View v5.0 FV300; Olympus Corporation, Japan) and counted in 10 randomly selected fields. Results are expressed as the proportion of TUNEL-positive cells to total cells counted. DAPI (1 microg/mL) was used for nuclear counterstaining. Flow Cytometry Surface marker characterization A single cell suspension of 0.5-1.0x106 cells/ml in phosphate buffered saline (Ca+2/Mg+2free), were incubated in 1:100 dilution at 4 C for 30 minutes in the dark for tagging with fluorescent primary antibodies: CD29-FITC, CD90-PE, c-kit(CD117)-FITC, sca-1-FITC, and CD34-PE (BD Biosciences, Franklin Lake, NJ, USA). A total of 10,000 events were acquired using a BD LSRII flow cytometer (BD Biosciences) and data were analyzed using the BD FACSDiva  software. Flow cytometry was carried out using cells from three independent experiments and was performed in duplicates.         Transfection efficiency assessment After plasmid transfection, cells were cultured and harvested after 72 h. The cellular uptake of plasmid was determined by flow cytometry. Apoptosis detection CSCs apoptosis was assessed using the annexin V-FITC apoptosis detection kit, according to manufacturer's instructions (BD Biosciences). Briefly, CSCs were grown in the presence or absence of H2O2 for 2 hours after transfection with pEGFP-C3-Wnt1 plasmid. CSCs were cultured in DMEM/F12 with 10% FBS as negative controls. Cells were harvested and washed once in PBS and resuspended in buffer and incubated with annexin V-FITC in the dark at room temperature for 30 minutes. Cells were then washed once with PBS and resuspended in buffer supplemented with propidium iodide (PI).   Statistical Analysis Statistical analysis was performed with SPSS 18.0 (SPSS Inc., Chicago, IL, USA). Measurements are presented as mean +- SD. Comparisons for all pairs were performed by the Student's t-test or the least significant difference (LSD) test. A p-value <0.05 was considered significant.   Results Characterization of Mouse c-kit+ Cardiac Cells Cardiac cells were isolated from Babl/c mice (18-25 g). Small cells, containing most of the c-kit+ population, were separated from the differentiated myocytes by differential centrifugation and incubated with a FITC rat anti-mouse CD117/c-kit antibody. The c-kit+ cells were separated either by repeated passing, using MACS. After purification, flow cytometry showed that 99.4+-0.4% of cells were c-kit+ (Figure 1A), but were negative for CD34 (1.1+-0.42%). In the meanwhile, as expected, these cells were positive for the control mesenchymal marker CD90 (95.4+-0.7%), CD29 (99.4+-0.5%) and the stemness marker sca-1 (87.4+-2.07%). These results suggested that mCSCs, although maintaining stemness phenotypic features, displayed some characteristics of the early cardiac phenotype (Figure 1A).   Flow cytometry and Immunofluorescence analysis of c-kit+ cells. (A) Flow cytometry analysis of c-kit+ cells. The c-kit+ cells were enriched by the MACS system with FITC-conjugated anti-c-kit antibody and anti-FITC microbeads; after sorting, 99% of the cells expressed c-kit. The c-kit+ cells were stained with PE-conjugated anti-CD90 and anti-CD34 antibodies, and with FITC-conjugated anti-Sca-1 and anti-CD29 antibodies. In enriched c-kit+ cells, ~99% of the cells expressed CD90, ~95% of the cells expressed CD29, ~3% of the cells expressed CD34, and ~87% of the cells expressed Sca-1. (B) Immunofluorescence analysis of c-kit+ cells. Fresh mCSCs in culture were fixed and stained for indirect immunofluorescence. Nuclei were counterstained with DAPI. Most of the cells were c-kit-positive. The c-kit+ cells express desmin- (27%+-9%) and GATA-4-positive (49%+-11%), and no staining for cardiac myosin heavy chain or cardiac TnI was detected.         Immunofluorescence microscopy of c-kit-enriched mCSCs was performed and confirmed previous data, showing that a large number of cells expressed c-kit, GATA-4 and desmin. No markers characterizing fully differentiated cardiomyocytes, such as cardiac myosin heavy chain and cardiac troponin I (cTnI), were detected (Figure 1B). Establishment of Wnt1 Gene Overexpression in mCSCs To investigate the functional roles of Wnt1 during apoptosis in CSCs, a Wnt1 gene expression vector was constructed and transfected into mCSCs. After transfection, Wnt1 expression levels were examined by real-time PCR and flow cytometry. Results showed that Wnt1 expression increased over time, levels at 72 h after transfection being 4.45-fold and 2.21-fold compared with the levels at 24 h and 48 h, respectively (Figure 2A). Because Wnt1 gene expression peaked at 72 h after transfection, the transfected CSCs were collected at 72 h to investigate transfection efficiencies by flow cytometry, which was 32.28+-0.26% (Figure 2B). The pEGFP-C3-Wnt1 fusion plasmids were transfected in mCSCs. (A) Total RNA was isolated from Wnt1-CSCs. Real-time PCR confirmed that the optimal time for Wnt1 expression after plasmid transfection was 72 h. (B) Confirmation of plasmid transfection efficiency by the presence of green fluorescence, performed by flow cytometry analysis. Green fluorescence intensities were measured in transfected cells by excitation at 488 nm and emission recorded at 530 nm. Each value represents the mean of three individual experiments. Plasmid transfection efficiency was 32.28+-0.26% (p<0.05). H2O2-induced Apoptosis in mCSCs In order to study H2O2-induced apoptosis, we treated mCSCs with various concentrations of H2O2 for 2 h and examined cell apoptosis by flow cytometry. Cell apoptosis was measured by annexin V-FITC, which binds to phosphatidylserine residues that are redistributed from the inner to the outer leaflet of the cell membrane as an early event in apoptosis. After loss of membrane integrity, PI may also enter the cell and intercalate into DNA. At concentrations ranging from 50 to 300 microM for 2 h, the proportions of annexin V-FITC-positive cells were 16.65+-1.24%, 19.63+-1.02, 19.21+-1.22%, 17.55+-1.13%, 14.74+-1.09% and 18.54+-1.13% respectively, compared to control (less than 0.7%). The proportions of annexin V- PI+ (necrotic cells) were 1.37+-0.32%, 2.26+-0.18%, 3.14+-0.21%, 1.27+-0.24%, 1.64+-0.47% and 2.38+-0.17%, respectively, compared to control (less than 0.02%). We then used H2O2 at a 200 microM concentration to treat the mCSCs to induce apoptosis, since this concentration generated fewer dead cells. Results suggested that H2O2 treatment induced apoptosis in CSCs (Figure 3A). H2O2 induced apoptosis in mCSCs. (A) mCSCs were treated with a range of H2O2 concentrations (0, 50, 100, 150, 200, 250 and 300 microM) for 2 h. Cells were then stained with annexin V and PI and analyzed by flow cytometry. Apoptotic cells are localized in the lower right (early apoptosis) and upper right (late apoptosis) quadrants of the dot-plot graph using annexin V vs. PI. Dead cells are localized in the upper left quadrant. (B) Quantitative analysis of annexin V+ PI- and annexinV+ PI+ CSCs by flow cytometry. (C) H2O2 induced caspase 3 activation in mCSCs. After H2O2 treatment using different concentration, cells were harvested and western blots were performed to compare the changes in caspase 3 activation. Western blot showed an increase in cleaved caspase 3 after treatment with a range of H2O2 concentration (from 0 microM to 300 microM), in a dose-dependent manner. (D) Densitometric analysis of cleaved caspase 3. (B and D) Bar graphs represent the mean values of triplicate measurements +- SD. *P<0.05; **P<0.01, compared with the control group (0 microM H2O2). To determine whether caspase 3 is involved in H2O2-induced apoptosis, we treated the cells with various concentration of H2O2 for 2 h. Then, the CSCs were collected to detect the caspase 3 activity by western blot. Results showed that caspase 3 activities were increased with increasing H2O2 concentrations, in a dose-dependent manner (Figure 3C). These results indicate that the H2O2-induced apoptosis may depend on caspase 3 activity. Overexpression of pEGFP-C3-Wnt1 Provides Additional Protection to mCSCs Against H2O2-induced Apoptosis In order to determine the effects of Wnt1 gene expression on H2O2-induced mCSCs apoptosis, mCSCs were transfected with the Wnt1 plasmid (Wnt1-CSCs) 72 h before treatment with 200 microM of H2O2 for 2 h. As shown in Figures 4A and B, Wnt1 partly blocked H2O2-induced apoptosis (10.68+-2.17%), compared to control C3-CSCs (19.77+-1.6%). Apoptotic cells were also recognized by the identification of DNA fragmentation using the TUNEL assay. Wnt1-CSCs reduced TUNEL-positive cells compared to C3-CSCs (48+-14 versus 94+-18, p<0.05, Figures 4C and D). These results suggest that Wnt1 gene effectively prevented H2O2-induced CSCs apoptosis. Overexpression of pEGFP-C3-Wnt1 prevented H2O2-induced apoptosis in mCSCs. (A) Representative annexin V/PI flow cytometry analysis of mCSCs. (B) Quantification of analysis of annexin V+/PI- and annexin V+/PI+ mCSCs by flow cytometry. (C) Representative TUNEL-staining photographs for C3-mCSCs (control) and Wnt1-mCSCs. (D) Comparison of the numbers of TUNEL-positive cells from the two groups. *P<0.01 vs. the control group. (E) Representative immunoblot images of cleaved caspase 3 protein. Caspase 3 was activated after H2O2 treatment, but was decreased in Wnt1-CSCs. (F) Densitometric analysis of cleaved caspase 3 proteins from Figure 4E. (G) Representative immunoblot images of p-GSK3beta and GSK3beta proteins. (H) Densitometric analysis of p-GSK3beta proteins from Figure 4G. (I) Representative immunoblot images of beta-catenin and beta-actin proteins. (J) Densitometric analysis of beta-catenin protein from Figure 4I. (B, D, F, H and J) Bar graphs represent the mean values of triplicate measurements +- SD. *P<0.05 vs. the control group treated without 200 microM H2O2; # P<0.05 vs. the C3-CSCs group treated with 200 microM H2O2. **P<0.01 vs. the C3-CSCs group treated with 200 microM H2O2. We next examined caspase 3 activation in H2O2-stimulated Wnt1- and C3-CSCs. Western blotting analysis revealed that the amounts of cleaved caspase 3 in H2O2-stimulated Wnt1-CSCs were decreased by 1.21-fold compared to C3-CSCs. These data imply that Wnt1 blocked the caspase 3-mediated apoptosis. To investigate the molecular mechanism by which Wnt1 exerts its anti-apoptotic effects, the activation of the canonical Wnt pathway was examined. The canonical Wnt pathway involves the interaction of Wnt with the Frizzled receptor, resulting in the inhibition of GSK-3beta by an unclear mechanism involving the phosphoprotein Dishevelled. We thus analyzed GSK3beta activation by western blotting analysis with a phospho-GSK3beta (p-GSK3beta)-specific antibody. Results showed that Wnt1 significantly increased the amounts of p-GSK3beta compared to the control cells (p<0.05, Figures 4G and H). These results indicate that Wnt1 prevented H2O2-induced CSCs apoptosis, at least in part, by altering caspase 3 activation. beta-catenin can be used as a signature for the activation of the canonical Wnt pathway. Therefore, we analyzed beta-catenin expression by western blot analysis. As expected, Wnt1 increased the amounts of beta-catenin compared with the control cells (p<0.05, Figures 4I and J). These data suggested that the effects of Wnt1 on mCSCs were regulated via the GSK3beta/beta-catenin pathway, mimicking canonical Wnt signaling. Inhibition of Wnt Pathway by SFRP2 in mCSCs Reduced Resistance to H2O2-mediated Apoptosis To further elucidate the role of the Wnt pathway on the prevention of H2O2-induced mCSCs apoptosis, we examined mCSCs apoptosis and GSK3beta activity in SFRP2-treated mCSCs. Wnt1-CSCs were first pretreated with various concentrations of SFRP2 (from 3 to 150 nM) for 24 h, followed by a treatment with H2O2 (200 microM for 2 h); Wnt1 mRNA expression levels were then quantified by real-time PCR (Figure 5A). It revealed that Wnt1 mRNA expression reached a minimum at 20 nM of SFRP2 and a maximum at 3 nM (Figure 5A). Results show that pretreatment with SFRP2 decreased Wnt1 mRNA expression in a dose-dependent manner. We then pretreated Wnt1-CSCs with 20 nM of SFRP2 for 24 h, followed by a treatment with H2O2 (200 microM for 2 h) and the apoptosis was quantified by flow cytometry. Results indicated that SFRP2 increased apoptosis, including both early (annexin V-FITC+ PI- cells) and late apoptosis (annexin V-FITC+ PI+ cells). The proportion of annexin V-FITC+ SFRP2-treated cells was 14.99+-1.7%, compared to untreated cells (10.68+-2.17%). Inhibition of the Wnt pathway by SFRP2 reduced mCSCs' resistance to H2O2-induced apoptosis.   (A) Total mRNA was isolated from mCSCs treated with a range of concentrations of the SFRP2 protein (0, 3, 10, 15, 20, 50, 100 and 150 nM) for 24 h in serum-free medium. Real-time PCR was performed to quantify Wnt1 mRNA. (B) Representative annexin V/PI flow cytometry analysis of mCSCs. (C) Analysis of annexinV+/PI- and annexin V+/PI+ mCSCs by flow cytometry. (D) Representative immunoblot images of cleaved caspase 3 and p-GSK3beta proteins. Caspase 3 was activated after H2O2 treatment, but was decreased in C3-CSCs. (E) Densitometric analysis of cleaved caspase 3 protein from Figure 4D. (F) Densitometric analysis of p-GSK3beta protein from Figure 4D. (G) Representative immunoblot images of beta-catenin proteins. (H) Densitometric analysis of beta-catenin protein from Figure 4G. (C, E, F and H) Bar graphs represent the mean values of triplicate measurements +- SD. *P<0.01 vs. the C3-CSCs group; #P<0.01, vs. SFRP2+Wnt1-CSCs. We also detected caspase 3 protein levels in mCSCs with or without SFRP2 treatment. Results clearly showed that caspase 3 protein levels were obviously lower in the H2O2-induced apoptosis cells, compared to control cells. However, caspase 3 protein levels were not different in SFRP2-treated cells compared to control cells (p<0.05, Figure 5D and E). We thus analyzed GSK3beta activation with p-GSK3beta-specific antibody and beta-catenin expression by western blot analysis Results showed that p-GSK3beta and beta-catenin expressions were was inhibited by SFRP2 treatment (p<0.05, Figures 5D, F, G and H). Taken together, these data suggested that the inhibition of the Wnt pathway by SFRP2 in mCSCs reduced resistance to H2O2-induced apoptosis, at least in part, by altering caspase 3 activation. Knockdown of beta-catenin Increased Apoptosis in H2O2-induced mCSCs To assess if the canonical Wnt signaling is directly linked to mCSCs apoptosis, beta-catenin knockdown was performed using siRNA. Optimal time was 48 h after transfection (data not shown). Western blotting revealed that siRNA transfection decreased beta-catenin protein level by 23-fold compared to siRNA-NC-treated cells (Figure 6A). Thus, silencing beta-catenin with siRNA successfully reduced beta-catenin protein expression. Inhibition of the Wnt pathway by beta-catenin siRNA reduced mCSCs' resistance to H2O2-induced apoptosis. CSCs were transfected with a siRNA against the beta-catenin transcript. The siRNA-mediated transfection efficiency was demonstrated by fluorescence analysis (A). After 48 h, the transfected cells were harvested. Western blot analysis showed the suppression of beta-catenin (B). (C) Representative annexin V/PI flow cytometry analysis of mCSCs. (D) Analysis of annexinV+/PI- and annexin V+/PI+ mCSCs by flow cytometry. (D) Representative immunoblot images of cleaved caspase 3 protein. *P<0.05 vs. the vehicle+Wnt1-CSCs group; #P<0.05 vs. siRNA-NC+Wnt1-CSCs. (E) Densitometric analysis of cleaved caspase 3 protein from Figure 6D. *P<0.01 vs. the Wnt1-CSCs group. (D and F) Bar graphs represent the mean values of triplicate measurements +- SD. We then pretreated Wnt1-CSCs with siRNA-beta-catenin for 48 h, followed by a treatment with H2O2 (200 microM for 2 h); apoptosis was then quantified by flow cytometry. Results revealed that knocking-down beta-catenin increased apoptosis, including both early (annexin V-FITC+ PI- cells) and late apoptosis (annexin V-FITC+ PI+ cells). The proportion of annexin V-FITC+ siRNA-beta-catenin-treated Wnt1-CSCs was 20.99+-1.47%, compared with siRNA-NC-treated Wnt1-CSCs (11.68+-2.17%) and vehicle-treated Wnt1-CSCs (10.45+-1.76%). However, the proportion of annexin V-FITC+ was not different in siRNA-beta-catenin-treated Wnt1-CSCs (20.99+-1.47%) compared with siRNA-beta-catenin-treated C3-CSCs (21.04+-1.41%). Also, the proportion of annexin V-FITC+ was not different in siRNA-NC-treated Wnt1-CSCs (11.68+-2.17%) compared with vehicle-treated Wnt1-CSCs (10.45+-1.76%). We also evaluated caspase 3 protein levels in Wnt-mCSCs treated with siRNA-beta-catenin, vehicle alone and siRNA-NC, after a treatment with H2O2 (200 microM for 2 h). Results clearly showed that caspase 3 protein levels were higher in the siRNA-beta-catenin group, compared with the siRNA-NC group. Caspase 3 protein levels were not different in the vehicle group compared with the siRNA-NC group (Figures 6D and E). Taken together, these data suggested that the inhibition of Wnt pathway by knocking-down the beta-catenin protein in mCSCs reduced resistance to H2O2-induced apoptosis, at least in part, by altering caspase 3 activation. Discussion In ischemic hearts, the native and exogenous stem cells are exposed to a number of pro-apoptotic or cytotoxic factors impairing cellular cardiomyoplasty. In this present study, we showed that the Wnt1 gene induces some defenses against apoptosis in mCSCs. The main findings from the present study are: 1) H2O2 treatment induces mCSCs apoptosis via the caspase 3 pathway, in a dose-dependent manner; 2) Wnt1 over-expression provides additional protection to mCSCs against H2O2-induced apoptosis; and 3) inhibition of the canonical Wnt pathway by SFRP2 or by knicking-down of beta-catenin in mCSCs reduced cells' resistance to H2O2-induced apoptosis. Overall, results showed that Wnt1 plays an important role in cardiac stem cells' defenses against H2O2-induced apoptosis through the canonical Wnt signaling Wnt1/GSK3beta/beta-catenin. Because of the role of bone marrow-derived Lin-/c-kit+ cells in myocardial regeneration, of the mesodermal origin of both the heart and the bone marrow, and of the use of c-kit as a hematopoietic stem cell marker, we decided to concentrate our efforts on the cardiac cells expressing this marker, i.e. the receptor for stem cell factor. We first showed that cardiac c-kit+ cells could be isolated and purified from early postnatal hearts using enzymatic dissociation and magnetic-activated cell sorting (MACS), producing a pure population of cells that can be used for further studies. The isolated c-kit+ cells population contained cells at several early stages of cardiac myogenic differentiation, as demonstrated by the expression of the transcription factors GATA4, and by the amounts of desmin protein in the cytoplasm. It should be noted that most, if not all, of the purified c-kit+ cells were negative for the endothelial/hematopoietic progenitor marker CD34. This phenotype strongly suggests that these cells are amplified myogenic precursors and/or progenitors derived from the activation of more primitive stem cells. The expression of transcription factors associated with early cardiac development, such as GATA4 and the expression of muscle-specific desmin proteins by most of the cells (see Figure 1), are strong evidences supporting their cardiac myogenic potential and, most likely, their cardiac myogenic fate. With a few exceptions, freshly isolated c-kit+ cells were negative for mature myocyte markers such as heavy chain cardiac myosin and Tn-I. These results further showed that the c-kit+ cell population is heterogeneous in terms of differentiation stage and that some of them are already committed to the cardiac myogenic lineage. Most of c-kit+ cells expressed mesenchymal specific surface proteins, such as CD90 and CD29, suggesting that this pure population of cells was from mesodermal origin. Native resident CSCs are a responsive stem cell reservoir within the adult myocardium. They may, therefore, offer distinct advantages over other adult stem cell types for cardiovascular therapy, being autologous, tissue-specific and pre-committed to the cardiovascular lineage. However, despite their apparent therapeutic potential, some caution is warranted regarding c-kit+ CSCs, since they are very rare within the myocardium. However, the molecular cues and signaling pathways that regulating CSCs homeostasis in tissue injury, especially in MI, remain unclear. Apoptosis of c-kit+ CSCs play a pivotal role in the pathogenesis of heart diseases. CSCs protection from H2O2-induced apoptosis may provide beneficial therapeutic intervention to successfully fight cardiovascular diseases, especially MI. In this study, we demonstrated that Wnt1 was able of saving c-kit+ CSCs from apoptosis induced by oxidative stress (H2O2), suggesting that Wnt1 may have a therapeutic use in the prevention and the treatment of cardiovascular diseases. Very little is known about the apoptotic effects of H2O2 in c-kit+ CSCs. Our results indicate that H2O2 induced c-kit+ CSCs apoptosis by caspases-3 activation. Caspases belong to a family of specific cysteine proteases and are critical apoptosis mediators. Fourteen members of the caspase family have been identified so far. Among them, caspase 3 is a primary apoptosis activator induced by a variety of stimuli, including H2O2. We showed that Wnt1 attenuated the activation of caspase 3 in a dose-dependent manner. The mechanisms by which H2O2 induces caspase activation in CSCs are not fully understood. This activation could be due to direct oxidative stress, or it could be mediated by mitochondria or by other mechanisms; any of these mechanisms might be inhibited by Wnt1. H2O2 exposure might be involved in cell signaling pathways that are crucial for determining whether a cell survives or dies. A growing body of evidences revealed that Wnt might play a role in apoptosis and in the pathogenesis of a number of diseases. However, the existing evidences are conflicting. Ming et al. reported that the activated Wnt pathway dysregulates the survival of hematopoietic progenitor cells by inducing the mitochondrial apoptotic pathway. On the other hand, Farhana et al. showed that the inhibition of the Wnt/beta-catenin pathway induced apoptosis and inhibited cell growth in pancreatic cancer cells. Similarly, we showed that the activation of Wnt pathway by Wnt1 increased cell survival. SFRPs are expressed in many cell types during embryogenesis and participate in modulating Wnt-frizzled signaling and apoptosis. Also, SFRP2 is a modulator of the Wnt signaling pathway and is involved in development, apoptosis regulation and cancer progression. In this present study, pEGFP-C3-Wnt1-transfected CSCs were exposed to different SFRP2 concentrations to H2O2. Our results showed that the inhibition of GSK3beta activity by the Wnt antagonist SFRP2 reduced the resistance of cells to H2O2-induced apoptosis. Similar results were also obtained in beta-catenin knockdown (sibeta-catenin) experiments, in which the canonical Wnt signaling pathway was completely blocked. Taken together, these results suggest that Wnt1 is an apoptosis signal mediator in H2O2-stimulated CSCs. In summary, the present study revealed a critical role for Wnt1 as a cardiac protective agent in the protection against H2O2-induced cell apoptosis. References Adult cardiac stem cells are multipotent and support myocardial regeneration Postnatal isl1+ cardioblasts enter fully differentiated cardiomyocyte lineages Isolation and expansion of adult cardiac stem cells from human and murine heart Hypoxic preconditioning enhances the benefit of cardiac progenitor cell therapy for treatment of myocardial infarction by inducing CXCR4 expression Evidence for cardiomyocyte renewal in humans Evidence from a genetic fate-mapping study that stem cells refresh adult mammalian cardiomyocytes after injury Intracoronary administration of cardiac progenitor cells alleviates left ventricular dysfunction in rats with a 30-day-old infarction Relative roles of direct regeneration versus paracrine effects of human cardiosphere-derived cells transplanted into infarcted mice Mechanism and function of signal transduction by the Wnt/beta-catenin and Wnt/Ca2+ pathways WNTs modulate cell fate and behavior during vertebrate development Mechanisms of Wnt signaling in development WNT and beta-catenin signalling: diseases and therapies Wnt/beta-catenin signaling in development and disease The receptor tyrosine kinase Ror2 is involved in non-canonical Wnt5a/JNK signalling pathway The multiple phases and faces of wnt signaling during cardiac differentiation and development Inhibition of Wnt activity induces heart formation from posterior mesoderm Wnt antagonism initiates cardiogenesis in Xenopus laevis A Wnt-and beta-catenin-dependent pathway for mammalian cardiac myogenesis Heart development in Drosophila requires the segment polarity gene wingless Developmental stage-specific biphasic roles of Wnt/beta-catenin signaling in cardiomyogenesis and hematopoiesis Biphasic role for Wnt/beta-catenin signaling in cardiac specification in zebrafish and embryonic stem cells Aspirin induces apoptosis in mesenchymal stem cells requiring Wnt/beta-catenin pathway Secreted frizzled related protein 2 protects cells from apoptosis by blocking the effect of canonical Wnt3a Wnt signalling in stem cells and cancer Isolation of mesenchymal stem cells from human placental decidua basalis and resistance to hypoxia and serum deprivation Bone marrow cells regenerate infarcted myocardium The aging of hematopoietic stem cells Stem and progenitor cells: origins, phenotypes, lineage commitments, and transdifferentiations Biology of hematopoietic stem cells and progenitors: implications for clinical application Requirement of the transcription factor GATA4 for heart tube formation and ventral morphogenesis Progenitor cell therapy for heart disease Caspase inhibition reduces myocyte cell death induced by myocardial ischemia and reperfusion in vivo Mechanisms of caspase activation Apoptosis: a basic biological phenomenon with wide-ranging implications in human disease Activation of Wnt/beta-Catenin Protein Signaling Induces Mitochondria-mediated Apoptosis in Hematopoietic Progenitor Cells Farhana L, Dawson MI, Das JK, Murshed F, Xia Z, .. (2012) Adamantyl Retinoid-Related Molecules Induce Apoptosis in Pancreatic Cancer Cells by Inhibiting IGF-1R and Wnt/beta-Catenin Pathways. Journal of Oncology 2012. Cloning and expression of the Wnt antagonists Sfrp-2 and Frzb during chick development Purification and molecular cloning of a secreted, Frizzled-related antagonist of Wnt action Autocrine/paracrine secreted Frizzled-related protein 2 induces cellular resistance to apoptosis: a possible mechanism of mammary tumorigenesis",
+    "entities": [
+        {
+            "entityId": "0_4",
+            "span": {
+                "begin": 0,
+                "end": 4
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "14_31",
+            "span": {
+                "begin": 14,
+                "end": 31
+            },
+            "entityType": "drug",
+            "entityName": "Hydrogen Peroxide",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "53_77",
+            "span": {
+                "begin": 53,
+                "end": 77
+            },
+            "entityType": "cell",
+            "entityName": "Mouse Cardiac Stem Cells",
+            "id": "UMLS:C1514965"
+        },
+        {
+            "entityId": "144_162",
+            "span": {
+                "begin": 144,
+                "end": 162
+            },
+            "entityType": "cell",
+            "entityName": "cardiac stem cells",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "164_168",
+            "span": {
+                "begin": 164,
+                "end": 168
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "324_328",
+            "span": {
+                "begin": 324,
+                "end": 328
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "508_512",
+            "span": {
+                "begin": 508,
+                "end": 512
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "554_571",
+            "span": {
+                "begin": 554,
+                "end": 571
+            },
+            "entityType": "drug",
+            "entityName": "hydrogen peroxide",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "573_577",
+            "span": {
+                "begin": 573,
+                "end": 577
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "621_630",
+            "span": {
+                "begin": 621,
+                "end": 630
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "700_704",
+            "span": {
+                "begin": 700,
+                "end": 704
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "724_728",
+            "span": {
+                "begin": 724,
+                "end": 728
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "774_778",
+            "span": {
+                "begin": 774,
+                "end": 778
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "803_807",
+            "span": {
+                "begin": 803,
+                "end": 807
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "902_937",
+            "span": {
+                "begin": 902,
+                "end": 937
+            },
+            "entityType": "gene",
+            "entityName": "secreted frizzled related protein 2",
+            "id": "UMLS:C1414819"
+        },
+        {
+            "entityId": "939_944",
+            "span": {
+                "begin": 939,
+                "end": 944
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "962_974",
+            "span": {
+                "begin": 962,
+                "end": 974
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "1012_1016",
+            "span": {
+                "begin": 1012,
+                "end": 1016
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "1052_1056",
+            "span": {
+                "begin": 1052,
+                "end": 1056
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "1080_1084",
+            "span": {
+                "begin": 1080,
+                "end": 1084
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "1195_1199",
+            "span": {
+                "begin": 1195,
+                "end": 1199
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "1227_1231",
+            "span": {
+                "begin": 1227,
+                "end": 1231
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "1250_1254",
+            "span": {
+                "begin": 1250,
+                "end": 1254
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "1295_1299",
+            "span": {
+                "begin": 1295,
+                "end": 1299
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "1300_1308",
+            "span": {
+                "begin": 1300,
+                "end": 1308
+            },
+            "entityType": "gene",
+            "entityName": "GSK3beta",
+            "id": "UMLS:C1415321"
+        },
+        {
+            "entityId": "1314_1321",
+            "span": {
+                "begin": 1314,
+                "end": 1321
+            },
+            "entityType": "gene",
+            "entityName": "catenin",
+            "id": "UMLS:C1564904"
+        },
+        {
+            "entityId": "1408_1414",
+            "span": {
+                "begin": 1408,
+                "end": 1414
+            },
+            "entityType": "species",
+            "entityName": "humans",
+            "id": "UMLS:C1300203"
+        },
+        {
+            "entityId": "1460_1489",
+            "span": {
+                "begin": 1460,
+                "end": 1489
+            },
+            "entityType": "cell",
+            "entityName": "endogenous cardiac stem cells",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "1491_1495",
+            "span": {
+                "begin": 1491,
+                "end": 1495
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "1554_1558",
+            "span": {
+                "begin": 1554,
+                "end": 1558
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "1615_1625",
+            "span": {
+                "begin": 1615,
+                "end": 1625
+            },
+            "entityType": "cell",
+            "entityName": "stem cells",
+            "id": "UMLS:C0038250"
+        },
+        {
+            "entityId": "1707_1711",
+            "span": {
+                "begin": 1707,
+                "end": 1711
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "1750_1753",
+            "span": {
+                "begin": 1750,
+                "end": 1753
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "1794_1798",
+            "span": {
+                "begin": 1794,
+                "end": 1798
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "1817_1845",
+            "span": {
+                "begin": 1817,
+                "end": 1845
+            },
+            "entityType": "disease",
+            "entityName": "left ventricular dysfunction",
+            "id": "UMLS:C0242698"
+        },
+        {
+            "entityId": "2028_2042",
+            "span": {
+                "begin": 2028,
+                "end": 2042
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "2092_2113",
+            "span": {
+                "begin": 2092,
+                "end": 2113
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "2120_2124",
+            "span": {
+                "begin": 2120,
+                "end": 2124
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "2210_2214",
+            "span": {
+                "begin": 2210,
+                "end": 2214
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "2427_2431",
+            "span": {
+                "begin": 2427,
+                "end": 2431
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "2457_2467",
+            "span": {
+                "begin": 2457,
+                "end": 2467
+            },
+            "entityType": "cell",
+            "entityName": "stem cells",
+            "id": "UMLS:C0038250"
+        },
+        {
+            "entityId": "2641_2651",
+            "span": {
+                "begin": 2641,
+                "end": 2651
+            },
+            "entityType": "cell",
+            "entityName": "stem cells",
+            "id": "UMLS:C0038250"
+        },
+        {
+            "entityId": "2963_2967",
+            "span": {
+                "begin": 2963,
+                "end": 2967
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "3010_3012",
+            "span": {
+                "begin": 3010,
+                "end": 3012
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "3078_3086",
+            "span": {
+                "begin": 3078,
+                "end": 3086
+            },
+            "entityType": "drug",
+            "entityName": "cysteine",
+            "id": "UMLS:C0010654"
+        },
+        {
+            "entityId": "3258_3270",
+            "span": {
+                "begin": 3258,
+                "end": 3270
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "3275_3281",
+            "span": {
+                "begin": 3275,
+                "end": 3281
+            },
+            "entityType": "gene",
+            "entityName": "cTnnB1",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "3306_3310",
+            "span": {
+                "begin": 3306,
+                "end": 3310
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "3362_3365",
+            "span": {
+                "begin": 3362,
+                "end": 3365
+            },
+            "entityType": "gene",
+            "entityName": "JnK",
+            "id": "UMLS:C1367731"
+        },
+        {
+            "entityId": "3483_3506",
+            "span": {
+                "begin": 3483,
+                "end": 3506
+            },
+            "entityType": "cell",
+            "entityName": "progenitor cell biology",
+            "id": "UMLS:C0038250"
+        },
+        {
+            "entityId": "3748_3761",
+            "span": {
+                "begin": 3748,
+                "end": 3761
+            },
+            "entityType": "cell",
+            "entityName": "cardiac cells",
+            "id": "UMLS:C0920751"
+        },
+        {
+            "entityId": "3766_3776",
+            "span": {
+                "begin": 3766,
+                "end": 3776
+            },
+            "entityType": "cell",
+            "entityName": "stem cells",
+            "id": "UMLS:C0038250"
+        },
+        {
+            "entityId": "3792_3814",
+            "span": {
+                "begin": 3792,
+                "end": 3814
+            },
+            "entityType": "cell",
+            "entityName": "mesenchymal stem cells",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "3816_3819",
+            "span": {
+                "begin": 3816,
+                "end": 3819
+            },
+            "entityType": "cell",
+            "entityName": "MSC",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "3839_3844",
+            "span": {
+                "begin": 3839,
+                "end": 3844
+            },
+            "entityType": "gene",
+            "entityName": "Wnt3a",
+            "id": "UMLS:C1423884"
+        },
+        {
+            "entityId": "3872_3892",
+            "span": {
+                "begin": 3872,
+                "end": 3892
+            },
+            "entityType": "drug",
+            "entityName": "acetylsalicylic acid",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "3901_3904",
+            "span": {
+                "begin": 3901,
+                "end": 3904
+            },
+            "entityType": "cell",
+            "entityName": "MSC",
+            "id": "UMLS:C1257975"
+        },
+        {
+            "entityId": "4034_4039",
+            "span": {
+                "begin": 4034,
+                "end": 4039
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "4078_4087",
+            "span": {
+                "begin": 4078,
+                "end": 4087
+            },
+            "entityType": "gene",
+            "entityName": "Caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "4139_4148",
+            "span": {
+                "begin": 4139,
+                "end": 4148
+            },
+            "entityType": "gene",
+            "entityName": "Caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "4317_4329",
+            "span": {
+                "begin": 4317,
+                "end": 4329
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "4543_4547",
+            "span": {
+                "begin": 4543,
+                "end": 4547
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "4581_4598",
+            "span": {
+                "begin": 4581,
+                "end": 4598
+            },
+            "entityType": "drug",
+            "entityName": "hydrogen peroxide",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "4600_4604",
+            "span": {
+                "begin": 4600,
+                "end": 4604
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "4624_4628",
+            "span": {
+                "begin": 4624,
+                "end": 4628
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "4647_4654",
+            "span": {
+                "begin": 4647,
+                "end": 4654
+            },
+            "entityType": "gene",
+            "entityName": "caspase",
+            "id": "UMLS:C0010656"
+        },
+        {
+            "entityId": "4689_4693",
+            "span": {
+                "begin": 4689,
+                "end": 4693
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "4713_4717",
+            "span": {
+                "begin": 4713,
+                "end": 4717
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "4726_4730",
+            "span": {
+                "begin": 4726,
+                "end": 4730
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "4785_4789",
+            "span": {
+                "begin": 4785,
+                "end": 4789
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "4842_4846",
+            "span": {
+                "begin": 4842,
+                "end": 4846
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "4855_4859",
+            "span": {
+                "begin": 4855,
+                "end": 4859
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "4893_4897",
+            "span": {
+                "begin": 4893,
+                "end": 4897
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "4938_4942",
+            "span": {
+                "begin": 4938,
+                "end": 4942
+            },
+            "entityType": "species",
+            "entityName": "Mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "4950_4954",
+            "span": {
+                "begin": 4950,
+                "end": 4954
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "4995_4999",
+            "span": {
+                "begin": 4995,
+                "end": 4999
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "5084_5088",
+            "span": {
+                "begin": 5084,
+                "end": 5088
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "5374_5378",
+            "span": {
+                "begin": 5374,
+                "end": 5378
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "5738_5742",
+            "span": {
+                "begin": 5738,
+                "end": 5742
+            },
+            "entityType": "drug",
+            "entityName": "Ca2+",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "5834_5845",
+            "span": {
+                "begin": 5834,
+                "end": 5845
+            },
+            "entityType": "gene",
+            "entityName": "collagenase",
+            "id": "UMLS:C0162745"
+        },
+        {
+            "entityId": "5887_5894",
+            "span": {
+                "begin": 5887,
+                "end": 5894
+            },
+            "entityType": "gene",
+            "entityName": "trypsin",
+            "id": "UMLS:C0041236"
+        },
+        {
+            "entityId": "6129_6133",
+            "span": {
+                "begin": 6129,
+                "end": 6133
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "6134_6137",
+            "span": {
+                "begin": 6134,
+                "end": 6137
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "6143_6148",
+            "span": {
+                "begin": 6143,
+                "end": 6148
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "6149_6154",
+            "span": {
+                "begin": 6149,
+                "end": 6154
+            },
+            "entityType": "gene",
+            "entityName": "CD117",
+            "id": "UMLS:C3853650"
+        },
+        {
+            "entityId": "6155_6160",
+            "span": {
+                "begin": 6155,
+                "end": 6160
+            },
+            "entityType": "gene",
+            "entityName": "c-kit",
+            "id": "UMLS:C3853650"
+        },
+        {
+            "entityId": "6304_6321",
+            "span": {
+                "begin": 6304,
+                "end": 6321
+            },
+            "entityType": "cell",
+            "entityName": "Small round cells",
+            "id": "UMLS:C0487470"
+        },
+        {
+            "entityId": "6346_6352",
+            "span": {
+                "begin": 6346,
+                "end": 6352
+            },
+            "entityType": "gene",
+            "entityName": "c-kit+",
+            "id": "UMLS:C3853650"
+        },
+        {
+            "entityId": "6502_6508",
+            "span": {
+                "begin": 6502,
+                "end": 6508
+            },
+            "entityType": "species",
+            "entityName": "bovine",
+            "id": "UMLS:C3667982"
+        },
+        {
+            "entityId": "6531_6535",
+            "span": {
+                "begin": 6531,
+                "end": 6535
+            },
+            "entityType": "gene",
+            "entityName": "bFGF",
+            "id": "UMLS:C3692257"
+        },
+        {
+            "entityId": "6579_6582",
+            "span": {
+                "begin": 6579,
+                "end": 6582
+            },
+            "entityType": "gene",
+            "entityName": "IGF",
+            "id": "UMLS:C1334089"
+        },
+        {
+            "entityId": "6605_6608",
+            "span": {
+                "begin": 6605,
+                "end": 6608
+            },
+            "entityType": "gene",
+            "entityName": "EGF",
+            "id": "NCBIGene:1950"
+        },
+        {
+            "entityId": "6634_6637",
+            "span": {
+                "begin": 6634,
+                "end": 6637
+            },
+            "entityType": "gene",
+            "entityName": "LIF",
+            "id": "NCBIGene:3976"
+        },
+        {
+            "entityId": "6813_6834",
+            "span": {
+                "begin": 6813,
+                "end": 6834
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1 full-length cDNA",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "7150_7162",
+            "span": {
+                "begin": 7150,
+                "end": 7162
+            },
+            "entityType": "gene",
+            "entityName": "SacII enzyme",
+            "id": "UMLS:C0014442"
+        },
+        {
+            "entityId": "7288_7306",
+            "span": {
+                "begin": 7288,
+                "end": 7306
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1 cDNA sequence",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "7367_7369",
+            "span": {
+                "begin": 7367,
+                "end": 7369
+            },
+            "entityType": "gene",
+            "entityName": "C3",
+            "id": "UMLS:C1571455"
+        },
+        {
+            "entityId": "7370_7374",
+            "span": {
+                "begin": 7370,
+                "end": 7374
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "7438_7443",
+            "span": {
+                "begin": 7438,
+                "end": 7443
+            },
+            "entityType": "gene",
+            "entityName": "EcoRI",
+            "id": "UMLS:C0011516"
+        },
+        {
+            "entityId": "8136_8140",
+            "span": {
+                "begin": 8136,
+                "end": 8140
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "8144_8165",
+            "span": {
+                "begin": 8144,
+                "end": 8165
+            },
+            "entityType": "DNA",
+            "entityName": "Small Interfering RNA",
+            "id": "UMLS:C1099354"
+        },
+        {
+            "entityId": "8167_8172",
+            "span": {
+                "begin": 8167,
+                "end": 8172
+            },
+            "entityType": "DNA",
+            "entityName": "siRNA",
+            "id": "UMLS:C1099354"
+        },
+        {
+            "entityId": "8187_8199",
+            "span": {
+                "begin": 8187,
+                "end": 8199
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "8218_8239",
+            "span": {
+                "begin": 8218,
+                "end": 8239
+            },
+            "entityType": "DNA",
+            "entityName": "small interfering RNA",
+            "id": "UMLS:C1099354"
+        },
+        {
+            "entityId": "8241_8246",
+            "span": {
+                "begin": 8241,
+                "end": 8246
+            },
+            "entityType": "DNA",
+            "entityName": "siRNA",
+            "id": "UMLS:C1099354"
+        },
+        {
+            "entityId": "8300_8304",
+            "span": {
+                "begin": 8300,
+                "end": 8304
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "8306_8324",
+            "span": {
+                "begin": 8306,
+                "end": 8324
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin siRNA",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "8973_8978",
+            "span": {
+                "begin": 8973,
+                "end": 8978
+            },
+            "entityType": "DNA",
+            "entityName": "siRNA",
+            "id": "UMLS:C1099354"
+        },
+        {
+            "entityId": "9262_9274",
+            "span": {
+                "begin": 9262,
+                "end": 9274
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "9611_9615",
+            "span": {
+                "begin": 9611,
+                "end": 9615
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "9855_9859",
+            "span": {
+                "begin": 9855,
+                "end": 9859
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "9910_9914",
+            "span": {
+                "begin": 9910,
+                "end": 9914
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "10157_10169",
+            "span": {
+                "begin": 10157,
+                "end": 10169
+            },
+            "entityType": "drug",
+            "entityName": "formaldehyde",
+            "id": "UMLS:C0016564"
+        },
+        {
+            "entityId": "10274_10291",
+            "span": {
+                "begin": 10274,
+                "end": 10291
+            },
+            "entityType": "gene",
+            "entityName": "rabbit anti-c-kit",
+            "id": "UMLS:C0432626"
+        },
+        {
+            "entityId": "10350_10356",
+            "span": {
+                "begin": 10350,
+                "end": 10356
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "10417_10422",
+            "span": {
+                "begin": 10417,
+                "end": 10422
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "10490_10495",
+            "span": {
+                "begin": 10490,
+                "end": 10495
+            },
+            "entityType": "species",
+            "entityName": "Mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "10589_10594",
+            "span": {
+                "begin": 10589,
+                "end": 10594
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "10705_10714",
+            "span": {
+                "begin": 10705,
+                "end": 10714
+            },
+            "entityType": "drug",
+            "entityName": "Rhodamine",
+            "id": "UMLS:C0600322"
+        },
+        {
+            "entityId": "10716_10721",
+            "span": {
+                "begin": 10716,
+                "end": 10721
+            },
+            "entityType": "drug",
+            "entityName": "TRITC",
+            "id": "UMLS:C0076308"
+        },
+        {
+            "entityId": "10745_10749",
+            "span": {
+                "begin": 10745,
+                "end": 10749
+            },
+            "entityType": "species",
+            "entityName": "Goat",
+            "id": "UMLS:C1510458"
+        },
+        {
+            "entityId": "10755_10760",
+            "span": {
+                "begin": 10755,
+                "end": 10760
+            },
+            "entityType": "species",
+            "entityName": "Mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "10821_10832",
+            "span": {
+                "begin": 10821,
+                "end": 10832
+            },
+            "entityType": "drug",
+            "entityName": "Fluorescein",
+            "id": "UMLS:C0060520"
+        },
+        {
+            "entityId": "10834_10838",
+            "span": {
+                "begin": 10834,
+                "end": 10838
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "10862_10866",
+            "span": {
+                "begin": 10862,
+                "end": 10866
+            },
+            "entityType": "species",
+            "entityName": "Goat",
+            "id": "UMLS:C1510458"
+        },
+        {
+            "entityId": "10872_10878",
+            "span": {
+                "begin": 10872,
+                "end": 10878
+            },
+            "entityType": "species",
+            "entityName": "Rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "10879_10899",
+            "span": {
+                "begin": 10879,
+                "end": 10899
+            },
+            "entityType": "gene",
+            "entityName": "IgG (H+L) antibodies",
+            "id": "UMLS:C0003241"
+        },
+        {
+            "entityId": "11030_11034",
+            "span": {
+                "begin": 11030,
+                "end": 11034
+            },
+            "entityType": "drug",
+            "entityName": "DAPI",
+            "id": "UMLS:C0057142"
+        },
+        {
+            "entityId": "11187_11190",
+            "span": {
+                "begin": 11187,
+                "end": 11190
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "11292_11297",
+            "span": {
+                "begin": 11292,
+                "end": 11297
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "11334_11352",
+            "span": {
+                "begin": 11334,
+                "end": 11352
+            },
+            "entityType": "gene",
+            "entityName": "RNase-free DNase I",
+            "id": "UMLS:C0011519"
+        },
+        {
+            "entityId": "12119_12140",
+            "span": {
+                "begin": 12119,
+                "end": 12140
+            },
+            "entityType": "gene",
+            "entityName": "reverse transcriptase",
+            "id": "UMLS:C0035379"
+        },
+        {
+            "entityId": "12246_12256",
+            "span": {
+                "begin": 12246,
+                "end": 12256
+            },
+            "entityType": "gene",
+            "entityName": "GAPDH gene",
+            "id": "UMLS:C1414968"
+        },
+        {
+            "entityId": "12707_12710",
+            "span": {
+                "begin": 12707,
+                "end": 12710
+            },
+            "entityType": "drug",
+            "entityName": "SDS",
+            "id": "mesh:D012967"
+        },
+        {
+            "entityId": "12711_12725",
+            "span": {
+                "begin": 12711,
+                "end": 12725
+            },
+            "entityType": "drug",
+            "entityName": "polyacrylamide",
+            "id": "UMLS:C0071499"
+        },
+        {
+            "entityId": "12830_12855",
+            "span": {
+                "begin": 12830,
+                "end": 12855
+            },
+            "entityType": "drug",
+            "entityName": "polyvinylidene difluoride",
+            "id": "UMLS:C0071710"
+        },
+        {
+            "entityId": "12857_12861",
+            "span": {
+                "begin": 12857,
+                "end": 12861
+            },
+            "entityType": "drug",
+            "entityName": "PVDF",
+            "id": "UMLS:C0071710"
+        },
+        {
+            "entityId": "12960_12964",
+            "span": {
+                "begin": 12960,
+                "end": 12964
+            },
+            "entityType": "drug",
+            "entityName": "Tris",
+            "id": "UMLS:C0077281"
+        },
+        {
+            "entityId": "12992_13000",
+            "span": {
+                "begin": 12992,
+                "end": 13000
+            },
+            "entityType": "drug",
+            "entityName": "Tween 20",
+            "id": "UMLS:C0041415"
+        },
+        {
+            "entityId": "13036_13045",
+            "span": {
+                "begin": 13036,
+                "end": 13045
+            },
+            "entityType": "gene",
+            "entityName": "GSK-3beta",
+            "id": "UMLS:C0244988"
+        },
+        {
+            "entityId": "13047_13058",
+            "span": {
+                "begin": 13047,
+                "end": 13058
+            },
+            "entityType": "gene",
+            "entityName": "p-GSK-3beta",
+            "id": "UMLS:C0244988"
+        },
+        {
+            "entityId": "13060_13069",
+            "span": {
+                "begin": 13060,
+                "end": 13069
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "13074_13086",
+            "span": {
+                "begin": 13074,
+                "end": 13086
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "13126_13136",
+            "span": {
+                "begin": 13126,
+                "end": 13136
+            },
+            "entityType": "gene",
+            "entityName": "beta-actin",
+            "id": "UMLS:C0005186"
+        },
+        {
+            "entityId": "13295_13305",
+            "span": {
+                "begin": 13295,
+                "end": 13305
+            },
+            "entityType": "gene",
+            "entityName": "peroxidase",
+            "id": "UMLS:C0027021"
+        },
+        {
+            "entityId": "13328_13332",
+            "span": {
+                "begin": 13328,
+                "end": 13332
+            },
+            "entityType": "species",
+            "entityName": "goat",
+            "id": "UMLS:C1510458"
+        },
+        {
+            "entityId": "13338_13344",
+            "span": {
+                "begin": 13338,
+                "end": 13344
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "13359_13378",
+            "span": {
+                "begin": 13359,
+                "end": 13378
+            },
+            "entityType": "gene",
+            "entityName": "anti-mouse IgG (H+L",
+            "id": "UMLS:C0051979"
+        },
+        {
+            "entityId": "13764_13774",
+            "span": {
+                "begin": 13764,
+                "end": 13774
+            },
+            "entityType": "gene",
+            "entityName": "beta-actin",
+            "id": "UMLS:C0005186"
+        },
+        {
+            "entityId": "13928_13965",
+            "span": {
+                "begin": 13928,
+                "end": 13965
+            },
+            "entityType": "gene",
+            "entityName": "Terminal deoxynucleotidyl transferase",
+            "id": "UMLS:C0012881"
+        },
+        {
+            "entityId": "13975_13979",
+            "span": {
+                "begin": 13975,
+                "end": 13979
+            },
+            "entityType": "drug",
+            "entityName": "dUTP",
+            "id": "UMLS:CHEBI:61555"
+        },
+        {
+            "entityId": "14155_14171",
+            "span": {
+                "begin": 14155,
+                "end": 14171
+            },
+            "entityType": "drug",
+            "entityName": "paraformaldehyde",
+            "id": "mesh:C003043"
+        },
+        {
+            "entityId": "14444_14448",
+            "span": {
+                "begin": 14444,
+                "end": 14448
+            },
+            "entityType": "drug",
+            "entityName": "DAPI",
+            "id": "UMLS:C0057142"
+        },
+        {
+            "entityId": "14600_14609",
+            "span": {
+                "begin": 14600,
+                "end": 14609
+            },
+            "entityType": "drug",
+            "entityName": "phosphate",
+            "id": "UMLS:C0031603"
+        },
+        {
+            "entityId": "14627_14631",
+            "span": {
+                "begin": 14627,
+                "end": 14631
+            },
+            "entityType": "drug",
+            "entityName": "Ca+2",
+            "id": "UMLS:C0596235"
+        },
+        {
+            "entityId": "14632_14640",
+            "span": {
+                "begin": 14632,
+                "end": 14640
+            },
+            "entityType": "drug",
+            "entityName": "Mg+2free",
+            "id": "UMLS:C2346927"
+        },
+        {
+            "entityId": "14759_14763",
+            "span": {
+                "begin": 14759,
+                "end": 14763
+            },
+            "entityType": "gene",
+            "entityName": "CD29",
+            "id": "UMLS:C1416496"
+        },
+        {
+            "entityId": "14764_14768",
+            "span": {
+                "begin": 14764,
+                "end": 14768
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "14770_14774",
+            "span": {
+                "begin": 14770,
+                "end": 14774
+            },
+            "entityType": "gene",
+            "entityName": "CD90",
+            "id": "UMLS:C2348635"
+        },
+        {
+            "entityId": "14779_14784",
+            "span": {
+                "begin": 14779,
+                "end": 14784
+            },
+            "entityType": "gene",
+            "entityName": "c-kit",
+            "id": "UMLS:C3853650"
+        },
+        {
+            "entityId": "14785_14790",
+            "span": {
+                "begin": 14785,
+                "end": 14790
+            },
+            "entityType": "gene",
+            "entityName": "CD117",
+            "id": "UMLS:C3853650"
+        },
+        {
+            "entityId": "14792_14796",
+            "span": {
+                "begin": 14792,
+                "end": 14796
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "14798_14803",
+            "span": {
+                "begin": 14798,
+                "end": 14803
+            },
+            "entityType": "gene",
+            "entityName": "sca-1",
+            "id": "UMLS:C4321485"
+        },
+        {
+            "entityId": "14804_14808",
+            "span": {
+                "begin": 14804,
+                "end": 14808
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "14814_14818",
+            "span": {
+                "begin": 14814,
+                "end": 14818
+            },
+            "entityType": "gene",
+            "entityName": "CD34",
+            "id": "NCBIGene:947"
+        },
+        {
+            "entityId": "15321_15325",
+            "span": {
+                "begin": 15321,
+                "end": 15325
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "15467_15471",
+            "span": {
+                "begin": 15467,
+                "end": 15471
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "15513_15517",
+            "span": {
+                "begin": 15513,
+                "end": 15517
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "15577_15581",
+            "span": {
+                "begin": 15577,
+                "end": 15581
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "15742_15746",
+            "span": {
+                "begin": 15742,
+                "end": 15746
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "15876_15892",
+            "span": {
+                "begin": 15876,
+                "end": 15892
+            },
+            "entityType": "drug",
+            "entityName": "propidium iodide",
+            "id": "UMLS:C0033470"
+        },
+        {
+            "entityId": "15894_15896",
+            "span": {
+                "begin": 15894,
+                "end": 15896
+            },
+            "entityType": "gene",
+            "entityName": "PI",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "16232_16258",
+            "span": {
+                "begin": 16232,
+                "end": 16258
+            },
+            "entityType": "cell",
+            "entityName": "Mouse c-kit+ Cardiac Cells",
+            "id": "UMLS:C1522237"
+        },
+        {
+            "entityId": "16259_16272",
+            "span": {
+                "begin": 16259,
+                "end": 16272
+            },
+            "entityType": "cell",
+            "entityName": "Cardiac cells",
+            "id": "UMLS:C0920751"
+        },
+        {
+            "entityId": "16299_16303",
+            "span": {
+                "begin": 16299,
+                "end": 16303
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "16409_16417",
+            "span": {
+                "begin": 16409,
+                "end": 16417
+            },
+            "entityType": "cell",
+            "entityName": "myocytes",
+            "id": "UMLS:C0596981"
+        },
+        {
+            "entityId": "16470_16474",
+            "span": {
+                "begin": 16470,
+                "end": 16474
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "16475_16478",
+            "span": {
+                "begin": 16475,
+                "end": 16478
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "16484_16489",
+            "span": {
+                "begin": 16484,
+                "end": 16489
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "16490_16495",
+            "span": {
+                "begin": 16490,
+                "end": 16495
+            },
+            "entityType": "gene",
+            "entityName": "CD117",
+            "id": "UMLS:C3853650"
+        },
+        {
+            "entityId": "16496_16501",
+            "span": {
+                "begin": 16496,
+                "end": 16501
+            },
+            "entityType": "gene",
+            "entityName": "c-kit",
+            "id": "UMLS:C3853650"
+        },
+        {
+            "entityId": "16656_16661",
+            "span": {
+                "begin": 16656,
+                "end": 16661
+            },
+            "entityType": "gene",
+            "entityName": "c-kit",
+            "id": "UMLS:C3853650"
+        },
+        {
+            "entityId": "16698_16702",
+            "span": {
+                "begin": 16698,
+                "end": 16702
+            },
+            "entityType": "gene",
+            "entityName": "CD34",
+            "id": "NCBIGene:947"
+        },
+        {
+            "entityId": "16809_16813",
+            "span": {
+                "begin": 16809,
+                "end": 16813
+            },
+            "entityType": "gene",
+            "entityName": "CD90",
+            "id": "UMLS:C2348635"
+        },
+        {
+            "entityId": "16828_16832",
+            "span": {
+                "begin": 16828,
+                "end": 16832
+            },
+            "entityType": "gene",
+            "entityName": "CD29",
+            "id": "UMLS:C1416496"
+        },
+        {
+            "entityId": "16870_16875",
+            "span": {
+                "begin": 16870,
+                "end": 16875
+            },
+            "entityType": "gene",
+            "entityName": "sca-1",
+            "id": "UMLS:C4321485"
+        },
+        {
+            "entityId": "18151_18156",
+            "span": {
+                "begin": 18151,
+                "end": 18156
+            },
+            "entityType": "gene",
+            "entityName": "c-kit",
+            "id": "UMLS:C3853650"
+        },
+        {
+            "entityId": "18158_18163",
+            "span": {
+                "begin": 18158,
+                "end": 18163
+            },
+            "entityType": "gene",
+            "entityName": "GATA-",
+            "id": "UMLS:C1427248"
+        },
+        {
+            "entityId": "18169_18175",
+            "span": {
+                "begin": 18169,
+                "end": 18175
+            },
+            "entityType": "gene",
+            "entityName": "desmin",
+            "id": "UMLS:C0011696"
+        },
+        {
+            "entityId": "18224_18238",
+            "span": {
+                "begin": 18224,
+                "end": 18238
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "18248_18274",
+            "span": {
+                "begin": 18248,
+                "end": 18274
+            },
+            "entityType": "gene",
+            "entityName": "cardiac myosin heavy chain",
+            "id": "UMLS:C0027100"
+        },
+        {
+            "entityId": "18279_18297",
+            "span": {
+                "begin": 18279,
+                "end": 18297
+            },
+            "entityType": "gene",
+            "entityName": "cardiac troponin I",
+            "id": "UMLS:C1420826"
+        },
+        {
+            "entityId": "18299_18303",
+            "span": {
+                "begin": 18299,
+                "end": 18303
+            },
+            "entityType": "gene",
+            "entityName": "cTnI",
+            "id": "UMLS:C1420826"
+        },
+        {
+            "entityId": "18350_18359",
+            "span": {
+                "begin": 18350,
+                "end": 18359
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1 Gene",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "18423_18427",
+            "span": {
+                "begin": 18423,
+                "end": 18427
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "18448_18452",
+            "span": {
+                "begin": 18448,
+                "end": 18452
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "18548_18552",
+            "span": {
+                "begin": 18548,
+                "end": 18552
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "18642_18646",
+            "span": {
+                "begin": 18642,
+                "end": 18646
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "18820_18829",
+            "span": {
+                "begin": 18820,
+                "end": 18829
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1 gene",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "18892_18896",
+            "span": {
+                "begin": 18892,
+                "end": 18896
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "19598_19602",
+            "span": {
+                "begin": 19598,
+                "end": 19602
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "19648_19652",
+            "span": {
+                "begin": 19648,
+                "end": 19652
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "19720_19724",
+            "span": {
+                "begin": 19720,
+                "end": 19724
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "19821_19825",
+            "span": {
+                "begin": 19821,
+                "end": 19825
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "19842_19860",
+            "span": {
+                "begin": 19842,
+                "end": 19860
+            },
+            "entityType": "drug",
+            "entityName": "phosphatidylserine",
+            "id": "UMLS:C0301704"
+        },
+        {
+            "entityId": "20016_20018",
+            "span": {
+                "begin": 20016,
+                "end": 20018
+            },
+            "entityType": "gene",
+            "entityName": "PI",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "20336_20345",
+            "span": {
+                "begin": 20336,
+                "end": 20345
+            },
+            "entityType": "gene",
+            "entityName": "annexin V",
+            "id": "UMLS:C1332095"
+        },
+        {
+            "entityId": "20347_20349",
+            "span": {
+                "begin": 20347,
+                "end": 20349
+            },
+            "entityType": "gene",
+            "entityName": "PI",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "20520_20524",
+            "span": {
+                "begin": 20520,
+                "end": 20524
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "20671_20675",
+            "span": {
+                "begin": 20671,
+                "end": 20675
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "20707_20711",
+            "span": {
+                "begin": 20707,
+                "end": 20711
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "21826_21835",
+            "span": {
+                "begin": 21826,
+                "end": 21835
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "21851_21855",
+            "span": {
+                "begin": 21851,
+                "end": 21855
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "21926_21930",
+            "span": {
+                "begin": 21926,
+                "end": 21930
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "21950_21954",
+            "span": {
+                "begin": 21950,
+                "end": 21954
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "21984_21993",
+            "span": {
+                "begin": 21984,
+                "end": 21993
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "22040_22049",
+            "span": {
+                "begin": 22040,
+                "end": 22049
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "22092_22096",
+            "span": {
+                "begin": 22092,
+                "end": 22096
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "22185_22189",
+            "span": {
+                "begin": 22185,
+                "end": 22189
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "22222_22231",
+            "span": {
+                "begin": 22222,
+                "end": 22231
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "22269_22273",
+            "span": {
+                "begin": 22269,
+                "end": 22273
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "22322_22326",
+            "span": {
+                "begin": 22322,
+                "end": 22326
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "22382_22391",
+            "span": {
+                "begin": 22382,
+                "end": 22391
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1 gene",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "22406_22410",
+            "span": {
+                "begin": 22406,
+                "end": 22410
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "22482_22486",
+            "span": {
+                "begin": 22482,
+                "end": 22486
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "22487_22491",
+            "span": {
+                "begin": 22487,
+                "end": 22491
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "22534_22538",
+            "span": {
+                "begin": 22534,
+                "end": 22538
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "22578_22582",
+            "span": {
+                "begin": 22578,
+                "end": 22582
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "22598_22602",
+            "span": {
+                "begin": 22598,
+                "end": 22602
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "22919_22928",
+            "span": {
+                "begin": 22919,
+                "end": 22928
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1 gene",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "22951_22955",
+            "span": {
+                "begin": 22951,
+                "end": 22955
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "22964_22968",
+            "span": {
+                "begin": 22964,
+                "end": 22968
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "24200_24209",
+            "span": {
+                "begin": 24200,
+                "end": 24209
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "24224_24228",
+            "span": {
+                "begin": 24224,
+                "end": 24228
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "24240_24244",
+            "span": {
+                "begin": 24240,
+                "end": 24244
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "24250_24252",
+            "span": {
+                "begin": 24250,
+                "end": 24252
+            },
+            "entityType": "gene",
+            "entityName": "C3",
+            "id": "UMLS:C1571455"
+        },
+        {
+            "entityId": "24322_24331",
+            "span": {
+                "begin": 24322,
+                "end": 24331
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "24335_24339",
+            "span": {
+                "begin": 24335,
+                "end": 24339
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "24351_24355",
+            "span": {
+                "begin": 24351,
+                "end": 24355
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "24404_24408",
+            "span": {
+                "begin": 24404,
+                "end": 24408
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "24432_24436",
+            "span": {
+                "begin": 24432,
+                "end": 24436
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "24449_24458",
+            "span": {
+                "begin": 24449,
+                "end": 24458
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "24527_24531",
+            "span": {
+                "begin": 24527,
+                "end": 24531
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "24692_24709",
+            "span": {
+                "begin": 24692,
+                "end": 24709
+            },
+            "entityType": "gene",
+            "entityName": "Frizzled receptor",
+            "id": "UMLS:C1564903"
+        },
+        {
+            "entityId": "24742_24751",
+            "span": {
+                "begin": 24742,
+                "end": 24751
+            },
+            "entityType": "gene",
+            "entityName": "GSK-3beta",
+            "id": "UMLS:C0244988"
+        },
+        {
+            "entityId": "24835_24843",
+            "span": {
+                "begin": 24835,
+                "end": 24843
+            },
+            "entityType": "gene",
+            "entityName": "GSK3beta",
+            "id": "UMLS:C1415321"
+        },
+        {
+            "entityId": "24891_24907",
+            "span": {
+                "begin": 24891,
+                "end": 24907
+            },
+            "entityType": "gene",
+            "entityName": "phospho-GSK3beta",
+            "id": "UMLS:C1415321"
+        },
+        {
+            "entityId": "24909_24919",
+            "span": {
+                "begin": 24909,
+                "end": 24919
+            },
+            "entityType": "gene",
+            "entityName": "p-GSK3beta",
+            "id": "UMLS:C1417925"
+        },
+        {
+            "entityId": "24960_24964",
+            "span": {
+                "begin": 24960,
+                "end": 24964
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "25004_25014",
+            "span": {
+                "begin": 25004,
+                "end": 25014
+            },
+            "entityType": "gene",
+            "entityName": "p-GSK3beta",
+            "id": "UMLS:C1417925"
+        },
+        {
+            "entityId": "25101_25105",
+            "span": {
+                "begin": 25101,
+                "end": 25105
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "25116_25120",
+            "span": {
+                "begin": 25116,
+                "end": 25120
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "25129_25133",
+            "span": {
+                "begin": 25129,
+                "end": 25133
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "25175_25184",
+            "span": {
+                "begin": 25175,
+                "end": 25184
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "25197_25209",
+            "span": {
+                "begin": 25197,
+                "end": 25209
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "25309_25321",
+            "span": {
+                "begin": 25309,
+                "end": 25321
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "25372_25376",
+            "span": {
+                "begin": 25372,
+                "end": 25376
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "25402_25414",
+            "span": {
+                "begin": 25402,
+                "end": 25414
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "25516_25520",
+            "span": {
+                "begin": 25516,
+                "end": 25520
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "25553_25561",
+            "span": {
+                "begin": 25553,
+                "end": 25561
+            },
+            "entityType": "gene",
+            "entityName": "GSK3beta",
+            "id": "UMLS:C1415321"
+        },
+        {
+            "entityId": "25562_25574",
+            "span": {
+                "begin": 25562,
+                "end": 25574
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "25648_25653",
+            "span": {
+                "begin": 25648,
+                "end": 25653
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "25685_25689",
+            "span": {
+                "begin": 25685,
+                "end": 25689
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "25779_25783",
+            "span": {
+                "begin": 25779,
+                "end": 25783
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "25841_25849",
+            "span": {
+                "begin": 25841,
+                "end": 25849
+            },
+            "entityType": "gene",
+            "entityName": "GSK3beta",
+            "id": "UMLS:C1415321"
+        },
+        {
+            "entityId": "25862_25867",
+            "span": {
+                "begin": 25862,
+                "end": 25867
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "25946_25951",
+            "span": {
+                "begin": 25946,
+                "end": 25951
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "26010_26014",
+            "span": {
+                "begin": 26010,
+                "end": 26014
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "26037_26046",
+            "span": {
+                "begin": 26037,
+                "end": 26046
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1 mRNA",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "26133_26142",
+            "span": {
+                "begin": 26133,
+                "end": 26142
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1 mRNA",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "26184_26189",
+            "span": {
+                "begin": 26184,
+                "end": 26189
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "26261_26266",
+            "span": {
+                "begin": 26261,
+                "end": 26266
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "26277_26286",
+            "span": {
+                "begin": 26277,
+                "end": 26286
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1 mRNA",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "26369_26374",
+            "span": {
+                "begin": 26369,
+                "end": 26374
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "26414_26418",
+            "span": {
+                "begin": 26414,
+                "end": 26418
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "26515_26520",
+            "span": {
+                "begin": 26515,
+                "end": 26520
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "26627_26629",
+            "span": {
+                "begin": 26627,
+                "end": 26629
+            },
+            "entityType": "gene",
+            "entityName": "PI",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "26667_26671",
+            "span": {
+                "begin": 26667,
+                "end": 26671
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "26673_26678",
+            "span": {
+                "begin": 26673,
+                "end": 26678
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "27799_27816",
+            "span": {
+                "begin": 27799,
+                "end": 27816
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3 protein",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "27849_27854",
+            "span": {
+                "begin": 27849,
+                "end": 27854
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "27894_27911",
+            "span": {
+                "begin": 27894,
+                "end": 27911
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3 protein",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "27947_27951",
+            "span": {
+                "begin": 27947,
+                "end": 27951
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "28013_28030",
+            "span": {
+                "begin": 28013,
+                "end": 28030
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3 protein",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "28150_28158",
+            "span": {
+                "begin": 28150,
+                "end": 28158
+            },
+            "entityType": "gene",
+            "entityName": "GSK3beta",
+            "id": "UMLS:C1415321"
+        },
+        {
+            "entityId": "28175_28203",
+            "span": {
+                "begin": 28175,
+                "end": 28203
+            },
+            "entityType": "gene",
+            "entityName": "p-GSK3beta-specific antibody",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "28208_28220",
+            "span": {
+                "begin": 28208,
+                "end": 28220
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "28277_28287",
+            "span": {
+                "begin": 28277,
+                "end": 28287
+            },
+            "entityType": "gene",
+            "entityName": "p-GSK3beta",
+            "id": "UMLS:C1417925"
+        },
+        {
+            "entityId": "28297_28304",
+            "span": {
+                "begin": 28297,
+                "end": 28304
+            },
+            "entityType": "gene",
+            "entityName": "catenin",
+            "id": "UMLS:C1564904"
+        },
+        {
+            "entityId": "28339_28344",
+            "span": {
+                "begin": 28339,
+                "end": 28344
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "28468_28473",
+            "span": {
+                "begin": 28468,
+                "end": 28473
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "28505_28509",
+            "span": {
+                "begin": 28505,
+                "end": 28509
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "28559_28568",
+            "span": {
+                "begin": 28559,
+                "end": 28568
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "28594_28606",
+            "span": {
+                "begin": 28594,
+                "end": 28606
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "28729_28741",
+            "span": {
+                "begin": 28729,
+                "end": 28741
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "28898_28918",
+            "span": {
+                "begin": 28898,
+                "end": 28918
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin protein",
+            "id": "UMLS:C2362547"
+        },
+        {
+            "entityId": "29000_29012",
+            "span": {
+                "begin": 29000,
+                "end": 29012
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "29045_29065",
+            "span": {
+                "begin": 29045,
+                "end": 29065
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin protein",
+            "id": "UMLS:C2362547"
+        },
+        {
+            "entityId": "29967_29979",
+            "span": {
+                "begin": 29967,
+                "end": 29979
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "30019_30023",
+            "span": {
+                "begin": 30019,
+                "end": 30023
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "30131_30143",
+            "span": {
+                "begin": 30131,
+                "end": 30143
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "30290_30294",
+            "span": {
+                "begin": 30290,
+                "end": 30294
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "30302_30314",
+            "span": {
+                "begin": 30302,
+                "end": 30314
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "30323_30327",
+            "span": {
+                "begin": 30323,
+                "end": 30327
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "30490_30494",
+            "span": {
+                "begin": 30490,
+                "end": 30494
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "30589_30601",
+            "span": {
+                "begin": 30589,
+                "end": 30601
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "30668_30672",
+            "span": {
+                "begin": 30668,
+                "end": 30672
+            },
+            "entityType": "drug",
+            "entityName": "FITC",
+            "id": "UMLS:C0085216"
+        },
+        {
+            "entityId": "30767_30771",
+            "span": {
+                "begin": 30767,
+                "end": 30771
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "30811_30828",
+            "span": {
+                "begin": 30811,
+                "end": 30828
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3 protein",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "30868_30880",
+            "span": {
+                "begin": 30868,
+                "end": 30880
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "30933_30937",
+            "span": {
+                "begin": 30933,
+                "end": 30937
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "30988_31005",
+            "span": {
+                "begin": 30988,
+                "end": 31005
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3 protein",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "31038_31050",
+            "span": {
+                "begin": 31038,
+                "end": 31050
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "31092_31109",
+            "span": {
+                "begin": 31092,
+                "end": 31109
+            },
+            "entityType": "gene",
+            "entityName": "Caspase 3 protein",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "31175_31180",
+            "span": {
+                "begin": 31175,
+                "end": 31180
+            },
+            "entityType": "cell",
+            "entityName": "siRNA",
+            "id": "UMLS:C1099354"
+        },
+        {
+            "entityId": "31303_31323",
+            "span": {
+                "begin": 31303,
+                "end": 31323
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin protein",
+            "id": "UMLS:C2362547"
+        },
+        {
+            "entityId": "31355_31359",
+            "span": {
+                "begin": 31355,
+                "end": 31359
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "31409_31418",
+            "span": {
+                "begin": 31409,
+                "end": 31418
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "31487_31497",
+            "span": {
+                "begin": 31487,
+                "end": 31497
+            },
+            "entityType": "cell",
+            "entityName": "stem cells",
+            "id": "UMLS:C0038250"
+        },
+        {
+            "entityId": "31638_31647",
+            "span": {
+                "begin": 31638,
+                "end": 31647
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1 gene",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "31747_31751",
+            "span": {
+                "begin": 31747,
+                "end": 31751
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "31794_31803",
+            "span": {
+                "begin": 31794,
+                "end": 31803
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "31844_31848",
+            "span": {
+                "begin": 31844,
+                "end": 31848
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "31913_31917",
+            "span": {
+                "begin": 31913,
+                "end": 31917
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "31987_31992",
+            "span": {
+                "begin": 31987,
+                "end": 31992
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "32016_32028",
+            "span": {
+                "begin": 32016,
+                "end": 32028
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "32067_32071",
+            "span": {
+                "begin": 32067,
+                "end": 32071
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "32120_32124",
+            "span": {
+                "begin": 32120,
+                "end": 32124
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "32152_32170",
+            "span": {
+                "begin": 32152,
+                "end": 32170
+            },
+            "entityType": "cell",
+            "entityName": "cardiac stem cells",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "32189_32193",
+            "span": {
+                "begin": 32189,
+                "end": 32193
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "32248_32252",
+            "span": {
+                "begin": 32248,
+                "end": 32252
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "32253_32261",
+            "span": {
+                "begin": 32253,
+                "end": 32261
+            },
+            "entityType": "gene",
+            "entityName": "GSK3beta",
+            "id": "UMLS:C1415321"
+        },
+        {
+            "entityId": "32262_32274",
+            "span": {
+                "begin": 32262,
+                "end": 32274
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "32299_32336",
+            "span": {
+                "begin": 32299,
+                "end": 32336
+            },
+            "entityType": "cell",
+            "entityName": "bone marrow-derived Lin-/c-kit+ cells",
+            "id": "UMLS:C3896693"
+        },
+        {
+            "entityId": "32447_32452",
+            "span": {
+                "begin": 32447,
+                "end": 32452
+            },
+            "entityType": "gene",
+            "entityName": "c-kit",
+            "id": "UMLS:C3853650"
+        },
+        {
+            "entityId": "32535_32548",
+            "span": {
+                "begin": 32535,
+                "end": 32548
+            },
+            "entityType": "cell",
+            "entityName": "cardiac cells",
+            "id": "UMLS:C0920751"
+        },
+        {
+            "entityId": "32595_32611",
+            "span": {
+                "begin": 32595,
+                "end": 32611
+            },
+            "entityType": "gene",
+            "entityName": "stem cell factor",
+            "id": "UMLS:C0143630"
+        },
+        {
+            "entityId": "32634_32654",
+            "span": {
+                "begin": 32634,
+                "end": 32654
+            },
+            "entityType": "cell",
+            "entityName": "cardiac c-kit+ cells",
+            "id": "UMLS:C0920751"
+        },
+        {
+            "entityId": "33039_33044",
+            "span": {
+                "begin": 33039,
+                "end": 33044
+            },
+            "entityType": "gene",
+            "entityName": "GATA4",
+            "id": "UMLS:C1414995"
+        },
+        {
+            "entityId": "33068_33082",
+            "span": {
+                "begin": 33068,
+                "end": 33082
+            },
+            "entityType": "gene",
+            "entityName": "desmin protein",
+            "id": "UMLS:C1413980"
+        },
+        {
+            "entityId": "33238_33242",
+            "span": {
+                "begin": 33238,
+                "end": 33242
+            },
+            "entityType": "gene",
+            "entityName": "CD34",
+            "id": "NCBIGene:947"
+        },
+        {
+            "entityId": "33383_33403",
+            "span": {
+                "begin": 33383,
+                "end": 33403
+            },
+            "entityType": "cell",
+            "entityName": "primitive stem cells",
+            "id": "UMLS:C0038250"
+        },
+        {
+            "entityId": "33496_33501",
+            "span": {
+                "begin": 33496,
+                "end": 33501
+            },
+            "entityType": "gene",
+            "entityName": "GATA4",
+            "id": "UMLS:C1414995"
+        },
+        {
+            "entityId": "33524_33555",
+            "span": {
+                "begin": 33524,
+                "end": 33555
+            },
+            "entityType": "gene",
+            "entityName": "muscle-specific desmin proteins",
+            "id": "UMLS:C0026832"
+        },
+        {
+            "entityId": "33807_33833",
+            "span": {
+                "begin": 33807,
+                "end": 33833
+            },
+            "entityType": "gene",
+            "entityName": "heavy chain cardiac myosin",
+            "id": "UMLS:C0949656"
+        },
+        {
+            "entityId": "33838_33842",
+            "span": {
+                "begin": 33838,
+                "end": 33842
+            },
+            "entityType": "gene",
+            "entityName": "Tn-I",
+            "id": "UMLS:C0221138"
+        },
+        {
+            "entityId": "34111_34115",
+            "span": {
+                "begin": 34111,
+                "end": 34115
+            },
+            "entityType": "gene",
+            "entityName": "CD90",
+            "id": "UMLS:C2348635"
+        },
+        {
+            "entityId": "34120_34124",
+            "span": {
+                "begin": 34120,
+                "end": 34124
+            },
+            "entityType": "gene",
+            "entityName": "CD29",
+            "id": "UMLS:C1416496"
+        },
+        {
+            "entityId": "34216_34220",
+            "span": {
+                "begin": 34216,
+                "end": 34220
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "34345_34366",
+            "span": {
+                "begin": 34345,
+                "end": 34366
+            },
+            "entityType": "cell",
+            "entityName": "adult stem cell types",
+            "id": "UMLS:C1171322"
+        },
+        {
+            "entityId": "34697_34701",
+            "span": {
+                "begin": 34697,
+                "end": 34701
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "34746_34748",
+            "span": {
+                "begin": 34746,
+                "end": 34748
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "34834_34848",
+            "span": {
+                "begin": 34834,
+                "end": 34848
+            },
+            "entityType": "disease",
+            "entityName": "heart diseases",
+            "id": "UMLS:C0018799"
+        },
+        {
+            "entityId": "34850_34854",
+            "span": {
+                "begin": 34850,
+                "end": 34854
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "34871_34875",
+            "span": {
+                "begin": 34871,
+                "end": 34875
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "34964_34987",
+            "span": {
+                "begin": 34964,
+                "end": 34987
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular diseases",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "35000_35002",
+            "span": {
+                "begin": 35000,
+                "end": 35002
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "35040_35044",
+            "span": {
+                "begin": 35040,
+                "end": 35044
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "35120_35124",
+            "span": {
+                "begin": 35120,
+                "end": 35124
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "35143_35147",
+            "span": {
+                "begin": 35143,
+                "end": 35147
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "35214_35237",
+            "span": {
+                "begin": 35214,
+                "end": 35237
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular diseases",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "35291_35295",
+            "span": {
+                "begin": 35291,
+                "end": 35295
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "35338_35342",
+            "span": {
+                "begin": 35338,
+                "end": 35342
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "35376_35386",
+            "span": {
+                "begin": 35376,
+                "end": 35386
+            },
+            "entityType": "gene",
+            "entityName": "caspases-3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "35399_35407",
+            "span": {
+                "begin": 35399,
+                "end": 35407
+            },
+            "entityType": "gene",
+            "entityName": "Caspases",
+            "id": "UMLS:C0010656"
+        },
+        {
+            "entityId": "35439_35457",
+            "span": {
+                "begin": 35439,
+                "end": 35457
+            },
+            "entityType": "gene",
+            "entityName": "cysteine proteases",
+            "id": "UMLS:C2717970"
+        },
+        {
+            "entityId": "35520_35534",
+            "span": {
+                "begin": 35520,
+                "end": 35534
+            },
+            "entityType": "gene",
+            "entityName": "caspase family",
+            "id": "UMLS:C0010656"
+        },
+        {
+            "entityId": "35576_35585",
+            "span": {
+                "begin": 35576,
+                "end": 35585
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "35662_35666",
+            "span": {
+                "begin": 35662,
+                "end": 35666
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "35683_35687",
+            "span": {
+                "begin": 35683,
+                "end": 35687
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "35717_35726",
+            "span": {
+                "begin": 35717,
+                "end": 35726
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "35779_35783",
+            "span": {
+                "begin": 35779,
+                "end": 35783
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "35792_35799",
+            "span": {
+                "begin": 35792,
+                "end": 35799
+            },
+            "entityType": "gene",
+            "entityName": "caspase",
+            "id": "UMLS:C0010656"
+        },
+        {
+            "entityId": "35814_35818",
+            "span": {
+                "begin": 35814,
+                "end": 35818
+            },
+            "entityType": "cell",
+            "entityName": "CSCs",
+            "id": "UMLS:C4084729"
+        },
+        {
+            "entityId": "36012_36016",
+            "span": {
+                "begin": 36012,
+                "end": 36016
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "36018_36022",
+            "span": {
+                "begin": 36018,
+                "end": 36022
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "36399_36429",
+            "span": {
+                "begin": 36399,
+                "end": 36429
+            },
+            "entityType": "cell",
+            "entityName": "hematopoietic progenitor cells",
+            "id": "UMLS:C0018956"
+        },
+        {
+            "entityId": "36551_36563",
+            "span": {
+                "begin": 36551,
+                "end": 36563
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "36619_36636",
+            "span": {
+                "begin": 36619,
+                "end": 36636
+            },
+            "entityType": "disease",
+            "entityName": "pancreatic cancer",
+            "id": "UMLS:C0346647"
+        },
+        {
+            "entityId": "36703_36707",
+            "span": {
+                "begin": 36703,
+                "end": 36707
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "36867_36872",
+            "span": {
+                "begin": 36867,
+                "end": 36872
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "36974_36980",
+            "span": {
+                "begin": 36974,
+                "end": 36980
+            },
+            "entityType": "disease",
+            "entityName": "cancer",
+            "id": "UMLS:C0006826"
+        },
+        {
+            "entityId": "37074_37079",
+            "span": {
+                "begin": 37074,
+                "end": 37079
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "37098_37102",
+            "span": {
+                "begin": 37098,
+                "end": 37102
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "37146_37154",
+            "span": {
+                "begin": 37146,
+                "end": 37154
+            },
+            "entityType": "gene",
+            "entityName": "GSK3beta",
+            "id": "UMLS:C1415321"
+        },
+        {
+            "entityId": "37186_37191",
+            "span": {
+                "begin": 37186,
+                "end": 37191
+            },
+            "entityType": "gene",
+            "entityName": "SFRP2",
+            "id": "UMLS:C1419987"
+        },
+        {
+            "entityId": "37227_37231",
+            "span": {
+                "begin": 37227,
+                "end": 37231
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "37289_37301",
+            "span": {
+                "begin": 37289,
+                "end": 37301
+            },
+            "entityType": "gene",
+            "entityName": "beta-catenin",
+            "id": "UMLS:C1332803"
+        },
+        {
+            "entityId": "37454_37458",
+            "span": {
+                "begin": 37454,
+                "end": 37458
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "37575_37579",
+            "span": {
+                "begin": 37575,
+                "end": 37579
+            },
+            "entityType": "gene",
+            "entityName": "Wnt1",
+            "id": "UMLS:C0812233"
+        },
+        {
+            "entityId": "37636_37640",
+            "span": {
+                "begin": 37636,
+                "end": 37640
+            },
+            "entityType": "drug",
+            "entityName": "H2O2",
+            "id": "UMLS:C0020281"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "573_577",
+            "subjectText": "H2O2",
+            "rel_name": "stimulate",
+            "objectId": "621_630",
+            "objectText": "caspase 3"
+        },
+        {
+            "subjectID": "0_4",
+            "subjectText": "Wnt1",
+            "rel_name": "inhibit",
+            "objectId": "14_31",
+            "objectText": "Hydrogen Peroxide"
+        },
+        {
+            "subjectID": "14_31",
+            "subjectText": "Hydrogen Peroxide",
+            "rel_name": "stimulate",
+            "objectId": "53_77",
+            "objectText": "Mouse Cardiac Stem Cells"
+        },
+        {
+            "subjectID": "724_728",
+            "subjectText": "H2O2",
+            "rel_name": "stimulate",
+            "objectId": "774_778",
+            "objectText": "Wnt1"
+        },
+        {
+            "subjectID": "939_944",
+            "subjectText": "SFRP2",
+            "rel_name": "inhibit",
+            "objectId": "902_937",
+            "objectText": "secreted frizzled related protein 2"
+        },
+        {
+            "subjectID": "962_974",
+            "subjectText": "beta-catenin",
+            "rel_name": "reduces",
+            "objectId": "1012_1016",
+            "objectText": "H2O2"
+        }
+    ]
+}

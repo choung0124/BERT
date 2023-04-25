@@ -1,0 +1,2308 @@
+{
+    "sourcid": "PMC3617659",
+    "publisher": "Österreichische Apotheker-Verlagsgesellschaft",
+    "journal": "Scientia Pharmaceutica",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3617659/",
+    "text": "Comprehensive Assessment of Degradation Behavior of Aspirin and Atorvastatin Singly and in Combination by Using a Validated RP-HPLC Method A fixed-dose combination of atorvastatin and aspirin is widely used for the treatment of myocardial infarction. The present work describes a comprehensive study of the stress degradation behavior of atorvastatin and aspirin alone as well as in combination of 1:1 and 1:7.5 ratios, respectively, as per ICH guidelines. The degradation products of aspirin as well as atorvastatin were successfully separated by a developed simple, selective, and precise stability-indicating reversed-phase HPLC method. Chromatographic separation was achieved on the Phenomenex Luna analytical column, 150 mm x 4.6 mm, 5mum. The mobile phase consisted of 0.1% glacial acetic acid in water and acetonitrile in the ratio of 50:50 v/v at a flow rate of 1.0 ml/min. UV detection was performed at 246 nm. The extent of degradation was significantly influenced when both of the drugs were present in combination. Stress degradation behavior of atorvastatin was highly influenced by aspirin under acid hydrolysis, thermal degradation, and oxidative stress conditions. Similarly, the stress degradation behavior of aspirin was affected by atorvastatin especially under neutral hydrolysis, thermal degradation, and oxidative stress conditions. Additionally, the combination ratio of aspirin and atorvastatin also influenced the percentage degradation of each other. A mixture of aspirin and atorvastatin was also analyzed after a one-month stability study at 40  C and 75% RH. All the results indicate chemical incompatibility of both aspirin and atorvastatin if present in combination.   Introduction The main cause of myocardial infarction (MI) is the interruption of the blood supply to the heart, which is most commonly due to the blockage of a coronary artery due to a hyperlipedemic condition. For the mitigation of such a condition, lipid lowering agents are widely used alone or in combination with other antihypertensive agents or with aspirin. Several fixed-dose combinations (FDCs) have been approved by the Food and Drug Administration (FDA) along with a combination of ATR and ASP due to their effectiveness against this condition. Atorvastatin calcium (ATR) is an antihyperlipidemic agent. It lowers lipid levels by inhibiting HMG-CoA reductase, a rate-limiting enzyme in cholesterol biosynthesis in the liver, thus reducing the cholesterol content in hepatocytes. ATR is chemically (3R,5R)-7-[2-(4-fluorophenyl)-3-phenyl-4-(phenylcarbamoyl)-5-(propan-2-yl)-1H-pyrrol-1-yl]-3,5-dihydroxy-heptanoic acid (Fig. 1a). Aspirin (ASP) is a cyclooxygenase inhibitor and is commonly used as an analgesic, anti-inflammatory, and antipyretic. Additionally, it also has an antiplatelet effect, hence, it is also used for the prevention of heart attacks. ASP is chemically 2-(acetyloxy)benzoic acid (Fig. 2). The physicochemical, pharmacological, and pharmacokinetic characteristics of both ASP and ATR are well investigated. When ASP and ATR are used in combination, thromboxin-A2 (TXA2)-dependant aspirin resistance is reduced. This mechanism is especially helpful to patients with acute myocardial infarction and persistent platelet TXA2 production. In addition, ATR also reduces lipid levels. In the Indian market, FDC capsule formulations are available from various manufacturers like Sun Pharmaceuticals Ltd. (AZTOR ASP 75), Zydus Healthcare Ltd. (ASP ATORVA 75), and Piramal Healthcare Ltd. (STATOR ASP 75) having strengths of 10 mg and 75 mg of ATR and ASP respectively. However, when FDCs are formulated, chemical incompatibility is an important factor influencing drug stability. Interactions may take place either among different active ingredients or active ingredients and excipients within the formulation. Chemical instability always leads to the decomposition of actives present in the formulation. The chemical structure reveals that ASP is an ester moiety, and very susceptible to hydrolysis under different hydrolytic conditions. Decomposition of ASP into salicylic acid (SA) is well-known. On the other hand, ATR is an organic acid with a pKa of 4.46 and it is an acid-labile moiety which gets converted into lactone under acidic conditions. Several analytical methods have been reported for the estimation of ASP and ATR in the presence of each other as well as along with other drugs. A literature survey revealed that only one UPLC stability-indicating assay method is reported for the combination of ASP and ATR in capsule dosage form. So far, no reports are available regarding the comprehensive study on degradation behavior of ATR and ASP in the presence of each other. From the reported data of the degradation profile of both drugs, it was essential to evaluate the chemical stability of ASP and ATR in combination. It was hypothesized that ATR may get degraded in the presence of ASP, as ATR is an acid-labile moiety and ASP is acidic in nature. Stress testing is an important tool for the prediction of stability-related problems in pharmaceutical products. Therefore, in the present paper, a stress degradation study of ATR and ASP was performed in combination of each other as per ICH guidelines and degradation behavior of both drugs was monitored precisely. Additionally, a one month stability test of a mixture of ATR and ASP was also evaluated to further confirm the chemical incompatibility of these two drugs. Materials and Methods Drug and Chemicals Pure ATR was kindly gifted by Dr. Reddys Ltd, (Hyderabad, India), certified to contain 99.1%, and used without further purification. Standard ASP was purchased from Sigma Aldrich (India) with the stated purity of 99.8%. Salicylic acid was purchased from SD Fine Chemicals, Mumbai, with the stated purity of 99.0%. Atorvastatin lactone was procured from Varda Biotech Pvt. Ltd, Mumbai, India. FDC of ATR and ASP was purchased from the local market with each capsule containing 10mg of ATR and 75mg of ASP respectively. HPLC grade acetonitrile was purchased from Merck (Mumbai, India). HPLC grade glacial acetic acid and dimethyl sulfoxide (DMSO) were procured from CDH, New Delhi. 0.45 mum nylon filters were used for sample filtration. Mili-Q water was used throughout the study. Instrumentation and Chromatographic Condition Analysis was carried out on the HPLC system (Jasco, Japan) consisting of the binary pumps-Jasco PU-2080 and solvent mixing module-Jasco MX-2080, equipped with the photodiode array (PDA) detector MD-2015 Plus (Jasco Japan). It also consisted of the Rheodyne manual injector having a 20muL capacity. Data collection and data processing were accomplished by using BORWIN-PDA software. Separation was achieved on the Phenomenex Luna analytical column, 150 mm x 4.6 mm, 5mum. The mobile phase consisted of 0.1% glacial acetic acid in water and acetonitrile in the ratio of 50:50 v/v. The mobile phase was filtered through a 0.45mum nylon filter and degassed prior to use. An equal amount of acetonitrile and water was mixed and used as a diluent throughout the study.  Experimental Preparation of Standard Stock Solution The standard stock solutions, 1000 mug/mL each of ATR and ASP, were prepared individually in methanol. Preparation of samples for the Forced Degradation Study Forced degradation of ASP and ATR, individually as well as in combination, was carried out as per ICH guidelines. Both ASP and ATR were forcibly degraded under different stress conditions such as hydrolytic, oxidative, thermal, and photolytic degradation. To perform the degradation study in combination, two ratios 1:1 and 1:7.5 were selected for ATR and ASP, respectively. All degradation samples were prepared in DMSO and the respective stressor in the ratio of 50:50 v/v. Stress samples were prepared by taking a concentration of 2.5 mg/mL of each drug. Hydrolytic degradation was carried out in 0.1N HCl, 0.1N NaOH, and distilled water by dissolving ASP and ATR in 25 mL of DMSO and then the volume of this solution was made up to 50 mL with 0.1N HCl, 0.1N NaOH, and distilled water respectively. All prepared samples were refluxed at 80  C for 3 hours.  For oxidative stress, 3%v/v hydrogen peroxide was used. For both ASP and ATR, 2.5 mg/mL samples were prepared by dissolving the drug in 25 ml of DMSO and then the volume was made with 3%v/v hydrogen peroxide solution and samples were kept at room temperature for seven days. After completion of stress exposure, samples were neutralized and further diluted to get a concentration of 50 mug/mL each of ATR as well as ASP, respectively, for HPLC analysis. In the case of a 1:7.5 ratio, 50 mug/mL concentration of ATR was selected and this correspondingly gave 375 mug/mL of ASP. Thermal degradation was carried out in a solid state in a controlled temperature oven at 80  C for 48 hours. For photodegradation, solid samples were spread uniformly in a petridish. Then samples were exposed to bright, sunny days from 11 am to 5 pm for two days. So the samples were exposed to sunlight for a total of 12hrs.  In addition, ASP and ATR, alone as well as in combination, were kept for solid-state stability studies for one month at 40 C and 75% RH in a stability chamber to extrapolate the probable chemical incompatibility between these two drugs. Stock solutions of all solid samples were prepared in methanol. Appropriate aliquots were further diluted to get 50 mug/mL each of ATR and ASP, respectively, for HPLC analysis.  Method Validation The developed stability-indicating assay method was validated by assessing various validation parameters such as linearity, precision, accuracy, specificity, limit of detection and quantification, and solution stability, as prescribed by ICH guidelines. Linearity The calibration curves of ASP and ATR were constructed over a concentration range of 1-80 mug/mL and 1-60 mug/mL respectively. Different sets of six concentrations were prepared and 20 muL of each solution were injected in triplicate under the operating chromatographic conditions.     Method Precision Repeatability (method precision) was assessed by analyzing the capsule samples six times having a concentration of 60 mug/mL and 8 mug/mL for ASP and ATR respectively. The intraday and interday precision of the proposed method was determined by estimating the corresponding responses three times on the same day as well as on three different days by taking three different concentrations of ASP and ATR (10, 20, and 40 mug/mL). The result of the precision study was evaluated in terms of % RSD. Specificity The specificity of the method was assessed by checking the peak purity of both ASP as well as ATR. Interference from degradation peaks in the estimation of ASP as well as ATR was also checked. Accuracy The accuracy of the method was determined by estimating recoveries of ASP and ATR by the standard addition method at three different levels (80,100, and 120 %) to the preanalyzed capsule formulation. A known amount of standard ASP (24, 30, and 36 mug) and ATR (3.2, 4, and 4.8 mug) were added to the preanalyzed sample solution containing 30 mug/mL of ASP and 4 mug/mL of ATR respectively. The accuracy of the method was determined by comparing the amount recovered and the actual amount spiked. Robustness The robustness of the method was evaluated by analyzing the same samples of ASP and ATR with deliberate changes in optimized chromatographic conditions. The changes in the response of ASP and ATR as well as system suitability parameters were recorded. The parameters which changed include flow rate (+- 0.1 mL), detection wavelength (+- 2 nm), and organic component composition (+-5%). Solution Stability Solution stability of the standard as well as the sample was performed at benchtop (room temperature) and refrigeration temperature. The stability was checked by comparing the peak area of the standard and sample each time with the initial concentration. Limit of Detection and Quantification The LOD and LOQ were determined from the standard deviation of the response and the slope of the calibration curve. The equation mentioned in the ICH guidelines was used for the determination of the LOD and LOQ. Results and Discussion To carry out a detailed stability study of ATR and ASP in combination, it is essential to have a single stability-indicating assay method which can separate ATR and ASP along with all of its the degradation products from each other. Thus, a novel RP-HPLC method was developed and optimized using the Phenomenex C18 column (150x4.6 mm, 5mum particle size) and a mobile phase consisting of acetonitrile and water with 0.1% glacial acetic acid in the ratio of 50:50 v/v at a flow rate of 1.0 mL/min.  The amount of ASP is 7.5 times more than ATR in the combined marketed dosage form. Therefore, to get the maximum response of analyte by this method, 246 nm was used as the detection wavelength for both drugs, which is the absorption maxima of ATR, and a promising response of ASP was also obtained. Fig. 3 shows the RP-HPLC chromatogram of ATR and ASP in combination with a retention time of 9.86 and 2.60 min respectively. System suitability parameters of the developed method are summarized in Table 1. Validation of developed method The developed method was successfully validated as per ICH guidelines by evaluating various validation parameters like linearity, repeatability, interday and intraday precision, LOD, and LOQ. Results of validation parameters are depicted in Table 2. The mean % recovery values of ASP and ATR were obtained in the range of 99.0 +- 0.04 - 99.9 +- 0.27 and 99.0 +- 0.71 - 99.8 +- 0.41 which proves that the method is accurate. The results of the accuracy study are presented in Table 3.     The robustness of the methods was studied by analyzing the same samples of ASP and ATR with deliberate variation in the method parameters. It was found that there was no significant change in the system suitability parameters of both ASP and ATR. The results obtained in the changed parameters were within an acceptable range. Specificity of the method was confirmed by checking the peak purity of ASP and ATR. The peak purity was found to be more than 990 for both ASP and ATR. The results obtained from the degradation studies showed that the developed stability-indicating assay method is specific towards ASP, ATR and their degradation products. The prepared solution of ASP in diluent was found to be stable up to 6 hrs on the benchtop as well as after refrigeration. After 6 hrs, there was formation of the major degradation product of ASP i.e. salicylic acid. ATR was found to be stable for up to 24hrs in both benchtop as well as after refrigeration. In the case of ASP, a decrease in area after 6 hrs was more than 2% for both samples kept on the benchtop as well as samples kept in the refrigerator. Conversely for ATR, there was no significant decrease in the area after 24 hrs in both samples. Forced Degradation study Degradation behavior of ASP as well as ATR was studied individually and in combination to check chemical compatibility in the presence of each other. Different stress conditions were employed as suggested by ICH guidelines. For the stress degradation study, a selection of co-solvents was a challenging task for these poorly water-soluble drugs. ATR is very slightly soluble in water as well as acetonitrile. Both the drugs have good solubility in methanol, but due to the presence of the carboxylic acid functional group in both ATR and ASP, there is a chance that methyl ester may form in the drugs. Degradation of the drugs by the formation of methyl ester may lead to errors in the degradation study. DMSO is a comparatively inert solvent and both the drugs have good solubility in it. Hence, it was selected as the co-solvent along with stressors for preparing solutions during the stress studies. ATR and ASP individually ASP, being an ester moiety, is susceptible to acid, neutral, base, and oxidative degradation conditions. It primarily degrades into SA. SA was identified by analyzing standard SA under the same chromatographic conditions. Confirmation was done on the basis of retention time and PDA spectra. In photolytic and thermal stress conditions, ASP alone is stable. Results are in accordance with the reported studies. ATR alone is susceptible to acidic hydrolytic conditions and is converted initially into the major degradation product ATR lactone (ATR-DP). ATR-DP was identified by analyzing standard ATR-DP under the same chromatographic conditions. Confirmation was done on the basis of retention time and PDA spectra. Upon prolonged exposure, it further degraded into two additional degradation products other than ATR-DP. Stress degradation of ATR is also in accordance with the reported study. However, in neutral, base, oxidative, photolytic, and thermal stress conditions, ATR does not show any degradation. Table 4 summarizes the degradation behavior of ASP and ATR alone. ATR and ASP in the ratio of (1:1) Except thermal degradation, no additional peak was observed in the HPLC chromate-grams of the stress degradation study of ATR and ASP in combination (1:1 ratio) compared to chromatograms of the individual degradation study in all conditions. This indicates that no additional degradation product formed other than SA and ATR-DP when ASP and ATR were present in combination. However, the percentage degradation of both drugs affected by the presence of each other, depending on the stress conditions, were employed for the study. The presence of ATR does not affect the stability of ASP in acidic hydrolytic conditions, as the observed percentage degradation was 24.24% and 20.28% in ASP alone and in combination, respectively. In thermal degradation, three additional peaks of degradation products were observed. PDA spectra of all three degradation products correlated with the PDA spectra of ASP. This result indicates that additional degradation products may be generated from ASP. This is further supported by the highest difference in % degradation of ASP alone and in the presence of ATR under thermal degradation conditions. Major influences of both drugs were observed on each other in the neutral, oxidative, and thermal degradation study. ATR was highly stable in the above stress conditions when present alone, but showed significant degradation when present in combination with ASP. Table 4 summarizes the percentage degradation of both drugs in various stress conditions. ATR and ASP in the ratio of 1:7.5 (formulation ratio) It was decided to perform the stress degradation study of ATR and ASP in the ratio of 1:7.5 respectively, as both drugs are present in this ratio in the marketed fixed dose combination. Except for the thermal degradation study, no additional peak, other than SA and ATR-DP, was observed in the HPLC chromatogram of the mixture of ATR and ASP in 1:7.5 ratios. In acid degradation, ATR showed slightly higher degradation as compared to when it is present alone (Figure 4). But on increasing the amount of ASP up to 7.5 times, the degradation rate of ATR was increased particularly in the neutral, oxidative, and thermal stress degradation study as shown in figure 5, 6, and 7 respectively. A summary of the degradation study of both drugs is furnished in Table 4. It was confirmed that both drugs showed a significant influence on the percentage degradation of each other if present together. From all of the results of the stress degradation studies, it can be summarized that both ASP and ATR can interact chemically and degrade if present in combination. To get further scientific evidence, both of the drugs alone and in combination (in a ratio of 1:1 and 1:7.5, respectively, for ATR and ASP) were kept for one month stability studies at 40  C and 75% RH. It was found that both ATR and ASP were stable if present alone. Conversely, significant degradation was observed if present in combination. ASP was found to be prone to degradation in the presence of ATR when both were in a 1:1 ratio. The percentage degradation of ATR was increased when combined with 7.5 times ASP (formulation ratio). The results indicated that the degradation of ATR is highly influenced by the amount of ASP present in the sample. Results of the one month stability study are furnished in Table 5.  Conclusion The degradation behavior of ASP and ATR was described at length in the present study. The stress study was considered as a tool to check the chemical incompatibility of both drugs in the presence of each other. From the stress degradation studies, it can be concluded that there is a significant difference in the % degradation of both of the drugs, alone and in combination with each other. This chemical instability of ASP and ATR is associated with the combined effect of temperature as well as humidity. Additionally, the combination ratio of ASP and ATR also influenced their degradation rate. Therefore, while formulating a fixed-dose combination of these two drugs, a proper formulation strategy is very important which can ensure the stability of both ASP and ATR in formulation. This article is available from: http://dx.doi.org/10.3797/scipharm.1210-19 Authors' Statement   Competing Interests The authors declare no conflict of interest. References     Pharmacokinetics of aspirin and salicylate in relation to inhibition of arachidonate cyclooxygenase and anti-inflammatory activity The quantitative determination of aspirin and its degradation products in a model solution aerosol Clinical pharmacokinetics of Atorvastatin Atorvastatin: an updated review of its pharmacological properties and use in dyslipidaemia Evaluation of the rationality of fixed dose combinations of cardiovascular drugs in a multispecialty tertiary care hospital in Coimbatore, Tamilnadu, India Benefits, challenges, and registerability of the polypill Evaluation of the rationality of some FDCs: Focus on antihypertensive drugs Determination of related compounds in aspirin by liquid chromatography Quantitative determination by high-performance liquid chromatography of acetylsalicylic acid and related substances in tablets Liquid Chromatography/Mass Spectrometric studies on atorvastatin and its stress degradation products Stability-indicating high performance liquid chromatographic determination of atorvastatin calcium in pharmaceutical dosage form Stability-Indicating high-performance liquid chromatographic assay of atorvastatin with fluorescence detection A validated stability indicating HPTLC method for determination of Aspirin and Clopidogrel Bisulphate in combined dosage form Rapid and simultaneous determination of acetylsalicylic acid, paracetamol, and their degradation and toxic impurity products by HPLC in pharmaceutical dosage forms Stability indicating RP-HPLC method for simultaneous determination of atorvastatin and nicotinic acid from their combined dosage form Stability indicating UPLC method for simultaneous determination of atorvastatin, fenofibrate and their degradation products in tablets A validated HPLC method for analysis of atorvastatin calcium, ramipril and aspirin as the bulk drug and in combined capsule dosage Forms Estimation of aspirin and atorvastatin calcium in combine dosage form using derivative spectrophotometric Method LC and LC-MS methods for the investigation of polypills for thetreatment of cardiovascular diseases, Part 1. Separation of Active Components and Classification of their interaction/degradation products   Validated Ultra HPLC method for the simultaneous determination of atorvastatin, aspirin and their degradation products in capsules   A stress testing benchmarking study Stress Testing: A Predictive Tool Stress Testing: A Predictive Tool Degradation and Impurity Analysis for Pharmceutical Drug Candidates Chemical structure of atorvastatin calcium (1a) and its major degradation products atorvastatin lactone (1b) and atorvastatin diastereomer (1c). Chemical structure of aspirin (2a) and its degradation products salicylic acid (2b), acetylsalicylsalicylic acid (2c), and salicylsalicylic acid (2d). Representative HPLC chromatogram of standard ASP and ATR Representative HPLC Chromatogram for acid degradation of ATR and ASP in 1:7.5 combination. Representative HPLC Chromatogram for neutral degradation of ATR and ASP in 1:7.5 combination Representative HPLC Chromatogram for oxidative degradation of ATR and ASP in 1:7.5 combination. Representative HPLC Chromatogram for thermal degradation of ATR and ASP in 1:7.5 combination showing three additional degradation products (A1, A2, and A3). Results of System Suitability Parameters for ASP and ATR by the Proposed RP-HPLC Method Parameter\tASP\tATR\t \tRt (min)\t2.60\t9.86\t \tAsymmetry factor\t1.24\t1.17\t \tTheoretical plates\t4939\t9509\t \tResolution\t-\t26.62      Summary of Validation Parameters for the Proposed Method Parameter\tASP\tATR\t \tLinearitya (mug/mL) (n=3)\t1-80\t1-60\t \tIntercept (c)\t-21282\t-8019\t \tSlope (m)\t46251\t36678\t \tr2 value\t0.999\t0.999\t \tLOD (mug/mL)\t0.010\t0.032\t \tLOQ (mug/mL)\t0.031\t0.099\t \tPrecision\t\t\t \tIntraday % RSD (n=3)\t0.19-1.08\t0.18-0.85\t \tInterday % RSD (n=3)\t0.03-0.5\t0.15-042\t \tRepeatability % RSD (n=6)\t0.94\t0.78                    y = mx + c Results of Accuracy Studies of ASP and ATR by Proposed RP-HPLC Method Amount of drug taken (mug)\tAmount of standard added(mug)\tMean % Recoverya +- S.D\t \t\t \tASP\tATR\tASP\tATR\tASP\tATR\t \t30\t4\t24\t3.2\t99.0+- 0.04\t99.8 +-0.41\t \t30\t4\t30\t4\t99.0 +-0.10\t99.2+-0.31\t \t30\t4\t36\t4.8\t99.6+-0.27\t99.0+-0.71    Average of three determinations. Summary of Stress Degradation Behavior for ASP and ATR Degradation Type\tDegradation Condition\tSample Type\t% Degradation observed for ASP\t% Degradation observed for ATR\t \tAcid Hydrolysis\t0.1 N HCl3 Hrs reflux at 80  C\tASP alone\t24.25\t-\t \tATR Alone\t-\t29.6\t \tASP:ATR(1:1) Ratio\t20.28\t38\t \tATR:ASP(1:7.5)Ratio\t32.26\t36.40\t \t\t \tAlkaline Hydrolysis\t0.1 N NaOH 3 Hrs reflux at 80  C\tASP alone\t90\t-\t \tATR Alone\t-\tNo Degradation\t \tASP:ATR(1:1) Ratio\t90\tNo Degradation\t \tATR:ASP(1:7.5)Ratio\t93\tNo Degradation\t \t\t \tNeutral Hydrolysis\t3Hrs reflux at 80  C in water\tASP alone\t19\t-\t \tATR Alone\t-\tNo Degradation\t \tASP:ATR(1:1) Ratio\t39\t6.28\t \tATR:ASP(1:7.5)Ratio\t25.61\t27.22\t \t\t \tOxidative Stress\t3% H2O2 at room temperature for 7 days\tASP alone\t54.49\t-\t \tATR Alone\t-\tNo Degradation\t \tASP:ATR(1:1) Ratio\t89\t28\t \tATR:ASP(1:7.5)Ratio\t61\t30\t \t\t \tThermal Stress\t80  C for 48 Hrs\tASP alone\tNo Degradation\t-\t \tATR Alone\t-\tNo Degradation\t \tASP:ATR(1:1) Ratio\t39.61\t38.57\t \tATR:ASP(1:7.5)Ratio\t15\t50\t \t\t \tPhotolytic Stress\tExposed to sunlight for 12 hrs\tASP alone\tNo Degradation\tNo Degradation\t \tATR Alone\tNo Degradation\tNo Degradation\t \tASP:ATR(1:1) Ratio\tNo Degradation\tNo Degradation\t \tATR:ASP(1:7.5)Ratio\tNo Degradation\tNo Degradation                            Summary of Degradation after One Month Stability Study at 40  C and 75% RH.  No\tSample Type\t% Degradation observed for ASP\t% Degradation observed for ATR\t \t1\tASP alone\tNo Degradation\t-\t \t2\tATR Alone\t-\tNo Degradation\t \t3\tASP:ATR(1:1) Ratio\t18\t31\t \t4\tATR:ASP(1:7.5)Ratio\t5\t54",
+    "entities": [
+        {
+            "entityId": "52_59",
+            "span": {
+                "begin": 52,
+                "end": 59
+            },
+            "entityType": "drug",
+            "entityName": "Aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "64_76",
+            "span": {
+                "begin": 64,
+                "end": 76
+            },
+            "entityType": "drug",
+            "entityName": "Atorvastatin",
+            "id": "UMLS:C0286651"
+        },
+        {
+            "entityId": "167_179",
+            "span": {
+                "begin": 167,
+                "end": 179
+            },
+            "entityType": "drug",
+            "entityName": "atorvastatin",
+            "id": "UMLS:C0286651"
+        },
+        {
+            "entityId": "184_191",
+            "span": {
+                "begin": 184,
+                "end": 191
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "228_249",
+            "span": {
+                "begin": 228,
+                "end": 249
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "338_350",
+            "span": {
+                "begin": 338,
+                "end": 350
+            },
+            "entityType": "drug",
+            "entityName": "atorvastatin",
+            "id": "UMLS:C0286651"
+        },
+        {
+            "entityId": "355_362",
+            "span": {
+                "begin": 355,
+                "end": 362
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "485_492",
+            "span": {
+                "begin": 485,
+                "end": 492
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "504_516",
+            "span": {
+                "begin": 504,
+                "end": 516
+            },
+            "entityType": "drug",
+            "entityName": "atorvastatin",
+            "id": "UMLS:C0286651"
+        },
+        {
+            "entityId": "780_799",
+            "span": {
+                "begin": 780,
+                "end": 799
+            },
+            "entityType": "drug",
+            "entityName": "glacial acetic acid",
+            "id": "UMLS:C0000983"
+        },
+        {
+            "entityId": "813_825",
+            "span": {
+                "begin": 813,
+                "end": 825
+            },
+            "entityType": "drug",
+            "entityName": "acetonitrile",
+            "id": "UMLS:C0050456"
+        },
+        {
+            "entityId": "1058_1070",
+            "span": {
+                "begin": 1058,
+                "end": 1070
+            },
+            "entityType": "drug",
+            "entityName": "atorvastatin",
+            "id": "UMLS:C0286651"
+        },
+        {
+            "entityId": "1096_1103",
+            "span": {
+                "begin": 1096,
+                "end": 1103
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "1227_1234",
+            "span": {
+                "begin": 1227,
+                "end": 1234
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "1251_1263",
+            "span": {
+                "begin": 1251,
+                "end": 1263
+            },
+            "entityType": "drug",
+            "entityName": "atorvastatin",
+            "id": "UMLS:C0286651"
+        },
+        {
+            "entityId": "1394_1401",
+            "span": {
+                "begin": 1394,
+                "end": 1401
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "1406_1418",
+            "span": {
+                "begin": 1406,
+                "end": 1418
+            },
+            "entityType": "drug",
+            "entityName": "atorvastatin",
+            "id": "UMLS:C0286651"
+        },
+        {
+            "entityId": "1490_1497",
+            "span": {
+                "begin": 1490,
+                "end": 1497
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "1502_1514",
+            "span": {
+                "begin": 1502,
+                "end": 1514
+            },
+            "entityType": "drug",
+            "entityName": "atorvastatin",
+            "id": "UMLS:C0286651"
+        },
+        {
+            "entityId": "1646_1653",
+            "span": {
+                "begin": 1646,
+                "end": 1653
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "1658_1670",
+            "span": {
+                "begin": 1658,
+                "end": 1670
+            },
+            "entityType": "drug",
+            "entityName": "atorvastatin",
+            "id": "UMLS:C0286651"
+        },
+        {
+            "entityId": "1731_1752",
+            "span": {
+                "begin": 1731,
+                "end": 1752
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "1754_1756",
+            "span": {
+                "begin": 1754,
+                "end": 1756
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "1885_1909",
+            "span": {
+                "begin": 1885,
+                "end": 1909
+            },
+            "entityType": "disease",
+            "entityName": "hyperlipedemic condition",
+            "id": "UMLS:C0012634"
+        },
+        {
+            "entityId": "2056_2063",
+            "span": {
+                "begin": 2056,
+                "end": 2063
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "2193_2196",
+            "span": {
+                "begin": 2193,
+                "end": 2196
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "2201_2204",
+            "span": {
+                "begin": 2201,
+                "end": 2204
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "2256_2276",
+            "span": {
+                "begin": 2256,
+                "end": 2276
+            },
+            "entityType": "drug",
+            "entityName": "Atorvastatin calcium",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "2278_2281",
+            "span": {
+                "begin": 2278,
+                "end": 2281
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "2352_2369",
+            "span": {
+                "begin": 2352,
+                "end": 2369
+            },
+            "entityType": "gene",
+            "entityName": "HMG-CoA reductase",
+            "id": "UMLS:C1415615"
+        },
+        {
+            "entityId": "2397_2408",
+            "span": {
+                "begin": 2397,
+                "end": 2408
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "2454_2465",
+            "span": {
+                "begin": 2454,
+                "end": 2465
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "2477_2488",
+            "span": {
+                "begin": 2477,
+                "end": 2488
+            },
+            "entityType": "cell",
+            "entityName": "hepatocytes",
+            "id": "UMLS:C0227525"
+        },
+        {
+            "entityId": "2490_2493",
+            "span": {
+                "begin": 2490,
+                "end": 2493
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "2508_2613",
+            "span": {
+                "begin": 2508,
+                "end": 2613
+            },
+            "entityType": "drug",
+            "entityName": "(3R,5R)-7-[2-(4-fluorophenyl)-3-phenyl-4-(phenylcarbamoyl)-5-(propan-2-yl)-1H-pyrrol-1-yl]-3,5-dihyd acid",
+            "id": "UMLS:C0001128"
+        },
+        {
+            "entityId": "2639_2646",
+            "span": {
+                "begin": 2639,
+                "end": 2646
+            },
+            "entityType": "drug",
+            "entityName": "Aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "2648_2651",
+            "span": {
+                "begin": 2648,
+                "end": 2651
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "2658_2672",
+            "span": {
+                "begin": 2658,
+                "end": 2672
+            },
+            "entityType": "gene",
+            "entityName": "cyclooxygenase",
+            "id": "UMLS:C1565830"
+        },
+        {
+            "entityId": "2852_2865",
+            "span": {
+                "begin": 2852,
+                "end": 2865
+            },
+            "entityType": "disease",
+            "entityName": "heart attacks",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "2885_2910",
+            "span": {
+                "begin": 2885,
+                "end": 2910
+            },
+            "entityType": "drug",
+            "entityName": "2-(acetyloxy)benzoic acid",
+            "id": "UMLS:C1161334"
+        },
+        {
+            "entityId": "3003_3006",
+            "span": {
+                "begin": 3003,
+                "end": 3006
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "3011_3014",
+            "span": {
+                "begin": 3011,
+                "end": 3014
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "3043_3046",
+            "span": {
+                "begin": 3043,
+                "end": 3046
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "3051_3054",
+            "span": {
+                "begin": 3051,
+                "end": 3054
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "3111_3118",
+            "span": {
+                "begin": 3111,
+                "end": 3118
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "3182_3190",
+            "span": {
+                "begin": 3182,
+                "end": 3190
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "3196_3223",
+            "span": {
+                "begin": 3196,
+                "end": 3223
+            },
+            "entityType": "disease",
+            "entityName": "acute myocardial infarction",
+            "id": "UMLS:C0155626"
+        },
+        {
+            "entityId": "3239_3247",
+            "span": {
+                "begin": 3239,
+                "end": 3247
+            },
+            "entityType": "cell",
+            "entityName": "platelet",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "3248_3252",
+            "span": {
+                "begin": 3248,
+                "end": 3252
+            },
+            "entityType": "drug",
+            "entityName": "TXA2",
+            "id": "UMLS:C0040057"
+        },
+        {
+            "entityId": "3278_3281",
+            "span": {
+                "begin": 3278,
+                "end": 3281
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "3470_3476",
+            "span": {
+                "begin": 3470,
+                "end": 3476
+            },
+            "entityType": "drug",
+            "entityName": "ATORVA",
+            "id": "UMLS:CHEBI:39548"
+        },
+        {
+            "entityId": "3565_3568",
+            "span": {
+                "begin": 3565,
+                "end": 3568
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "3573_3576",
+            "span": {
+                "begin": 3573,
+                "end": 3576
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "3963_3966",
+            "span": {
+                "begin": 3963,
+                "end": 3966
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "3973_3978",
+            "span": {
+                "begin": 3973,
+                "end": 3978
+            },
+            "entityType": "drug",
+            "entityName": "ester",
+            "id": "UMLS:C0014898"
+        },
+        {
+            "entityId": "4078_4081",
+            "span": {
+                "begin": 4078,
+                "end": 4081
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "4087_4101",
+            "span": {
+                "begin": 4087,
+                "end": 4101
+            },
+            "entityType": "drug",
+            "entityName": "salicylic acid",
+            "id": "UMLS:C0036079"
+        },
+        {
+            "entityId": "4103_4105",
+            "span": {
+                "begin": 4103,
+                "end": 4105
+            },
+            "entityType": "drug",
+            "entityName": "SA",
+            "id": "UMLS:C0038702"
+        },
+        {
+            "entityId": "4141_4144",
+            "span": {
+                "begin": 4141,
+                "end": 4144
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "4241_4248",
+            "span": {
+                "begin": 4241,
+                "end": 4248
+            },
+            "entityType": "drug",
+            "entityName": "lactone",
+            "id": "UMLS:C0022947"
+        },
+        {
+            "entityId": "4342_4345",
+            "span": {
+                "begin": 4342,
+                "end": 4345
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "4350_4353",
+            "span": {
+                "begin": 4350,
+                "end": 4353
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "4536_4539",
+            "span": {
+                "begin": 4536,
+                "end": 4539
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "4544_4547",
+            "span": {
+                "begin": 4544,
+                "end": 4547
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "4666_4669",
+            "span": {
+                "begin": 4666,
+                "end": 4669
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "4674_4677",
+            "span": {
+                "begin": 4674,
+                "end": 4677
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "4829_4832",
+            "span": {
+                "begin": 4829,
+                "end": 4832
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "4837_4840",
+            "span": {
+                "begin": 4837,
+                "end": 4840
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "4882_4885",
+            "span": {
+                "begin": 4882,
+                "end": 4885
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "4922_4925",
+            "span": {
+                "begin": 4922,
+                "end": 4925
+            },
+            "entityType": "gene",
+            "entityName": "ASP",
+            "id": "UMLS:C4553371"
+        },
+        {
+            "entityId": "4930_4933",
+            "span": {
+                "begin": 4930,
+                "end": 4933
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "4963_4966",
+            "span": {
+                "begin": 4963,
+                "end": 4966
+            },
+            "entityType": "gene",
+            "entityName": "ASP",
+            "id": "UMLS:C4553371"
+        },
+        {
+            "entityId": "5164_5167",
+            "span": {
+                "begin": 5164,
+                "end": 5167
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "5172_5175",
+            "span": {
+                "begin": 5172,
+                "end": 5175
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "5362_5365",
+            "span": {
+                "begin": 5362,
+                "end": 5365
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "5370_5373",
+            "span": {
+                "begin": 5370,
+                "end": 5373
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "5507_5510",
+            "span": {
+                "begin": 5507,
+                "end": 5510
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "5644_5647",
+            "span": {
+                "begin": 5644,
+                "end": 5647
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "5722_5736",
+            "span": {
+                "begin": 5722,
+                "end": 5736
+            },
+            "entityType": "drug",
+            "entityName": "Salicylic acid",
+            "id": "UMLS:C0036079"
+        },
+        {
+            "entityId": "5816_5836",
+            "span": {
+                "begin": 5816,
+                "end": 5836
+            },
+            "entityType": "drug",
+            "entityName": "Atorvastatin lactone",
+            "id": "UMLS:C0022947"
+        },
+        {
+            "entityId": "5901_5904",
+            "span": {
+                "begin": 5901,
+                "end": 5904
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "5909_5912",
+            "span": {
+                "begin": 5909,
+                "end": 5912
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "5986_5989",
+            "span": {
+                "begin": 5986,
+                "end": 5989
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "6002_6005",
+            "span": {
+                "begin": 6002,
+                "end": 6005
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "6031_6043",
+            "span": {
+                "begin": 6031,
+                "end": 6043
+            },
+            "entityType": "drug",
+            "entityName": "acetonitrile",
+            "id": "UMLS:C0050456"
+        },
+        {
+            "entityId": "6097_6116",
+            "span": {
+                "begin": 6097,
+                "end": 6116
+            },
+            "entityType": "drug",
+            "entityName": "glacial acetic acid",
+            "id": "UMLS:C0000983"
+        },
+        {
+            "entityId": "6121_6139",
+            "span": {
+                "begin": 6121,
+                "end": 6139
+            },
+            "entityType": "drug",
+            "entityName": "dimethyl sulfoxide",
+            "id": "UMLS:C0012403"
+        },
+        {
+            "entityId": "6141_6145",
+            "span": {
+                "begin": 6141,
+                "end": 6145
+            },
+            "entityType": "drug",
+            "entityName": "DMSO",
+            "id": "UMLS:C0012403"
+        },
+        {
+            "entityId": "6834_6853",
+            "span": {
+                "begin": 6834,
+                "end": 6853
+            },
+            "entityType": "drug",
+            "entityName": "glacial acetic acid",
+            "id": "UMLS:C0000983"
+        },
+        {
+            "entityId": "6867_6879",
+            "span": {
+                "begin": 6867,
+                "end": 6879
+            },
+            "entityType": "drug",
+            "entityName": "acetonitrile",
+            "id": "UMLS:C0050456"
+        },
+        {
+            "entityId": "7014_7026",
+            "span": {
+                "begin": 7014,
+                "end": 7026
+            },
+            "entityType": "drug",
+            "entityName": "acetonitrile",
+            "id": "UMLS:C0050456"
+        },
+        {
+            "entityId": "7194_7197",
+            "span": {
+                "begin": 7194,
+                "end": 7197
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "7202_7205",
+            "span": {
+                "begin": 7202,
+                "end": 7205
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "7237_7245",
+            "span": {
+                "begin": 7237,
+                "end": 7245
+            },
+            "entityType": "drug",
+            "entityName": "methanol",
+            "id": "UMLS:C0001963"
+        },
+        {
+            "entityId": "7325_7328",
+            "span": {
+                "begin": 7325,
+                "end": 7328
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "7333_7336",
+            "span": {
+                "begin": 7333,
+                "end": 7336
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "7422_7425",
+            "span": {
+                "begin": 7422,
+                "end": 7425
+            },
+            "entityType": "gene",
+            "entityName": "ASP",
+            "id": "UMLS:C4553371"
+        },
+        {
+            "entityId": "7430_7433",
+            "span": {
+                "begin": 7430,
+                "end": 7433
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "7651_7654",
+            "span": {
+                "begin": 7651,
+                "end": 7654
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "7659_7662",
+            "span": {
+                "begin": 7659,
+                "end": 7662
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "7719_7723",
+            "span": {
+                "begin": 7719,
+                "end": 7723
+            },
+            "entityType": "drug",
+            "entityName": "DMSO",
+            "id": "UMLS:C0012403"
+        },
+        {
+            "entityId": "7908_7911",
+            "span": {
+                "begin": 7908,
+                "end": 7911
+            },
+            "entityType": "drug",
+            "entityName": "HCl",
+            "id": "UMLS:C1512523"
+        },
+        {
+            "entityId": "7918_7922",
+            "span": {
+                "begin": 7918,
+                "end": 7922
+            },
+            "entityType": "drug",
+            "entityName": "NaOH",
+            "id": "UMLS:CHEBI:32145"
+        },
+        {
+            "entityId": "7958_7961",
+            "span": {
+                "begin": 7958,
+                "end": 7961
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "7966_7969",
+            "span": {
+                "begin": 7966,
+                "end": 7969
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "7982_7986",
+            "span": {
+                "begin": 7982,
+                "end": 7986
+            },
+            "entityType": "drug",
+            "entityName": "DMSO",
+            "id": "UMLS:C0012403"
+        },
+        {
+            "entityId": "8055_8058",
+            "span": {
+                "begin": 8055,
+                "end": 8058
+            },
+            "entityType": "drug",
+            "entityName": "HCl",
+            "id": "UMLS:C1512523"
+        },
+        {
+            "entityId": "8065_8069",
+            "span": {
+                "begin": 8065,
+                "end": 8069
+            },
+            "entityType": "drug",
+            "entityName": "NaOH",
+            "id": "UMLS:CHEBI:32145"
+        },
+        {
+            "entityId": "8191_8208",
+            "span": {
+                "begin": 8191,
+                "end": 8208
+            },
+            "entityType": "drug",
+            "entityName": "hydrogen peroxide",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "8236_8239",
+            "span": {
+                "begin": 8236,
+                "end": 8239
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "8308_8312",
+            "span": {
+                "begin": 8308,
+                "end": 8312
+            },
+            "entityType": "drug",
+            "entityName": "DMSO",
+            "id": "UMLS:C0012403"
+        },
+        {
+            "entityId": "8353_8370",
+            "span": {
+                "begin": 8353,
+                "end": 8370
+            },
+            "entityType": "drug",
+            "entityName": "hydrogen peroxide",
+            "id": "UMLS:C0020281"
+        },
+        {
+            "entityId": "8564_8567",
+            "span": {
+                "begin": 8564,
+                "end": 8567
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "8579_8582",
+            "span": {
+                "begin": 8579,
+                "end": 8582
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "8674_8677",
+            "span": {
+                "begin": 8674,
+                "end": 8677
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "9080_9083",
+            "span": {
+                "begin": 9080,
+                "end": 9083
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "9088_9091",
+            "span": {
+                "begin": 9088,
+                "end": 9091
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "9358_9366",
+            "span": {
+                "begin": 9358,
+                "end": 9366
+            },
+            "entityType": "drug",
+            "entityName": "methanol",
+            "id": "UMLS:C0001963"
+        },
+        {
+            "entityId": "9435_9438",
+            "span": {
+                "begin": 9435,
+                "end": 9438
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "9443_9446",
+            "span": {
+                "begin": 9443,
+                "end": 9446
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "9790_9793",
+            "span": {
+                "begin": 9790,
+                "end": 9793
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "9798_9801",
+            "span": {
+                "begin": 9798,
+                "end": 9801
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "10209_10212",
+            "span": {
+                "begin": 10209,
+                "end": 10212
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "10217_10220",
+            "span": {
+                "begin": 10217,
+                "end": 10220
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "10458_10461",
+            "span": {
+                "begin": 10458,
+                "end": 10461
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "10466_10469",
+            "span": {
+                "begin": 10466,
+                "end": 10469
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "10668_10671",
+            "span": {
+                "begin": 10668,
+                "end": 10671
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "10745_10748",
+            "span": {
+                "begin": 10745,
+                "end": 10748
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "10846_10849",
+            "span": {
+                "begin": 10846,
+                "end": 10849
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "10854_10857",
+            "span": {
+                "begin": 10854,
+                "end": 10857
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "11003_11006",
+            "span": {
+                "begin": 11003,
+                "end": 11006
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "11032_11035",
+            "span": {
+                "begin": 11032,
+                "end": 11035
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "11128_11131",
+            "span": {
+                "begin": 11128,
+                "end": 11131
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "11148_11151",
+            "span": {
+                "begin": 11148,
+                "end": 11151
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "11367_11370",
+            "span": {
+                "begin": 11367,
+                "end": 11370
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "11475_11478",
+            "span": {
+                "begin": 11475,
+                "end": 11478
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "12259_12262",
+            "span": {
+                "begin": 12259,
+                "end": 12262
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "12267_12270",
+            "span": {
+                "begin": 12267,
+                "end": 12270
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "12373_12376",
+            "span": {
+                "begin": 12373,
+                "end": 12376
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "12381_12384",
+            "span": {
+                "begin": 12381,
+                "end": 12384
+            },
+            "entityType": "gene",
+            "entityName": "ASP",
+            "id": "UMLS:C4553371"
+        },
+        {
+            "entityId": "12604_12616",
+            "span": {
+                "begin": 12604,
+                "end": 12616
+            },
+            "entityType": "drug",
+            "entityName": "acetonitrile",
+            "id": "UMLS:C0050456"
+        },
+        {
+            "entityId": "12637_12656",
+            "span": {
+                "begin": 12637,
+                "end": 12656
+            },
+            "entityType": "drug",
+            "entityName": "glacial acetic acid",
+            "id": "UMLS:C0000983"
+        },
+        {
+            "entityId": "12728_12731",
+            "span": {
+                "begin": 12728,
+                "end": 12731
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "12755_12758",
+            "span": {
+                "begin": 12755,
+                "end": 12758
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "12957_12960",
+            "span": {
+                "begin": 12957,
+                "end": 12960
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "12990_12993",
+            "span": {
+                "begin": 12990,
+                "end": 12993
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "13054_13057",
+            "span": {
+                "begin": 13054,
+                "end": 13057
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "13062_13065",
+            "span": {
+                "begin": 13062,
+                "end": 13065
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "13530_13533",
+            "span": {
+                "begin": 13530,
+                "end": 13533
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "13538_13541",
+            "span": {
+                "begin": 13538,
+                "end": 13541
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "13821_13824",
+            "span": {
+                "begin": 13821,
+                "end": 13824
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "13980_13983",
+            "span": {
+                "begin": 13980,
+                "end": 13983
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "14144_14147",
+            "span": {
+                "begin": 14144,
+                "end": 14147
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "14212_14215",
+            "span": {
+                "begin": 14212,
+                "end": 14215
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "14347_14350",
+            "span": {
+                "begin": 14347,
+                "end": 14350
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "14352_14355",
+            "span": {
+                "begin": 14352,
+                "end": 14355
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "14413_14416",
+            "span": {
+                "begin": 14413,
+                "end": 14416
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "14580_14583",
+            "span": {
+                "begin": 14580,
+                "end": 14583
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "14589_14603",
+            "span": {
+                "begin": 14589,
+                "end": 14603
+            },
+            "entityType": "drug",
+            "entityName": "salicylic acid",
+            "id": "UMLS:C0036079"
+        },
+        {
+            "entityId": "14605_14608",
+            "span": {
+                "begin": 14605,
+                "end": 14608
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "14863_14866",
+            "span": {
+                "begin": 14863,
+                "end": 14866
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "14993_14996",
+            "span": {
+                "begin": 14993,
+                "end": 14996
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "15008_15011",
+            "span": {
+                "begin": 15008,
+                "end": 15011
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "15315_15318",
+            "span": {
+                "begin": 15315,
+                "end": 15318
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "15364_15376",
+            "span": {
+                "begin": 15364,
+                "end": 15376
+            },
+            "entityType": "drug",
+            "entityName": "acetonitrile",
+            "id": "UMLS:C0050456"
+        },
+        {
+            "entityId": "15417_15425",
+            "span": {
+                "begin": 15417,
+                "end": 15425
+            },
+            "entityType": "drug",
+            "entityName": "methanol",
+            "id": "UMLS:C0001963"
+        },
+        {
+            "entityId": "15458_15473",
+            "span": {
+                "begin": 15458,
+                "end": 15473
+            },
+            "entityType": "drug",
+            "entityName": "carboxylic acid",
+            "id": "UMLS:C0007066"
+        },
+        {
+            "entityId": "15499_15502",
+            "span": {
+                "begin": 15499,
+                "end": 15502
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "15535_15547",
+            "span": {
+                "begin": 15535,
+                "end": 15547
+            },
+            "entityType": "drug",
+            "entityName": "methyl ester",
+            "id": "UMLS:C0014898"
+        },
+        {
+            "entityId": "15616_15628",
+            "span": {
+                "begin": 15616,
+                "end": 15628
+            },
+            "entityType": "drug",
+            "entityName": "methyl ester",
+            "id": "UMLS:C0014898"
+        },
+        {
+            "entityId": "15674_15678",
+            "span": {
+                "begin": 15674,
+                "end": 15678
+            },
+            "entityType": "drug",
+            "entityName": "DMSO",
+            "id": "UMLS:C0012403"
+        },
+        {
+            "entityId": "15872_15875",
+            "span": {
+                "begin": 15872,
+                "end": 15875
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "15897_15900",
+            "span": {
+                "begin": 15897,
+                "end": 15900
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "15911_15916",
+            "span": {
+                "begin": 15911,
+                "end": 15916
+            },
+            "entityType": "drug",
+            "entityName": "ester",
+            "id": "UMLS:C0014898"
+        },
+        {
+            "entityId": "16029_16031",
+            "span": {
+                "begin": 16029,
+                "end": 16031
+            },
+            "entityType": "drug",
+            "entityName": "SA",
+            "id": "UMLS:C0038702"
+        },
+        {
+            "entityId": "16033_16035",
+            "span": {
+                "begin": 16033,
+                "end": 16035
+            },
+            "entityType": "drug",
+            "entityName": "SA",
+            "id": "UMLS:C0038702"
+        },
+        {
+            "entityId": "16073_16075",
+            "span": {
+                "begin": 16073,
+                "end": 16075
+            },
+            "entityType": "drug",
+            "entityName": "SA",
+            "id": "UMLS:C0038702"
+        },
+        {
+            "entityId": "16234_16237",
+            "span": {
+                "begin": 16234,
+                "end": 16237
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "16308_16311",
+            "span": {
+                "begin": 16308,
+                "end": 16311
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "16427_16438",
+            "span": {
+                "begin": 16427,
+                "end": 16438
+            },
+            "entityType": "drug",
+            "entityName": "ATR lactone",
+            "id": "UMLS:C0022947"
+        },
+        {
+            "entityId": "16440_16443",
+            "span": {
+                "begin": 16440,
+                "end": 16443
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "16740_16743",
+            "span": {
+                "begin": 16740,
+                "end": 16743
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "16872_16875",
+            "span": {
+                "begin": 16872,
+                "end": 16875
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "16954_16957",
+            "span": {
+                "begin": 16954,
+                "end": 16957
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "16962_16965",
+            "span": {
+                "begin": 16962,
+                "end": 16965
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "16973_16976",
+            "span": {
+                "begin": 16973,
+                "end": 16976
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "16981_16984",
+            "span": {
+                "begin": 16981,
+                "end": 16984
+            },
+            "entityType": "gene",
+            "entityName": "ASP",
+            "id": "UMLS:C4553371"
+        },
+        {
+            "entityId": "17129_17132",
+            "span": {
+                "begin": 17129,
+                "end": 17132
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "17137_17140",
+            "span": {
+                "begin": 17137,
+                "end": 17140
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "17321_17323",
+            "span": {
+                "begin": 17321,
+                "end": 17323
+            },
+            "entityType": "drug",
+            "entityName": "SA",
+            "id": "UMLS:C0038702"
+        },
+        {
+            "entityId": "17328_17331",
+            "span": {
+                "begin": 17328,
+                "end": 17331
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "17340_17343",
+            "span": {
+                "begin": 17340,
+                "end": 17343
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "17348_17351",
+            "span": {
+                "begin": 17348,
+                "end": 17351
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "17552_17555",
+            "span": {
+                "begin": 17552,
+                "end": 17555
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "17589_17592",
+            "span": {
+                "begin": 17589,
+                "end": 17592
+            },
+            "entityType": "gene",
+            "entityName": "ASP",
+            "id": "UMLS:C4553371"
+        },
+        {
+            "entityId": "17690_17693",
+            "span": {
+                "begin": 17690,
+                "end": 17693
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "17987_17990",
+            "span": {
+                "begin": 17987,
+                "end": 17990
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "18064_18067",
+            "span": {
+                "begin": 18064,
+                "end": 18067
+            },
+            "entityType": "gene",
+            "entityName": "ASP",
+            "id": "UMLS:C4553371"
+        },
+        {
+            "entityId": "18097_18100",
+            "span": {
+                "begin": 18097,
+                "end": 18100
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "18256_18259",
+            "span": {
+                "begin": 18256,
+                "end": 18259
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "18397_18400",
+            "span": {
+                "begin": 18397,
+                "end": 18400
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "18492_18495",
+            "span": {
+                "begin": 18492,
+                "end": 18495
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "18500_18503",
+            "span": {
+                "begin": 18500,
+                "end": 18503
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "18604_18607",
+            "span": {
+                "begin": 18604,
+                "end": 18607
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "18612_18615",
+            "span": {
+                "begin": 18612,
+                "end": 18615
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "18805_18807",
+            "span": {
+                "begin": 18805,
+                "end": 18807
+            },
+            "entityType": "drug",
+            "entityName": "SA",
+            "id": "UMLS:C0038702"
+        },
+        {
+            "entityId": "18876_18879",
+            "span": {
+                "begin": 18876,
+                "end": 18879
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "18884_18887",
+            "span": {
+                "begin": 18884,
+                "end": 18887
+            },
+            "entityType": "gene",
+            "entityName": "ASP",
+            "id": "UMLS:C4553371"
+        },
+        {
+            "entityId": "18926_18929",
+            "span": {
+                "begin": 18926,
+                "end": 18929
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "19094_19097",
+            "span": {
+                "begin": 19094,
+                "end": 19097
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "19527_19530",
+            "span": {
+                "begin": 19527,
+                "end": 19530
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "19535_19538",
+            "span": {
+                "begin": 19535,
+                "end": 19538
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "19729_19732",
+            "span": {
+                "begin": 19729,
+                "end": 19732
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "19737_19740",
+            "span": {
+                "begin": 19737,
+                "end": 19740
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "19828_19831",
+            "span": {
+                "begin": 19828,
+                "end": 19831
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "19836_19839",
+            "span": {
+                "begin": 19836,
+                "end": 19839
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "19946_19949",
+            "span": {
+                "begin": 19946,
+                "end": 19949
+            },
+            "entityType": "gene",
+            "entityName": "ASP",
+            "id": "UMLS:C4553371"
+        },
+        {
+            "entityId": "20006_20009",
+            "span": {
+                "begin": 20006,
+                "end": 20009
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "20071_20074",
+            "span": {
+                "begin": 20071,
+                "end": 20074
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "20118_20121",
+            "span": {
+                "begin": 20118,
+                "end": 20121
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "20189_20192",
+            "span": {
+                "begin": 20189,
+                "end": 20192
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "20365_20368",
+            "span": {
+                "begin": 20365,
+                "end": 20368
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "20373_20376",
+            "span": {
+                "begin": 20373,
+                "end": 20376
+            },
+            "entityType": "gene",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "20758_20761",
+            "span": {
+                "begin": 20758,
+                "end": 20761
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "20766_20769",
+            "span": {
+                "begin": 20766,
+                "end": 20769
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "20884_20887",
+            "span": {
+                "begin": 20884,
+                "end": 20887
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "20892_20895",
+            "span": {
+                "begin": 20892,
+                "end": 20895
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        },
+        {
+            "entityId": "21097_21100",
+            "span": {
+                "begin": 21097,
+                "end": 21100
+            },
+            "entityType": "drug",
+            "entityName": "ASP",
+            "id": "UMLS:CHEBI:17053"
+        },
+        {
+            "entityId": "21105_21108",
+            "span": {
+                "begin": 21105,
+                "end": 21108
+            },
+            "entityType": "drug",
+            "entityName": "ATR",
+            "id": "UMLS:C0286650"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "355_362",
+            "subjectText": "aspirin",
+            "rel_name": "associate",
+            "objectId": "64_76",
+            "objectText": "Atorvastatin"
+        }
+    ]
+}

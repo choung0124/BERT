@@ -1,0 +1,2045 @@
+{
+    "sourcid": "PMC3668123",
+    "publisher": "Springer-Verlag",
+    "journal": "Cancer Chemotherapy and Pharmacology",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3668123/",
+    "text": "Analysis of the potential effect of ponatinib on the QTc interval in patients with refractory hematological malignancies Purpose Cardiac dysfunction, particularly QT interval prolongation, has been observed with tyrosine kinase inhibitors approved to treat chronic myeloid leukemia. This study examines the effects of ponatinib on cardiac repolarization in patients with refractory hematological malignancies enrolled in a phase 1 trial. Methods Electrocardiograms (ECGs) were collected at 3 dose levels (30, 45, and 60 mg) at 6 time points. Electrocardiographic parameters, including QTc interval, were measured, and 11 morphological analyses were conducted. Central tendency analyses of ECG parameters were performed using time-point and time-averaged approaches. All patients with at least 2 baseline ECGs and 1 on-treatment ECG were included in the analyses. Patients with paired ECGs and plasma samples were included in the pharmacokinetic/pharmacodynamic analysis to examine the relationship between ponatinib plasma concentration and change from baseline in QT intervals.  Results Thirty-nine patients at the 30-, 45-, and 60-mg dose levels were included in the central tendency and morphological analyses. There was no significant effect on cardiac repolarization, as evidenced by non-clinically significant mean QTcF changes from baseline of -10.9, -3.6, and -5.0 ms for the 30-, 45-, and 60-mg dose levels, respectively. The morphological analysis revealed 2 patients with atrial fibrillation and 2 with T wave inversion. Seventy-five patients were included in the pharmacokinetic/pharmacodynamic analysis across all dose levels. The slope of the relationship for QTcF versus plasma ponatinib concentration was not positive (-0.0171), indicating no exposure-effect relationship.            Conclusions Ponatinib is associated with a low risk of QTc prolongation in patients with refractory hematological malignancies. Introduction Ponatinib (AP24534) is a novel, synthetic, orally administered, multi-targeted tyrosine kinase inhibitor (TKI) and a potent pan-BCR-ABL inhibitor. The product of a computational and structure-based approach to the design of a small-molecule TKI, ponatinib binds with high affinity to the active site of BCR-ABL and renders binding less susceptible to any single amino acid substitution. Ponatinib contains an unique carbon-carbon triple bond linkage that avoids the steric hindrance to other drugs caused by the bulky isoleucine residue at position 315 in the T315I mutant.     Based on the results in patients with chronic myeloid leukemia (CML) and Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph+ ALL) in phase 1 testing and phase 2 clinical trials, ponatinib (45 mg once daily) has been approved in the United States for the treatment of patients with CML and Ph+ ALL that is resistant or intolerant to prior TKI therapy.    Cardiac dysfunction has been noted with other TKIs approved for the treatment of patients with CML. For example, the imatinib prescribing information includes a warning regarding congestive heart failure and left ventricular dysfunction. The nilotinib prescribing information includes \"QT prolongation\" as a boxed warning, and the dasatinib prescribing information carries \"QT prolongation\" as a precaution. During phase 1 testing of ponatinib, treatment-related QTc prolongation was observed in 4 % of patients.          The QT interval is a measure of the duration of the electrical depolarization and repolarization of the ventricles of the heart and serves as a surrogate marker for the risk of torsades de pointes, which can lead to sudden death. The International Conference on Harmonisation E14 guidelines outline requirements for studies of the effects of drugs on the QT interval. Specifically, the ideal QT study would include a placebo and control drug along with evaluation of a supratherapeutic dose. However, it is not often possible to implement such a study design with cancer patients, particularly the use of a placebo and positive controls. The cardiac safety of ponatinib was initially investigated in an in vitro assay conducted in human embryonic kidney cells stably expressing the hERG potassium channel. In this study, 5 ponatinib doses were compared with the positive control cisapride (unpublished data, ARIAD Pharmaceuticals, Cambridge, MA). This preclinical study revealed that ponatinib inhibits hERG current, which is implicated in the prolongation of cardiac repolarization, at concentrations above 1 muM, which is substantially in excess of the steady-state ponatinib maximal concentrations (Cmax) observed in patients treated at the clinical dose of 45 mg orally once daily (geometric mean, 77.4 ng/mL or 0.145 muM). The cardiac safety of ponatinib was also investigated in vivo in 4 conscious telemetered dogs (unpublished data, ARIAD Pharmaceuticals, Cambridge, MA). In this study, dogs received vehicle and 3 doses of ponatinib (2, 5, and 10 mg/kg) administered 1 week apart; electrocardiographic (ECG), heart rate, and arterial pressure measurements were taken to assess the effects of ponatinib on cardiovascular parameters. This in vivo study showed that oral administration of single doses of ponatinib up to 10 mg/kg was not associated with biologically relevant effects on cardiac or circulatory function.        This report is a safety analysis of the phase 1 trial focused on the potential effects of ponatinib on cardiac repolarization in patients with refractory hematological malignancies. Methods Study design The design of this phase 1 trial has been previously described. There were 7 dose levels, with doses ranging from 2 to 60 mg. The primary objective was to determine the maximal tolerated dose, and secondary objectives included safety/tolerability, anti-leukemia activity, and pharmacokinetics (PK)/pharmacodynamics (PD). An additional secondary end point was introduced through a protocol amendment allowing analysis of ECG parameters including the QTc interval, which was primarily assessed using the Fridericia-corrected method (QTcF). The protocol amendment, under which all patients included in the central tendency and outlier analyses were evaluated, required baseline QTc to be less than 450 ms and prohibited concomitant use of medications known to prolong the QTc interval.   All patients provided signed informed consent. The protocol, amendments, and consent forms were approved by the institutional review board at each center. The study was conducted in accordance with the Guidelines for Good Clinical Practice and the Declaration of Helsinki. Analysis population All patients in the 3 dose groups (30, 45, and 60 mg) with at least 2 available baseline ECGs and 1 on-treatment ECG were included in the central tendency and outlier analyses of ECG parameters (39 of 57 patients at these dose levels met these criteria). All patients across all dose levels with paired ECG and plasma concentrations for ponatinib were included in the PK/PD analysis (75 of 81 patients met these criteria).  ECG evaluation Resting 12-lead ECGs were collected across the 3 dose levels (30, 45, and 60 mg) and at 6 time points: baseline (day 1, in triplicate), predose; day 15, predose (single); day 29 (cycle 2/day 1), predose (in triplicate); day 29, 2 h post-dose (in triplicate); day 29, 4 h post-dose (in triplicate); and day 29, 6 h post-dose (in triplicate). Patients were supine and at rest during ECG recording, which was performed from all 12 leads simultaneously for 10 s. Electrocardiograms were recorded using GE MAC1200 ECG recorders (version 6.1) at each study site and transmitted to a central laboratory for analysis conducted by a cardiologist.      Six cardiac interval durations were measured: heart rate, PR interval, QRS interval, QT interval, QTcF, and Bazett-corrected QT (QTcB). In addition, 11 morphological analyses were conducted to identify the onset of new morphological abnormalities: atrial fibrillation and atrial flutter, second- and third-degree heart block, complete left and right bundle branch block, ST-segment change (elevation and depression separately), wave abnormalities (negative T waves only), myocardial infarction pattern, and abnormal U waves. Statistical analysis of ECG parameters: central tendency analysis and outlier analysis The central tendency analysis of all ECG interval parameters, defined as a change from baseline to post-treatment time points (except for cycle 1/day 15, predose), was performed using 2 approaches: time point and time averaged. For the time-point analysis, 3 ECGs were to be collected at each time point (baseline and 4 post-treatment visits); however, post-dose time points with only 2 ECGs were included in this analysis. The data from the 2 or 3 ECGs were averaged to provide a single set of ECG intervals for each time point. Data were summarized using descriptive statistics. Changes from baseline to 4 post-treatment time points were described with data-based (not model-based) 2-sided 90 % CI statistics. For QTc measurements, the QTcF method was the primary measurement; QTcB was considered secondary, provided for historical purposes only. For the time-averaged analysis, baseline time points were averaged and the value obtained was subtracted from the mean of all combined 4 post-treatment ECG time points.  Outlier or categorical analysis was also performed to identify patients who experienced a significant effect on any ECG interval parameter (heart rate, PR interval, QRS interval, QT interval, QTcF, and QTcB) that would not be revealed by the central tendency analysis and should be considered exploratory in nature. This analysis used a time-averaged approach that compared the baseline ECG interval value with all post-treatment ECG time points, and then, the value that represented the greatest positive change from baseline was chosen to determine whether each patient fell into the outlier criterion. For heart rate, both the largest negative and positive value compared with baseline was chosen. Pharmacokinetic/pharmacodynamic evaluations Plasma samples were collected concomitantly with ECG assessments. A linear mixed-effects modeling approach was used to quantify the relationship between the plasma concentration of ponatinib and the change from baseline in QT intervals. This model was used to estimate the population slope and the standard error of the slope of the relationship between the change from baseline in QTc intervals and plasma concentrations of ponatinib. As this model is meant solely to determine the relationship of QTc change with the degree of change in exposure, the time points are not relevant; therefore, all plasma concentration and time point QTc pairs were used irrespective of the time point and the dose group from which such pairs were taken. A linear relationship was declared if the P value of the slope was less than 0.05. Results Patient characteristics Demographic characteristics of patients included in the cardiac analysis Characteristics\tPonatinib 30-60 mg (N = 39)\t \tAge\t \t Median (range), years\t49.0 (27-85)\t \t >=65 years, n (%)\t8 (20.5)\t \tGender, n (%)\t \t Male\t26 (66.7)\t \t Female\t13 (33.3)\t \tECOG performance status, n (%)\t \t 0\t20 (51.3)\t \t 1\t15 (38.5)\t \t 2\t4 (10.3)\t \tMedian time (range) from diagnosis to treatment, years\t4.8 (0.6, 23.5)\t \tDiagnosis, n (%)\t \t Chronic-phase CML\t25 (64.1)\t \t Accelerated-phase CML\t1 (2.6)\t \t Blast-phase CML\t4 (10.3)\t \t Ph+ ALL\t4 (10.3)\t \t AML\t5 (12.8)\t \tPrior number of TKIs, n (%)\t \t 0\t0 (0.0)\t \t 1\t3 (7.7)\t \t 2\t12 (30.8)\t \t >=3\t19 (48.7)\t \t Missing\t5 (12.8)                               AML acute myeloid leukemia, CML chronic myeloid leukemia, ECOG Eastern Cooperative Oncology Group, Ph\n+\nALL Philadelphia chromosome-positive acute lymphoblastic leukemia, TKIs tyrosine kinase inhibitors    Thirty-nine patients who received 30-60 mg of ponatinib once daily were included in the primary cardiac safety analysis. The demographic characteristics are summarized in Table 1. In the phase 1 clinical study, geometric mean (range) values of Cmax for ponatinib measured at steady state (day 29) were 64.6 (35.9-94.8) ng/mL at 30 mg, 77.4 (34.3-179) ng/mL at 45 mg, and 97.5 (54.3-231) ng/mL at 60 mg. As of March 23, 2012, 7 patients had experienced 1 or more treatment-related adverse events in the cardiac disorders MedDRA system organ class (2 left ventricular dysfunction, 2 tricuspid valve incompetence, and 1 each aortic valve sclerosis, atrial fibrillation, cardiac failure congestive, cardiomegaly, cardiomyopathy, left ventricular hypertrophy, palpitations, and pericardial effusion). Most of these events were grade 1 or 2 in severity. Three patients experienced treatment-related adverse events of QT prolongation (grade 2 or 3).               Time-averaged central tendency analysis Electrocardiographic interval parameters (time-averaged central tendency analysis), outlier analysis, and morphological abnormalities, by dose level Ponatinib 30 mg (n = 6)\tPonatinib 45 mg (n = 21)\tPonatinib 60 mg (n = 12)\t \tElectrocardiographic interval parameters and outlier analysis\t \tHeart rate, mean change from baseline, bpm\t3.5\t-3.3\t1.0\t \tHeart rate tachycardic outliers, n (%)\t0 (0)\t1 (5)\t1 (8)\t \tPR interval, mean change from baseline, ms\t-0.4\t-3.6\t-0.7\t \tPR interval outliers, n (%)\t0 (0)\t0 (0)\t0 (0)\t \tQRS interval, mean change from baseline, ms\t-0.8\t1.3\t3.6\t \tQRS interval outliers, n (%)\t0 (0)\t0 (0)\t0 (0)\t \tQT interval, mean change from baseline, ms\t-13.4\t3.3\t-4.6\t \tQTcF, mean change from baseline, ms\t-10.9\t-3.6\t-5.0\t \tQTcF >500 ms, n (%)\t0 (0)\t1 (5)\t0 (0)\t \tQTcF >60 ms change from baseline, n (%)\t0 (0)\t0 (0)\t1 (8)\t \tQTcF 30- to 60-ms change from baseline, n (%)\t0 (0)\t3 (14)\t0 (0)\t \tQTcBa, mean change from baseline, ms\t-9.2\t-7.4\t-4.9\t \tMorphological abnormalities, n (%)\t \tAtrial fibrillation\t1 (17)\t0 (0)\t1 (8)\t \tT wave inversion\t0 (0)\t1 (5)\t1 (8)\t \tAtrial flutter\t0 (0)\t0 (0)\t0 (0)\t \tMyocardial infarction\t0 (0)\t0 (0)\t0 (0)\t \tSecond- or third-degree heart block\t0 (0)\t0 (0)\t0 (0)\t \tRBBB or LBBB\t0 (0)\t0 (0)\t0 (0)\t \tST-segment elevation or depression\t0 (0)\t0 (0)\t0 (0)\t \tAbnormal U waves\t0 (0)\t0 (0)\t0 (0)                                          bpm beats per minute, ms milliseconds, QTcF Fridericia-corrected QT, QTcB Bazett-corrected QT, RBBB right bundle branch block, LBBB left bundle branch block  aThe Bazett correction method is often less reliable than the Fridericia correction method; QTcB is provided for historical purposes only  The mean changes from baseline in heart rate across ponatinib dose levels (+3.5 bpm, -3.3 bpm, and +1.0 bpm for 30-, 45-, and 60-mg dose levels, respectively) were not clinically significant; there were 2 tachycardia outliers (1 at the 45-mg dose level and 1 at the 60-mg dose level) and no bradycardia outliers (Table 2). The effects on atrioventricular conduction, as measured by mean change from baseline in the PR interval (-0.4, -3.6, and -0.7 ms for the 30-, 45-, and 60-mg dose levels, respectively), were not clinically significant, and there were no outliers (Table 2). The time-averaged mean change from baseline across the ponatinib 30-, 45-, and 60-mg dose levels for QRS interval duration showed a change of -0.8, +1.3, and +3.6 ms (Table 2). These changes are unlikely to be clinically relevant, and there were no outliers. A small effect on QRS interval cannot be ruled out at 60 mg due to the small sample size (12 patients); however, the recommended dose of ponatinib is 45 mg. The time-point analysis showed no signal of any effect. There was no significant effect on cardiac repolarization, as demonstrated by the non-clinically significant change in QTcF across the doses examined. The mean QTcF changes from baseline were -10.9, -3.6, and -5.0 ms for the 30-, 45-, and 60-mg dose levels, respectively.                             The findings from the outlier analysis of absolute QTcF duration identified few patients experiencing QTcF prolongation (Table 2). One patient at the 45-mg dose level (5 %) had a QTcF >500 ms; 1 patient at the 60-mg dose level (8 %) had a change in QTcF >60 ms from baseline; and 3 patients at the 45-mg dose level (14 %) had a 30- to 60-ms change in QTcF from baseline (Table 2). The patient at the 45-mg dose level with a QTcF >500 ms had a Cmax of 57.6 ng/mL, which was below the geometric mean Cmax at the 45-mg dose level (77.4 ng/mL). This patient was receiving concomitant Darvocet (acetaminophen and propoxyphene), a medication known to prolong the QTc interval.           Morphological analysis Atrial fibrillation and T wave inversion were observed in 2 chronic-phase CML patients each (Table 2). Three of these 4 patients had a history of cardiovascular disease (e.g., stroke, hypertension, intermittent sinus bradycardia, and palpitations), suggesting that these morphological abnormalities may reflect the patient population being studied rather than representing an effect of the study medication. Given their age (median, 49 years) and ECOG performance status, the patients in this study are representative of the patient population that will be treated with ponatinib in the clinic. The fourth patient was taking concomitant moxifloxacin, a medication known to be associated with cardiac arrhythmias (in violation of the study protocol).   Time-point central tendency analysis Mean (+-90 % CI) change from baseline in electrocardiographic interval parameters for 4 on-treatment time points (time-point central tendency analysis). CI confidence interval, bpm beats per minute, ms milliseconds, QTcF Fridericia-corrected QT, QTcB Bazett-corrected QT  Time-point analysis of 6 ECG parameters revealed no effect of ponatinib across 4 on-treatment time points (Fig. 1). These time points were selected based on the steady-state Cmax of ponatinib; therefore, these findings indicate that even at the highest concentrations, ponatinib had no significant effect on the ECG parameters analyzed (Fig. 1).    Pharmacokinetic/pharmacodynamic analysis Change from baseline versus ponatinib plasma concentration QTc parameter\t \tQTcF\tQTcB\t \tSlope of plasma concentration effect on DeltaQTc\t-0.0171\t-0.0091\t \tStandard error of plasma concentration effect on DeltaQTc\t0.0321\t0.0358\t \tP value slope of plasma concentration effect on DeltaQTc\t0.5958\t0.7997\t \tOverall model fit\t<0.0001\t<0.0001     QTcF Fridericia-corrected QT, QTcB Bazett-corrected QT  QTcF change from baseline by ponatinib plasma concentration across 7 dose levels (N = 69). QTcF Fridericia-corrected QT, ms milliseconds   Estimates from linear mixed model QTcF and QTcB Ponatinib 30  mg (n = 6)\tPonatinib 45 mg (n = 21)\tPonatinib 60 mg (n = 12)\tPonatinib 30-60 mg (N = 39)\t \tQTc parameter\tQTcF\tQTcB\tQTcF\tQTcB\tQTcF\tQTcB\tQTcF\tQTcB\t \tPredicted DeltaQTc at average Cmax, ms\t-5.5888\t-5.6112\t-6.2318\t-5.9544\t-6.4421\t-6.0666\t-6.1885\t-5.9313\t \tOne-sided upper 95 % confidence bound of predicted DeltaQTc, ms\t-1.3242\t-0.7051\t-1.1137\t-0.0432\t-0.9124\t0.3126\t-1.1486\t-0.1096                                            QTcF Fridericia-corrected QT, QTcB Bazett-corrected QT, ms milliseconds  Sixty-nine of the total 81 patients enrolled in this phase 1 study had paired baseline/post-baseline time-matched PK-ECG data and were included in the concentration delta QTc mixed model analysis. The slope of the relationship for QTcF versus plasma ponatinib concentration was not positive (Table 3; Fig. 2), indicating no exposure-effect relationship. The estimated QTcF mean change at Cmax was -6.4 ms at the 60-mg dose level and -6.2 at the 45-mg dose level (Table 4).              Discussion This analysis of QTc intervals in patients with refractory hematological malignancies who received daily doses of 30, 45, or 60 mg of ponatinib in a phase 1 clinical trial revealed no significant effect of ponatinib on cardiac repolarization. The recommended dose of ponatinib is 45 mg. Initial characterization of cardiac safety, including QT prolongation, was previously described across all 81 patients included in this phase 1 trial. Although dose-limiting toxicities identified in phase 1 did not include cardiovascular findings, among the adverse events reported in the trial (n = 81), 3 patients (4 %) experienced treatment-related QT prolongation: 1 patient each at the 2-, 4-, and 45-mg dose levels. Of these 3 patients, 2 (3 %) experienced grade 3 treatment-related QT prolongation (at the 4- and 45-mg dose levels). All 3 patients had low steady-state Cmax (4.5-57.6 ng/mL), suggesting that QT prolongation was not due to increased ponatinib exposure. Two of the 3 patients were enrolled before protocol amendment, and all 3 patients were found to have prolongation of QTc at baseline or to have received concomitant medications known to be associated with QTc prolongation. There were no clinical consequences of the ECG findings in these patients.          The results of this cardiac analysis suggest that ponatinib is associated with a low risk of QTc prolongation. Other targeted agents approved for the treatment of CML have been found to be associated with cardiac toxicities. Imatinib has been associated with left ventricular dysfunction and heart failure, particularly in patients with comorbidities and risk factors. In the phase 3 International Randomized Study of Interferon and STI571 (IRIS) in 1,106 patients with newly diagnosed Ph+ CML, severe cardiac failure and left ventricular dysfunction were observed in 0.7 % of patients taking imatinib compared with 0.9 % of patients taking interferon alfa plus cytarabine. The dasatinib prescribing information carries QT prolongation as a precaution. In a phase 1 trial (NCT01392703) in 75 healthy subjects, a clear QT prolongation effect was not detected. However, this adverse event emerged in a phase 3 trial conducted in patients newly diagnosed with CML: QTc intervals between 450 and 500 ms were observed in 2 % of the patients taking dasatinib, compared with 4 % of patients taking imatinib. The nilotinib prescribing information includes a boxed warning regarding QT prolongation. Results of ECG analyses conducted on about 400 patients with CML who participated in a phase 1/2 trial (NCT00109707) showed a significant association between nilotinib concentration and a change from baseline in QTcF, indicating a prolongation of the QTc interval associated with nilotinib. A modest linear correlation between nilotinib concentration and a change from baseline in QTcF along with a higher incidence of developing ischemic heart disease in the nilotinib arms was also found in the phase 3 trial Evaluating Nilotinib Efficacy and Safety in Clinical Trials:Newly Diagnosed Patients (ENESTnd) conducted in patients with newly diagnosed CML. Finally, the effects of bosutinib on cardiac repolarization were studied in a randomized, crossover, placebo- and moxifloxacin-controlled study. In the healthy adult subjects enrolled in this study, therapeutic and supratherapeutic bosutinib exposures were not associated with QTc prolongation.        This study had 2 primary limitations. First, the study was not designed as a true thorough QT study as outlined by the International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use E14 guidelines. However, it is worthwhile noting that formal thorough QT studies are difficult, if not impossible, to conduct ethically in this patient population owing to the requirement for placebo and positive controls. Second, the number of subjects enrolled in the study was relatively small, particularly for dose-level analyses. Unlike the healthy subject QTc analysis conducted with nilotinib, this study evaluated the cardiac effects of ponatinib in a patient population with refractory hematological malignancies, which may increase confidence that these results are consistent with what will be seen in clinical practice. The results of this QTc analysis in CML patients treated with ponatinib at clinically relevant doses suggest that ponatinib is associated with a low risk of QTc prolongation. References Discovery of 3-[2-(imidazo[1,2-b]pyridazin-3-yl)ethynyl]-4-methyl-N-{4-[(4-methylpiperazin-1-y l)methyl]-3-(trifluoromethyl)phenyl}benzamide (AP24534), a potent, orally active pan-inhibitor of breakpoint cluster region-abelson (BCR-ABL) kinase including the T315I gatekeeper mutant AP24534, a pan-BCR-ABL inhibitor for chronic myeloid leukemia, potently inhibits the T315I mutant and overcomes mutation-based resistance Structural mechanism of the Pan-BCR-ABL inhibitor ponatinib (AP24534): lessons for overcoming kinase inhibitor resistance Ponatinib in refractory Philadelphia chromosome-positive leukemias Cortes JE, Kim D-W, Pinilla-Ibarz J, le Coutre P, Paquette R, Chuah C, Nicolini FE, Apperley J, Khoury HJ, Talpaz M, DiPersio JF, DeAngelo DJ, Abruzzese E, Rea D, Baccarani M, Muller MC, Gambacorti-Passerini C, Wong S, Lustgarten S, Rivera VM, Clackson T, Turner CD, Haluska FG, Guilhot F, Deininger MW, Hochhaus A, Hughes T, Goldman JM, Shah N, Kantarjian HM, The PACE Study Group (2012) A pivotal phase 2 trial of ponatinib in patients with chronic myeloid leukemia (CML) and Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph + ALL) resistant or intolerant to dasatinib or nilotinib, or with the T315I BCR-ABL Mutation: 12-Month Follow-up of the PACE Trial. Blood 120: Abstract 163   ARIAD Pharmaceuticals Inc. Iclusig (ponatinib) tablets prescribing information (2012) http://iclusig.com/wp-content/uploads/2012/12/Iclusig-Prescribing-Information.pdf. Accessed 18 Dec 2012 Novartis (2013) Gleevec (imatinib mesylate) prescribing information. www.pharma.us.novartis.com/product/pi/pdf/gleevec_tabs.pdf. Accessed 30 Aug 2012 Novartis (2012) Tasigna (nilotinib) prescribing information. www.pharma.us.novartis.com/product/pi/pdf/tasigna.pdf. Accessed 30 Aug 2012 Bristol-Myers Squibb (2012) Sprycel (dasatinib) prescribing information. http://packageinserts.bms.com/pi/pi_sprycel.pdf. Accessed 30 Aug 2012 International conference on harmonisation of technical requirements for registration of pharmaceuticals for human use (2005) ICH harmonised tripartite guidelines. The clinical evaluation of QT/QTc interval prolongation and proarrhythmic potential for non-antiarrhythmic drugs: E14. www.ich.org/fileadmin/Public_Web_Site/ICH_Products/Guidelines/Efficacy/E14/E14_Guideline.pdf. Accessed 30 Aug 2012 Differentiation of arrhythmia risk of the antibacterials moxifloxacin, erythromycin, and telithromycin based on analysis of monophasic action potential duration alternans and cardiac instability Cardiotoxicity of the cancer therapeutic agent imatinib mesylate Five-year follow-up of patients receiving imatinib for chronic myeloid leukemia Imatinib compared with interferon and low-dose cytarabine for newly diagnosed chronic-phase chronic myeloid leukemia Bristol-Myers Squibb sprycel clinical pharmacology review (2012) www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021986s000_Sprycel__ClinPharmR.pdf. Accessed 30 Aug 2012 Dasatinib versus imatinib in newly diagnosed chronic-phase chronic myeloid leukemia Nilotinib in imatinib-resistant CML and Philadelphia chromosome-positive ALL Nilotinib is effective in patients with chronic myeloid leukemia in chronic phase after imatinib resistance or intolerance: 24-month follow-up results Novartis Tasigna clinical pharmacology review (2007) http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022068s000_ClinPharmR.pdf. Accessed 30 Aug 2012 Kantarjian H, Flinn IW, Goldberg S, Bunworasate U, Zanichelli MA, Nakamae H, Hughes TP, Hochhaus A, Saglio G, Woodman RC, Blakesley RE, Kemp CN, Kalaycio ME, Larson RA (2012) Nilotinib versus imatinib in patients (pts) with newly diagnosed chronic myeloid leukemia in chronic phase (CML-CP): ENESTnd 3-year (yr) follow-up (f/u). J Clin Oncol 30(suppl):Abstract 6509 Larson RA, Hochhaus A, Saglio G, Rosti G, Lopez JL, Stenke L, Nakamae H, Goldberg SL, Wang M, Gallagher NJ, Hoenekopp A, Ortmann C, Hughes TP, Kantarjian HM (2010) Cardiac safety profile of imatinib and nilotinib in patients (pts) with newly diagnosed chronic myeloid leukemia in chronic phase (CML-CP): results from ENESTnd. Blood 116:Abstract 2291 A randomized, crossover, placebo- and moxifloxacin-controlled study to evaluate the effects of bosutinib (SKI-606), a dual Src/Abl tyrosine kinase inhibitor, on cardiac repolarization in healthy adult subjects",
+    "entities": [
+        {
+            "entityId": "36_45",
+            "span": {
+                "begin": 36,
+                "end": 45
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "69_77",
+            "span": {
+                "begin": 69,
+                "end": 77
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "94_120",
+            "span": {
+                "begin": 94,
+                "end": 120
+            },
+            "entityType": "disease",
+            "entityName": "hematological malignancies",
+            "id": "UMLS:C0376545"
+        },
+        {
+            "entityId": "212_227",
+            "span": {
+                "begin": 212,
+                "end": 227
+            },
+            "entityType": "gene",
+            "entityName": "tyrosine kinase",
+            "id": "UMLS:C0033681"
+        },
+        {
+            "entityId": "257_281",
+            "span": {
+                "begin": 257,
+                "end": 281
+            },
+            "entityType": "disease",
+            "entityName": "chronic myeloid leukemia",
+            "id": "UMLS:C0023473"
+        },
+        {
+            "entityId": "318_327",
+            "span": {
+                "begin": 318,
+                "end": 327
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "357_365",
+            "span": {
+                "begin": 357,
+                "end": 365
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "382_408",
+            "span": {
+                "begin": 382,
+                "end": 408
+            },
+            "entityType": "disease",
+            "entityName": "hematological malignancies",
+            "id": "UMLS:C0376545"
+        },
+        {
+            "entityId": "770_778",
+            "span": {
+                "begin": 770,
+                "end": 778
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "863_871",
+            "span": {
+                "begin": 863,
+                "end": 871
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1006_1015",
+            "span": {
+                "begin": 1006,
+                "end": 1015
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "1100_1108",
+            "span": {
+                "begin": 1100,
+                "end": 1108
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1469_1477",
+            "span": {
+                "begin": 1469,
+                "end": 1477
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1483_1502",
+            "span": {
+                "begin": 1483,
+                "end": 1502
+            },
+            "entityType": "disease",
+            "entityName": "atrial fibrillation",
+            "id": "UMLS:C0004238"
+        },
+        {
+            "entityId": "1545_1553",
+            "span": {
+                "begin": 1545,
+                "end": 1553
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1693_1702",
+            "span": {
+                "begin": 1693,
+                "end": 1702
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "1812_1821",
+            "span": {
+                "begin": 1812,
+                "end": 1821
+            },
+            "entityType": "drug",
+            "entityName": "Ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "1875_1883",
+            "span": {
+                "begin": 1875,
+                "end": 1883
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1900_1926",
+            "span": {
+                "begin": 1900,
+                "end": 1926
+            },
+            "entityType": "disease",
+            "entityName": "hematological malignancies",
+            "id": "UMLS:C0376545"
+        },
+        {
+            "entityId": "1941_1950",
+            "span": {
+                "begin": 1941,
+                "end": 1950
+            },
+            "entityType": "drug",
+            "entityName": "Ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "1952_1959",
+            "span": {
+                "begin": 1952,
+                "end": 1959
+            },
+            "entityType": "drug",
+            "entityName": "AP24534",
+            "id": "UMLS:C2703109"
+        },
+        {
+            "entityId": "2020_2035",
+            "span": {
+                "begin": 2020,
+                "end": 2035
+            },
+            "entityType": "gene",
+            "entityName": "tyrosine kinase",
+            "id": "UMLS:C0033681"
+        },
+        {
+            "entityId": "2069_2072",
+            "span": {
+                "begin": 2069,
+                "end": 2072
+            },
+            "entityType": "gene",
+            "entityName": "BCR",
+            "id": "UMLS:C3816168"
+        },
+        {
+            "entityId": "2073_2076",
+            "span": {
+                "begin": 2073,
+                "end": 2076
+            },
+            "entityType": "gene",
+            "entityName": "ABL",
+            "id": "UMLS:C1704928"
+        },
+        {
+            "entityId": "2187_2196",
+            "span": {
+                "begin": 2187,
+                "end": 2196
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "2244_2247",
+            "span": {
+                "begin": 2244,
+                "end": 2247
+            },
+            "entityType": "gene",
+            "entityName": "BCR",
+            "id": "UMLS:C3816168"
+        },
+        {
+            "entityId": "2248_2251",
+            "span": {
+                "begin": 2248,
+                "end": 2251
+            },
+            "entityType": "gene",
+            "entityName": "ABL",
+            "id": "UMLS:C1704928"
+        },
+        {
+            "entityId": "2303_2313",
+            "span": {
+                "begin": 2303,
+                "end": 2313
+            },
+            "entityType": "drug",
+            "entityName": "amino acid",
+            "id": "UMLS:C2917660"
+        },
+        {
+            "entityId": "2328_2337",
+            "span": {
+                "begin": 2328,
+                "end": 2337
+            },
+            "entityType": "drug",
+            "entityName": "Ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "2357_2363",
+            "span": {
+                "begin": 2357,
+                "end": 2363
+            },
+            "entityType": "drug",
+            "entityName": "carbon",
+            "id": "UMLS:C0007009"
+        },
+        {
+            "entityId": "2364_2370",
+            "span": {
+                "begin": 2364,
+                "end": 2370
+            },
+            "entityType": "drug",
+            "entityName": "carbon",
+            "id": "UMLS:C0007009"
+        },
+        {
+            "entityId": "2459_2469",
+            "span": {
+                "begin": 2459,
+                "end": 2469
+            },
+            "entityType": "drug",
+            "entityName": "isoleucine",
+            "id": "UMLS:C0022192"
+        },
+        {
+            "entityId": "2543_2551",
+            "span": {
+                "begin": 2543,
+                "end": 2551
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2557_2581",
+            "span": {
+                "begin": 2557,
+                "end": 2581
+            },
+            "entityType": "disease",
+            "entityName": "chronic myeloid leukemia",
+            "id": "UMLS:C0023473"
+        },
+        {
+            "entityId": "2583_2586",
+            "span": {
+                "begin": 2583,
+                "end": 2586
+            },
+            "entityType": "disease",
+            "entityName": "CML",
+            "id": "mim:608232"
+        },
+        {
+            "entityId": "2592_2653",
+            "span": {
+                "begin": 2592,
+                "end": 2653
+            },
+            "entityType": "disease",
+            "entityName": "Philadelphia chromosome-positive acute lymphoblastic leukemia",
+            "id": "UMLS:C1709527"
+        },
+        {
+            "entityId": "2712_2721",
+            "span": {
+                "begin": 2712,
+                "end": 2721
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "2801_2809",
+            "span": {
+                "begin": 2801,
+                "end": 2809
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2815_2818",
+            "span": {
+                "begin": 2815,
+                "end": 2818
+            },
+            "entityType": "disease",
+            "entityName": "CML",
+            "id": "mim:608232"
+        },
+        {
+            "entityId": "2827_2830",
+            "span": {
+                "begin": 2827,
+                "end": 2830
+            },
+            "entityType": "disease",
+            "entityName": "ALL",
+            "id": "mim:613065"
+        },
+        {
+            "entityId": "2969_2977",
+            "span": {
+                "begin": 2969,
+                "end": 2977
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2983_2986",
+            "span": {
+                "begin": 2983,
+                "end": 2986
+            },
+            "entityType": "disease",
+            "entityName": "CML",
+            "id": "mim:608232"
+        },
+        {
+            "entityId": "3005_3013",
+            "span": {
+                "begin": 3005,
+                "end": 3013
+            },
+            "entityType": "drug",
+            "entityName": "imatinib",
+            "id": "UMLS:C0935989"
+        },
+        {
+            "entityId": "3067_3091",
+            "span": {
+                "begin": 3067,
+                "end": 3091
+            },
+            "entityType": "disease",
+            "entityName": "congestive heart failure",
+            "id": "UMLS:C0018802"
+        },
+        {
+            "entityId": "3096_3124",
+            "span": {
+                "begin": 3096,
+                "end": 3124
+            },
+            "entityType": "disease",
+            "entityName": "left ventricular dysfunction",
+            "id": "UMLS:C0242698"
+        },
+        {
+            "entityId": "3130_3139",
+            "span": {
+                "begin": 3130,
+                "end": 3139
+            },
+            "entityType": "drug",
+            "entityName": "nilotinib",
+            "id": "UMLS:C1721377"
+        },
+        {
+            "entityId": "3219_3228",
+            "span": {
+                "begin": 3219,
+                "end": 3228
+            },
+            "entityType": "drug",
+            "entityName": "dasatinib",
+            "id": "UMLS:C1455147"
+        },
+        {
+            "entityId": "3322_3331",
+            "span": {
+                "begin": 3322,
+                "end": 3331
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "3391_3399",
+            "span": {
+                "begin": 3391,
+                "end": 3399
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "3587_3606",
+            "span": {
+                "begin": 3587,
+                "end": 3606
+            },
+            "entityType": "disease",
+            "entityName": "torsades de pointes",
+            "id": "UMLS:C0040479"
+        },
+        {
+            "entityId": "3626_3638",
+            "span": {
+                "begin": 3626,
+                "end": 3638
+            },
+            "entityType": "disease",
+            "entityName": "sudden death",
+            "id": "UMLS:C0011071"
+        },
+        {
+            "entityId": "3974_3980",
+            "span": {
+                "begin": 3974,
+                "end": 3980
+            },
+            "entityType": "disease",
+            "entityName": "cancer",
+            "id": "UMLS:C0006826"
+        },
+        {
+            "entityId": "3981_3989",
+            "span": {
+                "begin": 3981,
+                "end": 3989
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4070_4079",
+            "span": {
+                "begin": 4070,
+                "end": 4079
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "4192_4214",
+            "span": {
+                "begin": 4192,
+                "end": 4214
+            },
+            "entityType": "gene",
+            "entityName": "hERG potassium channel",
+            "id": "UMLS:C0032824"
+        },
+        {
+            "entityId": "4233_4242",
+            "span": {
+                "begin": 4233,
+                "end": 4242
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "4289_4298",
+            "span": {
+                "begin": 4289,
+                "end": 4298
+            },
+            "entityType": "drug",
+            "entityName": "cisapride",
+            "id": "UMLS:C0072916"
+        },
+        {
+            "entityId": "4394_4403",
+            "span": {
+                "begin": 4394,
+                "end": 4403
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "4413_4417",
+            "span": {
+                "begin": 4413,
+                "end": 4417
+            },
+            "entityType": "gene",
+            "entityName": "hERG",
+            "id": "UMLS:C1416572"
+        },
+        {
+            "entityId": "4578_4587",
+            "span": {
+                "begin": 4578,
+                "end": 4587
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "4630_4638",
+            "span": {
+                "begin": 4630,
+                "end": 4638
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4760_4769",
+            "span": {
+                "begin": 4760,
+                "end": 4769
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "4827_4831",
+            "span": {
+                "begin": 4827,
+                "end": 4831
+            },
+            "entityType": "species",
+            "entityName": "dogs",
+            "id": "UMLS:C0012984"
+        },
+        {
+            "entityId": "4905_4909",
+            "span": {
+                "begin": 4905,
+                "end": 4909
+            },
+            "entityType": "species",
+            "entityName": "dogs",
+            "id": "UMLS:C0012984"
+        },
+        {
+            "entityId": "4942_4951",
+            "span": {
+                "begin": 4942,
+                "end": 4951
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "5111_5120",
+            "span": {
+                "begin": 5111,
+                "end": 5120
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "5221_5230",
+            "span": {
+                "begin": 5221,
+                "end": 5230
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "5433_5442",
+            "span": {
+                "begin": 5433,
+                "end": 5442
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "5472_5480",
+            "span": {
+                "begin": 5472,
+                "end": 5480
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5497_5523",
+            "span": {
+                "begin": 5497,
+                "end": 5523
+            },
+            "entityType": "disease",
+            "entityName": "hematological malignancies",
+            "id": "UMLS:C0376545"
+        },
+        {
+            "entityId": "5799_5807",
+            "span": {
+                "begin": 5799,
+                "end": 5807
+            },
+            "entityType": "disease",
+            "entityName": "leukemia",
+            "id": "UMLS:C0023418"
+        },
+        {
+            "entityId": "6124_6132",
+            "span": {
+                "begin": 6124,
+                "end": 6132
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6335_6343",
+            "span": {
+                "begin": 6335,
+                "end": 6343
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6628_6636",
+            "span": {
+                "begin": 6628,
+                "end": 6636
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6828_6836",
+            "span": {
+                "begin": 6828,
+                "end": 6836
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6883_6891",
+            "span": {
+                "begin": 6883,
+                "end": 6891
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6961_6970",
+            "span": {
+                "begin": 6961,
+                "end": 6970
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "7017_7025",
+            "span": {
+                "begin": 7017,
+                "end": 7025
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "7404_7412",
+            "span": {
+                "begin": 7404,
+                "end": 7412
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "7925_7952",
+            "span": {
+                "begin": 7925,
+                "end": 7952
+            },
+            "entityType": "disease",
+            "entityName": "morphological abnormalities",
+            "id": "UMLS:C0332447"
+        },
+        {
+            "entityId": "7954_7973",
+            "span": {
+                "begin": 7954,
+                "end": 7973
+            },
+            "entityType": "disease",
+            "entityName": "atrial fibrillation",
+            "id": "UMLS:C0004238"
+        },
+        {
+            "entityId": "7978_7992",
+            "span": {
+                "begin": 7978,
+                "end": 7992
+            },
+            "entityType": "disease",
+            "entityName": "atrial flutter",
+            "id": "UMLS:C0004239"
+        },
+        {
+            "entityId": "8134_8152",
+            "span": {
+                "begin": 8134,
+                "end": 8152
+            },
+            "entityType": "disease",
+            "entityName": "wave abnormalities",
+            "id": "UMLS:C0000768"
+        },
+        {
+            "entityId": "8178_8199",
+            "span": {
+                "begin": 8178,
+                "end": 8199
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "9400_9408",
+            "span": {
+                "begin": 9400,
+                "end": 9408
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "9901_9908",
+            "span": {
+                "begin": 9901,
+                "end": 9908
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "10263_10272",
+            "span": {
+                "begin": 10263,
+                "end": 10272
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "10507_10516",
+            "span": {
+                "begin": 10507,
+                "end": 10516
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "10911_10918",
+            "span": {
+                "begin": 10911,
+                "end": 10918
+            },
+            "entityType": "species",
+            "entityName": "Patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "11833_11841",
+            "span": {
+                "begin": 11833,
+                "end": 11841
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "11867_11876",
+            "span": {
+                "begin": 11867,
+                "end": 11876
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "12074_12083",
+            "span": {
+                "begin": 12074,
+                "end": 12083
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "12248_12256",
+            "span": {
+                "begin": 12248,
+                "end": 12256
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "12323_12340",
+            "span": {
+                "begin": 12323,
+                "end": 12340
+            },
+            "entityType": "disease",
+            "entityName": "cardiac disorders",
+            "id": "UMLS:C0018799"
+        },
+        {
+            "entityId": "12402_12430",
+            "span": {
+                "begin": 12402,
+                "end": 12430
+            },
+            "entityType": "disease",
+            "entityName": "tricuspid valve incompetence",
+            "id": "UMLS:C0040961"
+        },
+        {
+            "entityId": "12443_12465",
+            "span": {
+                "begin": 12443,
+                "end": 12465
+            },
+            "entityType": "disease",
+            "entityName": "aortic valve sclerosis",
+            "id": "UMLS:C1455780"
+        },
+        {
+            "entityId": "12467_12486",
+            "span": {
+                "begin": 12467,
+                "end": 12486
+            },
+            "entityType": "disease",
+            "entityName": "atrial fibrillation",
+            "id": "UMLS:C0004238"
+        },
+        {
+            "entityId": "12488_12514",
+            "span": {
+                "begin": 12488,
+                "end": 12514
+            },
+            "entityType": "disease",
+            "entityName": "cardiac failure congestive",
+            "id": "UMLS:C0018802"
+        },
+        {
+            "entityId": "12516_12528",
+            "span": {
+                "begin": 12516,
+                "end": 12528
+            },
+            "entityType": "disease",
+            "entityName": "cardiomegaly",
+            "id": "mesh:D006332"
+        },
+        {
+            "entityId": "12530_12544",
+            "span": {
+                "begin": 12530,
+                "end": 12544
+            },
+            "entityType": "disease",
+            "entityName": "cardiomyopathy",
+            "id": "UMLS:C0878544"
+        },
+        {
+            "entityId": "12546_12574",
+            "span": {
+                "begin": 12546,
+                "end": 12574
+            },
+            "entityType": "disease",
+            "entityName": "left ventricular hypertrophy",
+            "id": "UMLS:C0149721"
+        },
+        {
+            "entityId": "12594_12614",
+            "span": {
+                "begin": 12594,
+                "end": 12614
+            },
+            "entityType": "disease",
+            "entityName": "pericardial effusion",
+            "id": "UMLS:C0031039"
+        },
+        {
+            "entityId": "12675_12683",
+            "span": {
+                "begin": 12675,
+                "end": 12683
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "14536_14545",
+            "span": {
+                "begin": 14536,
+                "end": 14545
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "14689_14700",
+            "span": {
+                "begin": 14689,
+                "end": 14700
+            },
+            "entityType": "disease",
+            "entityName": "tachycardia",
+            "id": "mesh:D013610"
+        },
+        {
+            "entityId": "14775_14786",
+            "span": {
+                "begin": 14775,
+                "end": 14786
+            },
+            "entityType": "disease",
+            "entityName": "bradycardia",
+            "id": "mesh:D001919"
+        },
+        {
+            "entityId": "15118_15127",
+            "span": {
+                "begin": 15118,
+                "end": 15127
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "15415_15423",
+            "span": {
+                "begin": 15415,
+                "end": 15423
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "15459_15468",
+            "span": {
+                "begin": 15459,
+                "end": 15468
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "15915_15923",
+            "span": {
+                "begin": 15915,
+                "end": 15923
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "15970_15977",
+            "span": {
+                "begin": 15970,
+                "end": 15977
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "16030_16037",
+            "span": {
+                "begin": 16030,
+                "end": 16037
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "16117_16125",
+            "span": {
+                "begin": 16117,
+                "end": 16125
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "16220_16227",
+            "span": {
+                "begin": 16220,
+                "end": 16227
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "16381_16388",
+            "span": {
+                "begin": 16381,
+                "end": 16388
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "16415_16423",
+            "span": {
+                "begin": 16415,
+                "end": 16423
+            },
+            "entityType": "drug",
+            "entityName": "Darvocet",
+            "id": "UMLS:C1514497"
+        },
+        {
+            "entityId": "16425_16438",
+            "span": {
+                "begin": 16425,
+                "end": 16438
+            },
+            "entityType": "drug",
+            "entityName": "acetaminophen",
+            "id": "UMLS:C0000970"
+        },
+        {
+            "entityId": "16443_16455",
+            "span": {
+                "begin": 16443,
+                "end": 16455
+            },
+            "entityType": "drug",
+            "entityName": "propoxyphene",
+            "id": "UMLS:C0033493"
+        },
+        {
+            "entityId": "16539_16558",
+            "span": {
+                "begin": 16539,
+                "end": 16558
+            },
+            "entityType": "disease",
+            "entityName": "Atrial fibrillation",
+            "id": "UMLS:C0004238"
+        },
+        {
+            "entityId": "16617_16625",
+            "span": {
+                "begin": 16617,
+                "end": 16625
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "16659_16667",
+            "span": {
+                "begin": 16659,
+                "end": 16667
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "16685_16707",
+            "span": {
+                "begin": 16685,
+                "end": 16707
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular disease",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "16715_16721",
+            "span": {
+                "begin": 16715,
+                "end": 16721
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "16723_16735",
+            "span": {
+                "begin": 16723,
+                "end": 16735
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "16737_16767",
+            "span": {
+                "begin": 16737,
+                "end": 16767
+            },
+            "entityType": "disease",
+            "entityName": "intermittent sinus bradycardia",
+            "id": "UMLS:C0085610"
+        },
+        {
+            "entityId": "16810_16837",
+            "span": {
+                "begin": 16810,
+                "end": 16837
+            },
+            "entityType": "disease",
+            "entityName": "morphological abnormalities",
+            "id": "UMLS:C0332447"
+        },
+        {
+            "entityId": "16854_16861",
+            "span": {
+                "begin": 16854,
+                "end": 16861
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "17015_17023",
+            "span": {
+                "begin": 17015,
+                "end": 17023
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "17064_17071",
+            "span": {
+                "begin": 17064,
+                "end": 17071
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "17109_17118",
+            "span": {
+                "begin": 17109,
+                "end": 17118
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "17145_17152",
+            "span": {
+                "begin": 17145,
+                "end": 17152
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "17176_17188",
+            "span": {
+                "begin": 17176,
+                "end": 17188
+            },
+            "entityType": "drug",
+            "entityName": "moxifloxacin",
+            "id": "UMLS:C0536495"
+        },
+        {
+            "entityId": "17231_17250",
+            "span": {
+                "begin": 17231,
+                "end": 17250
+            },
+            "entityType": "disease",
+            "entityName": "cardiac arrhythmias",
+            "id": "UMLS:C0003811"
+        },
+        {
+            "entityId": "17662_17671",
+            "span": {
+                "begin": 17662,
+                "end": 17671
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "17782_17791",
+            "span": {
+                "begin": 17782,
+                "end": 17791
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "17869_17878",
+            "span": {
+                "begin": 17869,
+                "end": 17878
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "19108_19116",
+            "span": {
+                "begin": 19108,
+                "end": 19116
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "19331_19340",
+            "span": {
+                "begin": 19331,
+                "end": 19340
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "19612_19620",
+            "span": {
+                "begin": 19612,
+                "end": 19620
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "19637_19663",
+            "span": {
+                "begin": 19637,
+                "end": 19663
+            },
+            "entityType": "disease",
+            "entityName": "hematological malignancies",
+            "id": "UMLS:C0376545"
+        },
+        {
+            "entityId": "19712_19721",
+            "span": {
+                "begin": 19712,
+                "end": 19721
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "19784_19793",
+            "span": {
+                "begin": 19784,
+                "end": 19793
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "19845_19854",
+            "span": {
+                "begin": 19845,
+                "end": 19854
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "19975_19983",
+            "span": {
+                "begin": 19975,
+                "end": 19983
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20172_20180",
+            "span": {
+                "begin": 20172,
+                "end": 20180
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20236_20243",
+            "span": {
+                "begin": 20236,
+                "end": 20243
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20298_20306",
+            "span": {
+                "begin": 20298,
+                "end": 20306
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20411_20419",
+            "span": {
+                "begin": 20411,
+                "end": 20419
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20521_20530",
+            "span": {
+                "begin": 20521,
+                "end": 20530
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "20554_20562",
+            "span": {
+                "begin": 20554,
+                "end": 20562
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20614_20622",
+            "span": {
+                "begin": 20614,
+                "end": 20622
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20829_20837",
+            "span": {
+                "begin": 20829,
+                "end": 20837
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20898_20907",
+            "span": {
+                "begin": 20898,
+                "end": 20907
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "21011_21014",
+            "span": {
+                "begin": 21011,
+                "end": 21014
+            },
+            "entityType": "disease",
+            "entityName": "CML",
+            "id": "mim:608232"
+        },
+        {
+            "entityId": "21053_21060",
+            "span": {
+                "begin": 21053,
+                "end": 21060
+            },
+            "entityType": "disease",
+            "entityName": "cardiac",
+            "id": "mesh:D006331"
+        },
+        {
+            "entityId": "21073_21081",
+            "span": {
+                "begin": 21073,
+                "end": 21081
+            },
+            "entityType": "drug",
+            "entityName": "Imatinib",
+            "id": "UMLS:C0935989"
+        },
+        {
+            "entityId": "21107_21135",
+            "span": {
+                "begin": 21107,
+                "end": 21135
+            },
+            "entityType": "disease",
+            "entityName": "left ventricular dysfunction",
+            "id": "UMLS:C0242698"
+        },
+        {
+            "entityId": "21140_21153",
+            "span": {
+                "begin": 21140,
+                "end": 21153
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "21171_21179",
+            "span": {
+                "begin": 21171,
+                "end": 21179
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "21266_21276",
+            "span": {
+                "begin": 21266,
+                "end": 21276
+            },
+            "entityType": "gene",
+            "entityName": "Interferon",
+            "id": "UMLS:C3652465"
+        },
+        {
+            "entityId": "21281_21287",
+            "span": {
+                "begin": 21281,
+                "end": 21287
+            },
+            "entityType": "drug",
+            "entityName": "STI571",
+            "id": "UMLS:C0906802"
+        },
+        {
+            "entityId": "21304_21312",
+            "span": {
+                "begin": 21304,
+                "end": 21312
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "21334_21341",
+            "span": {
+                "begin": 21334,
+                "end": 21341
+            },
+            "entityType": "disease",
+            "entityName": "Ph+ CML",
+            "id": "UMLS:C0279549"
+        },
+        {
+            "entityId": "21350_21365",
+            "span": {
+                "begin": 21350,
+                "end": 21365
+            },
+            "entityType": "disease",
+            "entityName": "cardiac failure",
+            "id": "UMLS:C0018802"
+        },
+        {
+            "entityId": "21370_21398",
+            "span": {
+                "begin": 21370,
+                "end": 21398
+            },
+            "entityType": "disease",
+            "entityName": "left ventricular dysfunction",
+            "id": "UMLS:C0242698"
+        },
+        {
+            "entityId": "21425_21433",
+            "span": {
+                "begin": 21425,
+                "end": 21433
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "21441_21449",
+            "span": {
+                "begin": 21441,
+                "end": 21449
+            },
+            "entityType": "drug",
+            "entityName": "imatinib",
+            "id": "UMLS:C0935989"
+        },
+        {
+            "entityId": "21473_21481",
+            "span": {
+                "begin": 21473,
+                "end": 21481
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "21489_21504",
+            "span": {
+                "begin": 21489,
+                "end": 21504
+            },
+            "entityType": "gene",
+            "entityName": "interferon alfa",
+            "id": "UMLS:C1610033"
+        },
+        {
+            "entityId": "21510_21520",
+            "span": {
+                "begin": 21510,
+                "end": 21520
+            },
+            "entityType": "drug",
+            "entityName": "cytarabine",
+            "id": "UMLS:C0010711"
+        },
+        {
+            "entityId": "21526_21535",
+            "span": {
+                "begin": 21526,
+                "end": 21535
+            },
+            "entityType": "drug",
+            "entityName": "dasatinib",
+            "id": "UMLS:C1455147"
+        },
+        {
+            "entityId": "21775_21783",
+            "span": {
+                "begin": 21775,
+                "end": 21783
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "21805_21808",
+            "span": {
+                "begin": 21805,
+                "end": 21808
+            },
+            "entityType": "disease",
+            "entityName": "CML",
+            "id": "mim:608232"
+        },
+        {
+            "entityId": "21875_21883",
+            "span": {
+                "begin": 21875,
+                "end": 21883
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "21891_21900",
+            "span": {
+                "begin": 21891,
+                "end": 21900
+            },
+            "entityType": "drug",
+            "entityName": "dasatinib",
+            "id": "UMLS:C1455147"
+        },
+        {
+            "entityId": "21923_21931",
+            "span": {
+                "begin": 21923,
+                "end": 21931
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "21939_21947",
+            "span": {
+                "begin": 21939,
+                "end": 21947
+            },
+            "entityType": "drug",
+            "entityName": "imatinib",
+            "id": "UMLS:C0935989"
+        },
+        {
+            "entityId": "21953_21962",
+            "span": {
+                "begin": 21953,
+                "end": 21962
+            },
+            "entityType": "drug",
+            "entityName": "nilotinib",
+            "id": "UMLS:C1721377"
+        },
+        {
+            "entityId": "22086_22094",
+            "span": {
+                "begin": 22086,
+                "end": 22094
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "22100_22103",
+            "span": {
+                "begin": 22100,
+                "end": 22103
+            },
+            "entityType": "disease",
+            "entityName": "CML",
+            "id": "mim:608232"
+        },
+        {
+            "entityId": "22197_22206",
+            "span": {
+                "begin": 22197,
+                "end": 22206
+            },
+            "entityType": "drug",
+            "entityName": "nilotinib",
+            "id": "UMLS:C1721377"
+        },
+        {
+            "entityId": "22319_22328",
+            "span": {
+                "begin": 22319,
+                "end": 22328
+            },
+            "entityType": "drug",
+            "entityName": "nilotinib",
+            "id": "UMLS:C1721377"
+        },
+        {
+            "entityId": "22366_22375",
+            "span": {
+                "begin": 22366,
+                "end": 22375
+            },
+            "entityType": "drug",
+            "entityName": "nilotinib",
+            "id": "UMLS:C1721377"
+        },
+        {
+            "entityId": "22469_22491",
+            "span": {
+                "begin": 22469,
+                "end": 22491
+            },
+            "entityType": "disease",
+            "entityName": "ischemic heart disease",
+            "id": "UMLS:C0010054"
+        },
+        {
+            "entityId": "22499_22508",
+            "span": {
+                "begin": 22499,
+                "end": 22508
+            },
+            "entityType": "drug",
+            "entityName": "nilotinib",
+            "id": "UMLS:C1721377"
+        },
+        {
+            "entityId": "22561_22570",
+            "span": {
+                "begin": 22561,
+                "end": 22570
+            },
+            "entityType": "drug",
+            "entityName": "Nilotinib",
+            "id": "UMLS:C1721377"
+        },
+        {
+            "entityId": "22626_22634",
+            "span": {
+                "begin": 22626,
+                "end": 22634
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "22658_22666",
+            "span": {
+                "begin": 22658,
+                "end": 22666
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "22688_22691",
+            "span": {
+                "begin": 22688,
+                "end": 22691
+            },
+            "entityType": "disease",
+            "entityName": "CML",
+            "id": "mim:608232"
+        },
+        {
+            "entityId": "22717_22726",
+            "span": {
+                "begin": 22717,
+                "end": 22726
+            },
+            "entityType": "drug",
+            "entityName": "bosutinib",
+            "id": "UMLS:C1831731"
+        },
+        {
+            "entityId": "22807_22819",
+            "span": {
+                "begin": 22807,
+                "end": 22819
+            },
+            "entityType": "drug",
+            "entityName": "moxifloxacin",
+            "id": "UMLS:C0536495"
+        },
+        {
+            "entityId": "22925_22934",
+            "span": {
+                "begin": 22925,
+                "end": 22934
+            },
+            "entityType": "drug",
+            "entityName": "bosutinib",
+            "id": "UMLS:C1831731"
+        },
+        {
+            "entityId": "23222_23227",
+            "span": {
+                "begin": 23222,
+                "end": 23227
+            },
+            "entityType": "species",
+            "entityName": "Human",
+            "id": "UMLS:C0086418"
+        },
+        {
+            "entityId": "23376_23383",
+            "span": {
+                "begin": 23376,
+                "end": 23383
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23623_23632",
+            "span": {
+                "begin": 23623,
+                "end": 23632
+            },
+            "entityType": "drug",
+            "entityName": "nilotinib",
+            "id": "UMLS:C1721377"
+        },
+        {
+            "entityId": "23678_23687",
+            "span": {
+                "begin": 23678,
+                "end": 23687
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "23693_23700",
+            "span": {
+                "begin": 23693,
+                "end": 23700
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23728_23754",
+            "span": {
+                "begin": 23728,
+                "end": 23754
+            },
+            "entityType": "disease",
+            "entityName": "hematological malignancies",
+            "id": "UMLS:C0376545"
+        },
+        {
+            "entityId": "23901_23904",
+            "span": {
+                "begin": 23901,
+                "end": 23904
+            },
+            "entityType": "disease",
+            "entityName": "CML",
+            "id": "mim:608232"
+        },
+        {
+            "entityId": "23905_23913",
+            "span": {
+                "begin": 23905,
+                "end": 23913
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23927_23936",
+            "span": {
+                "begin": 23927,
+                "end": 23936
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        },
+        {
+            "entityId": "23979_23988",
+            "span": {
+                "begin": 23979,
+                "end": 23988
+            },
+            "entityType": "drug",
+            "entityName": "ponatinib",
+            "id": "UMLS:C2987417"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "212_227",
+            "subjectText": "tyrosine kinase",
+            "rel_name": "inhibit",
+            "objectId": "257_281",
+            "objectText": "chronic myeloid leukemia"
+        },
+        {
+            "subjectID": "1812_1821",
+            "subjectText": "Ponatinib",
+            "rel_name": "associate",
+            "objectId": "1900_1926",
+            "objectText": "hematological malignancies"
+        }
+    ]
+}

@@ -1,0 +1,4545 @@
+{
+    "sourcid": "PMC3653758",
+    "publisher": "BioMed Central",
+    "journal": "Lipids in Health and Disease",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3653758/",
+    "text": "A new ratio for better predicting future death/myocardial infarction than standard lipid measurements in women >50 years undergoing coronary angiography: the apolipoprotein A1 remnant ratio (Apo A1/ [VLDL3+IDL]) Background Women often lag behind men in their risk of cardiovascular events. However, with age and the onset of menopause, women's cardiovascular risk eventually becomes similar to that of men. This change in risk may, in part, be attributable to a shift to a more atherogenic lipid profile. Our objective was to evaluate standard- and sub-lipid parameters and the apo A1 remnant ratio: (apo A1/[VLDL3-C+IDL-C]) for their associations with death/myocardial infarction among peri- and post-menopausal women.   Methods Women (N=711) >50 years of age undergoing coronary angiography were evaluated. Baseline clinical and angiographic characteristics, lipids, and sub-lipid levels (Vertical Auto Profile method) were collected. Cox regression analysis, adjusted by standard cardiovascular risk factors, was utilized to determine associations of lipid and sub-lipid tertiles(T) with death/myocardial infarction at 1 and 3 years. Results Patients averaged 67.7+-9.4 years and 53.6% had underlying severe (>=70% stenosis) coronary artery disease. The apo A1 remnant ratio was found to have stronger associations for 1 year (T1 vs. T3: HR=2.13, p=0.03, T2 vs. T3: HR=1.57, p=0.21) and 3 year (T1 vs. T3: HR=2.32, p=0.002, T2 vs. T3: HR=1.97, p=0.01) death/myocardial infarction than any individual lipid (LDL-C, HDL-C, triglycerides, non-HDL-C) or sub-lipid (apo A1, apo B, VLDL3-C+IDL-C) measure, or any other well-known ratio (triglyercies/HDL-C, apo B/A1, TChol/HDL-C, HDL-C/[VLDL3-C+IDL-C]).  Conclusions The apo A1 remnant ratio was a significant predictor of short and intermediate-term death/myocardial infarction risk among women >50 years of age. Furthermore, this ratio was found to have greater predictive ability than traditional lipid and sub-lipid parameters and represents a potential new risk marker. Background Coronary heart disease (CHD) is the leading cause of death among men and women, although the risk in women temporally lags behind that of men (1). Nevertheless, the median survival for a woman age 55 to 64 with a first myocardial infarction (MI) is only 13.3 years compared to 17 years for a man. Furthermore, for women aged 65 to 74 this median survival decreases to only 8.8 years. Also, 64% of women who die suddenly of CHD have no previous symptoms compared to 50% for men. While most CHD risk factors are similar between men and women, they can often vary in strength and association and change throughout the lifetime. This is especially evident for lipids, with low high-density lipoprotein cholesterol (HDL-C) cholesterol and hypertriglyceridemia being stronger predictors of CHD in women than in men. Also, with age and the onset of menopause, women's lipoprotein profile becomes more atherogenic, which is associated with a rapid increase in cardiovascular risk. However, how to best quantify cardiovascular risk in women incorporating lipid parameters is unclear.   While low-density lipoprotein cholesterol (LDL-C), an atherogenic lipoprotein, has been recognized as the target of lipid lowering therapy, it is not always indicative of atherogenicity. Other lipoprotein parameters (i.e., remnant lipoproteins) have been shown to be more atherogenic, particularly in women, including apolipoprotein (apo) B, intermediate-density lipoprotein cholesterol (IDL-C), and subfractions of very low-density lipoprotein cholesterol (VLDL-C). In addition, the triglyceride to HDL-C ratio (TG/HDL-C) has been shown to be an atherogenic marker and a powerful independent predictor of all cause mortality and cardiovascular events among postmenopausal women and men. Gofman et al. first reported over 60 years ago that remnant lipoproteins were associated with the development of CHD. Remnant lipoproteins have been shown to be elevated in patients with the metabolic syndrome, impaired glucose tolerance, and type 2 diabetes mellitus. Remnant lipoproteins have also been reported to predict the extent of angiographically defined coronary artery disease (CAD) in post-menopausal women and predict coronary events in patients with CAD. It is well recognized that HDL-C has a strong inverse association with adverse CHD events among women. However, clinical events continue to occur even in patients who achieve \"target\" levels. The Framingham Heart Study reported that 43% of clinical events occurred in women with an HDL-C >=50 mg/dL. Also, apo A1, the major component of HDL, has been shown to predict short-term and long-term risk in patients with normal HDL-C. This finding indicates that just measuring HDL-C may not be sufficient for ideal risk assessment. Therefore, alternative or complementary risk marker assessment, such as measuring HDL components (apo A1) and composition, for determining CHD risk may need to be utilized. The purpose of this study was to evaluate a novel lipid ratio: apo A1 remnant ratio (apo A1/[VLDL3-C+IDL-C]), which takes into account the importance of both apo A1 and remnant lipoproteins, with their association to death and myocardial infarction (MI) among peri and post-menopausal women. Furthermore, the utility of this new ratio was compared to traditional lipid parameters, apo A1, apo B, and the ratios total cholesterol to HDL-C (TChol/HDL-C), TG/HDL-C, apo B/A1, and HDL-C/(VLDL3-C+IDL-C).      Results Patient characteristics A total of 711 women met inclusion criteria and were evaluated for this study. Average lipid and lipoprotein levels among the entire cohort were (mg/dL): HDL-C: 48.3+-15.6, LDL-C: 106.7+-37.3, non-HDL-C: 136.5+-41.3, apo B: 76.7+-18.3, apo B/A1 ratio: 0.66+-0.18, apo A1: 119.7+-20.3, apo A1/(VLDL3-C+IDL-C): 6.6+-3.6, TChol/HDL-C ratio: 4.3+-2.8, VLDL3-C+IDL-C: 22.1+-9.1, HDL-C/(VLDL3-C+IDL-C): 2.1+-1.4, and LDL-C/HDL-C: 2.5+-1.8. Triglycerides and the TG/HDL-C ratio were non-normally distributed and therefore, the median levels are reported: 133.0 mg/dL and 2.9, respectively. Patient characteristics for the cohort are shown in Table 1. A total of 41.3% of patients were discharged on a lipid lowering medication (37.1% were statins), 42.1% on aspirin, 27% on an ACEI, 17.4% on an ARB, and 33.9% on a beta-blocker.  Baseline characteristics of study participants (N=711) Characteristic\tDistribution\t \tAge (years)\t67.7+-9.4\t \tHypertension\t64.6% (459)\t \tHyperlipidemia\t49.9% (355)\t \tDiabetes\t21.4% (152)\t \tMetabolic Syndrome\t31.2% (222)\t \tFamily history of coronary artery disease\t42.3% (301)\t \tSmoking\t12.7% (90)\t \tRenal failure\t1.0% (7)\t \tHeart failure\t0.8% (6)\t \tPrior myocardial infarction\t5.8% (41)\t \tPrior cerebrovascular accident\t4.6% (33)    Long-term outcomes Lipoprotein ratios and individual particles were the best predictors of short-term (1 year) and intermediate-term (3 year) death/MI risk (Table 2). After adjustment, there was a significant association between tertiles of the apo A1 remnant ratio and death/MI at both time points (Table 3). Tertile 1 for both apo A1 and HDL-C/(VLDL3-C+IDL-C) were significantly associated with increased risk at 3 years when compared to tertile 3. Though significance was not achieved at 1 year for death/MI for both apo A1 and HDL-C/(VLDL3-C+IDL-C), tertile 1 vs. tertile 3 had clinically meaningful hazard ratios (1.81 and 1.70, respectively). The remnants, VLDL3-C+IDL-C, were associated with 1 year death/MI for tertile 3 vs. tertile 1. Tertile 3 vs. tertile 1 for the apo B/A1 ratio was a significant predictor of death/MI at both 1 and 3 years. Longitudinal associations of tertiles of the apo A1 remnant ratio are displayed in Figure 1 for 1 year (a) and 3 year (b) death/MI. Though, the log rank p-value did not achieve significance at 1 year (most likely attributable to a lower event rate), there is a clear separation between the curves that show a distinct risk between the tertiles.    Longitudinal associations of tertiles of the apolipoprotein A1 remnant ratio (apo A1/ [VLDL3-C+IDL-C]) at a) 1 year death/MI (log rank p-value=0.40) and b) 3 year death/MI (log rank p-value=0.04). Death/MI event rates at 1 and 3 years among lipid and lipoprotein tertiles Outcome\tTertile 1\tTertile 2\tTertile 3\tp-trend\t \tApo A1/(VLDL3-C+IDL-C)\t \t \t \t \t \t1 year Death/MI\t9.7% (23)\t7.6% (18)\t6.3% (15)\t0.17\t \t3 year Death/MI\t17.3% (41)\t15.6% (37)\t9.3% (22)\t0.01\t \tApo A1\t \t \t \t \t \t1 year Death/MI\t11.4% (27)\t5.5% (13)\t6.8% (16)\t0.06\t \t3 year Death/MI\t21.1% (50)\t9.3% (22)\t11.8% (28)\t0.004\t \tApo B\t \t \t \t \t \t1 year Death/MI\t6.3% (15)\t10.1% (24)\t7.2% (17)\t0.27\t \t3 year Death/MI\t13.9% (33)\t16.0% (38)\t12.2% (29)\t0.49\t \tApo B/A1\t \t \t \t \t \t1 year Death/MI\t7.2% (17)\t5.1% (12)\t11.4% (27)\t0.03\t \t3 year Death/MI\t12.2% (29)\t11.4% (27)\t18.6% (44)\t0.05\t \tHDL-C\t \t \t \t \t \t1 year Death/MI\t8.4% (20)\t6.6% (15)\t8.5% (21)\t0.98\t \t3 year Death/MI\t18.6% (44)\t10.2% (23)\t13.3% (33)\t0.10\t \tTriglycerides\t \t \t \t \t \t1 year Death/MI\t7.7% (18)\t9.2% (22)\t6.8% (16)\t0.72\t \t3 year Death/MI\t12.3% (29)\t15.4% (37)\t14.4% (34)\t0.52\t \tLDL-C\t \t \t \t \t \t1 year Death/MI\t8.3% (20)\t8.2% (19)\t7.1% (17)\t0.63\t \t3 year Death/MI\t16.3% (39)\t12.9% (30)\t13.0% (31)\t0.31\t \tnon-HDL-C\t \t \t \t \t \t1 year Death/MI\t6.8% (16)\t10.2% (24)\t6.7% (16)\t0.96\t \t3 year Death/MI\t14.0% (33)\t16.6% (39)\t11.7% (28)\t0.46\t \tTriglycerides/HDL-C Ratio\t \t \t \t \t \t1 year Death/MI\t7.9% (23)\t9.1% (21)\t6.4% (12)\t0.64\t \t3 year Death/MI\t11.6% (34)\t17.2% (40)\t13.9% (26)\t0.37\t \tVLDL3-C+IDL-C\t \t \t \t \t \t1 year Death/MI\t6.8% (17)\t7.4% (16)\t9.3% (23)\t0.29\t \t3 year Death/MI\t11.6% (29)\t15.8% (34)\t15.0% (37)\t0.27\t \tTotal Cholesterol/HDL-C Ratio\t \t \t \t \t \t1 year Death/MI\t8.9% (21)\t7.6% (18)\t7.2% (17)\t0.78\t \t3 year Death/MI\t13.5% (32)\t12.6% (30)\t16.1% (38)\t0.52\t \tHDL-C/(VLDL3-C+IDL-C)\t \t \t \t \t \t1 year Death/MI\t10.6% (25)\t6.3% (15)\t6.7% (16)\t0.12\t \t3 year Death/MI\t19.1% (45)\t13.0% (31)\t10.1% (24)\t0.005\t \tLDL-C/HDL-C\t \t \t \t \t \t1 year Death/MI\t9.7% (23)\t5.5% (13)\t8.4% (20)\t0.61\t \t3 year Death/MI\t14.3% (34)\t11.4% (27)\t16.5% (39)\t0.51                                                        Apo: apolipoprotein; HDL-C: high density lipoprotein cholesterol; IDL-C: intermediate density lipoprotein cholesterol; LDL-C: low density lipoprotein cholesterol; VLDL-C: very low density lipoprotein3 cholesterol. Multivariable association of tertiles of lipoprotein and lipid parameters for 1 and 3 year Death/MI Outcome\t1 year death/MI\t3 year death/MI\t \tApo A1-C/(VLDL3-C+IDL-C)\t \t \t \tTertile 1 vs. Tertile 3\tHR=2.14, p=0.03\tHR=2.33, p=0.003\t \tTertile 2 vs. Tertile 3\tHR=1.52, p=0.27\tHR=1.95, p=0.02\t \tApo A1\t \t \t \tTertile 1 vs. Tertile 3\tHR=1.81, p=0.07\tHR=1.80, p=0.02\t \tTertile 2 vs. Tertile 3\tHR=0.77, p=0.49\tHR=0.72, p=0.27\t \tApo B\t \t \t \tTertile 2 vs. Tertile 1\tHR=1.70, p=0.11\tHR=1.18, p=0.49\t \tTertile 3 vs. Tertile 1\tHR=1.34 p=0.42\tHR=0.96, p=0.89\t \tApo B/A1 Ratio\t \t \t \tTertile 2 vs. Tertile 1\tHR=0.76, p=0.48\tHR=0.94, p=0.82\t \tTertile 3 vs. Tertile 1\tHR=1.97, p=0.03\tHR=1.83, p=0.01\t \tHDL-C\t \t \t \tTertile 1 vs. Tertile 3\tHR=0.96, p=0.89\tHR=1.19, p=0.48\t \tTertile 2 vs. Tertile 3\tHR=0.72, p=0.36\tHR=0.62, p=0.10\t \tTriglycerides\t \t \t \tTertile 2 vs. Tertile 1\tHR=1.56, p=0.20\tHR=1.48, p=0.14\t \tTertile 3 vs. Tertile 1\tHR=1.19, p=0.65\tHR=1.26, p=0.40\t \tLDL-C\t \t \t \tTertile 2 vs. Tertile 1\tHR=0.88, p=0.73\tHR=0.74, p=0.26\t \tTertile 3 vs. Tertile 1\tHR=1.35, p=0.38\tHR=1.09, p=0.74\t \tNon-HDL-C\t \t \t \tTertile 2 vs. Tertile 1\tHR=1.19, p=0.62\tHR=1.11, p=0.69\t \tTertile 3 vs. Tertile 1\tHR=1.30, p=0.47\tHR=1.002, p=0.99\t \tTriglycerides/HDL-C Ratio\t \t \t \tTertile 2 vs. Tertile 1\tHR=1.10, p=0.76\tHR=1.53, p=0.08\t \tTertile 3 vs. Tertile 1\tHR=0.90, p=0.77\tHR=1.20, p=0.50\t \tVLDL3-C+IDL-C\t \t \t \tTertile 2 vs. Tertile 1\tHR=1.31, p=0.45\tHR=1.46, p=0.14\t \tTertile 3 vs. Tertile 1\tHR=1.90, p=0.05\tHR=1.55, p=0.09\t \tTotal Cholesterol/HDL-C Ratio\t \t \t \tTertile 2 vs. Tertile 1\tHR=0.89, p=0.72\tHR=0.96, p=0.87\t \tTertile 3 vs. Tertile 1\tHR=0.91, p=0.77\tHR=1.27, p=0.33\t \tHDL-C/(VLDL3-C+IDL-C)\t \t \t \tTertile 1 vs. Tertile 3\tHR=1.70, p=0.10\tHR=2.07, p=0.004\t \tTertile 2 vs. Tertile 3\tHR=0.97, p=0.92\tHR=1.35, p=0.27\t \tLDL-C/HDL-C\t \t \t \tTertile 2 vs. Tertile 1\tHR=0.60, p=0.15\tHR=0.89, p=0.64\t \tTertile 3 vs. Tertile 1\tHR=0.96, p=0.90\tHR=1.15, p=0.57                              Apo: apolipoprotein; HDL-C: high density lipoprotein cholesterol; IDL-C: intermediate density lipoprotein cholesterol; LDL-C: low density lipoprotein cholesterol; VLDL-C: very low density lipoprotein3 cholesterol. The Apo A1 remnant ratio: apo A1/ (VLDL3-C+IDL-C) We evaluated whether we could better stratify risk prediction beyond tertiles. Therefore, using recursive partitioning, we determined that the cutoffs of <=3.5 (category 1, n=98), >3.5-6.0 (category 2, n=310), and >6.0 (category 3, n=303) were the ideal categorizations for stratifying death/MI risk. The sensitivity and specificity at 3.5 (cutoff between categories 1 and 2) were 0.786 and 0.870 at 1 year and 0.80 and 0.872 at 3 year, respectively. For the cutoff of 6.0 (between categories 2 and 3), the sensitivity and specificity were 0.286 and 0.438 at 1 year and 0.270 and 0.452 at 3 years, respectively. Therefore, the categories were good discriminators between those at low and moderate-to-high risk. Baseline characteristics across categories of the apo A1 remnant ratio are shown in Table 4. Those in category 1 were more likely to have hypertension, hyperlipidemia, and diabetes; whereas, those in categories 2 and 3 had greater use of lipid lowering drugs, including statins. A better lipid profile was seen progressively across apo A1 remnant ratio categories.   Baseline characteristics among categories of the apo A1 remnant ratio (apo A1/ [VLDL3-C+IDL-C]) Characteristic\tCategory 1 (n=98)\tCategory 2 (n=310)\tCategory 3 (n=303)\tp-value\t \tAge (year)\t68.5+-9.2\t67.3+-9.0\t68.0+-9.9\t0.44\t \tHypertension\t72.4%\t70.6%\t55.8%\t<0.0001\t \tHyperlipidemia\t60.2%\t51.3%\t45.2%\t0.03\t \tDiabetes\t33.7%\t20.6%\t18.2%\t0.005\t \tMetabolic Syndrome\t53.1%\t32.6%\t22.8%\t<0.0001\t \tFamily History of CAD\t45.9%\t42.9%\t40.6%\t0.63\t \tSmoking\t10.2%\t14.5%\t11.6%\t0.40\t \tPrior CAD\t44.0%\t36.1%\t38.2%\t0.43\t \tPrior MI\t5.1%\t6.5%\t5.3%\t0.79\t \tPresentation\t \t \t \t0.53\t \tStable Angina\t59.2%\t65.2%\t60.1%\t \t \tUnstable Angina\t30.6%\t23.5%\t29.0%\t \t \tMI\t10.2%\t11.3%\t10.9%\t \t \tCAD\t44.9%\t41.9%\t44.2%\t0.80\t \tAny Lipid Lower\t27.4%\t45.2%\t42.0%\t0.03\t \tStatin\t23.3%\t42.1%\t36.6%\t0.02\t \tAspirin\t42.5%\t40.7%\t43.4%\t0.85\t \tACE Inhibitor\t30.1%\t31.2%\t21.4%\t0.06\t \tARB\t16.4%\t19.7%\t15.1%\t0.44\t \tBeta-blocker\t39.7%\t32.3%\t33.5%\t0.50\t \tLDL-C (mg/dL)\t119.9+-48.9\t106.4+-35.1\t102.7+-34.2\t<0.0001\t \tHDL-C (mg/dL)\t41.7+-14.9\t46.1+-13.7\t52.7+-16.6\t<0.0001\t \tTriglycerides (mg/dL)*\t176.0\t145.0\t116.0\t<0.0001\t \tApo A1 (mg/dL)\t106.2+-14.6\t115.0+-17.0\t128.9+-20.9\t<0.0001\t \tApo B (mg/dL)\t93.4+-21.2\t78.5+-15.6\t69.4+-15.6\t<0.0001\t \tApo B/Apo A1 Ratio\t0.89+-0.19\t0.69+-0.13\t0.55+-0.14\t<0.0001\t \tnon-HDL-C (mg/dL)\t158.0+-55.1\t137.7+-37.3\t128.2+-37.2\t<0.0001\t \tTriglycerides/HDL-C Ratio*\t4.7\t3.2\t2.3\t<0.0001\t \tVLDL3-C+IDL-C (mg/dL)\t37.1+-7.6\t24.6+-5.1\t14.6+-3.8\t<0.0001\t \tTotal Cholesterol/HDL-C Ratio\t5.1+-1.6\t4.4+-2.9\t3.9+-2.9\t<0.0001          *Median reported due to non-normal distribution. Apo: apolipoprotein; ARB: angiotensin receptor blocker; CAD: coronary artery disease; HDL-C: high density lipoprotein cholesterol; IDL-C: intermediate density lipoprotein cholesterol LDL-C: low density lipoprotein cholesterol; mg/dL: milligrams/deciliter; MI: myocardial infarction; VLDL-C: very low density lipoprotein3 cholesterol. Categories were determined by recursive partitioning and were stratified into the following: category 1: <=3.5 mg/dL; category 2: 3.5-6.0 mg/dL; category 3: >6.0 mg/dL.  Figure 2 displays the frequency of events among the categories of the apo A1 remnant ratio, with a significant trend of increasing risk with decreasing levels. After adjustment, all category comparisons at both timepoints significantly predicted death/MI risk (Figure 3). When comparing tertile 1 to tertile 3 and tertile 2 to tertile 3, there was an approximate 2.5-fold and a 2-fold increase in risk for death/MI at both timepoints, respectively. These associations remained with little attenuation after adjustment by LDL-C, HDL-C, and non-HDL-C. Log-transformed triglycerides (r=-702), apo A1 (r=0.510), apo B/A1 (r=-0.58), and VLDL3-C+IDL-C (r=-0.76) were significantly correlated with the apo A1 remnant ratio and therefore could not be evaluated in the multivariable model. Longitudinal associations for 1 year and 3 year death/MI are shown in Figure 4. As with the tertiles, the log rank p-value for the apo A1 remnant ratio categories did not achieve significance at 1 year, however the curves do show a distinct difference in risk between the categories. The predictive ability of the apo A1 remnant ratio was similar among women when stratified by age (50-64 vs. >=65 years) and CAD status.       Death/MI event rates at 1 and 3 years among categories of the apolipoprotein (apo) A1 remnant ratio (apo A1/ [VLDL3-C+IDL-C]). * Category 1 (<=3.5), Category 2 (>3.5-6.0), and Category 3 (>6.0).  Adjusted hazard ratios (HR) of categories of the apo A1 remnant ratio (apo A1/ [VLDL3-C+IDL-C]) at 1 year and 3 year death/MI. Longitudinal associations of categories of the apo A1 remnant ratio (apo A1/ [VLDL3-C+IDL-C]) at a) 1 year death/MI (log rank p-value=0.40) and b) 3 year death/MI (log rank p-value=0.04). * Category 1 (<=3.5), Category 2 (>3.5-6.0), and Category 3 (>6.0).  Discussion This study presents for the first time in women greater than 50 years of age that the novel apo A1 remnant ratio (apo A1/[VLDL3-C+IDL-C]) is a strong predictor of death/MI at 1 and 3 years. This is seen among both tertiles, as well as from categories derived from recursive partitioning. Furthermore, this ratio had greater predictive ability than traditional lipid parameters, apo A1, apo B, and ratios such as TChol/HDL-C, TG/HDL-C, apo B/A1, and HDL-C/(VLDL3-C+IDL-C). The power of this ratio is related to both the numerator (apo A1) and the remnant denominator (VLDL3-C+IDL-C). There are potentially important clinical ramifications related to this new ratio. As women age, LDL-C and HDL-C levels decline, indicating a change in HDL composition. It has been shown that the specific composition of HDL alters its capacity to participate in reverse cholesterol transport and modulate inflammation. Therefore, measurements of traditional lipid parameters may not be sufficient in risk prediction. This study reinforces the growing body of evidence that among post- menopausal women, LDL-C, which is the current target of lipid therapy by the National Cholesterol Education Panel Adult Treatment Panel (NCEP ATP) III report, is not the most predictive lipid parameter for CHD risk. In addition, remnant lipoproteins are known to be elevated in postmenopausal women and emphasis on remnant lipoproteins has been highlighted in the NCEP ATP III guidelines, which recommends the calculation of non-HDL-C as its measure. Although non-HDL-C provides a measure of remnant lipoproteins, it also is a measure of triglyceride-rich particles, which are less atherogenic. Another advantage of the apo A1 remnant ratio is that fasting is not required for sub-fraction measurements and therefore it could be precisely calculated. Therefore, the superiority of our ratio is not surprising since it utilizes the advantages of direct measurements of apo A1 and the remnant lipoproteins over traditional lipid parameters. Apo A1, which is the major protein component of HDL, is largely responsible for reverse cholesterol transport through the macrophage ATP-binding cassette transporter ABCA1. Oxidative mechanisms can damage apo A1, which decreases its ability to effectively promote cholesterol efflux. Such modifications can convert HDL from an anti-inflammatory to a pro-inflammatory particle. Measuring HDL-C is indicative of the size of the HDL pool, but not its composition. Therefore, an advantage of utilizing apo A1 over HDL-C is that it reflects the functioning-state of the molecule. Though epidemiological studies have consistently shown HDL-C to be inversely correlated with atherosclerotic events, particularly among women, many events continue to occur despite reaching target levels. Thus, emphasizing the need to determine additional measurements that can identify risk among \"low-risk\" populations. Further, it appears that HDL-C has a U-shaped distribution with a threshold for the upper limit of normal not being consistently defined for identifying risk, whereas apo A1 has a constant inverse relationship with CHD events. Also, dysfunctional HDL is not always reflected in the HDL-C pool. Unlike apo A1, very high values of HDL-C and HDL particle size have been shown to be associated with increased major adverse cardiovascular event risk.     We found low levels of apo A1 to be associated with an 80% increase in 1 and 3 year death/MI risk, whereas levels of HDL-C were found to not be predictive. The apo A1 remnant ratio utilizes the predictive value of apo A1, which was found to be highly predictive of death/MI by tertiles and by categories. We evaluated whether HDL-C would elicit similar results as apo A1 when divided by the remnant lipoproteins since a previous investigation found the inverse of this ratio, (VLDL3-C+IDL-C)/HDL-C, to be predictive of CHD. We found the HDL-C/(VLDL3-C+ IDL-C) ratio, though predictive, to not achieve the same degree of predictive significance as the apo A1 remnant ratio. These results reinforce the importance of measuring apo A1, potentially above that of HDL-C, for determining death/MI risk among women >50 years.   Remnant lipoproteins are generated by lipolysis of triglyceride-rich lipoproteins and have been shown to play a greater role in CHD development than their precursors. The Framingham Heart Study found remnant lipoproteins to be significantly higher in women with CHD when compared to women without CHD. Among postmenopausal women, Lamon-Fava et al. reported that atherosclerosis severity is linked to a dysregulation of triglyceride/HDL metabolism. They hypothesized that increases in remnant lipoproteins may be associated with increased lipid deposition in the arterial wall, plaque formation, and the generation of HDL-C subpopulations that are less efficient in the reverse cholesterol removal from the arterial wall. Remnant lipoproteins, independent of cardiovascular risk factors, have also been shown to be associated with peripheral vascular endothelial dysfunction as measured by Doppler flow analysis, with this being more pronounced in the postprandial state. Furthermore, remnant lipoproteins directly promote the initial stages of atherosclerosis through regulating the expression of ICAM-1 and VCAM-1, which are required for attachment of monocytes to the endothelial wall. In addition, they have been shown to promote a pro-coagulant state and induce tissue factor in cultured endothelial cells, with large and small VLDLs supporting factor Xa and factor Xa/Va-mediated factor VII activation. Finally, VLDL particles generate thrombin at rates near that of activated platelets. These pro-inflammatory, pro-atherogenic, and pro-thrombotic effects of remnant lipoproteins, which are independent from traditional risk factors including LDL-C, further explain the increased event rate seen in patients with CHD and increased remnant lipoprotein levels. Finally, it is possible that remnant lipoproteins may be the driving factor of the increased CHD risk seen in middle aged and older woman with elevated triglycerides. Within our study, remnant elevations were found to be associated with 1 year death/MI (HR=1.90, p=0.05), with a trend toward significance for 3 year death/MI risk (HR=1.55, p=0.09). Triglycerides were not associated with death/MI risk. Many lipid and sub-lipid ratios have been reported to predict CHD risk. In the Women's Ischemia Syndrome Evaluation (WISE) study, the TG/HDL-C ratio was found to predict cardiovascular events and mortality among women without prior MI or coronary revascularization, but non-HDL-C, the TChol/HDL-C ratio, and total cholesterol were not. However, the TG/HDL-C was no longer predictive of cardiovascular events when adjusted by coronary artery disease severity. Within our study the apo A1 remnant ratio maintained its significance after adjustment by CHD severity. The TG/HDL-C ratio has also been shown to be predictive of cardiovascular events among other populations. However, we found the TG/HDL-C ratio to be not predictive of 1 or 3 year death/MI among women >50 years.   The apo B/A1 ratio was shown in INTERHEART, a large, international case-control study, to be one of the most predictive parameters for identifying CHD risk. It was also found to show a graded relationship with MI risk, with no evidence of a threshold. Of all of the risk factors evaluated, the apo B/A1 ratio contributed the greatest to the population attributable risk, even being superior to smoking. When stratified by sex and age, similar associations persisted across all sub-groups. AMORIS showed that apo B, apo A1, and the apo B/A1 ratio are important risk factors for fatal MI, even after adjustment by age, total cholesterol, and triglycerides, with the apo B/A1 ratio being the greatest predictor of risk. These results were consistent among both men and women, young (<70 years) and old (>=70 years). The apo B/A1 ratio was predictive of 1 year and 3 year death/MI when the highest tertile was compared to the lowest tertile within our study, though its predictive power was not as strong as the apo A1 remnant ratio.    In a recent meta-analysis that evaluated 233,455 subjects with 22,950 events, apo B was found to be superior to non-HDL-C, which in turn was superior to LDL-C in predicting cardiovascular risk (RR=1.43, 1.34, 1.25, respectively). Furthermore, this study found that using an apo B strategy to treat those individuals at >70th percentile in the US adult population, 500,000 more events would have been prevented than if a non-HDL-C stategy had not been used. It has also been reported that apo B is a more accurate marker of cardiovascular risk than LDL-C, and in its absence, non-HDL-C should be used since it indirectly estimates apo B. Our study showed that the apo A1 remnant ratio was more predictive than apo B or non-HDL-C. One explanation for this is that remnant lipoproteins are more atherogenic than other larger apo B containing triglyceride rich lipoproteins. Remnants are smaller particles and can diffuse into the arterial wall and are more likely to be bound by heparin sulfate proteoglycans within the arterial media; therefore, able to promote more events. Results of this study seem to suggest that lipids, or some of their components, might not be the best indicator of increased risk and those with a greater concentration of denser, more atherogenic particles are at higher risk than in those with abnormal lipid concentrations. Therefore, the apo A1 remnant ratio may be a parameter that may better stratify risk of women >50 years so that those found in the higher risk categories can be more aggressively treated. Interventions may include earlier introduction or more aggressive lipid-lowering therapy. In this study, there was a significant difference between the use of lipid lowering medications among the categories at baseline, though lipid lowering use was adjusted for in the multivariable model, use of these medications could have affected which stratification, and thus risk of the patient. Future studies should evaluate longitudinal use of lipid lowering therapy on apo A1 remnant ratio levels. The apo A1 remnant ratio is indicative of the number of anti-atherogenic particles over the number of atherogenic particles. Thus, particle numbers and their ratios might be more important factors than the amount of lipids carried per particle. Study limitations This study shares the limitations of all nonrandomized, observational studies, including the possibility of selection bias and unadjusted confounding. The population studied was high-risk (i.e., undergoing angiography), predominantly white, and women >50 years of age; thus these results may not apply to lower-risk populations, men, women <=50 years, and other ethnic groups. The menopausal status in all women was not known; however approximately 80% of women over the age of 50 are either peri- or post-menopausal. Therefore, the lipid changes associated with menopause might not be seen among all of the women and be non-randomly distributed across tertiles and categories. Further, we did not know the status of hormone replacement therapy, which positively affects lipid and lipoprotein profiles. It is possible that there is a significant difference in the use of these medications across the lipid and lipoprotein tertiles and categories, which could have possible effects on the associations. We did not know the insulin resistance status of our patients, as insulin levels were not available to provide a calculation of HOMA-IR. However, 31.2% of our patients had metabolic syndrome and 21.4% had diabetes mellitus, with the apo A1 remnant ratio remaining statistically significant despite adjustment. The results of this study were confined to \"hard\" cardiovascular end points (death/MI); thus, we cannot give conclusions regarding \"softer\" cardiovascular endpoints such as angina, hospitalization, and revascularization.          Conclusions The new parameter, the apo A1 remnant ratio, was found to be a significant predictor of short-term and intermediate-term death/MI risk among women >50 years of age and was more strongly associated with death/MI risk than traditional lipid parameters, apo A1, apo B, and well-recognized lipid ratios. Further, this new ratio brings attention to the role of remnant lipoproteins in women greater than 50 years of age and represents a potential new measurement of risk. The apo A1 remnant ratio should be evaluated as a potential new treatment target and should be tested in a larger cohort and among other populations. Methods Study patients Study patients were drawn from the Intermountain Heart Collaborative Study (IHCS) registry from March, 1999 to January, 2007. The IHCS is a cardiac catheterization registry that includes consenting patients undergoing catheterization at a major Intermountain Healthcare hospital (LDS Hospital: Salt Lake City, UT; Intermountain Medical Center: Murray, UT; and McKay Dee Hospital: Ogden, UT). At the time of angiography, patients that provided informed consent had a blood sample taken and stored cryogenically for future testing. Patients (N=711) were included in this study if they were female, >50 years of age, gave written informed consent, and had both lipid panel results available from hospitalization and lipoprotein subfraction measurements. The Intermountain Healthcare Urban Central Institutional Review Board approved this study. Lipid and lipoprotein particle quantification and stratification Lipid levels were obtained during angiography hospitalization at the discretion of the attending cardiologist. Total cholesterol and triglycerides were quantified using dry-slide measurement on the VITROS 950 Analyzer (Ortho Clinical Diagnostics; Rochester, NY). HDL-C was measured with the same instrument following treatment with VITROS HDL-Cholesterol Magnetic Reagent. LDL-C and VLDL-C were calculated from the total cholesterol and triglyceride measurements. At the time of angiography, blood samples were collected in EDTA and refrigerated at 4 C. Within 24 hours, samples were centrifuged and plasma and DNA were separated and stored cryogenically. Cholesterol concentrations of lipoprotein classes and their subclasses were measured on samples obtained at angiography using single vertical spin density gradient ultra-centrifugation based on the Vertical Auto Profile (Atherotech, Birmingham, AL). Apo A1 was estimated by the VAP method using the procedure described previously.  Lipids and lipoproteins were evaluated as tertiles. Tertile stratifications for the different parameters are displayed in Table 5. For the apo A1 remnant ratio, apo A1, HDL-C, and HDL-C/(VLDL3-C+IDL-C) higher levels are desirable. However, lower levels are desired for triglycerides, LDL-C, non-HDL-C, apo B, apo B/A1 ratio, TG/HDL-C ratio, VLDL3-C+IDL-C, TChol/HDL-C ratio, and the LDL-C/HDL-C ratio.  Lipid and lipoprotein tertile stratifications Tertile 1\tTertile 2\tTertile 3\t \tApo A1/(VLDL3-C+IDL-C)\t<4.7\t4.7-6.8\t>6.8\t \tApo A1\t<109.7\t109.7-127.2\t>127.2\t \tApo B\t<67.3\t67.3-81.9\t>81.9\t \tApo B/A1 Ratio\t<0.57\t0.57-0.71\t>0.71\t \tHDL-C\t<40\t40-52\t>52\t \tTriglycerides\t<113\t113-160\t>160\t \tLDL-C\t<88\t88-117\t>117\t \tNon-HDL-C\t<119\t119-146\t>146\t \tTriglycerides/HDL-C Ratio\t<2.3\t2.3-3.7\t>3.7\t \tVLDL3-C+IDL-C\t<17\t17-24\t>24\t \tTotal Cholesterol/HDL-C Ratio\t<3.4\t3.4-4.4\t>4.4\t \tHDL-C/(VLDL3-C+IDL-C)\t<1.4\t1.4-2.1\t>2.1\t \tLDL-C/HDL-C\t<1.8\t1.8-2.7\t>2.7       Apo: apolipoprotein; HDL-C: high density lipoprotein cholesterol; IDL-C: intermediate density lipoprotein cholesterol; LDL-C: low density lipoprotein cholesterol; VLDL-C: very low density lipoprotein3 cholesterol. Other risk factor, demographic, and clinical assessments In addition to age and gender, patient information collected included diabetes status (diabetes mellitus: fasting blood glucose > 125 mg/dL, clinical diagnosis of diabetes mellitus, or anti-diabetic medication use; insulin resistance: fasting glucose between 110-125 mg/dL; and normal: fasting glucose <110 mg/dL), hypertension (systolic blood pressure >= 140 mmHg, diastolic >= 90 mmHg, or anti-hypertensive use), renal failure (clinical diagnosis or GFR <15 ml/min), hyperlipidemia (total cholesterol >= 200 mg/dL, LDL >= 130 mg/dL, or cholesterol-lowering medication use), and congestive heart failure (clinical diagnosis or physician-reported). The metabolic syndrome was defined using ATP III criteria, with BMI >27 kg/m2 used as a surrogate for waist circumference. Family history was patient-reported if a first-order relative had suffered cardiovascular death, MI, or coronary revascularization before age 65 years. Smoking included active smokers or those with a >10 pack-year history. Clinical presentation included stable angina (stable exertional symptoms only), unstable angina (progressive symptoms or symptoms at rest), or acute MI (creatine kinase-MB >6 mg/dL and creatine kinase-MB index >3% or a troponin I level >0.4 ng/mL). Treatment type was defined as treatment with medication only, percutaneous coronary intervention, or coronary artery by-pass surgery. Admission and discharge medications (i.e., statin, other lipid lowering medications, ace-inhibitors [ACEI], aspirin, angiotensin receptor blocker [ARB], beta-blocker, clopidogrel, diuretic) were also available.       Significant CAD was defined as the presence of one or more >= 70% obstructive lesions by coronary artery angiography. Assessment of CAD was made by review of angiograms by the patient's cardiologist, and results were entered into the computer database in a format modified after the coronary artery surgery study protocol. On the basis of this angiographic evaluation, the patients were determined to have single-, double-, or triple-vessel disease as defined by the presence of a 70% stenosis in each major vessel counted, with the left main counting as two vessels. Assessment of CAD was performed blinded to results of blood testing.    Patient follow-Up and event assessment Average length of follow-up was 3.9+-2.1 years. Events included the composite outcome of death and non-fatal MI at 1 and 3 years. MI was defined as a hospitalization where a patient had a troponin I level >=0.4 ng/mL or a discharge diagnosis of an MI (ICD-9 code 410). Deaths were determined by telephone survey, hospital records, and Utah State Health Department records (death certificates) and were verified through Social Security death records. Patients not listed as deceased in any registry were considered to be alive.  Statistical analysis The chi-square test, Student's t test, and the analysis variance (ANOVA) were used to examine lipid and lipoprotein tertiles to baseline characteristics. To confirm the associations of the composite outcome of death/MI determined by univariable analysis, multivariable Cox hazard regression (SPSS, version 15.0; Chicago, IL) was performed to determine hazard ratios (HRs). Kaplan-Meier survival estimates and the log rank test were used to determine initial associations with 1 and 3 year death/MI. Available baseline risk factors used in the modeling included age, gender, hypertension, hyperlipidemia, diabetes status, smoking, family history of CAD, renal failure, prior MI, prior cerebrovascular accident, congestive heart failure, presentation (stable angina, unstable angina, or acute MI), number of vessels with stenosis >=70%, and discharge medications. Final models entered significant (p<0.05) and confounding (10% change in beta-coefficient) covariables. The proportional hazards assumption was met for all models. Two-tailed p-values are presented with 0.05 designated as nominally significant.    Abbreviations Apo: Apolipoprotein; MI: Myocardial infarction; T: Tertile; CHD: Coronary heart disease; HDL-C: High-density lipoprotein cholesterol; LDL-C: Low-density lipoprotein cholesterol; IDL-C: Intermediate-density lipoprotein cholesterol; VLDL-C: Very low-density lipoprotein cholesterol; TG: Triglyceride; CAD: Coronary artery disease; TChol: Total cholesterol; IHCS: Intermountain Heart Collaborative Study; ACEI: Ace-inhibitors; ARB: Angiotensin receptor blocker; ANOVA: Analysis variance; HR: Hazard ratio; NCEP ATP: National Cholesterol Education Panel Adult Treatment Panel Competing interests HTM: none. JRN: consultant for Atherotech. KRK: employee of Atherotech. JLA: none. BDH: none. TLB: none. JBM: none. Authors' contributions   HTM participated in the study design, performed the statistical analysis, and the writing of the manuscript. JRN participated in the study design and writing of the manuscript. KRK participated in the study design and critical revision of the manuscript. JLA participated in the critical revision of the manuscript. BDH participated in the critical revision of the manuscript. TLB participated in data acquisition and the critical revision of the manuscript. JBM participated in the study design and critical revision of the manuscript. All authors read and approved the final manuscript. Financial support In-kind support from Atherotech, Birmingham, AL. Heart disease and stroke statistics:2011 update: a report from the American Heart Association    Cholesterol and heart disease in older persons and women. Review of an NHLBI workshop Cardiovascular disease in women Multivariate assessment of lipid parameters as predictors of coronary heart disease among postmenopausal women: potential implications for clinical guidelines High density lipoprotein as a protective factor against coronary heart disease. The Framingham Study High apolipoprotein B, low apolipoprotein A-I, and improvement in the prediction of fatal myocardial infarction (AMORIS study): A prospective study Remnant-like particle (RLP) cholesterol is an independent cardiovascular disease risk factor in women: results from the Framingham Heart Study Effect of potentially modifiable risk factors associated with myocardial infarction in 52 countries (the INTERHEART study): case-control study   Chylomicrons and chylomicron remnants in coronary artery disease: a case-control study   Association of plasma triglyceride-rich lipoprotein remnants with coronary atherosclerosis in cases of sudden cardiac death The plasma parameter log (TG/HDL-C) as an atherogenic index: correlation with lipoprotein particle size and esterification rate in apo B-lipoprotein-depleted plasma (FERHDL) The triglyceride/high-density lipoprotein cholesterol ratio predicts all-cause mortality in women with suspected myocardial ischemia: A Report From the Women's Ischemia Syndrome Evaluation (WISE)   Fractional esterification rate of cholesterol and ratio of triglycerides to HDL-cholesterol are powerful predictors of positive findings on coronary angiography Association of triglyceride-to-HDL cholesterol ratio with heart rate recovery The role of lipids and lipoproteins in atherosclerosis High plasma level of remnant-like particle cholesterol in the metabolic syndrome Elevated remnant-like lipoprotein particles in impaired glucose tolerance and type 2 diabetic patients Plasma levels of HDL subpopulations and remnant lipoproteins predict the extent of angiographically-defined coronary artery disease in postmenopausal women Remnant lipoprotein levels in fasting serum predict coronary events in patients with coronary artery disease Plasma lipoproteins and progression of coronary artery disease evaluated by angiography and clinical events Apolipoprotein A1 predicts future death and myocardial infarction in patients undergoing coronary angiography even when they have normal baseline HDL levels Third report of the National Cholesterol Education Program (NCEP) expert panel on detection, evaluation, and treatment of high blood cholesterol in adults (adult treatment panel III) final report C-reactive protein and other markers of inflammation in the prediction of cardiovascular disease in women Lipids and cardiovascular disease: do the findings and therapy apply equally to men and women? Blood cholesterol and vascular mortality by age, sex, and blood pressure: a meta-analysis of individual data from 61 prospective studies with 55,000 vascular deaths Friend turns foe: transformation of ant-inflammatory HDL to proinflammatory HDL during acute-phase response High-density lipoprotein cholesterol, high-density lipoprotein particle size, and apolipoprotein A-1: significance for cardiovascular risk. The IDEAL and EPIC-Norfolk studies Predictive value of remnant-like particles cholesterol/high-density lipoprotein cholesterol ratio as a new indicator of coronary artery disease Impact of high remnant-like lipoproteins on the function of peripheral arterial endothelium in patients with hyperlipidemia and normolipidemia: estimation using Doppler flow analysis Lipoprotein remnants and endothelial dysfunction in the postprandial phase Remnant lipoproteins induce proatherothrombogenic molecules in endothelial cells through a redox-sensitive mechanism Plasma lipoproteins enhance tissue factor-independent factor VII activation Plasma lipoproteins support prothrombinase and other procoagulant enzymatic complexes Prognostic value of remnant-like lipoprotein particle levels in patients with coronary artery disease and type II diabetes mellitus High lipid levels and coronary disease in women in Goteborg-outcome and secular trends: a prospective 19 year follow-up in the BEDA study  Non-fasting serum triglyceride concentration and mortality from coronary heart disease and any cause in middle aged Norwegian women Triglycerides + high-density-lipoprotein-cholesterol dyslipidaemia, a coronary risk factor in elderly women: the Cardiovascular Study in the Elderly The Dubbo study of the health of elderly: correlates of coronary heart disease at study entry Triglycerides and the risk of coronary heart disease: 10,158 incident cases among 262,525 participants in 29 Western prospective studies Fasting compared with nonfasting triglycerides and risk of cardiovascular events in women A meta-analysis of low-density lipoprotein cholesterol, non-high-density lipoprotein cholesterol, and apolipoprotein B as markers of cardiovascular risk Why is non-high-density lipoprotein cholesterol a better marker of the risk of vascular disease than low-density lipoprotein cholesterol? Atherosclerosis and arterial influx of lipoproteins Role of heparin sulfate proteoglycans in the binding and uptake of apolipoprotein E-enriched remnant lipoproteins by cultured cells Nutritional status of menopausal women The effect of hormone replacement therapy on metabolism of lipoprotein remnants in postmenopausal women Implementation of a computerized cardiovascular information system in a private hospital setting Myocardial infarction and mortality in the coronary artery surgery study (CASS) randomized trial Quantification of cholesterol in all lipoprotein classes by the VAP-II method A novel approach to measure apolipoprotein A/apolipoprotein A1 ratio using the Vertical Auto Profile method Definition of the metabolic syndrome: report of the national heart, lung, and blood institute/American heart association conference on scientific issues related to definition",
+    "entities": [
+        {
+            "entityId": "47_68",
+            "span": {
+                "begin": 47,
+                "end": 68
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "105_110",
+            "span": {
+                "begin": 105,
+                "end": 110
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "158_175",
+            "span": {
+                "begin": 158,
+                "end": 175
+            },
+            "entityType": "gene",
+            "entityName": "apolipoprotein A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "191_197",
+            "span": {
+                "begin": 191,
+                "end": 197
+            },
+            "entityType": "gene",
+            "entityName": "Apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "223_228",
+            "span": {
+                "begin": 223,
+                "end": 228
+            },
+            "entityType": "species",
+            "entityName": "Women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "246_249",
+            "span": {
+                "begin": 246,
+                "end": 249
+            },
+            "entityType": "species",
+            "entityName": "men",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "336_341",
+            "span": {
+                "begin": 336,
+                "end": 341
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "402_405",
+            "span": {
+                "begin": 402,
+                "end": 405
+            },
+            "entityType": "species",
+            "entityName": "men",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "578_584",
+            "span": {
+                "begin": 578,
+                "end": 584
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "601_607",
+            "span": {
+                "begin": 601,
+                "end": 607
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "617_622",
+            "span": {
+                "begin": 617,
+                "end": 622
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "659_680",
+            "span": {
+                "begin": 659,
+                "end": 680
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "713_718",
+            "span": {
+                "begin": 713,
+                "end": 718
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "730_735",
+            "span": {
+                "begin": 730,
+                "end": 735
+            },
+            "entityType": "species",
+            "entityName": "Women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1097_1118",
+            "span": {
+                "begin": 1097,
+                "end": 1118
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "1145_1153",
+            "span": {
+                "begin": 1145,
+                "end": 1153
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1228_1251",
+            "span": {
+                "begin": 1228,
+                "end": 1251
+            },
+            "entityType": "disease",
+            "entityName": "coronary artery disease",
+            "id": "UMLS:C1956346"
+        },
+        {
+            "entityId": "1257_1263",
+            "span": {
+                "begin": 1257,
+                "end": 1263
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "1398_1400",
+            "span": {
+                "begin": 1398,
+                "end": 1400
+            },
+            "entityType": "cell",
+            "entityName": "T1",
+            "id": "cellosaurus:CVCL_7904"
+        },
+        {
+            "entityId": "1427_1429",
+            "span": {
+                "begin": 1427,
+                "end": 1429
+            },
+            "entityType": "cell",
+            "entityName": "T2",
+            "id": "cellosaurus:CVCL_2211"
+        },
+        {
+            "entityId": "1461_1482",
+            "span": {
+                "begin": 1461,
+                "end": 1482
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "1510_1515",
+            "span": {
+                "begin": 1510,
+                "end": 1515
+            },
+            "entityType": "gene",
+            "entityName": "LDL-C",
+            "id": "NCBIGene:22796"
+        },
+        {
+            "entityId": "1517_1522",
+            "span": {
+                "begin": 1517,
+                "end": 1522
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "1524_1537",
+            "span": {
+                "begin": 1524,
+                "end": 1537
+            },
+            "entityType": "drug",
+            "entityName": "triglycerides",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "1539_1548",
+            "span": {
+                "begin": 1539,
+                "end": 1548
+            },
+            "entityType": "gene",
+            "entityName": "non-HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "1564_1570",
+            "span": {
+                "begin": 1564,
+                "end": 1570
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "1572_1577",
+            "span": {
+                "begin": 1572,
+                "end": 1577
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "1587_1592",
+            "span": {
+                "begin": 1587,
+                "end": 1592
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "1647_1652",
+            "span": {
+                "begin": 1647,
+                "end": 1652
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "1654_1659",
+            "span": {
+                "begin": 1654,
+                "end": 1659
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "1660_1662",
+            "span": {
+                "begin": 1660,
+                "end": 1662
+            },
+            "entityType": "gene",
+            "entityName": "A1",
+            "id": "UMLS:C4761535"
+        },
+        {
+            "entityId": "1670_1675",
+            "span": {
+                "begin": 1670,
+                "end": 1675
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "1677_1682",
+            "span": {
+                "begin": 1677,
+                "end": 1682
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "1692_1697",
+            "span": {
+                "begin": 1692,
+                "end": 1697
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "1718_1724",
+            "span": {
+                "begin": 1718,
+                "end": 1724
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "1804_1825",
+            "span": {
+                "begin": 1804,
+                "end": 1825
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "1837_1842",
+            "span": {
+                "begin": 1837,
+                "end": 1842
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2033_2055",
+            "span": {
+                "begin": 2033,
+                "end": 2055
+            },
+            "entityType": "disease",
+            "entityName": "Coronary heart disease",
+            "id": "UMLS:C0010068"
+        },
+        {
+            "entityId": "2057_2060",
+            "span": {
+                "begin": 2057,
+                "end": 2060
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "2098_2101",
+            "span": {
+                "begin": 2098,
+                "end": 2101
+            },
+            "entityType": "species",
+            "entityName": "men",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2106_2111",
+            "span": {
+                "begin": 2106,
+                "end": 2111
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2134_2139",
+            "span": {
+                "begin": 2134,
+                "end": 2139
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2171_2174",
+            "span": {
+                "begin": 2171,
+                "end": 2174
+            },
+            "entityType": "species",
+            "entityName": "men",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2220_2225",
+            "span": {
+                "begin": 2220,
+                "end": 2225
+            },
+            "entityType": "species",
+            "entityName": "woman",
+            "id": "UMLS:C4281745"
+        },
+        {
+            "entityId": "2252_2273",
+            "span": {
+                "begin": 2252,
+                "end": 2273
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "2275_2277",
+            "span": {
+                "begin": 2275,
+                "end": 2277
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "2325_2328",
+            "span": {
+                "begin": 2325,
+                "end": 2328
+            },
+            "entityType": "species",
+            "entityName": "man",
+            "id": "UMLS:C0086418"
+        },
+        {
+            "entityId": "2347_2352",
+            "span": {
+                "begin": 2347,
+                "end": 2352
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2430_2435",
+            "span": {
+                "begin": 2430,
+                "end": 2435
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2456_2459",
+            "span": {
+                "begin": 2456,
+                "end": 2459
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "2506_2509",
+            "span": {
+                "begin": 2506,
+                "end": 2509
+            },
+            "entityType": "species",
+            "entityName": "men",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2522_2525",
+            "span": {
+                "begin": 2522,
+                "end": 2525
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "2559_2562",
+            "span": {
+                "begin": 2559,
+                "end": 2562
+            },
+            "entityType": "species",
+            "entityName": "men",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2567_2572",
+            "span": {
+                "begin": 2567,
+                "end": 2572
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2744_2749",
+            "span": {
+                "begin": 2744,
+                "end": 2749
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "2751_2762",
+            "span": {
+                "begin": 2751,
+                "end": 2762
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "2767_2787",
+            "span": {
+                "begin": 2767,
+                "end": 2787
+            },
+            "entityType": "disease",
+            "entityName": "hypertriglyceridemia",
+            "id": "UMLS:C0020557"
+        },
+        {
+            "entityId": "2817_2820",
+            "span": {
+                "begin": 2817,
+                "end": 2820
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "2824_2829",
+            "span": {
+                "begin": 2824,
+                "end": 2829
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2838_2841",
+            "span": {
+                "begin": 2838,
+                "end": 2841
+            },
+            "entityType": "species",
+            "entityName": "men",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2886_2891",
+            "span": {
+                "begin": 2886,
+                "end": 2891
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "3059_3064",
+            "span": {
+                "begin": 3059,
+                "end": 3064
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "3153_3158",
+            "span": {
+                "begin": 3153,
+                "end": 3158
+            },
+            "entityType": "gene",
+            "entityName": "LDL-C",
+            "id": "NCBIGene:22796"
+        },
+        {
+            "entityId": "3411_3416",
+            "span": {
+                "begin": 3411,
+                "end": 3416
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "3428_3450",
+            "span": {
+                "begin": 3428,
+                "end": 3450
+            },
+            "entityType": "gene",
+            "entityName": "apolipoprotein (apo) B",
+            "id": "UMLS:C0003593"
+        },
+        {
+            "entityId": "3452_3496",
+            "span": {
+                "begin": 3452,
+                "end": 3496
+            },
+            "entityType": "gene",
+            "entityName": "intermediate-density lipoprotein cholesterol",
+            "id": "UMLS:C0123167"
+        },
+        {
+            "entityId": "3498_3503",
+            "span": {
+                "begin": 3498,
+                "end": 3503
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "3594_3606",
+            "span": {
+                "begin": 3594,
+                "end": 3606
+            },
+            "entityType": "drug",
+            "entityName": "triglyceride",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "3610_3615",
+            "span": {
+                "begin": 3610,
+                "end": 3615
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "3626_3631",
+            "span": {
+                "begin": 3626,
+                "end": 3631
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "3783_3788",
+            "span": {
+                "begin": 3783,
+                "end": 3788
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "3793_3796",
+            "span": {
+                "begin": 3793,
+                "end": 3796
+            },
+            "entityType": "species",
+            "entityName": "men",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "3911_3914",
+            "span": {
+                "begin": 3911,
+                "end": 3914
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "3971_3979",
+            "span": {
+                "begin": 3971,
+                "end": 3979
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "3989_4007",
+            "span": {
+                "begin": 3989,
+                "end": 4007
+            },
+            "entityType": "disease",
+            "entityName": "metabolic syndrome",
+            "id": "UMLS:C0524620"
+        },
+        {
+            "entityId": "4041_4065",
+            "span": {
+                "begin": 4041,
+                "end": 4065
+            },
+            "entityType": "disease",
+            "entityName": "type 2 diabetes mellitus",
+            "id": "UMLS:C0011860"
+        },
+        {
+            "entityId": "4162_4185",
+            "span": {
+                "begin": 4162,
+                "end": 4185
+            },
+            "entityType": "disease",
+            "entityName": "coronary artery disease",
+            "id": "UMLS:C1956346"
+        },
+        {
+            "entityId": "4187_4190",
+            "span": {
+                "begin": 4187,
+                "end": 4190
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "4211_4216",
+            "span": {
+                "begin": 4211,
+                "end": 4216
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4248_4256",
+            "span": {
+                "begin": 4248,
+                "end": 4256
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4262_4265",
+            "span": {
+                "begin": 4262,
+                "end": 4265
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "4294_4299",
+            "span": {
+                "begin": 4294,
+                "end": 4299
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "4346_4349",
+            "span": {
+                "begin": 4346,
+                "end": 4349
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "4363_4368",
+            "span": {
+                "begin": 4363,
+                "end": 4368
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4421_4429",
+            "span": {
+                "begin": 4421,
+                "end": 4429
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4535_4540",
+            "span": {
+                "begin": 4535,
+                "end": 4540
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4549_4554",
+            "span": {
+                "begin": 4549,
+                "end": 4554
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "4573_4579",
+            "span": {
+                "begin": 4573,
+                "end": 4579
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "4604_4607",
+            "span": {
+                "begin": 4604,
+                "end": 4607
+            },
+            "entityType": "gene",
+            "entityName": "HDL",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "4668_4676",
+            "span": {
+                "begin": 4668,
+                "end": 4676
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4689_4694",
+            "span": {
+                "begin": 4689,
+                "end": 4694
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "4739_4744",
+            "span": {
+                "begin": 4739,
+                "end": 4744
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "4876_4879",
+            "span": {
+                "begin": 4876,
+                "end": 4879
+            },
+            "entityType": "gene",
+            "entityName": "HDL",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "4892_4898",
+            "span": {
+                "begin": 4892,
+                "end": 4898
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "4933_4936",
+            "span": {
+                "begin": 4933,
+                "end": 4936
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "5030_5036",
+            "span": {
+                "begin": 5030,
+                "end": 5036
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "5052_5058",
+            "span": {
+                "begin": 5052,
+                "end": 5058
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "5068_5073",
+            "span": {
+                "begin": 5068,
+                "end": 5073
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "5125_5131",
+            "span": {
+                "begin": 5125,
+                "end": 5131
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "5194_5215",
+            "span": {
+                "begin": 5194,
+                "end": 5215
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "5217_5219",
+            "span": {
+                "begin": 5217,
+                "end": 5219
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "5252_5257",
+            "span": {
+                "begin": 5252,
+                "end": 5257
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5348_5354",
+            "span": {
+                "begin": 5348,
+                "end": 5354
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "5356_5361",
+            "span": {
+                "begin": 5356,
+                "end": 5361
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "5384_5395",
+            "span": {
+                "begin": 5384,
+                "end": 5395
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "5399_5404",
+            "span": {
+                "begin": 5399,
+                "end": 5404
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "5412_5417",
+            "span": {
+                "begin": 5412,
+                "end": 5417
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "5420_5422",
+            "span": {
+                "begin": 5420,
+                "end": 5422
+            },
+            "entityType": "drug",
+            "entityName": "TG",
+            "id": "UMLS:CHEBI:74859"
+        },
+        {
+            "entityId": "5423_5428",
+            "span": {
+                "begin": 5423,
+                "end": 5428
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "5430_5435",
+            "span": {
+                "begin": 5430,
+                "end": 5435
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "5436_5438",
+            "span": {
+                "begin": 5436,
+                "end": 5438
+            },
+            "entityType": "gene",
+            "entityName": "A1",
+            "id": "UMLS:C4761535"
+        },
+        {
+            "entityId": "5444_5449",
+            "span": {
+                "begin": 5444,
+                "end": 5449
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "5459_5464",
+            "span": {
+                "begin": 5459,
+                "end": 5464
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "5480_5487",
+            "span": {
+                "begin": 5480,
+                "end": 5487
+            },
+            "entityType": "species",
+            "entityName": "Patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5519_5524",
+            "span": {
+                "begin": 5519,
+                "end": 5524
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5658_5663",
+            "span": {
+                "begin": 5658,
+                "end": 5663
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "5677_5682",
+            "span": {
+                "begin": 5677,
+                "end": 5682
+            },
+            "entityType": "gene",
+            "entityName": "LDL-C",
+            "id": "NCBIGene:22796"
+        },
+        {
+            "entityId": "5697_5706",
+            "span": {
+                "begin": 5697,
+                "end": 5706
+            },
+            "entityType": "gene",
+            "entityName": "non-HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "5721_5726",
+            "span": {
+                "begin": 5721,
+                "end": 5726
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "5740_5748",
+            "span": {
+                "begin": 5740,
+                "end": 5748
+            },
+            "entityType": "gene",
+            "entityName": "apo B/A1",
+            "id": "UMLS:C0085201"
+        },
+        {
+            "entityId": "5768_5774",
+            "span": {
+                "begin": 5768,
+                "end": 5774
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "5789_5795",
+            "span": {
+                "begin": 5789,
+                "end": 5795
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "5805_5810",
+            "span": {
+                "begin": 5805,
+                "end": 5810
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "5829_5834",
+            "span": {
+                "begin": 5829,
+                "end": 5834
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "5860_5865",
+            "span": {
+                "begin": 5860,
+                "end": 5865
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "5878_5883",
+            "span": {
+                "begin": 5878,
+                "end": 5883
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "5893_5898",
+            "span": {
+                "begin": 5893,
+                "end": 5898
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "5915_5920",
+            "span": {
+                "begin": 5915,
+                "end": 5920
+            },
+            "entityType": "gene",
+            "entityName": "LDL-C",
+            "id": "NCBIGene:22796"
+        },
+        {
+            "entityId": "5921_5926",
+            "span": {
+                "begin": 5921,
+                "end": 5926
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "5938_5951",
+            "span": {
+                "begin": 5938,
+                "end": 5951
+            },
+            "entityType": "drug",
+            "entityName": "Triglycerides",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "5963_5968",
+            "span": {
+                "begin": 5963,
+                "end": 5968
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "6087_6094",
+            "span": {
+                "begin": 6087,
+                "end": 6094
+            },
+            "entityType": "species",
+            "entityName": "Patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6168_6176",
+            "span": {
+                "begin": 6168,
+                "end": 6176
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6236_6243",
+            "span": {
+                "begin": 6236,
+                "end": 6243
+            },
+            "entityType": "drug",
+            "entityName": "statins",
+            "id": "UMLS:C0360714"
+        },
+        {
+            "entityId": "6255_6262",
+            "span": {
+                "begin": 6255,
+                "end": 6262
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "6901_6906",
+            "span": {
+                "begin": 6901,
+                "end": 6906
+            },
+            "entityType": "disease",
+            "entityName": "death",
+            "id": "mesh:D003643"
+        },
+        {
+            "entityId": "6907_6909",
+            "span": {
+                "begin": 6907,
+                "end": 6909
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "7004_7010",
+            "span": {
+                "begin": 7004,
+                "end": 7010
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "7035_7037",
+            "span": {
+                "begin": 7035,
+                "end": 7037
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "7088_7094",
+            "span": {
+                "begin": 7088,
+                "end": 7094
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "7099_7104",
+            "span": {
+                "begin": 7099,
+                "end": 7104
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "7114_7119",
+            "span": {
+                "begin": 7114,
+                "end": 7119
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "7267_7269",
+            "span": {
+                "begin": 7267,
+                "end": 7269
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "7279_7285",
+            "span": {
+                "begin": 7279,
+                "end": 7285
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "7290_7295",
+            "span": {
+                "begin": 7290,
+                "end": 7295
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "7305_7310",
+            "span": {
+                "begin": 7305,
+                "end": 7310
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "7430_7435",
+            "span": {
+                "begin": 7430,
+                "end": 7435
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "7471_7473",
+            "span": {
+                "begin": 7471,
+                "end": 7473
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "7535_7540",
+            "span": {
+                "begin": 7535,
+                "end": 7540
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "7541_7543",
+            "span": {
+                "begin": 7541,
+                "end": 7543
+            },
+            "entityType": "gene",
+            "entityName": "A1",
+            "id": "UMLS:C4761535"
+        },
+        {
+            "entityId": "7587_7589",
+            "span": {
+                "begin": 7587,
+                "end": 7589
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "7658_7664",
+            "span": {
+                "begin": 7658,
+                "end": 7664
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "7741_7743",
+            "span": {
+                "begin": 7741,
+                "end": 7743
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "12453_12459",
+            "span": {
+                "begin": 12453,
+                "end": 12459
+            },
+            "entityType": "gene",
+            "entityName": "Apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "12475_12481",
+            "span": {
+                "begin": 12475,
+                "end": 12481
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "12492_12497",
+            "span": {
+                "begin": 12492,
+                "end": 12497
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "12791_12793",
+            "span": {
+                "begin": 12791,
+                "end": 12793
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "13260_13266",
+            "span": {
+                "begin": 13260,
+                "end": 13266
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "13348_13360",
+            "span": {
+                "begin": 13348,
+                "end": 13360
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "13362_13376",
+            "span": {
+                "begin": 13362,
+                "end": 13376
+            },
+            "entityType": "disease",
+            "entityName": "hyperlipidemia",
+            "id": "UMLS:C0020473"
+        },
+        {
+            "entityId": "13382_13390",
+            "span": {
+                "begin": 13382,
+                "end": 13390
+            },
+            "entityType": "disease",
+            "entityName": "diabetes",
+            "id": "UMLS:C0011847"
+        },
+        {
+            "entityId": "13480_13487",
+            "span": {
+                "begin": 13480,
+                "end": 13487
+            },
+            "entityType": "drug",
+            "entityName": "statins",
+            "id": "UMLS:C0360714"
+        },
+        {
+            "entityId": "13542_13548",
+            "span": {
+                "begin": 13542,
+                "end": 13548
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "15697_15703",
+            "span": {
+                "begin": 15697,
+                "end": 15703
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "15879_15881",
+            "span": {
+                "begin": 15879,
+                "end": 15881
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "16039_16041",
+            "span": {
+                "begin": 16039,
+                "end": 16041
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "16148_16153",
+            "span": {
+                "begin": 16148,
+                "end": 16153
+            },
+            "entityType": "gene",
+            "entityName": "LDL-C",
+            "id": "NCBIGene:22796"
+        },
+        {
+            "entityId": "16155_16160",
+            "span": {
+                "begin": 16155,
+                "end": 16160
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "16166_16175",
+            "span": {
+                "begin": 16166,
+                "end": 16175
+            },
+            "entityType": "gene",
+            "entityName": "non-HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "16193_16206",
+            "span": {
+                "begin": 16193,
+                "end": 16206
+            },
+            "entityType": "drug",
+            "entityName": "triglycerides",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "16217_16223",
+            "span": {
+                "begin": 16217,
+                "end": 16223
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "16235_16240",
+            "span": {
+                "begin": 16235,
+                "end": 16240
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "16241_16243",
+            "span": {
+                "begin": 16241,
+                "end": 16243
+            },
+            "entityType": "gene",
+            "entityName": "A1",
+            "id": "UMLS:C4761535"
+        },
+        {
+            "entityId": "16267_16272",
+            "span": {
+                "begin": 16267,
+                "end": 16272
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "16322_16328",
+            "span": {
+                "begin": 16322,
+                "end": 16328
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "16462_16464",
+            "span": {
+                "begin": 16462,
+                "end": 16464
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "16539_16545",
+            "span": {
+                "begin": 16539,
+                "end": 16545
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "16722_16728",
+            "span": {
+                "begin": 16722,
+                "end": 16728
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "16761_16766",
+            "span": {
+                "begin": 16761,
+                "end": 16766
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "16817_16820",
+            "span": {
+                "begin": 16817,
+                "end": 16820
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "17468_17473",
+            "span": {
+                "begin": 17468,
+                "end": 17473
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "17518_17524",
+            "span": {
+                "begin": 17518,
+                "end": 17524
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "17540_17546",
+            "span": {
+                "begin": 17540,
+                "end": 17546
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "17556_17561",
+            "span": {
+                "begin": 17556,
+                "end": 17561
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "17595_17597",
+            "span": {
+                "begin": 17595,
+                "end": 17597
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "17804_17810",
+            "span": {
+                "begin": 17804,
+                "end": 17810
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "17812_17817",
+            "span": {
+                "begin": 17812,
+                "end": 17817
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "17844_17849",
+            "span": {
+                "begin": 17844,
+                "end": 17849
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "17854_17859",
+            "span": {
+                "begin": 17854,
+                "end": 17859
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "17861_17866",
+            "span": {
+                "begin": 17861,
+                "end": 17866
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "17867_17869",
+            "span": {
+                "begin": 17867,
+                "end": 17869
+            },
+            "entityType": "gene",
+            "entityName": "A1",
+            "id": "UMLS:C4761535"
+        },
+        {
+            "entityId": "17875_17880",
+            "span": {
+                "begin": 17875,
+                "end": 17880
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "17890_17895",
+            "span": {
+                "begin": 17890,
+                "end": 17895
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "17956_17962",
+            "span": {
+                "begin": 17956,
+                "end": 17962
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "18001_18006",
+            "span": {
+                "begin": 18001,
+                "end": 18006
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "18094_18099",
+            "span": {
+                "begin": 18094,
+                "end": 18099
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "18105_18110",
+            "span": {
+                "begin": 18105,
+                "end": 18110
+            },
+            "entityType": "gene",
+            "entityName": "LDL-C",
+            "id": "NCBIGene:22796"
+        },
+        {
+            "entityId": "18115_18120",
+            "span": {
+                "begin": 18115,
+                "end": 18120
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "18160_18163",
+            "span": {
+                "begin": 18160,
+                "end": 18163
+            },
+            "entityType": "gene",
+            "entityName": "HDL",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "18228_18231",
+            "span": {
+                "begin": 18228,
+                "end": 18231
+            },
+            "entityType": "gene",
+            "entityName": "HDL",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "18278_18289",
+            "span": {
+                "begin": 18278,
+                "end": 18289
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "18504_18509",
+            "span": {
+                "begin": 18504,
+                "end": 18509
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "18511_18516",
+            "span": {
+                "begin": 18511,
+                "end": 18516
+            },
+            "entityType": "gene",
+            "entityName": "LDL-C",
+            "id": "NCBIGene:22796"
+        },
+        {
+            "entityId": "18579_18590",
+            "span": {
+                "begin": 18579,
+                "end": 18590
+            },
+            "entityType": "drug",
+            "entityName": "Cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "18635_18638",
+            "span": {
+                "begin": 18635,
+                "end": 18638
+            },
+            "entityType": "drug",
+            "entityName": "ATP",
+            "id": "UMLS:CHEBI:30616"
+        },
+        {
+            "entityId": "18699_18702",
+            "span": {
+                "begin": 18699,
+                "end": 18702
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "18786_18791",
+            "span": {
+                "begin": 18786,
+                "end": 18791
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "18862_18865",
+            "span": {
+                "begin": 18862,
+                "end": 18865
+            },
+            "entityType": "drug",
+            "entityName": "ATP",
+            "id": "UMLS:CHEBI:30616"
+        },
+        {
+            "entityId": "18918_18927",
+            "span": {
+                "begin": 18918,
+                "end": 18927
+            },
+            "entityType": "gene",
+            "entityName": "non-HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "18953_18962",
+            "span": {
+                "begin": 18953,
+                "end": 18962
+            },
+            "entityType": "gene",
+            "entityName": "non-HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "19031_19043",
+            "span": {
+                "begin": 19031,
+                "end": 19043
+            },
+            "entityType": "drug",
+            "entityName": "triglyceride",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "19113_19119",
+            "span": {
+                "begin": 19113,
+                "end": 19119
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "19361_19367",
+            "span": {
+                "begin": 19361,
+                "end": 19367
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "19384_19396",
+            "span": {
+                "begin": 19384,
+                "end": 19396
+            },
+            "entityType": "cell",
+            "entityName": "lipoproteins",
+            "id": "UMLS:C0023820"
+        },
+        {
+            "entityId": "19432_19438",
+            "span": {
+                "begin": 19432,
+                "end": 19438
+            },
+            "entityType": "gene",
+            "entityName": "Apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "19480_19483",
+            "span": {
+                "begin": 19480,
+                "end": 19483
+            },
+            "entityType": "gene",
+            "entityName": "HDL",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "19520_19531",
+            "span": {
+                "begin": 19520,
+                "end": 19531
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "19554_19603",
+            "span": {
+                "begin": 19554,
+                "end": 19603
+            },
+            "entityType": "gene",
+            "entityName": "macrophage ATP-binding cassette transporter ABCA1",
+            "id": "UMLS:C1412058"
+        },
+        {
+            "entityId": "19637_19643",
+            "span": {
+                "begin": 19637,
+                "end": 19643
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "19696_19707",
+            "span": {
+                "begin": 19696,
+                "end": 19707
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "19747_19750",
+            "span": {
+                "begin": 19747,
+                "end": 19750
+            },
+            "entityType": "gene",
+            "entityName": "HDL",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "19819_19824",
+            "span": {
+                "begin": 19819,
+                "end": 19824
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "19930_19936",
+            "span": {
+                "begin": 19930,
+                "end": 19936
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "19942_19947",
+            "span": {
+                "begin": 19942,
+                "end": 19947
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "20062_20067",
+            "span": {
+                "begin": 20062,
+                "end": 20067
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "20100_20122",
+            "span": {
+                "begin": 20100,
+                "end": 20122
+            },
+            "entityType": "disease",
+            "entityName": "atherosclerotic events",
+            "id": "mim:108725"
+        },
+        {
+            "entityId": "20143_20148",
+            "span": {
+                "begin": 20143,
+                "end": 20148
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "20354_20359",
+            "span": {
+                "begin": 20354,
+                "end": 20359
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "20496_20502",
+            "span": {
+                "begin": 20496,
+                "end": 20502
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "20544_20547",
+            "span": {
+                "begin": 20544,
+                "end": 20547
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "20576_20579",
+            "span": {
+                "begin": 20576,
+                "end": 20579
+            },
+            "entityType": "gene",
+            "entityName": "HDL",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "20611_20616",
+            "span": {
+                "begin": 20611,
+                "end": 20616
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "20630_20636",
+            "span": {
+                "begin": 20630,
+                "end": 20636
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "20658_20663",
+            "span": {
+                "begin": 20658,
+                "end": 20663
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "20802_20808",
+            "span": {
+                "begin": 20802,
+                "end": 20808
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "20869_20871",
+            "span": {
+                "begin": 20869,
+                "end": 20871
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "20896_20901",
+            "span": {
+                "begin": 20896,
+                "end": 20901
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "20939_20945",
+            "span": {
+                "begin": 20939,
+                "end": 20945
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "20993_20999",
+            "span": {
+                "begin": 20993,
+                "end": 20999
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "21050_21052",
+            "span": {
+                "begin": 21050,
+                "end": 21052
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "21105_21110",
+            "span": {
+                "begin": 21105,
+                "end": 21110
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "21143_21149",
+            "span": {
+                "begin": 21143,
+                "end": 21149
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "21264_21269",
+            "span": {
+                "begin": 21264,
+                "end": 21269
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "21271_21276",
+            "span": {
+                "begin": 21271,
+                "end": 21276
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "21298_21301",
+            "span": {
+                "begin": 21298,
+                "end": 21301
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "21316_21321",
+            "span": {
+                "begin": 21316,
+                "end": 21321
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "21332_21337",
+            "span": {
+                "begin": 21332,
+                "end": 21337
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "21430_21436",
+            "span": {
+                "begin": 21430,
+                "end": 21436
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "21504_21510",
+            "span": {
+                "begin": 21504,
+                "end": 21510
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "21538_21543",
+            "span": {
+                "begin": 21538,
+                "end": 21543
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "21567_21569",
+            "span": {
+                "begin": 21567,
+                "end": 21569
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "21581_21586",
+            "span": {
+                "begin": 21581,
+                "end": 21586
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "21651_21663",
+            "span": {
+                "begin": 21651,
+                "end": 21663
+            },
+            "entityType": "drug",
+            "entityName": "triglyceride",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "21728_21731",
+            "span": {
+                "begin": 21728,
+                "end": 21731
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "21851_21856",
+            "span": {
+                "begin": 21851,
+                "end": 21856
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "21862_21865",
+            "span": {
+                "begin": 21862,
+                "end": 21865
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "21883_21888",
+            "span": {
+                "begin": 21883,
+                "end": 21888
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "21897_21900",
+            "span": {
+                "begin": 21897,
+                "end": 21900
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "21923_21928",
+            "span": {
+                "begin": 21923,
+                "end": 21928
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "21962_21977",
+            "span": {
+                "begin": 21962,
+                "end": 21977
+            },
+            "entityType": "disease",
+            "entityName": "atherosclerosis",
+            "id": "UMLS:C0004153"
+        },
+        {
+            "entityId": "22019_22031",
+            "span": {
+                "begin": 22019,
+                "end": 22031
+            },
+            "entityType": "drug",
+            "entityName": "triglyceride",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "22032_22035",
+            "span": {
+                "begin": 22032,
+                "end": 22035
+            },
+            "entityType": "gene",
+            "entityName": "HDL",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "22177_22183",
+            "span": {
+                "begin": 22177,
+                "end": 22183
+            },
+            "entityType": "disease",
+            "entityName": "plaque",
+            "id": "UMLS:C0011389"
+        },
+        {
+            "entityId": "22217_22222",
+            "span": {
+                "begin": 22217,
+                "end": 22222
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "22277_22288",
+            "span": {
+                "begin": 22277,
+                "end": 22288
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "22644_22659",
+            "span": {
+                "begin": 22644,
+                "end": 22659
+            },
+            "entityType": "disease",
+            "entityName": "atherosclerosis",
+            "id": "UMLS:C0004153"
+        },
+        {
+            "entityId": "22697_22703",
+            "span": {
+                "begin": 22697,
+                "end": 22703
+            },
+            "entityType": "gene",
+            "entityName": "ICAM-1",
+            "id": "UMLS:C1334074"
+        },
+        {
+            "entityId": "22708_22714",
+            "span": {
+                "begin": 22708,
+                "end": 22714
+            },
+            "entityType": "gene",
+            "entityName": "VCAM-1",
+            "id": "UMLS:C0078056"
+        },
+        {
+            "entityId": "22753_22762",
+            "span": {
+                "begin": 22753,
+                "end": 22762
+            },
+            "entityType": "cell",
+            "entityName": "monocytes",
+            "id": "UMLS:C0026473"
+        },
+        {
+            "entityId": "22866_22879",
+            "span": {
+                "begin": 22866,
+                "end": 22879
+            },
+            "entityType": "gene",
+            "entityName": "tissue factor",
+            "id": "UMLS:C4048299"
+        },
+        {
+            "entityId": "22883_22909",
+            "span": {
+                "begin": 22883,
+                "end": 22909
+            },
+            "entityType": "cell",
+            "entityName": "cultured endothelial cells",
+            "id": "UMLS:C0007600"
+        },
+        {
+            "entityId": "22956_22958",
+            "span": {
+                "begin": 22956,
+                "end": 22958
+            },
+            "entityType": "gene",
+            "entityName": "Xa",
+            "id": "UMLS:C1420849"
+        },
+        {
+            "entityId": "22963_22972",
+            "span": {
+                "begin": 22963,
+                "end": 22972
+            },
+            "entityType": "gene",
+            "entityName": "factor Xa",
+            "id": "UMLS:C0015520"
+        },
+        {
+            "entityId": "22985_22995",
+            "span": {
+                "begin": 22985,
+                "end": 22995
+            },
+            "entityType": "gene",
+            "entityName": "factor VII",
+            "id": "UMLS:C0015502"
+        },
+        {
+            "entityId": "23041_23049",
+            "span": {
+                "begin": 23041,
+                "end": 23049
+            },
+            "entityType": "gene",
+            "entityName": "thrombin",
+            "id": "UMLS:C0040018"
+        },
+        {
+            "entityId": "23072_23091",
+            "span": {
+                "begin": 23072,
+                "end": 23091
+            },
+            "entityType": "cell",
+            "entityName": "activated platelets",
+            "id": "UMLS:C0005821"
+        },
+        {
+            "entityId": "23248_23253",
+            "span": {
+                "begin": 23248,
+                "end": 23253
+            },
+            "entityType": "gene",
+            "entityName": "LDL-C",
+            "id": "NCBIGene:22796"
+        },
+        {
+            "entityId": "23304_23312",
+            "span": {
+                "begin": 23304,
+                "end": 23312
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23318_23321",
+            "span": {
+                "begin": 23318,
+                "end": 23321
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "23457_23460",
+            "span": {
+                "begin": 23457,
+                "end": 23460
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "23496_23501",
+            "span": {
+                "begin": 23496,
+                "end": 23501
+            },
+            "entityType": "species",
+            "entityName": "woman",
+            "id": "UMLS:C4281745"
+        },
+        {
+            "entityId": "23516_23529",
+            "span": {
+                "begin": 23516,
+                "end": 23529
+            },
+            "entityType": "drug",
+            "entityName": "triglycerides",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "23614_23616",
+            "span": {
+                "begin": 23614,
+                "end": 23616
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "23686_23688",
+            "span": {
+                "begin": 23686,
+                "end": 23688
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "23713_23726",
+            "span": {
+                "begin": 23713,
+                "end": 23726
+            },
+            "entityType": "drug",
+            "entityName": "Triglycerides",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "23758_23760",
+            "span": {
+                "begin": 23758,
+                "end": 23760
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "23829_23832",
+            "span": {
+                "begin": 23829,
+                "end": 23832
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "23846_23851",
+            "span": {
+                "begin": 23846,
+                "end": 23851
+            },
+            "entityType": "species",
+            "entityName": "Women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23904_23909",
+            "span": {
+                "begin": 23904,
+                "end": 23909
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "23979_23984",
+            "span": {
+                "begin": 23979,
+                "end": 23984
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "23999_24001",
+            "span": {
+                "begin": 23999,
+                "end": 24001
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "24037_24046",
+            "span": {
+                "begin": 24037,
+                "end": 24046
+            },
+            "entityType": "gene",
+            "entityName": "non-HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "24058_24063",
+            "span": {
+                "begin": 24058,
+                "end": 24063
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "24081_24092",
+            "span": {
+                "begin": 24081,
+                "end": 24092
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "24119_24124",
+            "span": {
+                "begin": 24119,
+                "end": 24124
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "24192_24215",
+            "span": {
+                "begin": 24192,
+                "end": 24215
+            },
+            "entityType": "disease",
+            "entityName": "coronary artery disease",
+            "id": "UMLS:C1956346"
+        },
+        {
+            "entityId": "24247_24253",
+            "span": {
+                "begin": 24247,
+                "end": 24253
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "24316_24319",
+            "span": {
+                "begin": 24316,
+                "end": 24319
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "24337_24342",
+            "span": {
+                "begin": 24337,
+                "end": 24342
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "24461_24466",
+            "span": {
+                "begin": 24461,
+                "end": 24466
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "24515_24517",
+            "span": {
+                "begin": 24515,
+                "end": 24517
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "24524_24529",
+            "span": {
+                "begin": 24524,
+                "end": 24529
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "24547_24555",
+            "span": {
+                "begin": 24547,
+                "end": 24555
+            },
+            "entityType": "gene",
+            "entityName": "apo B/A1",
+            "id": "UMLS:C0085201"
+        },
+        {
+            "entityId": "24690_24693",
+            "span": {
+                "begin": 24690,
+                "end": 24693
+            },
+            "entityType": "disease",
+            "entityName": "CHD",
+            "id": "mesh:D003327"
+        },
+        {
+            "entityId": "24753_24755",
+            "span": {
+                "begin": 24753,
+                "end": 24755
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "24837_24842",
+            "span": {
+                "begin": 24837,
+                "end": 24842
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "24843_24845",
+            "span": {
+                "begin": 24843,
+                "end": 24845
+            },
+            "entityType": "gene",
+            "entityName": "A1",
+            "id": "UMLS:C4761535"
+        },
+        {
+            "entityId": "25051_25056",
+            "span": {
+                "begin": 25051,
+                "end": 25056
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "25058_25064",
+            "span": {
+                "begin": 25058,
+                "end": 25064
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "25074_25082",
+            "span": {
+                "begin": 25074,
+                "end": 25082
+            },
+            "entityType": "gene",
+            "entityName": "apo B/A1",
+            "id": "UMLS:C0085201"
+        },
+        {
+            "entityId": "25126_25128",
+            "span": {
+                "begin": 25126,
+                "end": 25128
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "25166_25177",
+            "span": {
+                "begin": 25166,
+                "end": 25177
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "25183_25196",
+            "span": {
+                "begin": 25183,
+                "end": 25196
+            },
+            "entityType": "drug",
+            "entityName": "triglycerides",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "25207_25212",
+            "span": {
+                "begin": 25207,
+                "end": 25212
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "25213_25215",
+            "span": {
+                "begin": 25213,
+                "end": 25215
+            },
+            "entityType": "gene",
+            "entityName": "A1",
+            "id": "UMLS:C4761535"
+        },
+        {
+            "entityId": "25301_25304",
+            "span": {
+                "begin": 25301,
+                "end": 25304
+            },
+            "entityType": "species",
+            "entityName": "men",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "25309_25314",
+            "span": {
+                "begin": 25309,
+                "end": 25314
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "25360_25368",
+            "span": {
+                "begin": 25360,
+                "end": 25368
+            },
+            "entityType": "gene",
+            "entityName": "apo B/A1",
+            "id": "UMLS:C0085201"
+        },
+        {
+            "entityId": "25417_25419",
+            "span": {
+                "begin": 25417,
+                "end": 25419
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "25551_25557",
+            "span": {
+                "begin": 25551,
+                "end": 25557
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "25654_25659",
+            "span": {
+                "begin": 25654,
+                "end": 25659
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "25688_25696",
+            "span": {
+                "begin": 25688,
+                "end": 25696
+            },
+            "entityType": "gene",
+            "entityName": "non-HDL-",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "25692_25697",
+            "span": {
+                "begin": 25692,
+                "end": 25697
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "25729_25734",
+            "span": {
+                "begin": 25729,
+                "end": 25734
+            },
+            "entityType": "gene",
+            "entityName": "LDL-C",
+            "id": "NCBIGene:22796"
+        },
+        {
+            "entityId": "25850_25855",
+            "span": {
+                "begin": 25850,
+                "end": 25855
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "26000_26005",
+            "span": {
+                "begin": 26000,
+                "end": 26005
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "26064_26069",
+            "span": {
+                "begin": 26064,
+                "end": 26069
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "26124_26129",
+            "span": {
+                "begin": 26124,
+                "end": 26129
+            },
+            "entityType": "gene",
+            "entityName": "LDL-C",
+            "id": "NCBIGene:22796"
+        },
+        {
+            "entityId": "26151_26159",
+            "span": {
+                "begin": 26151,
+                "end": 26159
+            },
+            "entityType": "gene",
+            "entityName": "non-HDL-",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "26155_26160",
+            "span": {
+                "begin": 26155,
+                "end": 26160
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "26206_26211",
+            "span": {
+                "begin": 26206,
+                "end": 26211
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "26239_26245",
+            "span": {
+                "begin": 26239,
+                "end": 26245
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "26285_26290",
+            "span": {
+                "begin": 26285,
+                "end": 26290
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "26294_26303",
+            "span": {
+                "begin": 26294,
+                "end": 26303
+            },
+            "entityType": "gene",
+            "entityName": "non-HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "26398_26403",
+            "span": {
+                "begin": 26398,
+                "end": 26403
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "26415_26427",
+            "span": {
+                "begin": 26415,
+                "end": 26427
+            },
+            "entityType": "drug",
+            "entityName": "triglyceride",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "26560_26567",
+            "span": {
+                "begin": 26560,
+                "end": 26567
+            },
+            "entityType": "drug",
+            "entityName": "sulfate",
+            "id": "UMLS:C0038720"
+        },
+        {
+            "entityId": "26940_26946",
+            "span": {
+                "begin": 26940,
+                "end": 26946
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "27013_27018",
+            "span": {
+                "begin": 27013,
+                "end": 27018
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "27492_27499",
+            "span": {
+                "begin": 27492,
+                "end": 27499
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "27578_27584",
+            "span": {
+                "begin": 27578,
+                "end": 27584
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "27611_27617",
+            "span": {
+                "begin": 27611,
+                "end": 27617
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "28115_28120",
+            "span": {
+                "begin": 28115,
+                "end": 28120
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28199_28202",
+            "span": {
+                "begin": 28199,
+                "end": 28202
+            },
+            "entityType": "species",
+            "entityName": "men",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28204_28209",
+            "span": {
+                "begin": 28204,
+                "end": 28209
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28276_28281",
+            "span": {
+                "begin": 28276,
+                "end": 28281
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28326_28331",
+            "span": {
+                "begin": 28326,
+                "end": 28331
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28478_28483",
+            "span": {
+                "begin": 28478,
+                "end": 28483
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28892_28899",
+            "span": {
+                "begin": 28892,
+                "end": 28899
+            },
+            "entityType": "gene",
+            "entityName": "insulin",
+            "id": "UMLS:C0021641"
+        },
+        {
+            "entityId": "28925_28933",
+            "span": {
+                "begin": 28925,
+                "end": 28933
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "28938_28945",
+            "span": {
+                "begin": 28938,
+                "end": 28945
+            },
+            "entityType": "gene",
+            "entityName": "insulin",
+            "id": "UMLS:C0021641"
+        },
+        {
+            "entityId": "29000_29007",
+            "span": {
+                "begin": 29000,
+                "end": 29007
+            },
+            "entityType": "gene",
+            "entityName": "HOMA-IR",
+            "id": "UMLS:C1448132"
+        },
+        {
+            "entityId": "29031_29039",
+            "span": {
+                "begin": 29031,
+                "end": 29039
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "29044_29062",
+            "span": {
+                "begin": 29044,
+                "end": 29062
+            },
+            "entityType": "disease",
+            "entityName": "metabolic syndrome",
+            "id": "UMLS:C0524620"
+        },
+        {
+            "entityId": "29077_29094",
+            "span": {
+                "begin": 29077,
+                "end": 29094
+            },
+            "entityType": "disease",
+            "entityName": "diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "29105_29111",
+            "span": {
+                "begin": 29105,
+                "end": 29111
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "29265_29267",
+            "span": {
+                "begin": 29265,
+                "end": 29267
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "29355_29361",
+            "span": {
+                "begin": 29355,
+                "end": 29361
+            },
+            "entityType": "disease",
+            "entityName": "angina",
+            "id": "UMLS:C0002962"
+        },
+        {
+            "entityId": "29447_29453",
+            "span": {
+                "begin": 29447,
+                "end": 29453
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "29551_29553",
+            "span": {
+                "begin": 29551,
+                "end": 29553
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "29565_29570",
+            "span": {
+                "begin": 29565,
+                "end": 29570
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "29632_29634",
+            "span": {
+                "begin": 29632,
+                "end": 29634
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "29675_29681",
+            "span": {
+                "begin": 29675,
+                "end": 29681
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "29683_29688",
+            "span": {
+                "begin": 29683,
+                "end": 29688
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "29804_29809",
+            "span": {
+                "begin": 29804,
+                "end": 29809
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "29895_29901",
+            "span": {
+                "begin": 29895,
+                "end": 29901
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "30055_30063",
+            "span": {
+                "begin": 30055,
+                "end": 30063
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "30070_30078",
+            "span": {
+                "begin": 30070,
+                "end": 30078
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "30262_30270",
+            "span": {
+                "begin": 30262,
+                "end": 30270
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "30484_30492",
+            "span": {
+                "begin": 30484,
+                "end": 30492
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "30594_30602",
+            "span": {
+                "begin": 30594,
+                "end": 30602
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "31088_31099",
+            "span": {
+                "begin": 31088,
+                "end": 31099
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "31104_31117",
+            "span": {
+                "begin": 31104,
+                "end": 31117
+            },
+            "entityType": "drug",
+            "entityName": "triglycerides",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "31234_31239",
+            "span": {
+                "begin": 31234,
+                "end": 31239
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "31314_31325",
+            "span": {
+                "begin": 31314,
+                "end": 31325
+            },
+            "entityType": "drug",
+            "entityName": "Cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "31344_31349",
+            "span": {
+                "begin": 31344,
+                "end": 31349
+            },
+            "entityType": "gene",
+            "entityName": "LDL-C",
+            "id": "NCBIGene:22796"
+        },
+        {
+            "entityId": "31392_31403",
+            "span": {
+                "begin": 31392,
+                "end": 31403
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "31408_31420",
+            "span": {
+                "begin": 31408,
+                "end": 31420
+            },
+            "entityType": "drug",
+            "entityName": "triglyceride",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "31495_31499",
+            "span": {
+                "begin": 31495,
+                "end": 31499
+            },
+            "entityType": "drug",
+            "entityName": "EDTA",
+            "id": "UMLS:C0013618"
+        },
+        {
+            "entityId": "31627_31638",
+            "span": {
+                "begin": 31627,
+                "end": 31638
+            },
+            "entityType": "drug",
+            "entityName": "Cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "31877_31883",
+            "span": {
+                "begin": 31877,
+                "end": 31883
+            },
+            "entityType": "gene",
+            "entityName": "Apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "32098_32104",
+            "span": {
+                "begin": 32098,
+                "end": 32104
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "32120_32126",
+            "span": {
+                "begin": 32120,
+                "end": 32126
+            },
+            "entityType": "gene",
+            "entityName": "apo A1",
+            "id": "UMLS:C1412468"
+        },
+        {
+            "entityId": "32128_32133",
+            "span": {
+                "begin": 32128,
+                "end": 32133
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "32139_32144",
+            "span": {
+                "begin": 32139,
+                "end": 32144
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "32154_32159",
+            "span": {
+                "begin": 32154,
+                "end": 32159
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "32228_32241",
+            "span": {
+                "begin": 32228,
+                "end": 32241
+            },
+            "entityType": "drug",
+            "entityName": "triglycerides",
+            "id": "UMLS:C0041004"
+        },
+        {
+            "entityId": "32243_32248",
+            "span": {
+                "begin": 32243,
+                "end": 32248
+            },
+            "entityType": "gene",
+            "entityName": "LDL-C",
+            "id": "NCBIGene:22796"
+        },
+        {
+            "entityId": "32250_32259",
+            "span": {
+                "begin": 32250,
+                "end": 32259
+            },
+            "entityType": "gene",
+            "entityName": "non-HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "32261_32266",
+            "span": {
+                "begin": 32261,
+                "end": 32266
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "32268_32273",
+            "span": {
+                "begin": 32268,
+                "end": 32273
+            },
+            "entityType": "gene",
+            "entityName": "apo B",
+            "id": "UMLS:C3252643"
+        },
+        {
+            "entityId": "32274_32276",
+            "span": {
+                "begin": 32274,
+                "end": 32276
+            },
+            "entityType": "gene",
+            "entityName": "A1",
+            "id": "UMLS:C4761535"
+        },
+        {
+            "entityId": "32287_32292",
+            "span": {
+                "begin": 32287,
+                "end": 32292
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "32308_32313",
+            "span": {
+                "begin": 32308,
+                "end": 32313
+            },
+            "entityType": "gene",
+            "entityName": "IDL-C",
+            "id": "UMLS:C0055817"
+        },
+        {
+            "entityId": "32321_32326",
+            "span": {
+                "begin": 32321,
+                "end": 32326
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "32342_32347",
+            "span": {
+                "begin": 32342,
+                "end": 32347
+            },
+            "entityType": "gene",
+            "entityName": "LDL-C",
+            "id": "NCBIGene:22796"
+        },
+        {
+            "entityId": "32348_32353",
+            "span": {
+                "begin": 32348,
+                "end": 32353
+            },
+            "entityType": "gene",
+            "entityName": "HDL-C",
+            "id": "UMLS:C3715113"
+        },
+        {
+            "entityId": "33203_33210",
+            "span": {
+                "begin": 33203,
+                "end": 33210
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "33242_33250",
+            "span": {
+                "begin": 33242,
+                "end": 33250
+            },
+            "entityType": "disease",
+            "entityName": "diabetes",
+            "id": "UMLS:C0011847"
+        },
+        {
+            "entityId": "33259_33276",
+            "span": {
+                "begin": 33259,
+                "end": 33276
+            },
+            "entityType": "disease",
+            "entityName": "diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "33292_33299",
+            "span": {
+                "begin": 33292,
+                "end": 33299
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "33335_33352",
+            "span": {
+                "begin": 33335,
+                "end": 33352
+            },
+            "entityType": "disease",
+            "entityName": "diabetes mellitus",
+            "id": "UMLS:C0011849"
+        },
+        {
+            "entityId": "33387_33394",
+            "span": {
+                "begin": 33387,
+                "end": 33394
+            },
+            "entityType": "gene",
+            "entityName": "insulin",
+            "id": "UMLS:C0021641"
+        },
+        {
+            "entityId": "33415_33422",
+            "span": {
+                "begin": 33415,
+                "end": 33422
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "33466_33473",
+            "span": {
+                "begin": 33466,
+                "end": 33473
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "33487_33499",
+            "span": {
+                "begin": 33487,
+                "end": 33499
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "33587_33600",
+            "span": {
+                "begin": 33587,
+                "end": 33600
+            },
+            "entityType": "disease",
+            "entityName": "renal failure",
+            "id": "UMLS:C0035078"
+        },
+        {
+            "entityId": "33641_33655",
+            "span": {
+                "begin": 33641,
+                "end": 33655
+            },
+            "entityType": "disease",
+            "entityName": "hyperlipidemia",
+            "id": "UMLS:C0020473"
+        },
+        {
+            "entityId": "33663_33674",
+            "span": {
+                "begin": 33663,
+                "end": 33674
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "33710_33721",
+            "span": {
+                "begin": 33710,
+                "end": 33721
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "33752_33776",
+            "span": {
+                "begin": 33752,
+                "end": 33776
+            },
+            "entityType": "disease",
+            "entityName": "congestive heart failure",
+            "id": "UMLS:C0018802"
+        },
+        {
+            "entityId": "33825_33843",
+            "span": {
+                "begin": 33825,
+                "end": 33843
+            },
+            "entityType": "disease",
+            "entityName": "metabolic syndrome",
+            "id": "UMLS:C0524620"
+        },
+        {
+            "entityId": "33862_33865",
+            "span": {
+                "begin": 33862,
+                "end": 33865
+            },
+            "entityType": "drug",
+            "entityName": "ATP",
+            "id": "UMLS:CHEBI:30616"
+        },
+        {
+            "entityId": "33963_33970",
+            "span": {
+                "begin": 33963,
+                "end": 33970
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "34041_34043",
+            "span": {
+                "begin": 34041,
+                "end": 34043
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "34247_34262",
+            "span": {
+                "begin": 34247,
+                "end": 34262
+            },
+            "entityType": "disease",
+            "entityName": "unstable angina",
+            "id": "UMLS:C0002965"
+        },
+        {
+            "entityId": "34310_34318",
+            "span": {
+                "begin": 34310,
+                "end": 34318
+            },
+            "entityType": "disease",
+            "entityName": "acute MI",
+            "id": "UMLS:C0155626"
+        },
+        {
+            "entityId": "34320_34335",
+            "span": {
+                "begin": 34320,
+                "end": 34335
+            },
+            "entityType": "gene",
+            "entityName": "creatine kinase",
+            "id": "UMLS:C0010287"
+        },
+        {
+            "entityId": "34352_34370",
+            "span": {
+                "begin": 34352,
+                "end": 34370
+            },
+            "entityType": "gene",
+            "entityName": "creatine kinase-MB",
+            "id": "UMLS:C0010290"
+        },
+        {
+            "entityId": "34386_34396",
+            "span": {
+                "begin": 34386,
+                "end": 34396
+            },
+            "entityType": "gene",
+            "entityName": "troponin I",
+            "id": "UMLS:C0077401"
+        },
+        {
+            "entityId": "34593_34599",
+            "span": {
+                "begin": 34593,
+                "end": 34599
+            },
+            "entityType": "drug",
+            "entityName": "statin",
+            "id": "UMLS:C0360714"
+        },
+        {
+            "entityId": "34607_34612",
+            "span": {
+                "begin": 34607,
+                "end": 34612
+            },
+            "entityType": "disease",
+            "entityName": "lipid",
+            "id": "mesh:D052439"
+        },
+        {
+            "entityId": "34635_34639",
+            "span": {
+                "begin": 34635,
+                "end": 34639
+            },
+            "entityType": "gene",
+            "entityName": "ace-",
+            "id": "UMLS:C1452534"
+        },
+        {
+            "entityId": "34658_34665",
+            "span": {
+                "begin": 34658,
+                "end": 34665
+            },
+            "entityType": "drug",
+            "entityName": "aspirin",
+            "id": "UMLS:C0004057"
+        },
+        {
+            "entityId": "34667_34687",
+            "span": {
+                "begin": 34667,
+                "end": 34687
+            },
+            "entityType": "gene",
+            "entityName": "angiotensin receptor",
+            "id": "UMLS:C0034787"
+        },
+        {
+            "entityId": "34717_34728",
+            "span": {
+                "begin": 34717,
+                "end": 34728
+            },
+            "entityType": "drug",
+            "entityName": "clopidogrel",
+            "id": "UMLS:C0070166"
+        },
+        {
+            "entityId": "34779_34782",
+            "span": {
+                "begin": 34779,
+                "end": 34782
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "34899_34902",
+            "span": {
+                "begin": 34899,
+                "end": 34902
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "34943_34950",
+            "span": {
+                "begin": 34943,
+                "end": 34950
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "35140_35148",
+            "span": {
+                "begin": 35140,
+                "end": 35148
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "35173_35215",
+            "span": {
+                "begin": 35173,
+                "end": 35215
+            },
+            "entityType": "disease",
+            "entityName": "single-, double-, or triple-vessel disease",
+            "id": "UMLS:C0856738"
+        },
+        {
+            "entityId": "35349_35352",
+            "span": {
+                "begin": 35349,
+                "end": 35352
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "35407_35414",
+            "span": {
+                "begin": 35407,
+                "end": 35414
+            },
+            "entityType": "species",
+            "entityName": "Patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "35555_35557",
+            "span": {
+                "begin": 35555,
+                "end": 35557
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "35576_35578",
+            "span": {
+                "begin": 35576,
+                "end": 35578
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "35620_35627",
+            "span": {
+                "begin": 35620,
+                "end": 35627
+            },
+            "entityType": "species",
+            "entityName": "patient",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "35634_35644",
+            "span": {
+                "begin": 35634,
+                "end": 35644
+            },
+            "entityType": "gene",
+            "entityName": "troponin I",
+            "id": "UMLS:C0077401"
+        },
+        {
+            "entityId": "35694_35696",
+            "span": {
+                "begin": 35694,
+                "end": 35696
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "35896_35904",
+            "span": {
+                "begin": 35896,
+                "end": 35904
+            },
+            "entityType": "species",
+            "entityName": "Patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "36211_36213",
+            "span": {
+                "begin": 36211,
+                "end": 36213
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "36490_36492",
+            "span": {
+                "begin": 36490,
+                "end": 36492
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "36569_36581",
+            "span": {
+                "begin": 36569,
+                "end": 36581
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "36583_36597",
+            "span": {
+                "begin": 36583,
+                "end": 36597
+            },
+            "entityType": "disease",
+            "entityName": "hyperlipidemia",
+            "id": "UMLS:C0020473"
+        },
+        {
+            "entityId": "36599_36607",
+            "span": {
+                "begin": 36599,
+                "end": 36607
+            },
+            "entityType": "disease",
+            "entityName": "diabetes",
+            "id": "UMLS:C0011847"
+        },
+        {
+            "entityId": "36643_36646",
+            "span": {
+                "begin": 36643,
+                "end": 36646
+            },
+            "entityType": "disease",
+            "entityName": "CAD",
+            "id": "mesh:D003324"
+        },
+        {
+            "entityId": "36648_36661",
+            "span": {
+                "begin": 36648,
+                "end": 36661
+            },
+            "entityType": "disease",
+            "entityName": "renal failure",
+            "id": "UMLS:C0035078"
+        },
+        {
+            "entityId": "36669_36671",
+            "span": {
+                "begin": 36669,
+                "end": 36671
+            },
+            "entityType": "disease",
+            "entityName": "MI",
+            "id": "mesh:D009203"
+        },
+        {
+            "entityId": "36679_36703",
+            "span": {
+                "begin": 36679,
+                "end": 36703
+            },
+            "entityType": "disease",
+            "entityName": "cerebrovascular accident",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "36705_36729",
+            "span": {
+                "begin": 36705,
+                "end": 36729
+            },
+            "entityType": "disease",
+            "entityName": "congestive heart failure",
+            "id": "UMLS:C0018802"
+        },
+        {
+            "entityId": "36745_36758",
+            "span": {
+                "begin": 36745,
+                "end": 36758
+            },
+            "entityType": "disease",
+            "entityName": "stable angina",
+            "id": "UMLS:C0340288"
+        },
+        {
+            "entityId": "36760_36775",
+            "span": {
+                "begin": 36760,
+                "end": 36775
+            },
+            "entityType": "disease",
+            "entityName": "unstable angina",
+            "id": "UMLS:C0002965"
+        },
+        {
+            "entityId": "36780_36788",
+            "span": {
+                "begin": 36780,
+                "end": 36788
+            },
+            "entityType": "disease",
+            "entityName": "acute MI",
+            "id": "UMLS:C0155626"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "1257_1263",
+            "subjectText": "apo A1",
+            "rel_name": "associate",
+            "objectId": "1398_1400",
+            "objectText": "T1"
+        },
+        {
+            "subjectID": "617_622",
+            "subjectText": "IDL-C",
+            "rel_name": "associate",
+            "objectId": "659_680",
+            "objectText": "myocardial infarction"
+        }
+    ]
+}

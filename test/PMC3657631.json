@@ -1,0 +1,4895 @@
+{
+    "sourcid": "PMC3657631",
+    "publisher": "Frontiers Media S.A.",
+    "journal": "Frontiers in Physiology",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3657631/",
+    "text": "Impact of mitochondria on nitrite metabolism in HL-1 cardiomyocytes Apart from ATP synthesis mitochondria have many other functions, one being nitrite reductase activity. Nitric oxide (NO) released from nitrite has been shown to protect the heart from ischemia/reperfusion (I/R) injury in a cGMP-dependent manner. However, the exact impact of mitochondria on the release of NO from nitrite in cardiomyocytes is not completely understood. Besides mitochondria, a number of non-mitochondrial metalloproteins have been suggested to facilitate this process. The aim of this study was to investigate the impact of mitochondria on the bioactivation of nitrite in HL-1 cardiomyocytes. The levels of nitrosyl complexes of hemoglobin (NO-Hb) and cGMP levels were measured by electron spin resonance spectroscopy and enzyme immunoassay. In addition the formation of free NO was determined by confocal microscopy as well as intracellular nitrite and S-nitrosothiols by chemoluminescence analysis. NO was released from nitrite in cell culture in an oxygen-dependent manner. Application of specific inhibitors of the respiratory chain, p450, NO synthases (NOS) and xanthine oxidoreductase (XOR) showed that all four enzymatic systems are involved in the release of NO, but more than 50% of NO is released via the mitochondrial pathway. Only NO released by mitochondria activated cGMP synthesis. Cardiomyocytes co-cultured with red blood cells (RBC) competed with RBC for nitrite, but free NO was detected only in HL-1 cells suggesting that RBC are not a source of NO in this model. Apart from activation of cGMP synthesis, NO formed in HL-1 cells diffused out of the cells and formed NO-Hb complexes. In addition nitrite was converted by HL-1 cells to S-nitrosyl complexes. In HL-1 cardiomyocytes, several enzymatic systems are involved in nitrite reduction to NO but only the mitochondrial pathway of NO release activates cGMP synthesis. Our data suggest that this pathway may be a key regulator of myocardial contractility especially under hypoxic conditions. Introduction For decades nitrite and nitrate were thought to be the stable end products of nitric oxide (NO) produced by various isoforms of NO synthase (NOS). However, this concept became outdated when it was recognized that, under hypoxic conditions, nitrite can be reduced back to NO (Zweier et al.,; Lepore et al.,; Cosby et al.,; Vanin et al.,; van Faassen et al.,). Nitrite-derived NO creates a number of effects, for example increased levels of nitroso species, alters redox status and induces protein modifications (Dezfulian et al.,; Perlman et al.,). These effects may be involved in the cytoprotective effects of nitrite seen in models of local ischemia/reperfusion (I/R) injury in the heart, liver and brain (Lu et al.,; Jung et al.,; Bryan et al.,; Calvert and Lefer,). Cytoprotection is attributed to the reduction of nitrite to NO and consequent activation of cGMP synthesis (Shiva and Gladwin,), which leads to vasodilation and thus, better perfusion and increased oxygen supply (Wolin,). However, the mechanisms by which endogenous or exogenous nitrite is reduced to NO are still under discussion. One potential pathway occuring in blood is the reduction of nitrite by hemoglobin (Hb) in red blood cells (RBC). Cosby et al. suggested that nitrite-derived NO diffuses from the RBC into the smooth muscle cells of the vasculature and activates nitrite-mediated vasodilation (Cosby et al.,). Recently, however, it was suggested that not NO but another nitrogen species, N2O3, forms in RBCs diffuses into the tissues and induces vasodilation (Basu et al.,). Lundberg et al. showed that the reduction of nitrite to NO depends on the predominant partial pressure of oxygen in the blood; lower oxygen levels facilitate NO release (Lundberg and Weitzberg,). Hb seems to follow an allosteric regulation of nitrite reduction, showing the best nitrite reductase performance at 50% saturation with oxygen (Rassaf et al.,; van Faassen et al.,). Another pathway of nitrite reduction other than the RBC pathway is mediated via parenchymal cells in tissues. Various intracellular enzymes have been identified to possess nitrite reductase activity, for example xanthine oxidoreductase (XOR) (Webb et al.,) and NOS (van Faassen et al.,). Also mitochondria can rapidly reduce nitrite to NO (Kozlov et al.,). It has been shown that NO reduced from nitrite by mitochondria in turn reversibly inhibits mitochondrial respiration (Nohl et al.,). However, it is not known whether or not this NO pool may escape from mitochondria and activate other signaling pathways. Apart from regulation of vascular tonus, NO plays an important role in the cardiovascular system to maintain cardiac function (Rastaldo et al.,) via activation of cGMP synthesis in a dose-dependent manner. Under physiologic conditions endothelial and neuronal NOS play an important role in cardiac function. The inhibition of NO synthesis catalyzed by NOS under normoxic conditions induces cardiac remodeling (hypertrophy), which is independent of the systemic hemodynamic effects of NO (Sanada et al.,). Nitrite represents a NOS-independent NO-source that becomes effective under hypoxic conditions. Nitrite, however, represents a NOS-independent NO-source that becomes effective under hypoxic conditions like I/R. Previously it was shown that the reduction of nitrite to NO in heart homogenate is nearly fully inhibited by myxothiazol, a specific inhibitor of the mitochondrial respiratory chain at complex III (Kozlov et al.,). However, the impact of this pathway on the bioactivation of nitrite in cardiomyocytes has not been addressed in the literature. The aim of this study was to clarify the impact of mitochondria on nitrite reduction in HL-1 cardiomyocytes under hypoxic conditions. Materials and methods Preparation of HL-1 cells and RBC HL-1 cardiomyocytes were used in this study. Cells were cultured under a 5% CO2 atmosphere in Claycomb medium (Sigma, St. Louis, USA) supplemented with 10% fetal bovine serum (Lonza, Basel, Switzerland), 4 mM L-glutamine (Sigma, St. Louis, USA), 100 U/ml penicillin (Sigma, St. Louis, USA), 100 mug/ml streptomycin (Sigma, St. Louis, USA), and 100 muM norepinephrine (Sigma, St. Louis, USA). Cells were seeded in 24-well cell culture plates precoated with 25 mug/ml fibronectin and 0.02% gelatin solution and cultivated until confluent. To isolate human RBC, whole blood was centrifuged at 1600 g for 10 min, plasma and buffy-coat discarded and the remaining RBC washed twice with phosphate buffered saline (PBS). RBC were then diluted with PBS accordingly and counted on a Cell-Dyn 3700 (Abbott, Switzerland) before use. Experimental setup Determination of nitrite-derived NO-release from HL-1 cells Experiments were performed in a gas-tight glove box, which allowed to study nitrite reduction under various oxygen concentrations (from 21% to <1% O2). All solutions were deoxygenated with nitrogen prior to experiment. Twenty-four-well cell culture plates with confluent HL-1 cells (approx. 250,000 cells/well) were transferred into the glove box containing nitrogen atmosphere. In selected experiments HL-1 cells had been preincubated under 21% oxygen for 1 h with either 10 muM myxothiazol, 10 mM potassium cynide, 1 mM allopurinol, 300 muM N-nitro-L-arginine methyl ester (L-NAME) or 500 muM methyrapone. The following procedures were performed inside the glove box: to measure NO-Hb, the cell medium was exchanged with diluted RBC in PBS and cells treated with 50 muM nitrite or PBS as control. For analysis of cGMP synthesis medium was exchanged with PBS, followed by addition of 50 muM nitrite or PBS. PBS contained 1 mM of the phosphodiesterase inhibitor (MacArthur et al.,) isobutylmethylxanthin (IBMX) to prevent cGMP degradation. Cells were then incubated under hypoxic conditions on a shaker at 37 C for 1 h. Afterwards, the supernatant was withdrawn for analyses of NO-Hb and cGMP, the remaining cells were lysed by sonification in 500 mul lysis reagent provided with the enzyme immunoassay for detection of cGMP (GE Healthcare, Fairfield, USA) and the lysates stored for quantification of intracellular nitrite and nitroso species. Protein content of the lysates was determined for normalization by BCA protein assay (Pierce, Rockford, USA). In selected experiments NO-gas was used as a positive control. Physiological saline was purged with NO gas (Messer, Austria) for 15 min. NO concentration was determined with a NO electrode (World Precision Instruments Ltd., USA) and was 1 mM in average.  EPR spectroscopy The EPR spectra from frozen samples were recorded in a Miniscope MS 2000 (Magnettech Ltd., Berlin, Germany) at liquid nitrogen temperature with the following settings: microwave frequency 9.429 GHz, microwave power 30 mW, modulation frequency 100 kHz and modulation amplitude 6 G. Confocal microscopy The detection of NO production in living cells was performed using the NO-sensitive fluorescent dye 4-Amino-5-methylamino-2',7'-difluorofluorescein diacetate (DAF-FM diacetate; Molecular Probes, Carlsbad, CA). DAF-FM diacetate is nitrosated by NO and is a reasonable indication for NO. HL-1 cells or RBC were loaded with 10 mu M DAF-FM diacetate and incubated for 30 min at 37 C. Afterwards, 50 mu M of NaNO2 were added and cells were incubated for another 30 min at 37 C under anaerobic conditions in an incubator at <1% oxygen. Imaging was performed with an inverted confocal microscope (LSM 510, Zeiss, Germany) with excitation/emission maxima of 495/515 nm, 63x oil immersion objective and 2.0 scan zoom.        Analysis of nitrite and nitroso species Nitrite and nitroso species in cell lysates were measured using a triiodide-based reductive chemiluminescence method with a NO analyzer (model 280, Seivers, Boulder, USA). To determine the levels of nitrite and nitroso species two aliquots of each sample were analyzed, as previously described (MacArthur et al.,). The first aliquot was directly injected into the triiodide reagent to measure nitrite, the second was incubated for 10 min with acidified sulfanilamide (0.5% vol:vol) to eliminate nitrite before injected into the triiodide reagent. Since the second measurement represents the signal from nitroso species, the comparison of both peaks provides an accurate method for measuring nitrite. cGMP measurement cGMP levels in HL-1 cells were measured by enzyme immunoassay (cGMP EIA; GE Healthcare, Fairfield, USA) according to protocol 3 of the manufacturer's instructions. Briefly, cell culture supernatants were aspirated and adherent cells lysed in the lysis reagent provided. Samples were acetylated prior to performing the assay. Optical density (405 nm) was measured by a plate reader (Tecan, Mannedorf, Switzerland) and the concentration of cGMP was calculated from a standard curve produced from serial dilutions of acetylated cGMP solutions. All standards and samples were assayed in duplicate.  Data presentation and statistics Data represent mean +- SD. Significance was calculated using One-Way ANOVA test with post-hoc LSD (least significant difference) test. Results Under hypoxic conditions NO reacts with Hb yielding nitrosyl complexes of hemoglobin (NO-Hb) with characteristic electron spin resonance spectra shown in the inset of Figure 1A. The baseline level of NO-Hb in RBC was doubled when RBC were incubated with nitrite, showing that RBC are well able to convert nitrite to NO. Co-culture with HL-1 cells led to a further significant increase in NO-Hb levels, indicating the significant portion of NO derived from HL-1 cells (Figure 1A). It also clearly demonstrated that the NO formed in HL-1 cells is released from the cells. Variation of the RBC:HL-1 ratio shows the relative contribution of RBC and HL-1 cells to NO formation (Figure 1B). A RBC:HL-1 ratio of 166:1 was chosen as it showed the highest difference between RBC and HL-1 derived NO. NO-Hb formation in both RBC and HL-1 cells was dependent on the partial pressure of oxygen (Figure 1C). The provision of free available NO, however, depends predominantly on parenchymal cells. The incubation of HL-1 cells with nitrite led to an increase in intracellular NO levels as revealed by confocal microscopy using the NO specific indicator dye DAF-2DA. In contrast, free NO was not detected in RBC as the fluorescence of RBC incubated with nitrite did not change compared to untreated control (Figure 2A). (A) NO production from RBC and in co-culture with HL-1 cells under hypoxic conditions with and without 50 muM nitrite. (A) Both RBC and HL-1 cells are capable of nitrite reduction. Left set of bars shows the RBC-mediated release of NO from nitrite. Right set of bars represents data from co-culture of RBC with HL-cells in a RBC:HL-1 ratio of 166:1 (*p < 0.005, ***p < 0.001 compared to the respective group without nitrite, ###p < 0.001, compared to RBC with nitrite). Inset in 1 (A) shows typical EPR spectrum of NO-Hb complexes. (B) The relative contribution of both pathways depends on both nitrite concentrations and the RBC:HL-1 ratio. A ratio of 166:1 and a nitrite concentration of 50 muM were chosen for all other experiments as these conditions showed the highest difference inNO-signals with and without HL-1 cells. *p < 0.05, ***p < 0.001 RBC vs. RBC + HL-1 of the same group. (C) Oxygen-dependence of NO-Hb signal. RBC and in co-culture with HL-1 cells were incubated with 50 muM nitrite under various oxygen concentrations. *p < 0.001, NO-Hb signals with and without HL-1 cells. Deltap < 0.001, compared to RBC + HL-1 at 0% oxygen. #,##p < 0.05 and p < 0.01, respectively, compared to RBC at 0% oxygen. (A) Analysis of free NO using a NO-specific dye and confocal microscopy. HL-1 cells or RBC were loaded with 10 muM DAF-FM and incubated for about 30 min at 37 C. Afterwards, 50 mu M of NaNO2 were added and cells were incubated for another 30 min at 37 C under anaerobic conditions. Free NO could only be detected in HL-1 cells but not in RBC. (B) Influence of various inhibitors on NO-Hb signals of RBC in co-culture with HL-1 cells determined by EPR analysis. Myxothiazol, an inhibitor of complex III of the respiratory chain, reduced NO-signal by 60%, while all inhibitors reduced NO-Hb levels by approx. 25%. ***p < 0.001, compared to HL-1 cells incubated with 50 muM nitrite. #p < 0.05, compared to RBC incubated with 50 muM nitrite.   Logically, the NO formed in cardiomyocytes has two major functions. A portion of NO diffusing out of cardiomyocytes may contribute to the regulation of vascular tonus and another portion may activate cGMP synthesis regulating myocardial contractility. The release of NO was determined by the formation of NO-Hb complexes in RBC co-cultured with HL-1 cells and cGMP levels were determined directly in HL-1 cells. To clarify the origin of nitrite-derived NO contributing to the formation of NO-Hb and cGMP synthesis, HL-cells were preincubated with various specific inhibitors, allowing definition of the impact of the respective enzymes. Regarding NO release and NO-Hb formation, all inhibitors used decreased the NO-Hb signal. However, the mitochondrial inhibitor myxothiazol had the most prominent effect, decreasing NO-Hb levels by 60%. Allopurinol, L-NAME and methyrapone, inhibitors of XOR, NOS and cytochrome P450, respectively, contributed to the formation of NO-Hb, although significantly less than mitochondria (Figure 2B). The impact of these enzymes on nitrite-dependent cGMP formation was investigated in a similar way. cGMP synthesis in HL-1 cells stimulated by nitrite-derived NO was fully prevented by myxothiazol while other inhibitors had no effect (Figure 3A). NO gas-saturated saline, used as a positive control, led to significant increase in cGMP production. However, NO-mediated guanylyl cyclase (GC) activation was influenced by neither myxothiazol nor any of the other inhibitors (Figure 3B). (A) GMP levels in HL-1 incubated with 50 muM nitrite under hypoxic conditions. cGMP production was completely inhibited by myxothiazol, suggesting that NO derived from nitrite reduction in mitochondria is predominately responsible for cGMP synthesis. Controls are untreated HL-1 cells, Nitrite indicates HL-1 cells treated with 50 muM nitrite, all other groups were treated with nitrite and with one of the following inhibitors: Myxo, Myxothiazol; Allo, Allopurinol; NAME, N-nitro-L-arginine methyl ester; Met, Methyrapone. (B) cGMP levels in HL-1 cells incubated with 50 muM NO under hypoxic conditions. GC activation by NO-gas was not influenced by either myxothiazol or any other inhibitor, demonstrating that nitrite reduction via mitochondria is predominately responsible for cGMP synthesis. Controls are untreated HL-1 cells, NO indicates HL-1 cells treated with 50 muM nitritc oxide, all other groups were treated with NO and with one of the following inhibitors: Myxo, Myxothiazol; Allo, Allopurinol; NAME, N-nitro-L-arginine methyl ester; Met, Methyrapone. **p < 0.01, ***p < 0.001. Intracellular levels of nitrite (C) and nitroso species (D) in HL-1 cells. Controls are untreated HL-1 cells, Nitrite indicates HL-1 cells treated with 50 muM nitrite, Myxo represents HL-1 cells incubated with 50 muM nitrite preincubated with myxothiazol. Cell lysates were analysed by a Sievers NOA280i chemiluminescence analyser using the tri-iodide method to determine nitrite. For analysis of nitroso species a second sample was treated with acidified sulfanilamide to eliminate nitrite. ***p < 0.001 vs. control. Chemoluminescence analysis showed that incubation of HL-1 cells with 50 muM nitrite led to a drastic increase in intracellular nitrite (Figure 3C) and nitroso species (Figure 3D) levels. In contrast to NO-Hb and cGMP, nitroso species formation was not sensitive to myxothiazol. Discussion In the past years it has been demonstrated that nitrite represents a storage pool of NO which can be activated, especially under hypoxic conditions. As nitrite reduction occurs both in blood Hb and tissue, we investigated the process of exogenous nitrite reduction in monocultures of HL-1 cells and RBC and in a co-culture of these two cell types. Since Hb is itself a nitrite reductase, RBC were incubated with and without nitrite to determine the RBC-dependent nitrite reduction. The free radical NO binds efficiently to deoxy-Hb in RBC, yielding the characteristic triplet spectrum of this NO-Hb complex. The formation of NO-Hb complexes in RBC incubated with nitrite reflects diffusion of nitrite into RBC and it reduction to NO. It has been demonstrated in the literature that nitrite reduction is oxygen-dependent. Figure 1C shows NO-Hb signals at anaerobic conditions as well as at oxygen concentrations typical for arterial (12.5% O2) and venous (5% O2) blood. In both RBC and co-culture with HL-1 cells, NO-Hb signals are reduced with a decrease in oxygen. There are two explanations for this finding: first, activities of nitrite reductases decrease with increases in oxygen or, second, Hb becomes oxygenated and reacts with NO to form methemoglobin rather than NO-Hb. In any case, anaerobic conditions yield the highest amounts of nitrite-derived NO and thus, further experiments were performed under anaerobic conditions. In cardiomyocytes, the ability of nitrite to diffuse into HL-1 cells was confirmed directly by determination of intracellular nitrite levels in HL-1 cell lysates (Figure 3D). It has previously been shown that NO diffuses from diverse parenchymal cells into the blood to form NO-Hb complexes in RBC, but NO bound to Hb does not diffuse back to parenchymal cells (Kozlov et al.,). Consequently, we assumed that determination of NO-Hb complexes in our model is a measure of total NO-production in RBC plus HL-1 cells. In fact, addition of HL-1 cells to a RBC suspension increased nitrite mediated NO-Hb formation due to an additional portion of NO reduced in HL-1 cells. An increase in the RBC:HL-1 ratio results in an increase of the NO portion formed in HL-1 cells and reduced the NO portion coming from RBC. This shows that both RBC- and HL-1 mediated pathways have a distinguishable contribution to total NO production determined by NO-Hb levels. Also, the difference in NO-Hb levels between coculture of HL-1 cells and Hb and Hb alone is the NO formed in HL-1 cells. In this experimental model we found that free NO is only detectable in cardiomyocytes but not in RBC. This was shown by confocal microscopy combined with using the fluorescent dye DAF used to determine free NO in RBC and HL-1 cells upon treatment with nitrite. Increased DAF fluorescence was clearly detected in HL-1 cells but not in RBC, suggesting that free NO only occurs in HL-1 cells. This suggests that NO is tightly bound to Hb inside RBC. The lack of free NO in RBC seems to be in contradiction to the fact that RBC-mediated nitrite reduction contributes to vasodilation. However, this contradiction was satisfactorily explained in the recent publication of Basu et al. who suggested that N2O3, not NO, is formed in RBC and is the active mediator of vasodilation (Basu et al.,). The intracellular mechanisms of nitrite bioactivation in HL-1 cells were investigated by using inhibitors of various enzymes with distinct nitrite reductase activity. Specific inhibitors for XOR, complex III of the mitochondrial electron transport chain, cytochrome P450 and NOS were used. Cells were incubated with inhibitors prior to the addition of RBC which served as NO detection reagent. Thus, the effects of these inhibitors on the NO-Hb signal were only HL-1 dependent. All inhibitors reduced NO release, seen as lowered NO-Hb levels, but to various extents. The mitochondria-specific inhibitor myxothiazol decreased NO signal by 60%. This is in line with the fact that mitochondria contribute to nitrite reductase activity in heart homogenates by approx. 80% (Kozlov et al.,). However, NO-Hb levels were not reduced to baseline levels of untreated cells, suggesting that there are additional pathway(s) of NO production. As allopurinol, NAME and methyrapone reduced NO-signals by 25% each, this indicates other active mechanisms. According to Dr. Claycomb, who established the HL-1 cell line, these cells should contain myoglobin (Mb) comparable to primary cardiomyocytes (private communication). Mb is a potent nitrite reductase in the heart (Shiva et al.,) whose impact was not investigated in this study. However, Shiva et al. used ferricyanide to oxidize Mb in heart homogenate which led to decreased NO production. Ferricyanide is an unspecific one electron acceptor interacting also with the respiratory chain of mitochondria (Krasnikov et al.,). Thus, both nitrite and ferricyanide are reduced accepting electrons from the respiratory chain. Consequently, the effects of ferricyanide may be due to the inhibition of nitrite reduction by the respiratory chain. Thus, ferricyanide might not be suitable to distinguish between Mb-mediated and mitochondria-mediated nitrite reduction. On the other hand there are specific inhibitors of the mitochondrial respiratory chain, which do not react with Mb, for instance myxothiazol. In our previous publication we have shown that myxothiazol nearly completely inhibits nitrite reduction to NO in heart homogenate. This suggests that mitochondria are responsible for nitrite reduction in heart homogenate. Another situation is demonstrated in the paper of Totzeck et al.. They showed that Mb in SMC is involved in nitrite reduction and vasodilation. This suggests that the data from heart homogenate reflect nitrite reduction in cardiomyocytes (the mayor cell type contributing to heart homogenate), which is likely relevant for the regulation of myocardial contractility and Mb in SMC for vascular tonus. Beside Mb, several studies showed that XOR also is an important nitrite reductase in the heart. McNulty et al. showed that in RBC-free heart tissue, nitrite consumption could be blocked by 40% by allopurinol (McNulty et al.,) but no mitochondria-specific inhibitor was tested in the study. One also has to keep in mind that allopurinol acts as an antioxidant as well, thus also inhibiting intracellular oxidative processes. Baker et al. demonstrated that both oxypuinol and diphenyleneiodonium (DPI), a non-specific flavoprotein inhibitor, inhibited nitrite-mediated cardioprotection (Baker et al.,). As DPI also inhibits mitochondrial complex I (Li and Trush,), the reduction in cytoprotection might be due to reduced nitrite bioactivation by mitochondria. Irrespectively of the exact mechanism of allopurinol, we show that, in our model, mitochondria are the major contributor to the generation of diffusible NO. Although mitochondria were only partially responsible for the generation of diffusible NO, they were the only NO source activating cGMP synthesis; myxothiazol completely inhibited cGMP synthesis and other inhibitors had no effect. This finding suggests that NO by mitochondria-mediated nitrite reduction is predominately responsible for cGMP synthesis in HL-1 cells. Zielinska et al. demonstrated that fluoroactetate, a metabolic inhibitor specifically affecting astrocytic mitochondria, inhibited cGMP synthesis by about 50% (Zielinska et al.,). An intracellular association of mitochondria and GC could explain that cGMP synthesis, but not NO-Hb signals, were completely blocked by mitochondrial inhibition. To exclude the possibility that myxothiazol inhibited not only nitrite reduction, but also NO-mediated cGMP synthesis, we used pure NO as a control. GC activation by NO-gas was not influenced by either myxothiazol or any other inhibitor, showing the predominant contribution of mitochondria to nitrite bioactivation in cardiomyocytes under hypoxic conditions. These data suggest that the pathway responsible for stimulation of cGMP synthesis in cardiomyocytes was exclusively mitochondria-dependent. In addition, it has been shown that myxothiazol can also induce superoxide production in the mitochondrial matrix. Myxothiazol-derived superoxide may cause oxidation of NO produced in the mitochondria. However, myxothiazol did not inhibit cGMP production in NO-gas treated cells. These data may indicate that the nitrite reduction in the electron transfer chain occurs downstream of the myxothiazol binding site. This could point to complex IV, cytochrome c oxidase, which has recently been identified as a nitrite reductase (Castello et al.,). Since NO has been cited to inhibit mitochondrial respiration nitrite reduction via complex IV the inhibition of this complex would initiate auto-regulation. Under hypoxic conditions nitrite reduction would continue until critical levels of NO will be reached to block the reaction at the same site. We assume that this mitochondria-dependent increase in cGMP levels contributes to the regulation of myocardial contractility under hypoxic conditions and to cytoprotection (Cauwels et al.,). In contrast, formation of nitroso species upon nitrite treatment was not affected by myxothiazol. This suggests that nitroso compounds are formed from nitrite, not from NO within HL-1 cells. In conclusion, in this study we showed in vitro that both RBC and HL-1 cardiomyocytes mediated the reduction of nitrite to NO under hypoxic conditions. RBC-mediated nitrite reduction did not contribute to cGMP synthesis in HL-1 cells. cGMP production in cardiomyocytes was completely inhibited by myxothiazol, a specific inhibitor of mitochondria, while inhibitors of XOR, NOS, and p450 had no effect. The effect of myxothiasol was not due to inhibition of cGMP synthesis itself, suggesting that mitochondria trigger nitrite-mediated cGMP synthesis in cardiomyocytes. Our data suggest that this pathway may be a key regulator of myocardial contractility, especially under hypoxic conditions. Conflict of interest statement The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. Funding This work was supported by Austrian Science Fund (FWF) [grant P 21121-B11] and by City of Vienna Competence Team Tissue Engineering Bioreaktoren. References Nitrite confers protection against myocardial infarction: role of xanthine oxidoreductase, NADPH oxidase and K(ATP) channels Catalytic generation of N2O3 by the concerted nitrite reductase and anhydrase activity of hemoglobin Catalytic generation of N2O3 by the concerted nitrite reductase and anhydrase activity of hemoglobin Dietary nitrite restores NO homeostasis and is cardioprotective in endothelial nitric oxide synthase-deficient mice Myocardial protection by nitrite Mitochondrial cytochrome oxidase produces nitric oxide under hypoxic conditions: implications for oxygen sensing and hypoxic signaling in eukaryotes Nitrite protects against morbidity and mortality associated with TNF- or LPS-induced shock in a soluble guanylate cyclase-dependent manner Nitrite reduction to nitric oxide by deoxyhemoglobin vasodilates the human circulation Role of the anion nitrite in ischemia-reperfusion cytoprotection and therapeutics Nitrite therapy after cardiac arrest reduces reactive oxygen species generation, improves cardiac and neurological function, and enhances survival via reversible inhibition of mitochondrial complex I Early intravenous infusion of sodium nitrite protects brain against in vivo ischemia-reperfusion injury Mechanisms of vasodilatation induced by nitrite instillation in intestinal lumen: possible role of hemoglobin Various intracellular compartments cooperate in the release of nitric oxide from glycerol trinitrate in liver Experimental evidence suggesting that nitric oxide diffuses from tissue into blood but not from blood into tissue Nitrite reductase activity is a novel function of mammalian mitochondria The Ca2+-induced pore opening in mitochondria energized by succinate-ferricyanide electron transport Nitric oxide synthase-independent generation of nitric oxide in rat skeletal muscle ischemia-reperfusion injury Diphenyleneiodonium, an NAD(P)H oxidase inhibitor, also potently inhibits mitochondrial reactive oxygen species production Nitrite-derived nitric oxide by xanthine oxidoreductase protects the liver against ischemia-reperfusion injury NO generation from nitrite and its role in vascular control Measurement of circulating nitrite and S-nitrosothiols by reductive chemiluminescence Nitrite consumption in ischemic rat heart catalyzed by distinct blood-borne and tissue factors Mitochondria recycle nitrite back to the bioregulator nitric monoxide Mechanistic insights into nitrite-induced cardioprotection using an integrated metabolomic/proteomic approach Nitrite reductase function of deoxymyoglobin: oxygen sensor and regulator of cardiac energetics and function Nitric oxide and cardiac function Long-acting Ca2+ blockers prevent myocardial remodeling induced by chronic NO inhibition in rats Nitrite mediates cytoprotection after ischemia/reperfusion by modulating mitochondrial function Deoxymyoglobin is a nitrite reductase that generates nitric oxide and regulates mitochondrial respiration Nitrite regulates hypoxic vasodilation via myoglobin-dependent nitric oxide generation Nitrite as regulator of hypoxic signaling in mammalian physiology Nitric oxide synthase reduces nitrite to NO under anoxia Mechanisms underlying erythrocyte and endothelial nitrite reduction to nitric oxide in hypoxia: role for xanthine oxidoreductase and endothelial nitric oxide synthase Reactive oxygen species and the control of vascular function Hyperammonemia inhibits the natriuretic peptide receptor 2 (NPR-2)-mediated cyclic GMP synthesis in the astrocytic compartment of rat cerebral cortex slices Enzyme-independent formation of nitric oxide in biological tissues",
+    "entities": [
+        {
+            "entityId": "26_33",
+            "span": {
+                "begin": 26,
+                "end": 33
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "48_67",
+            "span": {
+                "begin": 48,
+                "end": 67
+            },
+            "entityType": "cell",
+            "entityName": "HL-1 cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "79_82",
+            "span": {
+                "begin": 79,
+                "end": 82
+            },
+            "entityType": "drug",
+            "entityName": "ATP",
+            "id": "UMLS:CHEBI:30616"
+        },
+        {
+            "entityId": "143_160",
+            "span": {
+                "begin": 143,
+                "end": 160
+            },
+            "entityType": "gene",
+            "entityName": "nitrite reductase",
+            "id": "UMLS:C0028135"
+        },
+        {
+            "entityId": "171_183",
+            "span": {
+                "begin": 171,
+                "end": 183
+            },
+            "entityType": "drug",
+            "entityName": "Nitric oxide",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "185_187",
+            "span": {
+                "begin": 185,
+                "end": 187
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "203_210",
+            "span": {
+                "begin": 203,
+                "end": 210
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "252_260",
+            "span": {
+                "begin": 252,
+                "end": 260
+            },
+            "entityType": "disease",
+            "entityName": "ischemia",
+            "id": "UMLS:C0022116"
+        },
+        {
+            "entityId": "291_295",
+            "span": {
+                "begin": 291,
+                "end": 295
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "374_376",
+            "span": {
+                "begin": 374,
+                "end": 376
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "382_389",
+            "span": {
+                "begin": 382,
+                "end": 389
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "393_407",
+            "span": {
+                "begin": 393,
+                "end": 407
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "646_653",
+            "span": {
+                "begin": 646,
+                "end": 653
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "657_676",
+            "span": {
+                "begin": 657,
+                "end": 676
+            },
+            "entityType": "cell",
+            "entityName": "HL-1 cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "726_731",
+            "span": {
+                "begin": 726,
+                "end": 731
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "729_731",
+            "span": {
+                "begin": 729,
+                "end": 731
+            },
+            "entityType": "gene",
+            "entityName": "Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "737_741",
+            "span": {
+                "begin": 737,
+                "end": 741
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "861_863",
+            "span": {
+                "begin": 861,
+                "end": 863
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "927_934",
+            "span": {
+                "begin": 927,
+                "end": 934
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "939_954",
+            "span": {
+                "begin": 939,
+                "end": 954
+            },
+            "entityType": "drug",
+            "entityName": "S-nitrosothiols",
+            "id": "mesh:D026403"
+        },
+        {
+            "entityId": "986_988",
+            "span": {
+                "begin": 986,
+                "end": 988
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "1007_1014",
+            "span": {
+                "begin": 1007,
+                "end": 1014
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "1037_1043",
+            "span": {
+                "begin": 1037,
+                "end": 1043
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "1123_1127",
+            "span": {
+                "begin": 1123,
+                "end": 1127
+            },
+            "entityType": "gene",
+            "entityName": "p450",
+            "id": "UMLS:C0534137"
+        },
+        {
+            "entityId": "1129_1141",
+            "span": {
+                "begin": 1129,
+                "end": 1141
+            },
+            "entityType": "gene",
+            "entityName": "NO synthases",
+            "id": "UMLS:C0132555"
+        },
+        {
+            "entityId": "1143_1146",
+            "span": {
+                "begin": 1143,
+                "end": 1146
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4843"
+        },
+        {
+            "entityId": "1152_1175",
+            "span": {
+                "begin": 1152,
+                "end": 1175
+            },
+            "entityType": "gene",
+            "entityName": "xanthine oxidoreductase",
+            "id": "UMLS:C1421531"
+        },
+        {
+            "entityId": "1177_1180",
+            "span": {
+                "begin": 1177,
+                "end": 1180
+            },
+            "entityType": "gene",
+            "entityName": "XOR",
+            "id": "UMLS:C1421531"
+        },
+        {
+            "entityId": "1252_1254",
+            "span": {
+                "begin": 1252,
+                "end": 1254
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "1277_1279",
+            "span": {
+                "begin": 1277,
+                "end": 1279
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "1328_1330",
+            "span": {
+                "begin": 1328,
+                "end": 1330
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "1366_1370",
+            "span": {
+                "begin": 1366,
+                "end": 1370
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "1382_1396",
+            "span": {
+                "begin": 1382,
+                "end": 1396
+            },
+            "entityType": "cell",
+            "entityName": "Cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "1414_1429",
+            "span": {
+                "begin": 1414,
+                "end": 1429
+            },
+            "entityType": "cell",
+            "entityName": "red blood cells",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "1431_1434",
+            "span": {
+                "begin": 1431,
+                "end": 1434
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "1450_1453",
+            "span": {
+                "begin": 1450,
+                "end": 1453
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "1458_1465",
+            "span": {
+                "begin": 1458,
+                "end": 1465
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "1476_1478",
+            "span": {
+                "begin": 1476,
+                "end": 1478
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "1527_1530",
+            "span": {
+                "begin": 1527,
+                "end": 1530
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "1551_1553",
+            "span": {
+                "begin": 1551,
+                "end": 1553
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "1594_1598",
+            "span": {
+                "begin": 1594,
+                "end": 1598
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "1610_1612",
+            "span": {
+                "begin": 1610,
+                "end": 1612
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "1671_1676",
+            "span": {
+                "begin": 1671,
+                "end": 1676
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "1674_1676",
+            "span": {
+                "begin": 1674,
+                "end": 1676
+            },
+            "entityType": "gene",
+            "entityName": "Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "1700_1707",
+            "span": {
+                "begin": 1700,
+                "end": 1707
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "1764_1783",
+            "span": {
+                "begin": 1764,
+                "end": 1783
+            },
+            "entityType": "cell",
+            "entityName": "HL-1 cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "1827_1834",
+            "span": {
+                "begin": 1827,
+                "end": 1834
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "1848_1850",
+            "span": {
+                "begin": 1848,
+                "end": 1850
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "1889_1891",
+            "span": {
+                "begin": 1889,
+                "end": 1891
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "1910_1914",
+            "span": {
+                "begin": 1910,
+                "end": 1914
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "2074_2081",
+            "span": {
+                "begin": 2074,
+                "end": 2081
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "2086_2093",
+            "span": {
+                "begin": 2086,
+                "end": 2093
+            },
+            "entityType": "drug",
+            "entityName": "nitrate",
+            "id": "UMLS:C0699857"
+        },
+        {
+            "entityId": "2140_2152",
+            "span": {
+                "begin": 2140,
+                "end": 2152
+            },
+            "entityType": "drug",
+            "entityName": "nitric oxide",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "2154_2156",
+            "span": {
+                "begin": 2154,
+                "end": 2156
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "2190_2201",
+            "span": {
+                "begin": 2190,
+                "end": 2201
+            },
+            "entityType": "gene",
+            "entityName": "NO synthase",
+            "id": "UMLS:C0132555"
+        },
+        {
+            "entityId": "2203_2206",
+            "span": {
+                "begin": 2203,
+                "end": 2206
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4843"
+        },
+        {
+            "entityId": "2302_2309",
+            "span": {
+                "begin": 2302,
+                "end": 2309
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "2333_2335",
+            "span": {
+                "begin": 2333,
+                "end": 2335
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "2421_2428",
+            "span": {
+                "begin": 2421,
+                "end": 2428
+            },
+            "entityType": "drug",
+            "entityName": "Nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "2437_2439",
+            "span": {
+                "begin": 2437,
+                "end": 2439
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "2501_2508",
+            "span": {
+                "begin": 2501,
+                "end": 2508
+            },
+            "entityType": "drug",
+            "entityName": "nitroso",
+            "id": "UMLS:CHEBI:35801"
+        },
+        {
+            "entityId": "2673_2680",
+            "span": {
+                "begin": 2673,
+                "end": 2680
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "2881_2888",
+            "span": {
+                "begin": 2881,
+                "end": 2888
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "2892_2894",
+            "span": {
+                "begin": 2892,
+                "end": 2894
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "2924_2928",
+            "span": {
+                "begin": 2924,
+                "end": 2928
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "2976_2988",
+            "span": {
+                "begin": 2976,
+                "end": 2988
+            },
+            "entityType": "disease",
+            "entityName": "vasodilation",
+            "id": "UMLS:C0595862"
+        },
+        {
+            "entityId": "3030_3036",
+            "span": {
+                "begin": 3030,
+                "end": 3036
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "3111_3118",
+            "span": {
+                "begin": 3111,
+                "end": 3118
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "3133_3135",
+            "span": {
+                "begin": 3133,
+                "end": 3135
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "3224_3231",
+            "span": {
+                "begin": 3224,
+                "end": 3231
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "3235_3245",
+            "span": {
+                "begin": 3235,
+                "end": 3245
+            },
+            "entityType": "gene",
+            "entityName": "hemoglobin",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "3247_3249",
+            "span": {
+                "begin": 3247,
+                "end": 3249
+            },
+            "entityType": "gene",
+            "entityName": "Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "3254_3269",
+            "span": {
+                "begin": 3254,
+                "end": 3269
+            },
+            "entityType": "cell",
+            "entityName": "red blood cells",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "3271_3274",
+            "span": {
+                "begin": 3271,
+                "end": 3274
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "3305_3312",
+            "span": {
+                "begin": 3305,
+                "end": 3312
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "3321_3323",
+            "span": {
+                "begin": 3321,
+                "end": 3323
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "3342_3345",
+            "span": {
+                "begin": 3342,
+                "end": 3345
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "3355_3374",
+            "span": {
+                "begin": 3355,
+                "end": 3374
+            },
+            "entityType": "cell",
+            "entityName": "smooth muscle cells",
+            "id": "UMLS:C1135918"
+        },
+        {
+            "entityId": "3408_3415",
+            "span": {
+                "begin": 3408,
+                "end": 3415
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "3425_3437",
+            "span": {
+                "begin": 3425,
+                "end": 3437
+            },
+            "entityType": "disease",
+            "entityName": "vasodilation",
+            "id": "UMLS:C0595862"
+        },
+        {
+            "entityId": "3500_3502",
+            "span": {
+                "begin": 3500,
+                "end": 3502
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "3515_3523",
+            "span": {
+                "begin": 3515,
+                "end": 3523
+            },
+            "entityType": "drug",
+            "entityName": "nitrogen",
+            "id": "mesh:D009584"
+        },
+        {
+            "entityId": "3533_3537",
+            "span": {
+                "begin": 3533,
+                "end": 3537
+            },
+            "entityType": "drug",
+            "entityName": "N2O3",
+            "id": "UMLS:CHEBI:29803"
+        },
+        {
+            "entityId": "3548_3552",
+            "span": {
+                "begin": 3548,
+                "end": 3552
+            },
+            "entityType": "cell",
+            "entityName": "RBCs",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "3591_3603",
+            "span": {
+                "begin": 3591,
+                "end": 3603
+            },
+            "entityType": "disease",
+            "entityName": "vasodilation",
+            "id": "UMLS:C0595862"
+        },
+        {
+            "entityId": "3665_3672",
+            "span": {
+                "begin": 3665,
+                "end": 3672
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "3676_3678",
+            "span": {
+                "begin": 3676,
+                "end": 3678
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "3726_3732",
+            "span": {
+                "begin": 3726,
+                "end": 3732
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "3753_3759",
+            "span": {
+                "begin": 3753,
+                "end": 3759
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "3778_3780",
+            "span": {
+                "begin": 3778,
+                "end": 3780
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "3816_3818",
+            "span": {
+                "begin": 3816,
+                "end": 3818
+            },
+            "entityType": "gene",
+            "entityName": "Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "3863_3870",
+            "span": {
+                "begin": 3863,
+                "end": 3870
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "3899_3916",
+            "span": {
+                "begin": 3899,
+                "end": 3916
+            },
+            "entityType": "gene",
+            "entityName": "nitrite reductase",
+            "id": "UMLS:C0028135"
+        },
+        {
+            "entityId": "3952_3958",
+            "span": {
+                "begin": 3952,
+                "end": 3958
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "4017_4024",
+            "span": {
+                "begin": 4017,
+                "end": 4024
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "4050_4053",
+            "span": {
+                "begin": 4050,
+                "end": 4053
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "4078_4095",
+            "span": {
+                "begin": 4078,
+                "end": 4095
+            },
+            "entityType": "cell",
+            "entityName": "parenchymal cells",
+            "id": "UMLS:C0682552"
+        },
+        {
+            "entityId": "4170_4187",
+            "span": {
+                "begin": 4170,
+                "end": 4187
+            },
+            "entityType": "gene",
+            "entityName": "nitrite reductase",
+            "id": "UMLS:C0028135"
+        },
+        {
+            "entityId": "4210_4233",
+            "span": {
+                "begin": 4210,
+                "end": 4233
+            },
+            "entityType": "gene",
+            "entityName": "xanthine oxidoreductase",
+            "id": "UMLS:C1421531"
+        },
+        {
+            "entityId": "4235_4238",
+            "span": {
+                "begin": 4235,
+                "end": 4238
+            },
+            "entityType": "gene",
+            "entityName": "XOR",
+            "id": "UMLS:C1421531"
+        },
+        {
+            "entityId": "4259_4262",
+            "span": {
+                "begin": 4259,
+                "end": 4262
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4843"
+        },
+        {
+            "entityId": "4323_4330",
+            "span": {
+                "begin": 4323,
+                "end": 4330
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "4334_4336",
+            "span": {
+                "begin": 4334,
+                "end": 4336
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "4378_4380",
+            "span": {
+                "begin": 4378,
+                "end": 4380
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "4394_4401",
+            "span": {
+                "begin": 4394,
+                "end": 4401
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "4533_4535",
+            "span": {
+                "begin": 4533,
+                "end": 4535
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "4650_4652",
+            "span": {
+                "begin": 4650,
+                "end": 4652
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "4772_4776",
+            "span": {
+                "begin": 4772,
+                "end": 4776
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "4935_4937",
+            "span": {
+                "begin": 4935,
+                "end": 4937
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "4961_4964",
+            "span": {
+                "begin": 4961,
+                "end": 4964
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4842"
+        },
+        {
+            "entityId": "5019_5030",
+            "span": {
+                "begin": 5019,
+                "end": 5030
+            },
+            "entityType": "disease",
+            "entityName": "hypertrophy",
+            "id": "UMLS:C0020564"
+        },
+        {
+            "entityId": "5093_5095",
+            "span": {
+                "begin": 5093,
+                "end": 5095
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "5114_5121",
+            "span": {
+                "begin": 5114,
+                "end": 5121
+            },
+            "entityType": "drug",
+            "entityName": "Nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "5135_5138",
+            "span": {
+                "begin": 5135,
+                "end": 5138
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4842"
+        },
+        {
+            "entityId": "5151_5153",
+            "span": {
+                "begin": 5151,
+                "end": 5153
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "5210_5217",
+            "span": {
+                "begin": 5210,
+                "end": 5217
+            },
+            "entityType": "drug",
+            "entityName": "Nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "5241_5244",
+            "span": {
+                "begin": 5241,
+                "end": 5244
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4842"
+        },
+        {
+            "entityId": "5257_5259",
+            "span": {
+                "begin": 5257,
+                "end": 5259
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "5371_5378",
+            "span": {
+                "begin": 5371,
+                "end": 5378
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "5382_5384",
+            "span": {
+                "begin": 5382,
+                "end": 5384
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "5434_5445",
+            "span": {
+                "begin": 5434,
+                "end": 5445
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "5600_5607",
+            "span": {
+                "begin": 5600,
+                "end": 5607
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "5611_5625",
+            "span": {
+                "begin": 5611,
+                "end": 5625
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "5735_5742",
+            "span": {
+                "begin": 5735,
+                "end": 5742
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "5756_5775",
+            "span": {
+                "begin": 5756,
+                "end": 5775
+            },
+            "entityType": "cell",
+            "entityName": "HL-1 cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "5854_5857",
+            "span": {
+                "begin": 5854,
+                "end": 5857
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "5858_5877",
+            "span": {
+                "begin": 5858,
+                "end": 5877
+            },
+            "entityType": "cell",
+            "entityName": "HL-1 cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "6020_6026",
+            "span": {
+                "begin": 6020,
+                "end": 6026
+            },
+            "entityType": "species",
+            "entityName": "bovine",
+            "id": "UMLS:C3667982"
+        },
+        {
+            "entityId": "6067_6078",
+            "span": {
+                "begin": 6067,
+                "end": 6078
+            },
+            "entityType": "drug",
+            "entityName": "L-glutamine",
+            "id": "UMLS:C0017797"
+        },
+        {
+            "entityId": "6113_6123",
+            "span": {
+                "begin": 6113,
+                "end": 6123
+            },
+            "entityType": "drug",
+            "entityName": "penicillin",
+            "id": "UMLS:C0030842"
+        },
+        {
+            "entityId": "6160_6172",
+            "span": {
+                "begin": 6160,
+                "end": 6172
+            },
+            "entityType": "drug",
+            "entityName": "streptomycin",
+            "id": "UMLS:C0038425"
+        },
+        {
+            "entityId": "6210_6224",
+            "span": {
+                "begin": 6210,
+                "end": 6224
+            },
+            "entityType": "drug",
+            "entityName": "norepinephrine",
+            "id": "UMLS:C0028351"
+        },
+        {
+            "entityId": "6324_6335",
+            "span": {
+                "begin": 6324,
+                "end": 6335
+            },
+            "entityType": "gene",
+            "entityName": "fibronectin",
+            "id": "UMLS:C1570610"
+        },
+        {
+            "entityId": "6517_6520",
+            "span": {
+                "begin": 6517,
+                "end": 6520
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "6539_6548",
+            "span": {
+                "begin": 6539,
+                "end": 6548
+            },
+            "entityType": "drug",
+            "entityName": "phosphate",
+            "id": "UMLS:C0031603"
+        },
+        {
+            "entityId": "6572_6575",
+            "span": {
+                "begin": 6572,
+                "end": 6575
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "6716_6723",
+            "span": {
+                "begin": 6716,
+                "end": 6723
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "6732_6734",
+            "span": {
+                "begin": 6732,
+                "end": 6734
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "6835_6842",
+            "span": {
+                "begin": 6835,
+                "end": 6842
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "6867_6873",
+            "span": {
+                "begin": 6867,
+                "end": 6873
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "6906_6908",
+            "span": {
+                "begin": 6906,
+                "end": 6908
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "6948_6956",
+            "span": {
+                "begin": 6948,
+                "end": 6956
+            },
+            "entityType": "drug",
+            "entityName": "nitrogen",
+            "id": "mesh:D009584"
+        },
+        {
+            "entityId": "7117_7125",
+            "span": {
+                "begin": 7117,
+                "end": 7125
+            },
+            "entityType": "drug",
+            "entityName": "nitrogen",
+            "id": "mesh:D009584"
+        },
+        {
+            "entityId": "7205_7211",
+            "span": {
+                "begin": 7205,
+                "end": 7211
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "7239_7250",
+            "span": {
+                "begin": 7239,
+                "end": 7250
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "7281_7292",
+            "span": {
+                "begin": 7281,
+                "end": 7292
+            },
+            "entityType": "drug",
+            "entityName": "allopurinol",
+            "id": "UMLS:C0002144"
+        },
+        {
+            "entityId": "7302_7333",
+            "span": {
+                "begin": 7302,
+                "end": 7333
+            },
+            "entityType": "drug",
+            "entityName": "N-nitro-L-arginine methyl ester",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "7335_7341",
+            "span": {
+                "begin": 7335,
+                "end": 7341
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "7440_7445",
+            "span": {
+                "begin": 7440,
+                "end": 7445
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "7490_7493",
+            "span": {
+                "begin": 7490,
+                "end": 7493
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "7531_7538",
+            "span": {
+                "begin": 7531,
+                "end": 7538
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "7574_7578",
+            "span": {
+                "begin": 7574,
+                "end": 7578
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "7651_7658",
+            "span": {
+                "begin": 7651,
+                "end": 7658
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "7764_7768",
+            "span": {
+                "begin": 7764,
+                "end": 7768
+            },
+            "entityType": "drug",
+            "entityName": "IBMX",
+            "id": "UMLS:C0000096"
+        },
+        {
+            "entityId": "7781_7785",
+            "span": {
+                "begin": 7781,
+                "end": 7785
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "7937_7942",
+            "span": {
+                "begin": 7937,
+                "end": 7942
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "7947_7951",
+            "span": {
+                "begin": 7947,
+                "end": 7951
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "8079_8083",
+            "span": {
+                "begin": 8079,
+                "end": 8083
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "8175_8182",
+            "span": {
+                "begin": 8175,
+                "end": 8182
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "8187_8194",
+            "span": {
+                "begin": 8187,
+                "end": 8194
+            },
+            "entityType": "drug",
+            "entityName": "nitroso",
+            "id": "UMLS:CHEBI:35801"
+        },
+        {
+            "entityId": "8338_8340",
+            "span": {
+                "begin": 8338,
+                "end": 8340
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "8414_8416",
+            "span": {
+                "begin": 8414,
+                "end": 8416
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "8451_8453",
+            "span": {
+                "begin": 8451,
+                "end": 8453
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "8490_8492",
+            "span": {
+                "begin": 8490,
+                "end": 8492
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "8904_8906",
+            "span": {
+                "begin": 8904,
+                "end": 8906
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "8958_8960",
+            "span": {
+                "begin": 8958,
+                "end": 8960
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "8987_9044",
+            "span": {
+                "begin": 8987,
+                "end": 9044
+            },
+            "entityType": "drug",
+            "entityName": "4-Amino-5-methylamino-2',7'-difluorofluorescein diacetate",
+            "id": "mesh:C503301"
+        },
+        {
+            "entityId": "9046_9062",
+            "span": {
+                "begin": 9046,
+                "end": 9062
+            },
+            "entityType": "drug",
+            "entityName": "DAF-FM diacetate",
+            "id": "mesh:C503301"
+        },
+        {
+            "entityId": "9097_9113",
+            "span": {
+                "begin": 9097,
+                "end": 9113
+            },
+            "entityType": "drug",
+            "entityName": "DAF-FM diacetate",
+            "id": "mesh:C503301"
+        },
+        {
+            "entityId": "9131_9133",
+            "span": {
+                "begin": 9131,
+                "end": 9133
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "9169_9171",
+            "span": {
+                "begin": 9169,
+                "end": 9171
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "9187_9190",
+            "span": {
+                "begin": 9187,
+                "end": 9190
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "9216_9232",
+            "span": {
+                "begin": 9216,
+                "end": 9232
+            },
+            "entityType": "drug",
+            "entityName": "DAF-FM diacetate",
+            "id": "mesh:C503301"
+        },
+        {
+            "entityId": "9290_9295",
+            "span": {
+                "begin": 9290,
+                "end": 9295
+            },
+            "entityType": "drug",
+            "entityName": "NaNO2",
+            "id": "UMLS:CHEBI:16301"
+        },
+        {
+            "entityId": "9409_9415",
+            "span": {
+                "begin": 9409,
+                "end": 9415
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "9615_9622",
+            "span": {
+                "begin": 9615,
+                "end": 9622
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "9627_9634",
+            "span": {
+                "begin": 9627,
+                "end": 9634
+            },
+            "entityType": "drug",
+            "entityName": "nitroso",
+            "id": "UMLS:CHEBI:35801"
+        },
+        {
+            "entityId": "9643_9650",
+            "span": {
+                "begin": 9643,
+                "end": 9650
+            },
+            "entityType": "drug",
+            "entityName": "Nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "9655_9662",
+            "span": {
+                "begin": 9655,
+                "end": 9662
+            },
+            "entityType": "drug",
+            "entityName": "nitroso",
+            "id": "UMLS:CHEBI:35801"
+        },
+        {
+            "entityId": "9767_9769",
+            "span": {
+                "begin": 9767,
+                "end": 9769
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "9842_9849",
+            "span": {
+                "begin": 9842,
+                "end": 9849
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "9854_9861",
+            "span": {
+                "begin": 9854,
+                "end": 9861
+            },
+            "entityType": "drug",
+            "entityName": "nitroso",
+            "id": "UMLS:CHEBI:35801"
+        },
+        {
+            "entityId": "10036_10043",
+            "span": {
+                "begin": 10036,
+                "end": 10043
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "10096_10109",
+            "span": {
+                "begin": 10096,
+                "end": 10109
+            },
+            "entityType": "drug",
+            "entityName": "sulfanilamide",
+            "id": "UMLS:C0038702"
+        },
+        {
+            "entityId": "10138_10145",
+            "span": {
+                "begin": 10138,
+                "end": 10145
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "10246_10253",
+            "span": {
+                "begin": 10246,
+                "end": 10253
+            },
+            "entityType": "drug",
+            "entityName": "nitroso",
+            "id": "UMLS:CHEBI:35801"
+        },
+        {
+            "entityId": "10334_10341",
+            "span": {
+                "begin": 10334,
+                "end": 10341
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "10343_10347",
+            "span": {
+                "begin": 10343,
+                "end": 10347
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "10360_10364",
+            "span": {
+                "begin": 10360,
+                "end": 10364
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "10423_10427",
+            "span": {
+                "begin": 10423,
+                "end": 10427
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "10798_10802",
+            "span": {
+                "begin": 10798,
+                "end": 10802
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "11156_11158",
+            "span": {
+                "begin": 11156,
+                "end": 11158
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "11171_11173",
+            "span": {
+                "begin": 11171,
+                "end": 11173
+            },
+            "entityType": "gene",
+            "entityName": "Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "11217_11222",
+            "span": {
+                "begin": 11217,
+                "end": 11222
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "11331_11336",
+            "span": {
+                "begin": 11331,
+                "end": 11336
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "11340_11343",
+            "span": {
+                "begin": 11340,
+                "end": 11343
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "11361_11364",
+            "span": {
+                "begin": 11361,
+                "end": 11364
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "11385_11392",
+            "span": {
+                "begin": 11385,
+                "end": 11392
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "11407_11410",
+            "span": {
+                "begin": 11407,
+                "end": 11410
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "11436_11443",
+            "span": {
+                "begin": 11436,
+                "end": 11443
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "11447_11449",
+            "span": {
+                "begin": 11447,
+                "end": 11449
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "11519_11524",
+            "span": {
+                "begin": 11519,
+                "end": 11524
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "11571_11573",
+            "span": {
+                "begin": 11571,
+                "end": 11573
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "11649_11651",
+            "span": {
+                "begin": 11649,
+                "end": 11651
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "11718_11721",
+            "span": {
+                "begin": 11718,
+                "end": 11721
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "11722_11726",
+            "span": {
+                "begin": 11722,
+                "end": 11726
+            },
+            "entityType": "cell",
+            "entityName": "HL-1",
+            "id": "cellosaurus:CVCL_D145"
+        },
+        {
+            "entityId": "11768_11771",
+            "span": {
+                "begin": 11768,
+                "end": 11771
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "11790_11792",
+            "span": {
+                "begin": 11790,
+                "end": 11792
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "11818_11821",
+            "span": {
+                "begin": 11818,
+                "end": 11821
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "11822_11826",
+            "span": {
+                "begin": 11822,
+                "end": 11826
+            },
+            "entityType": "gene",
+            "entityName": "HL-1",
+            "id": "UMLS:C1425400"
+        },
+        {
+            "entityId": "11897_11900",
+            "span": {
+                "begin": 11897,
+                "end": 11900
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "11905_11909",
+            "span": {
+                "begin": 11905,
+                "end": 11909
+            },
+            "entityType": "gene",
+            "entityName": "HL-1",
+            "id": "UMLS:C1425400"
+        },
+        {
+            "entityId": "11918_11920",
+            "span": {
+                "begin": 11918,
+                "end": 11920
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "11922_11927",
+            "span": {
+                "begin": 11922,
+                "end": 11927
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "11946_11949",
+            "span": {
+                "begin": 11946,
+                "end": 11949
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "12006_12012",
+            "span": {
+                "begin": 12006,
+                "end": 12012
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "12058_12060",
+            "span": {
+                "begin": 12058,
+                "end": 12060
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "12096_12113",
+            "span": {
+                "begin": 12096,
+                "end": 12113
+            },
+            "entityType": "cell",
+            "entityName": "parenchymal cells",
+            "id": "UMLS:C0682552"
+        },
+        {
+            "entityId": "12149_12156",
+            "span": {
+                "begin": 12149,
+                "end": 12156
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "12193_12195",
+            "span": {
+                "begin": 12193,
+                "end": 12195
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "12248_12250",
+            "span": {
+                "begin": 12248,
+                "end": 12250
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "12301_12303",
+            "span": {
+                "begin": 12301,
+                "end": 12303
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "12324_12327",
+            "span": {
+                "begin": 12324,
+                "end": 12327
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "12351_12354",
+            "span": {
+                "begin": 12351,
+                "end": 12354
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "12370_12377",
+            "span": {
+                "begin": 12370,
+                "end": 12377
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "14408_14410",
+            "span": {
+                "begin": 14408,
+                "end": 14410
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "14421_14435",
+            "span": {
+                "begin": 14421,
+                "end": 14435
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "14474_14476",
+            "span": {
+                "begin": 14474,
+                "end": 14476
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "14494_14508",
+            "span": {
+                "begin": 14494,
+                "end": 14508
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "14593_14597",
+            "span": {
+                "begin": 14593,
+                "end": 14597
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "14660_14662",
+            "span": {
+                "begin": 14660,
+                "end": 14662
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "14698_14703",
+            "span": {
+                "begin": 14698,
+                "end": 14703
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "14701_14713",
+            "span": {
+                "begin": 14701,
+                "end": 14713
+            },
+            "entityType": "gene",
+            "entityName": "Hb complexes",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "14717_14720",
+            "span": {
+                "begin": 14717,
+                "end": 14720
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "14753_14757",
+            "span": {
+                "begin": 14753,
+                "end": 14757
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "14830_14837",
+            "span": {
+                "begin": 14830,
+                "end": 14837
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "14846_14848",
+            "span": {
+                "begin": 14846,
+                "end": 14848
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "14882_14887",
+            "span": {
+                "begin": 14882,
+                "end": 14887
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "14892_14896",
+            "span": {
+                "begin": 14892,
+                "end": 14896
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "15040_15042",
+            "span": {
+                "begin": 15040,
+                "end": 15042
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "15055_15060",
+            "span": {
+                "begin": 15055,
+                "end": 15060
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "15106_15111",
+            "span": {
+                "begin": 15106,
+                "end": 15111
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "15157_15168",
+            "span": {
+                "begin": 15157,
+                "end": 15168
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "15211_15216",
+            "span": {
+                "begin": 15211,
+                "end": 15216
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "15232_15243",
+            "span": {
+                "begin": 15232,
+                "end": 15243
+            },
+            "entityType": "drug",
+            "entityName": "Allopurinol",
+            "id": "UMLS:C0002144"
+        },
+        {
+            "entityId": "15245_15251",
+            "span": {
+                "begin": 15245,
+                "end": 15251
+            },
+            "entityType": "drug",
+            "entityName": "L-NAME",
+            "id": "mesh:D019331"
+        },
+        {
+            "entityId": "15283_15286",
+            "span": {
+                "begin": 15283,
+                "end": 15286
+            },
+            "entityType": "gene",
+            "entityName": "XOR",
+            "id": "UMLS:C1421531"
+        },
+        {
+            "entityId": "15288_15291",
+            "span": {
+                "begin": 15288,
+                "end": 15291
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4843"
+        },
+        {
+            "entityId": "15296_15311",
+            "span": {
+                "begin": 15296,
+                "end": 15311
+            },
+            "entityType": "gene",
+            "entityName": "cytochrome P450",
+            "id": "UMLS:C0010762"
+        },
+        {
+            "entityId": "15359_15364",
+            "span": {
+                "begin": 15359,
+                "end": 15364
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "15456_15463",
+            "span": {
+                "begin": 15456,
+                "end": 15463
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "15474_15478",
+            "span": {
+                "begin": 15474,
+                "end": 15478
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "15524_15528",
+            "span": {
+                "begin": 15524,
+                "end": 15528
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "15567_15574",
+            "span": {
+                "begin": 15567,
+                "end": 15574
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "15583_15585",
+            "span": {
+                "begin": 15583,
+                "end": 15585
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "15609_15620",
+            "span": {
+                "begin": 15609,
+                "end": 15620
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "15671_15673",
+            "span": {
+                "begin": 15671,
+                "end": 15673
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "15755_15759",
+            "span": {
+                "begin": 15755,
+                "end": 15759
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "15781_15783",
+            "span": {
+                "begin": 15781,
+                "end": 15783
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "15793_15809",
+            "span": {
+                "begin": 15793,
+                "end": 15809
+            },
+            "entityType": "gene",
+            "entityName": "guanylyl cyclase",
+            "id": "UMLS:C0018358"
+        },
+        {
+            "entityId": "15811_15813",
+            "span": {
+                "begin": 15811,
+                "end": 15813
+            },
+            "entityType": "gene",
+            "entityName": "GC",
+            "id": "UMLS:C3537453"
+        },
+        {
+            "entityId": "15852_15863",
+            "span": {
+                "begin": 15852,
+                "end": 15863
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "17595_17602",
+            "span": {
+                "begin": 17595,
+                "end": 17602
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "17646_17653",
+            "span": {
+                "begin": 17646,
+                "end": 17653
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "17670_17677",
+            "span": {
+                "begin": 17670,
+                "end": 17677
+            },
+            "entityType": "drug",
+            "entityName": "nitroso",
+            "id": "UMLS:CHEBI:35801"
+        },
+        {
+            "entityId": "17721_17726",
+            "span": {
+                "begin": 17721,
+                "end": 17726
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "17731_17735",
+            "span": {
+                "begin": 17731,
+                "end": 17735
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "17737_17744",
+            "span": {
+                "begin": 17737,
+                "end": 17744
+            },
+            "entityType": "drug",
+            "entityName": "nitroso",
+            "id": "UMLS:CHEBI:35801"
+        },
+        {
+            "entityId": "17784_17795",
+            "span": {
+                "begin": 17784,
+                "end": 17795
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "17856_17863",
+            "span": {
+                "begin": 17856,
+                "end": 17863
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "17893_17895",
+            "span": {
+                "begin": 17893,
+                "end": 17895
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "17960_17967",
+            "span": {
+                "begin": 17960,
+                "end": 17967
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "17993_18001",
+            "span": {
+                "begin": 17993,
+                "end": 18001
+            },
+            "entityType": "gene",
+            "entityName": "blood Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "18055_18062",
+            "span": {
+                "begin": 18055,
+                "end": 18062
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "18107_18110",
+            "span": {
+                "begin": 18107,
+                "end": 18110
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "18162_18164",
+            "span": {
+                "begin": 18162,
+                "end": 18164
+            },
+            "entityType": "gene",
+            "entityName": "Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "18177_18194",
+            "span": {
+                "begin": 18177,
+                "end": 18194
+            },
+            "entityType": "gene",
+            "entityName": "nitrite reductase",
+            "id": "UMLS:C0028135"
+        },
+        {
+            "entityId": "18196_18199",
+            "span": {
+                "begin": 18196,
+                "end": 18199
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "18232_18239",
+            "span": {
+                "begin": 18232,
+                "end": 18239
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "18257_18260",
+            "span": {
+                "begin": 18257,
+                "end": 18260
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "18271_18278",
+            "span": {
+                "begin": 18271,
+                "end": 18278
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "18307_18309",
+            "span": {
+                "begin": 18307,
+                "end": 18309
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "18331_18339",
+            "span": {
+                "begin": 18331,
+                "end": 18339
+            },
+            "entityType": "gene",
+            "entityName": "deoxy-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "18343_18346",
+            "span": {
+                "begin": 18343,
+                "end": 18346
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "18401_18406",
+            "span": {
+                "begin": 18401,
+                "end": 18406
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "18433_18438",
+            "span": {
+                "begin": 18433,
+                "end": 18438
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "18452_18455",
+            "span": {
+                "begin": 18452,
+                "end": 18455
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "18471_18478",
+            "span": {
+                "begin": 18471,
+                "end": 18478
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "18501_18508",
+            "span": {
+                "begin": 18501,
+                "end": 18508
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "18514_18517",
+            "span": {
+                "begin": 18514,
+                "end": 18517
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "18538_18540",
+            "span": {
+                "begin": 18538,
+                "end": 18540
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "18590_18597",
+            "span": {
+                "begin": 18590,
+                "end": 18597
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "18611_18617",
+            "span": {
+                "begin": 18611,
+                "end": 18617
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "18645_18650",
+            "span": {
+                "begin": 18645,
+                "end": 18650
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "18697_18703",
+            "span": {
+                "begin": 18697,
+                "end": 18703
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "18747_18749",
+            "span": {
+                "begin": 18747,
+                "end": 18749
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "18766_18768",
+            "span": {
+                "begin": 18766,
+                "end": 18768
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "18785_18788",
+            "span": {
+                "begin": 18785,
+                "end": 18788
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "18821_18826",
+            "span": {
+                "begin": 18821,
+                "end": 18826
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "18866_18872",
+            "span": {
+                "begin": 18866,
+                "end": 18872
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "18940_18958",
+            "span": {
+                "begin": 18940,
+                "end": 18958
+            },
+            "entityType": "gene",
+            "entityName": "nitrite reductases",
+            "id": "UMLS:C0028135"
+        },
+        {
+            "entityId": "18986_18992",
+            "span": {
+                "begin": 18986,
+                "end": 18992
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "19005_19007",
+            "span": {
+                "begin": 19005,
+                "end": 19007
+            },
+            "entityType": "gene",
+            "entityName": "Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "19043_19045",
+            "span": {
+                "begin": 19043,
+                "end": 19045
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "19054_19067",
+            "span": {
+                "begin": 19054,
+                "end": 19067
+            },
+            "entityType": "gene",
+            "entityName": "methemoglobin",
+            "id": "UMLS:C0025635"
+        },
+        {
+            "entityId": "19080_19085",
+            "span": {
+                "begin": 19080,
+                "end": 19085
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "19150_19157",
+            "span": {
+                "begin": 19150,
+                "end": 19157
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "19166_19168",
+            "span": {
+                "begin": 19166,
+                "end": 19168
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "19245_19259",
+            "span": {
+                "begin": 19245,
+                "end": 19259
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "19276_19283",
+            "span": {
+                "begin": 19276,
+                "end": 19283
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "19368_19375",
+            "span": {
+                "begin": 19368,
+                "end": 19375
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "19451_19453",
+            "span": {
+                "begin": 19451,
+                "end": 19453
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "19476_19493",
+            "span": {
+                "begin": 19476,
+                "end": 19493
+            },
+            "entityType": "cell",
+            "entityName": "parenchymal cells",
+            "id": "UMLS:C0682552"
+        },
+        {
+            "entityId": "19517_19532",
+            "span": {
+                "begin": 19517,
+                "end": 19532
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb complexes",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "19536_19539",
+            "span": {
+                "begin": 19536,
+                "end": 19539
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "19545_19547",
+            "span": {
+                "begin": 19545,
+                "end": 19547
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "19557_19559",
+            "span": {
+                "begin": 19557,
+                "end": 19559
+            },
+            "entityType": "gene",
+            "entityName": "Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "19585_19602",
+            "span": {
+                "begin": 19585,
+                "end": 19602
+            },
+            "entityType": "cell",
+            "entityName": "parenchymal cells",
+            "id": "UMLS:C0682552"
+        },
+        {
+            "entityId": "19668_19673",
+            "span": {
+                "begin": 19668,
+                "end": 19673
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "19719_19721",
+            "span": {
+                "begin": 19719,
+                "end": 19721
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "19736_19739",
+            "span": {
+                "begin": 19736,
+                "end": 19739
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "19794_19797",
+            "span": {
+                "begin": 19794,
+                "end": 19797
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "19819_19826",
+            "span": {
+                "begin": 19819,
+                "end": 19826
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "19836_19841",
+            "span": {
+                "begin": 19836,
+                "end": 19841
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "19884_19886",
+            "span": {
+                "begin": 19884,
+                "end": 19886
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "19929_19932",
+            "span": {
+                "begin": 19929,
+                "end": 19932
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "19933_19937",
+            "span": {
+                "begin": 19933,
+                "end": 19937
+            },
+            "entityType": "cell",
+            "entityName": "HL-1",
+            "id": "cellosaurus:CVCL_D145"
+        },
+        {
+            "entityId": "19974_19976",
+            "span": {
+                "begin": 19974,
+                "end": 19976
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20022_20024",
+            "span": {
+                "begin": 20022,
+                "end": 20024
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20045_20048",
+            "span": {
+                "begin": 20045,
+                "end": 20048
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "20071_20074",
+            "span": {
+                "begin": 20071,
+                "end": 20074
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "20080_20084",
+            "span": {
+                "begin": 20080,
+                "end": 20084
+            },
+            "entityType": "gene",
+            "entityName": "HL-1",
+            "id": "UMLS:C1425400"
+        },
+        {
+            "entityId": "20148_20150",
+            "span": {
+                "begin": 20148,
+                "end": 20150
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20176_20181",
+            "span": {
+                "begin": 20176,
+                "end": 20181
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "20214_20219",
+            "span": {
+                "begin": 20214,
+                "end": 20219
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "20263_20265",
+            "span": {
+                "begin": 20263,
+                "end": 20265
+            },
+            "entityType": "gene",
+            "entityName": "Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "20270_20272",
+            "span": {
+                "begin": 20270,
+                "end": 20272
+            },
+            "entityType": "gene",
+            "entityName": "Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "20286_20288",
+            "span": {
+                "begin": 20286,
+                "end": 20288
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20357_20359",
+            "span": {
+                "begin": 20357,
+                "end": 20359
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20382_20396",
+            "span": {
+                "begin": 20382,
+                "end": 20396
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "20408_20411",
+            "span": {
+                "begin": 20408,
+                "end": 20411
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "20518_20520",
+            "span": {
+                "begin": 20518,
+                "end": 20520
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20524_20527",
+            "span": {
+                "begin": 20524,
+                "end": 20527
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "20563_20570",
+            "span": {
+                "begin": 20563,
+                "end": 20570
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "20645_20648",
+            "span": {
+                "begin": 20645,
+                "end": 20648
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "20671_20673",
+            "span": {
+                "begin": 20671,
+                "end": 20673
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20720_20722",
+            "span": {
+                "begin": 20720,
+                "end": 20722
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20743_20745",
+            "span": {
+                "begin": 20743,
+                "end": 20745
+            },
+            "entityType": "gene",
+            "entityName": "Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "20753_20756",
+            "span": {
+                "begin": 20753,
+                "end": 20756
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "20775_20777",
+            "span": {
+                "begin": 20775,
+                "end": 20777
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20781_20784",
+            "span": {
+                "begin": 20781,
+                "end": 20784
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "20831_20834",
+            "span": {
+                "begin": 20831,
+                "end": 20834
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "20844_20851",
+            "span": {
+                "begin": 20844,
+                "end": 20851
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "20877_20889",
+            "span": {
+                "begin": 20877,
+                "end": 20889
+            },
+            "entityType": "disease",
+            "entityName": "vasodilation",
+            "id": "UMLS:C0595862"
+        },
+        {
+            "entityId": "21008_21012",
+            "span": {
+                "begin": 21008,
+                "end": 21012
+            },
+            "entityType": "drug",
+            "entityName": "N2O3",
+            "id": "UMLS:CHEBI:29803"
+        },
+        {
+            "entityId": "21018_21020",
+            "span": {
+                "begin": 21018,
+                "end": 21020
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "21035_21038",
+            "span": {
+                "begin": 21035,
+                "end": 21038
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "21069_21081",
+            "span": {
+                "begin": 21069,
+                "end": 21081
+            },
+            "entityType": "disease",
+            "entityName": "vasodilation",
+            "id": "UMLS:C0595862"
+        },
+        {
+            "entityId": "21130_21137",
+            "span": {
+                "begin": 21130,
+                "end": 21137
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "21237_21254",
+            "span": {
+                "begin": 21237,
+                "end": 21254
+            },
+            "entityType": "gene",
+            "entityName": "nitrite reductase",
+            "id": "UMLS:C0028135"
+        },
+        {
+            "entityId": "21289_21292",
+            "span": {
+                "begin": 21289,
+                "end": 21292
+            },
+            "entityType": "gene",
+            "entityName": "XOR",
+            "id": "UMLS:C1421531"
+        },
+        {
+            "entityId": "21294_21305",
+            "span": {
+                "begin": 21294,
+                "end": 21305
+            },
+            "entityType": "gene",
+            "entityName": "complex III",
+            "id": "UMLS:C1176474"
+        },
+        {
+            "entityId": "21353_21368",
+            "span": {
+                "begin": 21353,
+                "end": 21368
+            },
+            "entityType": "gene",
+            "entityName": "cytochrome P450",
+            "id": "UMLS:C0010762"
+        },
+        {
+            "entityId": "21373_21376",
+            "span": {
+                "begin": 21373,
+                "end": 21376
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4842"
+        },
+        {
+            "entityId": "21450_21453",
+            "span": {
+                "begin": 21450,
+                "end": 21453
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "21470_21472",
+            "span": {
+                "begin": 21470,
+                "end": 21472
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "21537_21542",
+            "span": {
+                "begin": 21537,
+                "end": 21542
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "21560_21564",
+            "span": {
+                "begin": 21560,
+                "end": 21564
+            },
+            "entityType": "gene",
+            "entityName": "HL-1",
+            "id": "UMLS:C1425400"
+        },
+        {
+            "entityId": "21599_21601",
+            "span": {
+                "begin": 21599,
+                "end": 21601
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "21627_21632",
+            "span": {
+                "begin": 21627,
+                "end": 21632
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "21701_21712",
+            "span": {
+                "begin": 21701,
+                "end": 21712
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "21723_21725",
+            "span": {
+                "begin": 21723,
+                "end": 21725
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "21803_21820",
+            "span": {
+                "begin": 21803,
+                "end": 21820
+            },
+            "entityType": "gene",
+            "entityName": "nitrite reductase",
+            "id": "UMLS:C0028135"
+        },
+        {
+            "entityId": "21893_21898",
+            "span": {
+                "begin": 21893,
+                "end": 21898
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "22013_22015",
+            "span": {
+                "begin": 22013,
+                "end": 22015
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "22031_22042",
+            "span": {
+                "begin": 22031,
+                "end": 22042
+            },
+            "entityType": "drug",
+            "entityName": "allopurinol",
+            "id": "UMLS:C0002144"
+        },
+        {
+            "entityId": "22073_22075",
+            "span": {
+                "begin": 22073,
+                "end": 22075
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "22184_22198",
+            "span": {
+                "begin": 22184,
+                "end": 22198
+            },
+            "entityType": "cell",
+            "entityName": "HL-1 cell line",
+            "id": "UMLS:C0007600"
+        },
+        {
+            "entityId": "22227_22236",
+            "span": {
+                "begin": 22227,
+                "end": 22236
+            },
+            "entityType": "gene",
+            "entityName": "myoglobin",
+            "id": "UMLS:C1417048"
+        },
+        {
+            "entityId": "22238_22240",
+            "span": {
+                "begin": 22238,
+                "end": 22240
+            },
+            "entityType": "gene",
+            "entityName": "Mb",
+            "id": "UMLS:C1417048"
+        },
+        {
+            "entityId": "22256_22278",
+            "span": {
+                "begin": 22256,
+                "end": 22278
+            },
+            "entityType": "cell",
+            "entityName": "primary cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "22304_22306",
+            "span": {
+                "begin": 22304,
+                "end": 22306
+            },
+            "entityType": "gene",
+            "entityName": "Mb",
+            "id": "UMLS:C1417048"
+        },
+        {
+            "entityId": "22319_22336",
+            "span": {
+                "begin": 22319,
+                "end": 22336
+            },
+            "entityType": "gene",
+            "entityName": "nitrite reductase",
+            "id": "UMLS:C0028135"
+        },
+        {
+            "entityId": "22442_22454",
+            "span": {
+                "begin": 22442,
+                "end": 22454
+            },
+            "entityType": "drug",
+            "entityName": "ferricyanide",
+            "id": "UMLS:C0117554"
+        },
+        {
+            "entityId": "22466_22468",
+            "span": {
+                "begin": 22466,
+                "end": 22468
+            },
+            "entityType": "gene",
+            "entityName": "Mb",
+            "id": "UMLS:C1417048"
+        },
+        {
+            "entityId": "22512_22514",
+            "span": {
+                "begin": 22512,
+                "end": 22514
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "22527_22539",
+            "span": {
+                "begin": 22527,
+                "end": 22539
+            },
+            "entityType": "drug",
+            "entityName": "Ferricyanide",
+            "id": "UMLS:C0117554"
+        },
+        {
+            "entityId": "22671_22678",
+            "span": {
+                "begin": 22671,
+                "end": 22678
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "22683_22695",
+            "span": {
+                "begin": 22683,
+                "end": 22695
+            },
+            "entityType": "drug",
+            "entityName": "ferricyanide",
+            "id": "UMLS:C0117554"
+        },
+        {
+            "entityId": "22785_22797",
+            "span": {
+                "begin": 22785,
+                "end": 22797
+            },
+            "entityType": "drug",
+            "entityName": "ferricyanide",
+            "id": "UMLS:C0117554"
+        },
+        {
+            "entityId": "22830_22837",
+            "span": {
+                "begin": 22830,
+                "end": 22837
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "22880_22892",
+            "span": {
+                "begin": 22880,
+                "end": 22892
+            },
+            "entityType": "drug",
+            "entityName": "ferricyanide",
+            "id": "UMLS:C0117554"
+        },
+        {
+            "entityId": "22938_22940",
+            "span": {
+                "begin": 22938,
+                "end": 22940
+            },
+            "entityType": "gene",
+            "entityName": "Mb",
+            "id": "UMLS:C1417048"
+        },
+        {
+            "entityId": "22976_22983",
+            "span": {
+                "begin": 22976,
+                "end": 22983
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "23107_23109",
+            "span": {
+                "begin": 23107,
+                "end": 23109
+            },
+            "entityType": "gene",
+            "entityName": "Mb",
+            "id": "UMLS:C1417048"
+        },
+        {
+            "entityId": "23124_23135",
+            "span": {
+                "begin": 23124,
+                "end": 23135
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "23184_23195",
+            "span": {
+                "begin": 23184,
+                "end": 23195
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "23223_23230",
+            "span": {
+                "begin": 23223,
+                "end": 23230
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "23244_23246",
+            "span": {
+                "begin": 23244,
+                "end": 23246
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "23320_23327",
+            "span": {
+                "begin": 23320,
+                "end": 23327
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "23442_23444",
+            "span": {
+                "begin": 23442,
+                "end": 23444
+            },
+            "entityType": "gene",
+            "entityName": "Mb",
+            "id": "UMLS:C1417048"
+        },
+        {
+            "entityId": "23467_23474",
+            "span": {
+                "begin": 23467,
+                "end": 23474
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "23489_23501",
+            "span": {
+                "begin": 23489,
+                "end": 23501
+            },
+            "entityType": "disease",
+            "entityName": "vasodilation",
+            "id": "UMLS:C0595862"
+        },
+        {
+            "entityId": "23561_23568",
+            "span": {
+                "begin": 23561,
+                "end": 23568
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "23582_23596",
+            "span": {
+                "begin": 23582,
+                "end": 23596
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "23729_23731",
+            "span": {
+                "begin": 23729,
+                "end": 23731
+            },
+            "entityType": "gene",
+            "entityName": "Mb",
+            "id": "UMLS:C1417048"
+        },
+        {
+            "entityId": "23766_23768",
+            "span": {
+                "begin": 23766,
+                "end": 23768
+            },
+            "entityType": "gene",
+            "entityName": "Mb",
+            "id": "UMLS:C1417048"
+        },
+        {
+            "entityId": "23798_23801",
+            "span": {
+                "begin": 23798,
+                "end": 23801
+            },
+            "entityType": "gene",
+            "entityName": "XOR",
+            "id": "UMLS:C1421531"
+        },
+        {
+            "entityId": "23823_23840",
+            "span": {
+                "begin": 23823,
+                "end": 23840
+            },
+            "entityType": "gene",
+            "entityName": "nitrite reductase",
+            "id": "UMLS:C0028135"
+        },
+        {
+            "entityId": "23885_23888",
+            "span": {
+                "begin": 23885,
+                "end": 23888
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "23908_23915",
+            "span": {
+                "begin": 23908,
+                "end": 23915
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "23955_23966",
+            "span": {
+                "begin": 23955,
+                "end": 23966
+            },
+            "entityType": "drug",
+            "entityName": "allopurinol",
+            "id": "UMLS:C0002144"
+        },
+        {
+            "entityId": "24083_24094",
+            "span": {
+                "begin": 24083,
+                "end": 24094
+            },
+            "entityType": "drug",
+            "entityName": "allopurinol",
+            "id": "UMLS:C0002144"
+        },
+        {
+            "entityId": "24233_24252",
+            "span": {
+                "begin": 24233,
+                "end": 24252
+            },
+            "entityType": "drug",
+            "entityName": "diphenyleneiodonium",
+            "id": "UMLS:C0058381"
+        },
+        {
+            "entityId": "24254_24257",
+            "span": {
+                "begin": 24254,
+                "end": 24257
+            },
+            "entityType": "drug",
+            "entityName": "DPI",
+            "id": "UMLS:C0058381"
+        },
+        {
+            "entityId": "24309_24316",
+            "span": {
+                "begin": 24309,
+                "end": 24316
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "24363_24366",
+            "span": {
+                "begin": 24363,
+                "end": 24366
+            },
+            "entityType": "drug",
+            "entityName": "DPI",
+            "id": "UMLS:C0058381"
+        },
+        {
+            "entityId": "24381_24404",
+            "span": {
+                "begin": 24381,
+                "end": 24404
+            },
+            "entityType": "gene",
+            "entityName": "mitochondrial complex I",
+            "id": "UMLS:C0171406"
+        },
+        {
+            "entityId": "24478_24485",
+            "span": {
+                "begin": 24478,
+                "end": 24485
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "24558_24569",
+            "span": {
+                "begin": 24558,
+                "end": 24569
+            },
+            "entityType": "drug",
+            "entityName": "allopurinol",
+            "id": "UMLS:C0002144"
+        },
+        {
+            "entityId": "24670_24672",
+            "span": {
+                "begin": 24670,
+                "end": 24672
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "24761_24763",
+            "span": {
+                "begin": 24761,
+                "end": 24763
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "24784_24786",
+            "span": {
+                "begin": 24784,
+                "end": 24786
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "24805_24809",
+            "span": {
+                "begin": 24805,
+                "end": 24809
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "24821_24832",
+            "span": {
+                "begin": 24821,
+                "end": 24832
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "24854_24858",
+            "span": {
+                "begin": 24854,
+                "end": 24858
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "24932_24934",
+            "span": {
+                "begin": 24932,
+                "end": 24934
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "24960_24967",
+            "span": {
+                "begin": 24960,
+                "end": 24967
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "25011_25015",
+            "span": {
+                "begin": 25011,
+                "end": 25015
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "25172_25176",
+            "span": {
+                "begin": 25172,
+                "end": 25176
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "25270_25272",
+            "span": {
+                "begin": 25270,
+                "end": 25272
+            },
+            "entityType": "gene",
+            "entityName": "GC",
+            "id": "UMLS:C3537453"
+        },
+        {
+            "entityId": "25292_25296",
+            "span": {
+                "begin": 25292,
+                "end": 25296
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "25316_25321",
+            "span": {
+                "begin": 25316,
+                "end": 25321
+            },
+            "entityType": "gene",
+            "entityName": "NO-Hb",
+            "id": "UMLS:C0019046"
+        },
+        {
+            "entityId": "25416_25427",
+            "span": {
+                "begin": 25416,
+                "end": 25427
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "25447_25454",
+            "span": {
+                "begin": 25447,
+                "end": 25454
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "25475_25477",
+            "span": {
+                "begin": 25475,
+                "end": 25477
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "25487_25491",
+            "span": {
+                "begin": 25487,
+                "end": 25491
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "25516_25518",
+            "span": {
+                "begin": 25516,
+                "end": 25518
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "25533_25535",
+            "span": {
+                "begin": 25533,
+                "end": 25535
+            },
+            "entityType": "gene",
+            "entityName": "GC",
+            "id": "UMLS:C3537453"
+        },
+        {
+            "entityId": "25550_25552",
+            "span": {
+                "begin": 25550,
+                "end": 25552
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "25586_25597",
+            "span": {
+                "begin": 25586,
+                "end": 25597
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "25678_25685",
+            "span": {
+                "begin": 25678,
+                "end": 25685
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "25703_25717",
+            "span": {
+                "begin": 25703,
+                "end": 25717
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "25811_25815",
+            "span": {
+                "begin": 25811,
+                "end": 25815
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "25829_25843",
+            "span": {
+                "begin": 25829,
+                "end": 25843
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "25920_25931",
+            "span": {
+                "begin": 25920,
+                "end": 25931
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "25948_25958",
+            "span": {
+                "begin": 25948,
+                "end": 25958
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "25999_26010",
+            "span": {
+                "begin": 25999,
+                "end": 26010
+            },
+            "entityType": "drug",
+            "entityName": "Myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "26019_26029",
+            "span": {
+                "begin": 26019,
+                "end": 26029
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "26053_26055",
+            "span": {
+                "begin": 26053,
+                "end": 26055
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "26095_26106",
+            "span": {
+                "begin": 26095,
+                "end": 26106
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "26123_26127",
+            "span": {
+                "begin": 26123,
+                "end": 26127
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "26142_26144",
+            "span": {
+                "begin": 26142,
+                "end": 26144
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "26197_26204",
+            "span": {
+                "begin": 26197,
+                "end": 26204
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "26271_26282",
+            "span": {
+                "begin": 26271,
+                "end": 26282
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "26317_26327",
+            "span": {
+                "begin": 26317,
+                "end": 26327
+            },
+            "entityType": "gene",
+            "entityName": "complex IV",
+            "id": "UMLS:C0010760"
+        },
+        {
+            "entityId": "26329_26349",
+            "span": {
+                "begin": 26329,
+                "end": 26349
+            },
+            "entityType": "gene",
+            "entityName": "cytochrome c oxidase",
+            "id": "UMLS:C0010760"
+        },
+        {
+            "entityId": "26391_26408",
+            "span": {
+                "begin": 26391,
+                "end": 26408
+            },
+            "entityType": "gene",
+            "entityName": "nitrite reductase",
+            "id": "UMLS:C0028135"
+        },
+        {
+            "entityId": "26435_26437",
+            "span": {
+                "begin": 26435,
+                "end": 26437
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "26490_26497",
+            "span": {
+                "begin": 26490,
+                "end": 26497
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "26512_26522",
+            "span": {
+                "begin": 26512,
+                "end": 26522
+            },
+            "entityType": "gene",
+            "entityName": "complex IV",
+            "id": "UMLS:C0010760"
+        },
+        {
+            "entityId": "26611_26618",
+            "span": {
+                "begin": 26611,
+                "end": 26618
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "26669_26671",
+            "span": {
+                "begin": 26669,
+                "end": 26671
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "26783_26787",
+            "span": {
+                "begin": 26783,
+                "end": 26787
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "26945_26952",
+            "span": {
+                "begin": 26945,
+                "end": 26952
+            },
+            "entityType": "drug",
+            "entityName": "nitroso",
+            "id": "UMLS:CHEBI:35801"
+        },
+        {
+            "entityId": "26966_26973",
+            "span": {
+                "begin": 26966,
+                "end": 26973
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "27004_27015",
+            "span": {
+                "begin": 27004,
+                "end": 27015
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "27036_27043",
+            "span": {
+                "begin": 27036,
+                "end": 27043
+            },
+            "entityType": "drug",
+            "entityName": "nitroso",
+            "id": "UMLS:CHEBI:35801"
+        },
+        {
+            "entityId": "27070_27077",
+            "span": {
+                "begin": 27070,
+                "end": 27077
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "27088_27090",
+            "span": {
+                "begin": 27088,
+                "end": 27090
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "27168_27171",
+            "span": {
+                "begin": 27168,
+                "end": 27171
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "27176_27195",
+            "span": {
+                "begin": 27176,
+                "end": 27195
+            },
+            "entityType": "cell",
+            "entityName": "HL-1 cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "27222_27229",
+            "span": {
+                "begin": 27222,
+                "end": 27229
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "27233_27235",
+            "span": {
+                "begin": 27233,
+                "end": 27235
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "27262_27265",
+            "span": {
+                "begin": 27262,
+                "end": 27265
+            },
+            "entityType": "cell",
+            "entityName": "RBC",
+            "id": "UMLS:C0014792"
+        },
+        {
+            "entityId": "27275_27282",
+            "span": {
+                "begin": 27275,
+                "end": 27282
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "27315_27319",
+            "span": {
+                "begin": 27315,
+                "end": 27319
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "27345_27349",
+            "span": {
+                "begin": 27345,
+                "end": 27349
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "27364_27378",
+            "span": {
+                "begin": 27364,
+                "end": 27378
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "27407_27418",
+            "span": {
+                "begin": 27407,
+                "end": 27418
+            },
+            "entityType": "drug",
+            "entityName": "myxothiazol",
+            "id": "UMLS:C0067087"
+        },
+        {
+            "entityId": "27478_27481",
+            "span": {
+                "begin": 27478,
+                "end": 27481
+            },
+            "entityType": "gene",
+            "entityName": "XOR",
+            "id": "UMLS:C1421531"
+        },
+        {
+            "entityId": "27483_27486",
+            "span": {
+                "begin": 27483,
+                "end": 27486
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4843"
+        },
+        {
+            "entityId": "27492_27496",
+            "span": {
+                "begin": 27492,
+                "end": 27496
+            },
+            "entityType": "gene",
+            "entityName": "p450",
+            "id": "UMLS:C0534137"
+        },
+        {
+            "entityId": "27567_27571",
+            "span": {
+                "begin": 27567,
+                "end": 27571
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "27627_27634",
+            "span": {
+                "begin": 27627,
+                "end": 27634
+            },
+            "entityType": "drug",
+            "entityName": "nitrite",
+            "id": "UMLS:C3848529"
+        },
+        {
+            "entityId": "27644_27648",
+            "span": {
+                "begin": 27644,
+                "end": 27648
+            },
+            "entityType": "drug",
+            "entityName": "cGMP",
+            "id": "mesh:D006152"
+        },
+        {
+            "entityId": "27662_27676",
+            "span": {
+                "begin": 27662,
+                "end": 27676
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "1827_1834",
+            "subjectText": "nitrite",
+            "rel_name": "reduces",
+            "objectId": "1848_1850",
+            "objectText": "NO"
+        },
+        {
+            "subjectID": "1143_1146",
+            "subjectText": "NOS",
+            "rel_name": "inhibit",
+            "objectId": "1123_1127",
+            "objectText": "p450"
+        }
+    ]
+}

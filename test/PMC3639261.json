@@ -1,0 +1,1188 @@
+{
+    "sourcid": "PMC3639261",
+    "publisher": "Public Library of Science",
+    "journal": "PLoS ONE",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3639261/",
+    "text": "Hypertension and Genetic Variation in Endothelial-Specific Genes Genome-wide association (GWA) studies usually detect common genetic variants with low-to-medium effect sizes. Many contributing variants are not revealed, since they fail to reach significance after strong correction for multiple comparisons. The WTCCC study for hypertension, for example, failed to identify genome-wide significant associations. We hypothesized that genetic variation in genes expressed specifically in the endothelium may be important for hypertension development. Results from the WTCCC study were combined with previously published gene expression data from mice to specifically investigate SNPs located within endothelial-specific genes, bypassing the requirement for genome-wide significance. Six SNPs from the WTCCC study were selected for independent replication in 5205 hypertensive patients and 5320 population-based controls, and successively in a cohort of 16537 individuals. A common variant (rs10860812) in the DRAM (damage-regulated autophagy modulator) locus showed association with hypertension (P = 0.008) in the replication study. The minor allele (A) had a protective effect (OR = 0.93; 95% CI 0.88-0.98 per A-allele), which replicates the association in the WTCCC GWA study. However, a second follow-up, in the larger cohort, failed to reveal an association with blood pressure. We further tested the endothelial-specific genes for co-localization with a panel of newly discovered SNPs from large meta-GWAS on hypertension or blood pressure. There was no significant overlap between those genes and hypertension or blood pressure loci. The result does not support the hypothesis that genetic variation in genes expressed in endothelium plays an important role for hypertension development. Moreover, the discordant association of rs10860812 with blood pressure in the case control study versus the larger Malmo Preventive Project-study highlights the importance of rigorous replication in multiple large independent studies.              Introduction Hypertension is the major global risk factor for coronary heart disease and stroke. The pathogenesis is poorly understood and the primary cause is unknown in 90-95% of cases. Heritability has been estimated to between 30 and 50% and ambitious efforts have been made to elucidate the genetic basis. While genome-wide association (GWA) studies have been effective at identifying novel genetic risk loci for a wide range of diseases, hypertension has proved more challenging. The Welcome Trust Case Control Consortium (WTCCC) study, encompassing 2000 subjects for each of 7 diseases and 3000 common controls, was successful overall but failed in the case of hypertension. Robust associations of genetic variants with hypertension were eventually identified based on large meta-analyses and multi-center studies of 30,000-200,000 individuals.     One possible reason for this is that hypertension may have relatively few common risk alleles of large effect sizes. Thus, discovery of novel variants for hypertension on the whole genome scale is challenging, and many true variants are likely fail to reach significance after correction for multiple testing. Although no single nucleotide polymorphisms (SNPs) reached the P<5x10-7 threshold required for significance in the WTCCC hypertension study, the number and distribution of signals in the 10-7 to 10-4 range was similar to that observed for other diseases. It is therefore possible that several truly hypertension-associated variations are hidden among the long list of moderately significant SNPs.        Although results have been contradictive, previous association studies indicate that genetic variation in endothelial genes such as endothelin-1 and endothelial nitric oxide synthase, both related to blood pressure (BP) regulation, may contribute to essential hypertension. Based on the hypothesis that genetic variation in endothelium-specific genes may influence BP, we combined data from the WTCCC GWA study with previously published microarray gene expression data from mice, to select a subset of six SNPs, all located within endothelial marker genes, for independent replication in a case control study comprising more than 10,000 individuals. One SNP was further evaluated in a population-based study with 16537 participants (Figure 1). Study design and workflow. Methods Ethics Statement The Nordic Diltiazem study (NORDIL) and the Malmo Diet and Cancer Cardiovascular Cohort study (MDC-CC) were approved by the human ethics committees at the University of Gothenburg and Lund University, respectively. The Malmo Preventive Project (MPP) study was approved by the local ethics committee of Southern Sweden. All study participants had given written consent.   The Nordic Diltiazem Study The Nordic Diltiazem study (NORDIL) is an intervention trial that between 1992 and 1999 included 10881 Swedish and Norwegian patients diagnosed with severe (grade 2) hypertension based on repeated diastolic BP>=100 mmHg on different occasions, and prospectively compared cardiovascular outcome in patients randomized to diltiazem-based antihypertensive treatment as compared to patients randomized to diuretic and/or beta-blocker based antihypertensive treatment. The design and main results have previously been described in detail. The primary endpoint was fatal and non-fatal stroke, fatal and non-fatal myocardial infarction and other cardiovascular deaths, and there was no significant difference in cardiovascular outcome between the two treatment regimens. The Swedish subcohort of NORDIL participated in a genetic study and we obtained whole blood samples for DNA isolation from 5262 patients, of whom 5205 were successfully genotyped for the main SNP rs10860812 for the present investigation. BP was measured in the supine position after 10 minutes rest. These patients with diagnosed grade 2 hypertension formed our case group. The Malmo Diet and Cancer Cardiovascular Cohort study  As a population control we used a Swedish cohort study, the population based Malmo Diet and Cancer Cardiovascular Cohort (MDC-CC), which was designed to investigate the epidemiology of carotid artery disease. From a community-based prospective epidemiologic cohort of 28,449 persons enrolled between 1991 and 1996, 6,103 persons were randomly selected to participate in the MDC-CC. Whole blood samples for DNA extraction was obtained from 5445 subjects and genotypes for the main SNP rs10860812 were obtained from 5320 of these subjects. In the MDC-CC, BP was measured using a mercury-column sphygmomanometer after 10 minutes of rest in the supine position. Cardiovascular events (fatal and non-fatal stroke, fatal and non-fatal myocardial infarction and other cardiovascular deaths) were recorded during follow-up using national and local registers. Follow-up extended until December 31st 2005. Intima-media thickness (IMT) of the carotid artery was measured using 2D B-mode ultrasound as described previously. The mean IMT of a 10 mm section of the common carotid artery (IMTmean) and the maximum IMT of the carotid bulb (IMTmax) was recorded.  Characteristics of the grade 2 hypertension patients (NORDIL) and the population based control sample (MDC-CC) are shown in Table 1. Characteristics of study subjects. Characteristic\tNORDIL\tMDC-CC\tMPP base\tMPP followup\t \tNo. of individuals\t5205\t5320\t16537\t16537\t \tAge (years+-SD)\t60.2+-6.6\t57.4+-5.9\t45.6+-6.9\t69.1+-5.5\t \tFemale sex (%)\t50.2\t57.7\t35.8\t35.8\t \tAntihypertensive treatment (%)\t100*\t16.7\t4.5\t38.4\t \tSmoker (%)\t20.6\t27.7\t36.9\t17.5\t \tSystolic blood pressure (mmHg+-SD)\t172.6+-18.9\t141.3+-19.1\t127.7+-14.4\t145.1+-20.0\t \tDiastolic blood pressure (mmHg+-SD)\t103.1+-7.1\t87.0+-9.5\t84.2+-8.8\t83.5+-10.5\t \tBMI (kg/m2+-SD)\t28.1+-4.4\t25.9+-4\t24.3+-3.4\t27.2+-4.1\t \tGlucose (mmol/l+-SD)\t5.32+-1.56\t5.19+-1.42\t4.90+-0.75\t5.85+-1.4\t \tCholesterol (mmol/l+-SD)\t6.31+-1.17\t6.17+-1.09\t5.63+-1.0\t5.59+-1.1    BMI, body mass index; SD, standard deviation. *all NORDIL patients had grade 2 hypertension and received treatment either prior to or during the trial. The Malmo Preventive Project  33,346 individuals from the city of Malmo (22,400 men and 10902 women) with a mean age of 49 years participated in a health study, the Malmo Preventive Project (MPP), during 1974-1992 (attendance rate 71%). The participants underwent a physical examination at the onset of the study with measurement of BP. Of those 33,346 participants, 5486 individuals were lost from follow-up (4931 died and 551 were lost from other reasons). 18,240 individuals participated in a re-screening visit during 2002-2006 (73% of the invited individuals) for renewed physical examination and BP determination. Of the 18,240 attending individuals, 1703 were excluded from the present investigation since clinical information or DNA was lacking. Thus, 16537 individuals were included for sequential replication. BP was monitored in different ways at the two occasions. At the onset of the study, a first BP reading was taken after 1 minute of rest in the supine position. A second BP reading was taken in the upright position after 1 minute of standing. The procedure was repeated after a 10 minute rest in the supine position. The average BP of subjects with at least three valid measurements was included in the present study. At the re-screening, BP was determined twice in the supine position and the average BP of individuals with two valid measurements was included in the present study.       Characteristics of the MPP study subjects are shown in Table 1. Genotyping DNA was extracted from granulocyte or buffy coat suspensions, maintained at -80 C from the time of enrolment. Samples were thawed rapidly at 37 C and 200 microL aliquots were subjected to QiaAmp mini-preps in 96-well format (Qiagen) according to the manufacturer's instructions. SNPs rs893881, rs10060812, rs2269772, rs4684243, rs4981504 and rs6891143 were genotyped using 2.5 ng of DNA on the 7900HT instrument using TaqMan SNP Genotyping Assays (Applied Biosystems) in a total reaction volume of 6 microL in 384-well microtiter plates, according to the manufacturer's instructions.   Animals Adult C57Bl/6 mice were kept in groups at the Laboratory for Experimental Biomedicine at University of Gothenburg in a 12 h day/12 h night light cycle with food and water administered ad libitum in a temperature- and humidity-controlled room. All animal experiments were approved by the animal research ethics committee in Gothenburg, Sweden. Isolation of Microvascular Fragments Microvascular fragments were isolated from adult C57/Bl6 mouse brain and kidney. Brains or kidneys were dissected out, minced into pieces and digested with 5 mg Collagenase A (Roche Diagnostics GmbH, Mannheim, Germany) dissolved in Hanks' balanced salt solution (HBSS, Invitrogen AB, Lidingo, Sweden) including 1% BSA and 100U DNase at 37 C for 15 min with gentle agitation. The tissue was then gently pressed through a 100 microm cell strainer (Falcon, BD Biosciences, Stockholm, Sweden). Cells were washed out from the strainer in 2 ml of HBSS/1%BSA/100U DNase, pelleted at 200 g for 5 min, suspended in 1.5 ml HBSS/1% BSA/100U DNase, and again pelleted and resuspended. Rat anti-PECAM (BD PharMingen, San Diego, CA, USA) antibody (Ab) -coated magnetic beads (Dynabeads M-450, sheep anti-Rat IgG, Dynal A.S., Oslo, Norway) were added, and after incubation at 4 C for 30 min with gentle agitation, microvascular fragments were isolated with a magnetic particle concentrator (MPC, Dynal) and washed three times with HBSS/1% BSA.   qPCR mRNA expression levels were determined using SYBR Green quantitative qPCR (95 , 55 , 72 , 40 cycles) on a 7900HT instrument (Applied Biosystems) using the following primers: Adcy4, 5'-CTTTGGGTGGCTTCTCTCTG-3' and 5'-ATGGCGTACACGGTGAAGAT-3'; Gpr116, 5'-AAGACATGAGATCGCCAAGG-3' and 5'-TTGGCCTCAGTAGCTCTTCC-3'; Fgd5, 5'-GCTCAGGAGCTGCTGTCTTC-3' and 5'-CCCTGGTGAAGGTCACAGATA-3'; Arap3, 5'-GACTGAGCCCAATCTTCTGG-3' and 5'-TCGCCTGAGAACTATCTGGA-3'; Itga3, 5'-TTGAGGATATGTGGCTTGGA-3' and 5'-ATGCCGGTCTGCAAGTAGTC-3'; Dram, 5'-GACACAGGAACAACTCCTCCA-3' and 5'-AACGGGAGTGCTGAAGTAGC-3'; Nebl, 5'-ATGTTTCCACTGCGAGGTCT-3' and 5'-TGCAGTTCACTTTGCTGCTT-3'. Expression of Gapdh and Tie2 were measured using TaqMan assays under standard cycling conditions (Mm99999915_g1 and Mm00443242_m1, Applied Biosystems). Relative expression levels were determined using the standard curve method.                                                            Bioinformatical Identification of Candidate Hypertension SNPs Tab-delimited text files with hypertension association statistics for 469,557 SNPs were obtained from the WTCCC. A list of 71 genes predicted to be specifically expressed in the microvascular endothelium were obtained from a recently published study. Reciprocal human orthologs and genomic coordinates for these genes were determined using ENSEMBL and the UCSC browser. For each gene region, here defined as the start of the first exon until the end of the last exon, the SNP with the lowest trend P-value in the WTCCC study was identified (Table 2). SNPs in the WTCCC hypertension study mapped onto endothelial-specific genes. Gene\tChr\tBest SNP\tPadd\tSNPs in gene\tGene\tChr\tBest SNP\tPadd\tSNPs in gene\t \tADCY4\t14\trs4981504\t4.10E-04\t3\tNP_061174\t1\trs1175645\t1.60E-01\t18\t \tGPR116\t6\trs2021916\t5.40E-04\t43\tC20orf160\t20\trs6061095\t1.60E-01\t1\t \tFGD5\t3\trs4684243\t8.10E-04\t23\tPSCD3\t7\trs7777433\t1.60E-01\t7\t \tARAP3\t5\trs6891143\t1.00E-03\t5\tEPAS1\t2\trs10191091\t1.80E-01\t23\t \tITGA3\t17\trs2269772\t1.50E-03\t5\tSMAD6\t15\trs16950159\t1.80E-01\t12\t \tDRAM\t12\trs10860812\t1.80E-03\t7\tTIE\t1\trs1467809\t2.30E-01\t1\t \tPTPRB\t12\trs1867003\t3.50E-03\t42\tROBO4\t11\trs12823\t2.40E-01\t3\t \tSLCO2A1\t3\trs10935089\t7.70E-03\t13\tSLC43A3\t11\trs3851116\t2.40E-01\t2\t \tNOTCH4\t6\trs415929\t1.10E-02\t8\tNP_938019\t4\trs17036363\t2.40E-01\t4\t \tTCF21\t6\trs3734281\t1.30E-02\t3\tTENC1\t12\trs2364153\t2.50E-01\t3\t \tPECAM1\t17\trs8074241\t1.40E-02\t14\tPLTP\t20\trs1736493\t2.50E-01\t2\t \tCALCRL\t2\trs840599\t1.40E-02\t22\tKDR\t4\trs17085310\t2.80E-01\t5\t \tNP_631958\t4\trs4365784\t1.40E-02\t4\tSOX13\t1\trs12092337\t2.90E-01\t3\t \tNTN4\t12\trs7961560\t1.40E-02\t19\tACVRL1\t12\trs7956340\t3.30E-01\t3\t \tERG\t21\trs2836431\t1.70E-02\t84\tEPHB4\t7\trs314313\t3.30E-01\t1\t \tPTPRM\t18\trs12457610\t1.90E-02\t171\tLATS2\t13\trs11841745\t3.30E-01\t19\t \tRASIP1\t19\trs2638283\t2.20E-02\t2\tVEGF\t6\trs3025047\t3.50E-01\t2\t \tEHD4\t15\trs1002774\t2.50E-02\t12\tCCBP2\t3\trs6763528\t3.70E-01\t4\t \tQ8IW82\t5\trs6882738\t3.40E-02\t14\tICAM2\t17\trs4141180\t4.10E-01\t1\t \tITGA8\t10\trs17137406\t3.40E-02\t65\tNP_940873\t19\trs1019757\t4.60E-01\t2\t \tNRP1\t10\trs870087\t3.60E-02\t45\tCASKIN2\t17\trs4789205\t4.60E-01\t3\t \tCOL4A3\t2\trs11677877\t3.90E-02\t44\tESAM\t11\trs7928640\t6.40E-01\t3\t \tELTD1\t1\trs2035727\t4.20E-02\t15\tSTARD9\t15\trs16957063\t6.50E-01\t4\t \tNUMB\t14\trs7148830\t4.70E-02\t18\tHSPA12B\t20\trs3088007\t7.60E-01\t1\t \tNPR3\t5\trs696833\t5.10E-02\t18\tSDPR\t2\trs4280394\t8.00E-01\t1\t \tPALD\t10\trs16927685\t6.00E-02\t32\tENG\t9\trs11792480\t8.10E-01\t2\t \tAGER\t6\trs1035798\t7.60E-02\t1\tICAM1\t19\tn/a\tn/a\t0\t \tMYO1B\t2\trs897196\t8.30E-02\t35\tCLDN5\t22\tn/a\tn/a\t0\t \tCBFA2T3\t16\trs519507\t8.90E-02\t6\tQ8TAY7\t1\tn/a\tn/a\t0\t \tDTR\t5\trs4150212\t9.30E-02\t5\tEGFL7\t9\tn/a\tn/a\t0\t \tENTPD1\t10\trs10882664\t9.50E-02\t18\tSLC9A3R2\t16\tn/a\tn/a\t0\t \tMMRN2\t10\trs12416136\t1.20E-01\t1\tNP_078855\t1\tn/a\tn/a\t0\t \tNP_079106\t5\trs27059\t1.40E-01\t15\tRAMP2\t17\tn/a\tn/a\t0\t \tSOX7\t8\trs7009920\t1,50E-01\t2\tHIG2_HUMAN\t7\tn/a\tn/a\t0\t \tCDH5\t16\trs8051913\t1.50E-01\t6\tNP_115724\t1\tn/a\tn/a\t0\t \tLRRK1\t15\trs7163635\t1.60E-01\t4         SNPs selected for independent replication are indicated in italic. SNP counts refers to coverage on the Affymetrix 500K array. Co-localization of SNPs Associated with Hypertension or Blood Pressure in Meta-GWAS with EC-specific Genes 549 SNPs with P<10-5 based on data from 18 GWAS or meta-GWAS on hypertension or blood pressure were extracted from the PheGenI database (http://www.ncbi.nlm.nih.gov/gap/PheGenI). 670 putative associated genes were within 100 kb these SNPs, and these were evaluated for overrepresentation of EC-specific genes (71 gene list) using Fisher's exact test.     Statistical Analysis We assumed an additive model of inheritance and calculated allelic odds ratios (OR) and 95% confidence intervals (95% CI) for each SNP in relation to the main dependent variable (belonging to the grade 2 hypertension case group or belonging to the population controls) and to the secondary outcome variable (presence of cardiovascular events during follow-up in NORDIL or MDC-CC or no cardiovascular event during follow-up in NORDIL or MDC-CC) using crude and multivariate adjusted logistic regression. Continuous variables were related to rs10860812 using linear regression assuming an additive model of inheritance. Deviation from Hardy-Weinberg equilibrium was evaluated with a chi2 test using Levene's method (1949).  Results Putative Hypertension-associated SNPs in Endothelial-specific Genes Since the endothelium has a functional role in BP regulation, we tested the hypothesis that genetic variation in genes expressed specifically in the endothelium may influence hypertension development. SNPs from the published WTCCC GWA analysis for human hypertension were mapped onto a list of 71 endothelial genes obtained from a published study, where putative endothelial-specific genes were identified through analysis of a large mouse microarray compendium. For each gene region, the SNP with the strongest association to hypertension was identified (additive model). In consistency with our hypothesis, the number of moderately significant SNPs (P<0.005) was significantly larger among the set of EC-specific genes compared to remaining genes (10% v.s. 4%, P = 0.03, Fisher's exact test). Genes were ranked according to best P-value and SNPs in the top six candidates were selected for replication in an independent material. Association P-values in the WTCCC study for these SNPs were in the range of 1.8x10-3 to 4.1x10-4 (Table 2, italic). In addition, a SNP in the NEBL gene was included for validation due to its relatively strong association in the WTCCC (rs893881, P add = 1.5x10-5). NEBL is selectively expressed in endothelial cells and was highly ranked in the original analysis of EC-specific gene expression, but did not qualify for the 71-gene list due to additional strong expression in the heart.                    To confirm expression of these genes in the vasculature, microvascular fragments were isolated from mouse brain and kidney using anti-CD31 (PECAM)-coated magnetic beads. Expression in vascular fragments vs. surrounding tissue was subsequently determined using real-time quantitative PCR. All genes were found to be significantly enriched in CD31+ fractions from both tissues (P<0.005) and all except one had >70-fold enrichment in at least one of the tissues (Figure 2). Gapdh was not differentially expressed, while Tie2, included as a positive control, was strongly enriched in CD31+ fractions from both tissues. Differential mRNA expression in CD31+ microvascular fragments. Microvascular fragments were isolated from mouse tissues using anti-CD31 (PECAM)-coated magnetic beads. Reverse transcription was performed using equal amounts of RNA and expression levels were assessed using real-time quantitative PCR. The graph shows the ratio between expression in microvascular fragments and the remaining tissue fraction for all genes included in the study. Gapdh and an established endothelial marker, Tie2, were included for comparison. Error bars represent SEM (n = 4, P<0.005 in all cases using Student's t-test).       The DRAM Locus and Hypertension An independent evaluation of the above selected SNPs was performed in 5205 hypertensive patients and 5320 population based controls (NORDIL vs. MDC-CC). Genotyping was successful (average genotyping success rate 98%) for six of the seven SNPs selected for validation, while one SNP (rs2021916, GPR116 locus) did not pass quality control. For all tested SNPs, allele frequencies were fairly similar in the WTCCC study and the replication studies, and Hardy-Weinberg expectations were satisfied in the population control group (P>0.15). The power to show an association to hypertension in the case-control material (NORDIL+MCD-CC), assuming additive model odds ratios of 1.05, 1.10 and 1.15 was 21%, 60% and 90%, respectively. One common variant (rs10860812) in the DRAM locus showed significant association with hypertension (Table 3), whereas none of the other SNPs were significantly associated. After applying a Bonferroni correction of 6 to account for all tested loci, this variant was still significant at the P<0.05 level. The minor allele (A) showed a protective effect (OR = 0.93; 95% CI 0.88-0.98 per A-allele; P = 0.008), the directionality of which is in concordance with the association that was observed in the WTCCC GWA study. The protective effect remained significant (OR = 0.93; 95% CI 0.87-0.99 per A-allele; P = 0.01) after adjustment for age, sex, body mass index, diabetes, smoking, plasma cholesterol, and previous cardiovascular disease. Exclusion of subjects on antihypertensive therapy in the control group (n = 888) had a small positive effect on the strength of the association (OR = 0.93, 95% CI 0.87-0.98 per A-allele; P = 0.007). We performed interaction tests between the DRAM rs10860812 and each of the 5 other SNPs with hypertension as the outcome. There was no significant interaction between the rs10860812 and any of the 5 other SNPs (P = 0.159-0.887).                                         Association between hypertension and SNPs in the study in WTCCC and NORDIL/MDC-CC. SNP\tWTCCC hypertension study\t \t\t\t\tAllele\tCases\tControls\t\t \tID\tChr.\tLocus\tMajor\tMinor\tAA\tAa\taa\tAA\tAa\taa\tPadd\t \trs4981504\t14q11\tADCY4\tG\tA\t1092 (56.0)\t734 (37.7)\t123 (6.3)\t1783 (60.7)\t1014 (34.5)\t141 (4.8)\t4.1E-04\t \trs4684243\t3p25\tFGD5\tA\tT\t988 (50.6)\t787 (40.3)\t177 (9.1)\t1609 (54.8)\t1122 (38.2)\t206 (7.0)\t8.1E-04\t \trs6891143\t5q31\tCENTD3\tC\tT\t1368 (70.3)\t531 (27.3\t48 (2.5)\t2186 (74.5)\t695 (23.7)\t55 (1.9)\t1.0E-03\t \trs2269772\t17q21\tITGA3\tG\tA\t1682 (86.2)\t261 (13.4)\t8 (0.4)\t2438 (83.0)\t474 (16.1)\t24 (0.8)\t1.5E-03\t \trs10860812\t12q23\tDRAM\tG\tA\t695 (35.7)\t908 (46.6)\t344 (17.7)\t939 (32.1)\t1387 (47.4)\t602 (20.6)\t1.8E-03\t \trs893881\t10p12\tNEBL\tT\tC\t761 (39.6)\t920 (47.8)\t242 (12.6)\t1000 (34.3)\t1446 (49.7)\t466 (16.0)\t1.5E-05\t \tSNP\tNORDIL/MDC-CC replication study\t \t\t\t\tAllele\tCases\tControls\t\t \tID\tChr.\tLocus\tMajor\tMinor\tAA\tAa\taa\tAA\tAa\tAa\tPadd\t \trs4981504\t14q11\tADCY4\tG\tA\t3349 (64.3)\t1649 (31.7)\t211 (4.1)\t3444 (64.9)\t1659 (31.3)\t204 (3.8)\t4.6E-01\t \trs4684243\t3p25\tFGD5\tA\tT\t2737 (52.7)\t2041 (39.3)\t418 (8.0)\t2827 (53.3)\t2113 (39.8)\t367 (6.9)\t1.6E-01\t \trs6891143\t5q31\tCENTD3\tC\tT\t3464 (66.4)\t1561 (29.9)\t188 (3.6)\t3593 (67.6)\t1539 (28.9)\t187 (3.5)\t2.7E-01\t \trs2269772\t17q21\tITGA3\tG\tA\t4246 (81.6)\t921 (17.7)\t39 (0.7)\t4375 (82.5)\t880 (16.6)\t46 (0.9)\t2.9E-01\t \trs10860812\t12q23\tDRAM\tG\tA\t1662 (31.9)\t2521 (48.4)\t1022 (19.6)\t1553 (29.2)\t2674 (50.3)\t1093 (20.5)\t7.8E-03\t \trs893881\t10p12\tNEBL\tT\tC\t2055 (39.5)\t2462 (47.3)\t691 (13.3)\t2118 (40.0)\t2449 (46.2)\t730 (13.8)\t9.9E-01    P-values were calculated assuming an additive model. Figures within parentheses are percentages.  Secondary Analyses of DRAM Locus in the MDC-CC Study Secondary analyses of rs10860812 (additive models) in relation to the continuous BP variable in the MDC-CC population sample did not reach significance, although results pointed toward a protective effect for the A-allele (beta-coefficient +- SEM) (-0.425+-0.374 mmHg per A-allele, P = 0.26 for systolic BP and -0.200+-0.187 mmHg per A-allele, P = 0.29 for diastolic BP). The risk of incident cardiovascular disease during follow-up (n = 894 cardiovascular events in MDC-CC+NORDIL) was reduced in carriers of the rs10860812 A-allele (OR = 0.90, 95% CI 0.82-1.0 per A-allele; P = 0.04). Finally, in patients from the MDC-CC study, where IMT was measured, the rs10860812 A-allele tended to be associated with lower (beta-coefficient +- SEM) IMTmax (-0.028+-0.015 mm per A-allele; P = 0.06) and IMTmean (-0.006+-0.003 mm per A-allele; P = 0.07).                                   Secondary Analyses of DRAM Locus in the MPP Study The rs10860812 variant was further evaluated (additive models) in relation to the continuous BP variable in the MPP study comprising 16537 individuals. There was no association between the rs10860812 variant and systolic or diastolic blood pressure neither at the MPP study baseline exam (beta-coefficient +- SEM) (0.064+-0.158 mmHg per A-allele, P = 0.688 for systolic BP and -0.068+-0.097 mmHg per A-allele, P = 0.486 for diastolic BP) or at re-screening 15-25 years later (0.032+-0.219 mmHg per A-allele, P = 0.883 for systolic BP and -0.121+-0.116 mmHg per A-allele, P = 0.297 for diastolic BP). One possible confounding factor is that pharmacological treatment of hypertensive subjects in the study lowers the observed BP thus reducing the statistical power. However, similar results were obtained when diastolic (+10 mmHg) and systolic BP (+15 mmHg) were corrected in subjects on antihypertensive treatment (data not shown), as described in. Moreover, the risk of incident cardiovascular disease during follow-up was not different in carriers of the rs10860812 A-allele, compared to the control population (data not shown).                     Co-localization of EC-specific Genes and SNPs from Meta-GWAS The lack of significant associations in our study suggests that variants in EC-specific genes may not be associated with hypertension or blood pressure more often than random genes. However, the publication of large meta-GWAS has expanded the repertoire of SNPs associated with those phenotypes, raising the possibility that newly discovered SNPs co-localize with EC-specific genes. To assess this possibility, we tested the 71 EC-specific genes against a recent catalogue of SNPs associated with hypertension or blood pressure, comprising a total of 18 GWAS or meta-GWAS. A set of 529 SNPs with association P<10-5 were downloaded from the genotype phenotype integrator (PheGenI) at NCBI (http://www.ncbi.nlm.nih.gov/gap/PheGenI), and mapped against the genomic locations of the 71 EC-specific genes. EC-specific genes were not significantly over-represented among 670 genes located within 100 kb of those SNPs (5 EC-specific genes located within 100 kb of associated SNPs, P = 0.10, Fisher's exact test).         Discussion Rare high-penetrance or common weakly penetrant genetic variants are not readily detected in GWA studies, opening up for alternative approaches that maintain the genome-wide perspective but reduce multiple testing. Here, we assess if genetic variants in endothelial-specific genes are associated with hypertension. The SNPs were selected for validation based on 1) endothelium-specific expression of the gene locus and 2) an association to hypertension that was observed in the WTCCC GWA study, although at a P-value below genome-wide significance. The selection process can thus be described as an intermediate between a candidate gene approach and a genome-wide approach. Our case control study was substantially larger and our cases had a strictly defined and more severe clinical hypertension (grade 2) compared to the WTCCC, suggesting a greater power as the genetic contribution is likely to be larger in this case. Similar to the WTCCC, our control group was population based and thus included patients with hypertension. Our estimate of the genetic effect on risk therefore has relevance at the population level, but this may also have reduced the power in our study. To further validate effects on BP, SNPs were re-evaluated in relation to the continuous BP variable in the population based MPP study. Our first replication suggested an association between a SNP (rs10860812) in the DRAM locus on chromosome 12q23 and hypertension. DRAM is a regulator of autophagy that plays a critical role in apoptosis. Although open to question, the involvement of apoptosis in hypertension-related vascular remodeling has been suggested. The minor allele (A) of this SNP was concluded to have a protective effect and this is consistent with results from the WTCCC study. Secondary analyses revealed an association with incident cardiovascular events and borderline significant associations with IMTmax and IMTmean. However, evaluation of rs10860812 in relation to the continuous blood pressure variable in the MDC-CC population study and sequentially in the larger MPP study did not show association with BP. Moreover, there was no association of rs10860812 with cardiovascular disease in the MPP study. Recent meta-analyses have to some part overcome the problems of the early hypertension GWAS, and 29 loci are now robustly associated with blood pressure and hypertension. The EC-specific gene NRP3 is located near one of the 29 validated loci, rs1173771, and encodes a receptor for natriuretic peptides that are implicated in the maintenance of blood pressure, supporting a causal role for the endothelium. A large proportion of blood pressure heritability remains unknown, and alternative methods such as the one we describe could help identify additional loci. However, our replication studies of moderately significant SNPs from the WTCCC study did not support a connection between genetic variation in the endothelium and hypertension. Similarly, the expanded investigation of 529 potential SNPs from the PheGenI catalogue failed to show significant overlap with EC-specific genes. In conclusion, our study does not support that genetic variation in genes expressed in endothelium plays a major role in the development of hypertension. The result further underscores the importance of rigorous validation of genetic associations in large and independent populations. References Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls Genetic variants in novel pathways influence blood pressure and cardiovascular disease risk Genome-wide association analysis identifies loci for type 2 diabetes and triglyceride levels Genome-wide association study of blood pressure and hypertension Genome-wide association study identifies eight loci associated with blood pressure Genome-wide association studies for complex traits: consensus, uncertainty and challenges Endothelin-1 gene variant associates with blood pressure in obese Japanese subjects: the Ohasama Study Different frequencies of inducible nitric oxide synthase genotypes in older hypertensives Chromosome 17 and the inducible nitric oxide synthase gene in human essential hypertension The Lys198Asn polymorphism in the endothelin-1 gene is associated with blood pressure in overweight people Identification of a core set of 58 gene transcripts with broad and specific expression in the microvasculature Randomised trial of effects of calcium antagonists compared with diuretics and beta-blockers on cardiovascular morbidity and mortality in hypertension: the Nordic Diltiazem (NORDIL) study Polymorphisms associated with cholesterol and risk of cardiovascular events Low-dose metoprolol CR/XL and fluvastatin slow progression of carotid intima-media thickness: Main results from the Beta-Blocker Cholesterol-Lowering Asymptomatic Plaque Study (BCAPS) Cardiovascular risk groups and mortality in an urban swedish male population: the Malmo Preventive Project Mathematics of quantitative kinetic PCR and the application of standard curves The Ensembl genome database project The human genome browser at UCSC Adjusting for treatment effects in studies of quantitative traits: antihypertensive therapy and systolic blood pressure The NCBI dbGaP database of genotypes and phenotypes Framingham Heart Study 100K Project: genome-wide associations for blood pressure and arterial stiffness Genome-wide association study for subclinical atherosclerosis in major arterial territories in the NHLBI's Framingham Heart Study   From the Cover: Whole-genome association study identifies STK39 as a hypertension susceptibility gene Genome-wide association studies in an isolated founder population from the Pacific Island of Kosrae Genome-wide scan identifies CDH13 as a novel susceptibility locus contributing to blood pressure determination in two European populations A large-scale genome-wide association study of Asian populations uncovers genetic factors influencing eight quantitative traits Genome-wide association study identifies single-nucleotide polymorphism in KCNB1 associated with left ventricular mass in humans: the HyperGEN Study A genome-wide association study of hypertension and blood pressure in African Americans A genome-wide association study of the metabolic syndrome in Indian Asian men Genome-wide association study of blood pressure extremes identifies variant near UMOD associated with hypertension Meta-analysis of genome-wide association studies identifies common variants associated with blood pressure variation in east Asians Genome-wide association study identifies six new loci influencing pulse pressure and mean arterial pressure Genetic association of short sleep duration with hypertension incidence-a 6-year follow-up in the Korean genome and epidemiology study   A genome-wide linkage and association scan reveals novel loci for hypertension and blood pressure traits DRAM, a p53-induced modulator of autophagy, is critical for apoptosis Vascular remodeling in hypertension: roles of apoptosis, inflammation, and fibrosis Natriuretic peptides, their receptors, and cyclic guanosine monophosphate-dependent signaling functions",
+    "entities": [
+        {
+            "entityId": "0_12",
+            "span": {
+                "begin": 0,
+                "end": 12
+            },
+            "entityType": "disease",
+            "entityName": "Hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "328_340",
+            "span": {
+                "begin": 328,
+                "end": 340
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "523_535",
+            "span": {
+                "begin": 523,
+                "end": 535
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "644_648",
+            "span": {
+                "begin": 644,
+                "end": 648
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "861_873",
+            "span": {
+                "begin": 861,
+                "end": 873
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "874_882",
+            "span": {
+                "begin": 874,
+                "end": 882
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "1081_1093",
+            "span": {
+                "begin": 1081,
+                "end": 1093
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "1513_1525",
+            "span": {
+                "begin": 1513,
+                "end": 1525
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "1602_1614",
+            "span": {
+                "begin": 1602,
+                "end": 1614
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "1767_1779",
+            "span": {
+                "begin": 1767,
+                "end": 1779
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "2054_2066",
+            "span": {
+                "begin": 2054,
+                "end": 2066
+            },
+            "entityType": "disease",
+            "entityName": "Hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "2103_2125",
+            "span": {
+                "begin": 2103,
+                "end": 2125
+            },
+            "entityType": "disease",
+            "entityName": "coronary heart disease",
+            "id": "UMLS:C0010068"
+        },
+        {
+            "entityId": "2130_2136",
+            "span": {
+                "begin": 2130,
+                "end": 2136
+            },
+            "entityType": "disease",
+            "entityName": "stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "2485_2497",
+            "span": {
+                "begin": 2485,
+                "end": 2497
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "2709_2721",
+            "span": {
+                "begin": 2709,
+                "end": 2721
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "2768_2780",
+            "span": {
+                "begin": 2768,
+                "end": 2780
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "2934_2946",
+            "span": {
+                "begin": 2934,
+                "end": 2946
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "3052_3064",
+            "span": {
+                "begin": 3052,
+                "end": 3064
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "3328_3340",
+            "span": {
+                "begin": 3328,
+                "end": 3340
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "3506_3518",
+            "span": {
+                "begin": 3506,
+                "end": 3518
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "3743_3755",
+            "span": {
+                "begin": 3743,
+                "end": 3755
+            },
+            "entityType": "gene",
+            "entityName": "endothelin-1",
+            "id": "UMLS:C0079281"
+        },
+        {
+            "entityId": "3760_3793",
+            "span": {
+                "begin": 3760,
+                "end": 3793
+            },
+            "entityType": "gene",
+            "entityName": "endothelial nitric oxide synthase",
+            "id": "UMLS:C1328053"
+        },
+        {
+            "entityId": "3861_3883",
+            "span": {
+                "begin": 3861,
+                "end": 3883
+            },
+            "entityType": "disease",
+            "entityName": "essential hypertension",
+            "id": "UMLS:C0085580"
+        },
+        {
+            "entityId": "4085_4089",
+            "span": {
+                "begin": 4085,
+                "end": 4089
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "4330_4342",
+            "span": {
+                "begin": 4330,
+                "end": 4342
+            },
+            "entityType": "species",
+            "entityName": "participants",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4418_4427",
+            "span": {
+                "begin": 4418,
+                "end": 4427
+            },
+            "entityType": "drug",
+            "entityName": "Diltiazem",
+            "id": "UMLS:C0012373"
+        },
+        {
+            "entityId": "4466_4472",
+            "span": {
+                "begin": 4466,
+                "end": 4472
+            },
+            "entityType": "disease",
+            "entityName": "Cancer",
+            "id": "UMLS:C0006826"
+        },
+        {
+            "entityId": "4736_4748",
+            "span": {
+                "begin": 4736,
+                "end": 4748
+            },
+            "entityType": "species",
+            "entityName": "participants",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4789_4798",
+            "span": {
+                "begin": 4789,
+                "end": 4798
+            },
+            "entityType": "drug",
+            "entityName": "Diltiazem",
+            "id": "UMLS:C0012373"
+        },
+        {
+            "entityId": "4816_4825",
+            "span": {
+                "begin": 4816,
+                "end": 4825
+            },
+            "entityType": "drug",
+            "entityName": "Diltiazem",
+            "id": "UMLS:C0012373"
+        },
+        {
+            "entityId": "4930_4938",
+            "span": {
+                "begin": 4930,
+                "end": 4938
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "4971_4983",
+            "span": {
+                "begin": 4971,
+                "end": 4983
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "5102_5110",
+            "span": {
+                "begin": 5102,
+                "end": 5110
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5125_5134",
+            "span": {
+                "begin": 5125,
+                "end": 5134
+            },
+            "entityType": "drug",
+            "entityName": "diltiazem",
+            "id": "UMLS:C0012373"
+        },
+        {
+            "entityId": "5183_5191",
+            "span": {
+                "begin": 5183,
+                "end": 5191
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5697_5705",
+            "span": {
+                "begin": 5697,
+                "end": 5705
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5875_5883",
+            "span": {
+                "begin": 5875,
+                "end": 5883
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "5907_5919",
+            "span": {
+                "begin": 5907,
+                "end": 5919
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "5962_5968",
+            "span": {
+                "begin": 5962,
+                "end": 5968
+            },
+            "entityType": "disease",
+            "entityName": "Cancer",
+            "id": "UMLS:C0006826"
+        },
+        {
+            "entityId": "6090_6096",
+            "span": {
+                "begin": 6090,
+                "end": 6096
+            },
+            "entityType": "disease",
+            "entityName": "Cancer",
+            "id": "UMLS:C0006826"
+        },
+        {
+            "entityId": "6183_6205",
+            "span": {
+                "begin": 6183,
+                "end": 6205
+            },
+            "entityType": "disease",
+            "entityName": "carotid artery disease",
+            "id": "UMLS:C0007273"
+        },
+        {
+            "entityId": "6273_6280",
+            "span": {
+                "begin": 6273,
+                "end": 6280
+            },
+            "entityType": "species",
+            "entityName": "persons",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6319_6326",
+            "span": {
+                "begin": 6319,
+                "end": 6326
+            },
+            "entityType": "species",
+            "entityName": "persons",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "6372_6375",
+            "span": {
+                "begin": 6372,
+                "end": 6375
+            },
+            "entityType": "cell",
+            "entityName": "MDC",
+            "id": "UMLS:C4085194"
+        },
+        {
+            "entityId": "6575_6582",
+            "span": {
+                "begin": 6575,
+                "end": 6582
+            },
+            "entityType": "drug",
+            "entityName": "mercury",
+            "id": "mesh:D008628"
+        },
+        {
+            "entityId": "6679_6705",
+            "span": {
+                "begin": 6679,
+                "end": 6705
+            },
+            "entityType": "disease",
+            "entityName": "fatal and non-fatal stroke",
+            "id": "UMLS:C0038454"
+        },
+        {
+            "entityId": "6707_6748",
+            "span": {
+                "begin": 6707,
+                "end": 6748
+            },
+            "entityType": "disease",
+            "entityName": "fatal and non-fatal myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "7176_7188",
+            "span": {
+                "begin": 7176,
+                "end": 7188
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "7189_7197",
+            "span": {
+                "begin": 7189,
+                "end": 7197
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "8178_8181",
+            "span": {
+                "begin": 8178,
+                "end": 8181
+            },
+            "entityType": "species",
+            "entityName": "men",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "8192_8197",
+            "span": {
+                "begin": 8192,
+                "end": 8197
+            },
+            "entityType": "species",
+            "entityName": "women",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "8339_8351",
+            "span": {
+                "begin": 8339,
+                "end": 8351
+            },
+            "entityType": "species",
+            "entityName": "participants",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "8451_8463",
+            "span": {
+                "begin": 8451,
+                "end": 8463
+            },
+            "entityType": "species",
+            "entityName": "participants",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "9604_9615",
+            "span": {
+                "begin": 9604,
+                "end": 9615
+            },
+            "entityType": "cell",
+            "entityName": "granulocyte",
+            "id": "UMLS:C0018183"
+        },
+        {
+            "entityId": "10189_10193",
+            "span": {
+                "begin": 10189,
+                "end": 10193
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "10612_10617",
+            "span": {
+                "begin": 10612,
+                "end": 10617
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "10716_10729",
+            "span": {
+                "begin": 10716,
+                "end": 10729
+            },
+            "entityType": "gene",
+            "entityName": "Collagenase A",
+            "id": "UMLS:C0162745"
+        },
+        {
+            "entityId": "10882_10887",
+            "span": {
+                "begin": 10882,
+                "end": 10887
+            },
+            "entityType": "gene",
+            "entityName": "DNase",
+            "id": "UMLS:C0011519"
+        },
+        {
+            "entityId": "11112_11117",
+            "span": {
+                "begin": 11112,
+                "end": 11117
+            },
+            "entityType": "gene",
+            "entityName": "DNase",
+            "id": "UMLS:C0011519"
+        },
+        {
+            "entityId": "11185_11190",
+            "span": {
+                "begin": 11185,
+                "end": 11190
+            },
+            "entityType": "gene",
+            "entityName": "DNase",
+            "id": "UMLS:C0011519"
+        },
+        {
+            "entityId": "11334_11339",
+            "span": {
+                "begin": 11334,
+                "end": 11339
+            },
+            "entityType": "species",
+            "entityName": "sheep",
+            "id": "UMLS:C0036945"
+        },
+        {
+            "entityId": "11345_11348",
+            "span": {
+                "begin": 11345,
+                "end": 11348
+            },
+            "entityType": "species",
+            "entityName": "Rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "11591_11595",
+            "span": {
+                "begin": 11591,
+                "end": 11595
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "11765_11770",
+            "span": {
+                "begin": 11765,
+                "end": 11770
+            },
+            "entityType": "gene",
+            "entityName": "Adcy4",
+            "id": "UMLS:C1412223"
+        },
+        {
+            "entityId": "11831_11837",
+            "span": {
+                "begin": 11831,
+                "end": 11837
+            },
+            "entityType": "gene",
+            "entityName": "Gpr116",
+            "id": "NCBIGene:221395"
+        },
+        {
+            "entityId": "11898_11902",
+            "span": {
+                "begin": 11898,
+                "end": 11902
+            },
+            "entityType": "gene",
+            "entityName": "Fgd5",
+            "id": "UMLS:C1426023"
+        },
+        {
+            "entityId": "11964_11972",
+            "span": {
+                "begin": 11964,
+                "end": 11972
+            },
+            "entityType": "gene",
+            "entityName": "Arap3, 5",
+            "id": "UMLS:C1538436"
+        },
+        {
+            "entityId": "12030_12035",
+            "span": {
+                "begin": 12030,
+                "end": 12035
+            },
+            "entityType": "gene",
+            "entityName": "Itga3",
+            "id": "UMLS:C1416486"
+        },
+        {
+            "entityId": "12096_12100",
+            "span": {
+                "begin": 12096,
+                "end": 12100
+            },
+            "entityType": "gene",
+            "entityName": "Dram",
+            "id": "NCBIGene:55332"
+        },
+        {
+            "entityId": "12162_12166",
+            "span": {
+                "begin": 12162,
+                "end": 12166
+            },
+            "entityType": "gene",
+            "entityName": "Nebl",
+            "id": "UMLS:C1538053"
+        },
+        {
+            "entityId": "12241_12246",
+            "span": {
+                "begin": 12241,
+                "end": 12246
+            },
+            "entityType": "gene",
+            "entityName": "Gapdh",
+            "id": "UMLS:C1414968"
+        },
+        {
+            "entityId": "12251_12255",
+            "span": {
+                "begin": 12251,
+                "end": 12255
+            },
+            "entityType": "gene",
+            "entityName": "Tie2",
+            "id": "UMLS:C1336602"
+        },
+        {
+            "entityId": "12558_12570",
+            "span": {
+                "begin": 12558,
+                "end": 12570
+            },
+            "entityType": "disease",
+            "entityName": "Hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "12606_12618",
+            "span": {
+                "begin": 12606,
+                "end": 12618
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "15587_15599",
+            "span": {
+                "begin": 15587,
+                "end": 15599
+            },
+            "entityType": "disease",
+            "entityName": "Hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "15718_15730",
+            "span": {
+                "begin": 15718,
+                "end": 15730
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "16769_16781",
+            "span": {
+                "begin": 16769,
+                "end": 16781
+            },
+            "entityType": "disease",
+            "entityName": "Hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "17003_17015",
+            "span": {
+                "begin": 17003,
+                "end": 17015
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "17076_17081",
+            "span": {
+                "begin": 17076,
+                "end": 17081
+            },
+            "entityType": "species",
+            "entityName": "human",
+            "id": "UMLS:C0086418"
+        },
+        {
+            "entityId": "17082_17094",
+            "span": {
+                "begin": 17082,
+                "end": 17094
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "17355_17367",
+            "span": {
+                "begin": 17355,
+                "end": 17367
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "17902_17911",
+            "span": {
+                "begin": 17902,
+                "end": 17911
+            },
+            "entityType": "gene",
+            "entityName": "NEBL gene",
+            "id": "UMLS:C1538053"
+        },
+        {
+            "entityId": "18024_18028",
+            "span": {
+                "begin": 18024,
+                "end": 18028
+            },
+            "entityType": "gene",
+            "entityName": "NEBL",
+            "id": "UMLS:C1538053"
+        },
+        {
+            "entityId": "18057_18074",
+            "span": {
+                "begin": 18057,
+                "end": 18074
+            },
+            "entityType": "cell",
+            "entityName": "endothelial cells",
+            "id": "UMLS:C0225336"
+        },
+        {
+            "entityId": "18364_18369",
+            "span": {
+                "begin": 18364,
+                "end": 18369
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "18605_18610",
+            "span": {
+                "begin": 18605,
+                "end": 18610
+            },
+            "entityType": "gene",
+            "entityName": "CD31+",
+            "id": "NCBIGene:5175"
+        },
+        {
+            "entityId": "18735_18740",
+            "span": {
+                "begin": 18735,
+                "end": 18740
+            },
+            "entityType": "gene",
+            "entityName": "Gapdh",
+            "id": "UMLS:C1414968"
+        },
+        {
+            "entityId": "18781_18785",
+            "span": {
+                "begin": 18781,
+                "end": 18785
+            },
+            "entityType": "gene",
+            "entityName": "Tie2",
+            "id": "UMLS:C1336602"
+        },
+        {
+            "entityId": "19507_19519",
+            "span": {
+                "begin": 19507,
+                "end": 19519
+            },
+            "entityType": "disease",
+            "entityName": "Hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "19595_19607",
+            "span": {
+                "begin": 19595,
+                "end": 19607
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "19608_19616",
+            "span": {
+                "begin": 19608,
+                "end": 19616
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "19664_19670",
+            "span": {
+                "begin": 19664,
+                "end": 19670
+            },
+            "entityType": "cell",
+            "entityName": "MDC-CC",
+            "id": "UMLS:C4085194"
+        },
+        {
+            "entityId": "20091_20103",
+            "span": {
+                "begin": 20091,
+                "end": 20103
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "20331_20343",
+            "span": {
+                "begin": 20331,
+                "end": 20343
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "20905_20913",
+            "span": {
+                "begin": 20905,
+                "end": 20913
+            },
+            "entityType": "disease",
+            "entityName": "diabetes",
+            "id": "UMLS:C0011847"
+        },
+        {
+            "entityId": "20931_20942",
+            "span": {
+                "begin": 20931,
+                "end": 20942
+            },
+            "entityType": "drug",
+            "entityName": "cholesterol",
+            "id": "UMLS:C0008377"
+        },
+        {
+            "entityId": "20957_20979",
+            "span": {
+                "begin": 20957,
+                "end": 20979
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular disease",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "21273_21285",
+            "span": {
+                "begin": 21273,
+                "end": 21285
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "23532_23554",
+            "span": {
+                "begin": 23532,
+                "end": 23554
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular disease",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "23737_23745",
+            "span": {
+                "begin": 23737,
+                "end": 23745
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "24735_24747",
+            "span": {
+                "begin": 24735,
+                "end": 24747
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "25045_25067",
+            "span": {
+                "begin": 25045,
+                "end": 25067
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular disease",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "25398_25410",
+            "span": {
+                "begin": 25398,
+                "end": 25410
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "25774_25786",
+            "span": {
+                "begin": 25774,
+                "end": 25786
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "26603_26615",
+            "span": {
+                "begin": 26603,
+                "end": 26615
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "26742_26754",
+            "span": {
+                "begin": 26742,
+                "end": 26754
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "27086_27098",
+            "span": {
+                "begin": 27086,
+                "end": 27098
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "27303_27311",
+            "span": {
+                "begin": 27303,
+                "end": 27311
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "27317_27329",
+            "span": {
+                "begin": 27317,
+                "end": 27329
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "27729_27741",
+            "span": {
+                "begin": 27729,
+                "end": 27741
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "27743_27747",
+            "span": {
+                "begin": 27743,
+                "end": 27747
+            },
+            "entityType": "gene",
+            "entityName": "DRAM",
+            "id": "NCBIGene:55332"
+        },
+        {
+            "entityId": "27876_27888",
+            "span": {
+                "begin": 27876,
+                "end": 27888
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "28462_28484",
+            "span": {
+                "begin": 28462,
+                "end": 28484
+            },
+            "entityType": "disease",
+            "entityName": "cardiovascular disease",
+            "id": "UMLS:C0007222"
+        },
+        {
+            "entityId": "28577_28589",
+            "span": {
+                "begin": 28577,
+                "end": 28589
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "28660_28672",
+            "span": {
+                "begin": 28660,
+                "end": 28672
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "29228_29240",
+            "span": {
+                "begin": 29228,
+                "end": 29240
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "29528_29540",
+            "span": {
+                "begin": 29528,
+                "end": 29540
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "1081_1093",
+            "subjectText": "hypertension",
+            "rel_name": "associate",
+            "objectId": "861_873",
+            "objectText": "hypertensive"
+        }
+    ]
+}

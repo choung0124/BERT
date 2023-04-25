@@ -1,0 +1,4052 @@
+{
+    "sourcid": "PMC3639249",
+    "publisher": "Public Library of Science",
+    "journal": "PLoS ONE",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3639249/",
+    "text": "Loss of PINK1 Increases the Heart's Vulnerability to Ischemia-Reperfusion Injury Objectives Mutations in PTEN inducible kinase-1 (PINK1) induce mitochondrial dysfunction in dopaminergic neurons resulting in an inherited form of Parkinson's disease. Although PINK1 is present in the heart its exact role there is unclear. We hypothesized that PINK1 protects the heart against acute ischemia reperfusion injury (IRI) by preventing mitochondrial dysfunction.   Methods and Results Over-expressing PINK1 in HL-1 cardiac cells reduced cell death following simulated IRI (29.2+-5.2% PINK1 versus 49.0+-2.4% control; N = 320 cells/group P<0.05), and delayed the onset of mitochondrial permeability transition pore (MPTP) opening (by 1.3 fold; P<0.05). Hearts excised from PINK1+/+, PINK1+/- and PINK1-/- mice were subjected to 35 minutes regional ischemia followed by 30 minutes reperfusion. Interestingly, myocardial infarct size was increased in PINK1-/- hearts compared to PINK1+/+ hearts with an intermediate infarct size in PINK1+/- hearts (25.1+-2.0% PINK1+/+, 38.9+-3.4% PINK1+/- versus 51.5+-4.3% PINK1-/- hearts; N>5 animals/group; P<0.05). Cardiomyocytes isolated from PINK1-/- hearts had a lower resting mitochondrial membrane potential, had inhibited mitochondrial respiration, generated more oxidative stress during simulated IRI, and underwent rigor contracture more rapidly in response to an uncoupler when compared to PINK1+/+ cells suggesting mitochondrial dysfunction in hearts deficient in PINK1.                           Conclusions We show that the loss of PINK1 increases the heart's vulnerability to ischemia-reperfusion injury. This may be due, in part, to increased mitochondrial dysfunction. These findings implicate PINK1 as a novel target for cardioprotection. Introduction Mitochondria perform a dual role in the life and death of the cardiomyocyte. When functioning normally they generate the energy required for normal cellular processes and survival. However, in situations of cellular stress such as during acute myocardial ischemia-reperfusion injury (IRI), they can become dysfunctional and be the arbitrators of cardiomyocyte death. Therefore, new treatment strategies which are capable of preventing mitochondrial dysfunction during acute IRI may reduce myocardial injury, preserve cardiac function and improve clinical outcomes in patients with ischemic heart disease. In this regard, the mitochondrial serine-threonine protein kinase, PTEN (phosphatase and tensin homologue on chromosome 10)-induced kinase 1 (PINK1), may provide a novel therapeutic target for cardioprotection. Mutations in the PINK1 gene are responsible for the autosomal recessive PARK6 inherited form of early onset Parkinson disease, a neurodegenerative disorder characterized by the loss of dopaminergic neurons in the substantia nigra. Genetic ablation of PINK1 in neurons results in mitochondrial dysfunction characterized by: mitochondrial membrane depolarization, reduced mitochondrial respiration and ATP levels, increased oxidative stress, mitochondrial calcium overload, and enhanced susceptibility to mitochondrial permeability transition pore (MPTP) opening. In contrast, wild-type PINK1 has been reported to protect neurons from mitochondrial dysfunction, reduce mitochondrial cytochrome C release and caspase 3 and 9 activation, and attenuate apoptotic cell death. Interestingly, PINK1 protein is highly expressed in the myocardium but its role in the heart, is not clear. Given its beneficial effects on mitochondrial function and neuroprotective properties, we investigated whether PINK1 could also protect the heart against acute IRI. We find that the loss of PINK1 increases the heart's vulnerability to ischemia-reperfusion injury and this may be by worsening mitochondrial function. Materials and Methods Animal experiments were conducted in strict accordance with the Animals (Scientific Procedures) Act 1986 published by the UK Home Office and the Guide for the Care and Use of Laboratory Animals published by the US National Institutes of Health (NIH Publication No. 85-23, revised 1996). Approval has been granted by a local ethics review board at University College London. All efforts were made to minimize suffering.   HL-1 Cell Culture and PINK1 Over-expression HL-1 cells are an adherent murine atrial cell line that spontaneously beat in culture (the cells were obtained from Claycomb). Cells were cultured in tissue culture flasks pre-coated for 2-3 hrs with 10 microg/ml fibronectin (diluted in 0.02% gelatin). Growth medium (Claycomb media supplemented with 10% FBS, 2 mM L glutamine (Invitrogen, Gibco), 0.1 mM norepinephrine (prepared in 30 mM ascorbic acid), 500 IU penicillin and 500 microg streptomycin (PAA Laboratories)) was changed every 1-2 days and cells were maintained at 37 C in 95%O2/5%CO2 with 90% humidity. A similar vector expressing PINK1 under the control of the CMV promoter (Addgene plasmid 13315: pcDNA-DEST53 PINK1) from Addgene Inc., Cambridge, MA was used to over-express PINK1. HL-1 cells were seeded onto fibronectin coated glass cover slips and upon reaching 50-60% confluence were transfected for 24 hours using Fugene6   (Roche, UK) according to manufacturer's instructions. The pEGFP expression plasmid (Clontech) was included for identification of successfully transfected cells, at a ratio of 1:2. The vector control group was designated as cells transfected with an empty plasmid expression vector (RcCMV). A similar vector expressing PINK1 under the control of the CMV promoter (Addgene plasmid 13315: pcDNA-DEST53 PINK1) from Addgene Inc., Cambridge, MA was used to over-express PINK1 in a separate set of cells. The pEGFP expression plasmid (Clontech) was included for identification of successfully transfected cells, at a ratio of 1:2. The transfection efficacy was 60-70% of cells. Culture media containing transfection components was replaced with fresh growth medium and cells were incubated overnight. Unfortunately due to a lack of a specific commercially available PINK1 antibody were not able to demonstrate PINK1 protein expression or localization.            Simulated Ischemia-reperfusion Injury in HL-1 Cells Over-expressing PINK1 In order to determine the effect of PINK1 over-expression on the susceptibility to simulated ischemia-reperfusion injury (SIRI), HL-1 cells were subjected to a sustained episode of lethal hypoxia and reoxygenation. Culture medium was removed and replaced with hypoxic buffer (comprising in mM: KH2PO4 1.0, NaHCO3 10.0, MgCl2.6H2O 1.2, NaHEPES 25.0, NaCl 74.0, KCl 16, CaCl2 1.2 and NaLactate 20 at pH 6.2, bubbled with 100% nitrogen) and then placed in an airtight custom-built hypoxic chamber kept at 37 C for 12 hours to simulate ischemia. Following the period of simulated ischemia, the cells were removed from the hypoxic chamber and placed in normoxic Claycomb medium (containing 3 microM propidium iodide) and returned to a tissue culture incubator, to simulate reperfusion. Following 1 hour simulated reperfusion at 37 C, the percentage of GFP-transfected cells stained with propidium iodide was determined using a Nikon Eclipse TE200 fluorescent microscope in order to calculate the percentage cell death in each treatment group. For each treatment group 80 cells were counted, taken from four randomly-selected fields of view. This experiment was repeated on at least four separate occasions giving a total of 320 cells per treatment group. For a time-matched normoxic control group, HL-1 cells were placed in normoxic buffer (comprising in mM: KH2PO4 1.0, NaHCO3 10.0, MgCl2.6H2O 1.2, NaHEPES 25.0, NaCl 98.0, KCl 3, CaCl2 1.2, d-glucose 10.0, Na pyruvate 2.0 at pH 7.4, bubbled with 5% CO2/95% O2) for the total 13 hours duration of the experiment and the percentage cell death was determined. ROS-induced MPTP Opening in HL-1 Cells Over-expressing PINK1 To determine the effect of PINK1 over-expression on the susceptibility to MPTP opening, a previously validated cell model of MPTP opening was utilized. Confocal laser-stimulation of the fluorophore tetra methyl rhodamine methyl (TMRM), which accumulates into mitochondria, generates reactive oxygen species (ROS) within mitochondria. This cell model can be used to simulate the events occurring at reperfusion, in which the production of ROS results in MPTP opening and the collapse of the mitochondrial membrane potential. The collapse of mitochondrial membrane potential in this cell model has previously been verified as indicating MPTP opening as it coincides with the redistribution of calcein from the mitochondria to the cytosol. Culture medium was removed and replaced with Krebs imaging buffer. Cells were then loaded with the 3 microM TMRM for 15 min at 37 C and washed with Krebs imaging buffer. The time taken to induce mitochondrial membrane depolarization is recorded as a measure of susceptibility to MPTP opening. This was defined as the time taken to reach half the maximum TMRM fluorescence intensity. Twenty transfected cells were randomly selected for the induction and detection of MPTP opening from each treatment group, and this was repeated in four independent experiments giving a total of 80 cells per treatment group. As a positive control and in order to confirm that mitochondrial membrane depolarization was indicative of MPTP opening, following TMRM loading, a group of cells were pre-treated for 10 minutes with the MPTP inhibitor, cyclosporin A (0.2 microM). The time taken to induce to MPTP opening was recorded. HL-1 cells were visualized using a Leica TCS SP5 CLSM confocal microscope equipped with HCX PL APO 40x/1.25 oil objective lens using the 488-nm of an Argon laser and the 543-nm emission line of a HeNe laser. Time scans were recorded with simultaneous excitation at 488 nm (for GFP) and 543 nm (for TMRM), collecting fluorescence emission at 500-536 nm and 585-680 nm, respectively. For these MPTP experiments, all conditions of the confocal imaging system (laser power, confocal pinhole - set to give an optical slice of 1 micron - pixel dwell time, and detector sensitivity) were identical to ensure comparability between experiments. Images were analyzed using the LAS AF Version: 2.0.0 Build 1934 software program.        PINK1 Knockout Mice PINK1 knockout mice were a kind gift from Dr Luis Miguel Martins and Dr Nicoleta Moisoi of the MRC Toxicology Unit at the University of Leicester. These were bred in-house and PINK1+/+, +/- and -/- genotypes were generated. Genotyping was performed by extracting DNA from mouse ear biopsies using a Qiagen DNeasy kit with a proteinase K and spin column extraction method (Qiagen, UK) as previously described.       Myocardial Infarction in PINK1 Knockout Mouse Hearts Hearts from PINK1+/+, PINK1+/- and PINK1-/- mice (10-15 weeks, 20-30 g) were isolated and perfused using a Langendorff constant pressure system as described previously. Mice were given 500 IU of heparin by intraperitoneal injection before being culled by cervical dislocation. Hearts were rapidly excised and retrogradely perfused via the aorta on a Langendorff-apparatus (AD Instruments, UK) at 100 mmHg, with oxygenated Krebs-Henseleit buffer containing NaCl 118 mM, NaHCO3 24 mM, KCl 4 mM, NaH2PO4 1 mM, CaCl2 1.8 mM, MgCl2 1.2 mM and glucose 10 mM. Myocardial temperature was maintained at 37.0+-0.5 C. Isolated perfused hearts were subjected to a 30 minute stabilization period followed by 35 minute global normothermic ischemia and 30 minute reperfusion. Infarct size was measured by perfusing a 1% triphenyltetrazolium chloride (TTC) solution retrogradely through the aorta and incubating the hearts at 37.0 C for 10 min before storing at -20.0 C. Subsequently, hearts were sliced (<1 mm slices), destained in formalin, photographed and planimetered using the NIH Image 1.63 software package (National Institutes of Health, Bethesda, MD, USA). Infarct size was calculated as the percentage of the whole myocardium at risk (I/R%).                Isolation of Adult Murine Cardiomyocytes As described previously PINK1+/+ and PINK1-/- mice (10-15 weeks, 20-30 g) were injected (i.p) with 500 IU of heparin 30 minutes prior to an 0.01 mg/g i.p injection of anaesthetic, (10 mg/ml Ketamine, 2 mg/ml Xylazine and 0.06 mg/ml Atropine) as a terminal procedure. Hearts were excised and immediately placed in ice cold calcium free perfusion buffer (113 mM NaCl, 4.7 mM KCL, 0.6 mM KH2PO4, 0.6 mM Na2HPO4, 1.2 mM MgSO4.7H2O, 12 mM NaHCO3, 10 mM KHCO3, 30 mM Taurine, 10 mM HEPES, 11 mM Glucose and 10 mM 2,3-Butanedione monoxime). Within 3 minutes the heart was secured to a 22 gauge cannula via the aorta and attached to a perfusion apparatus. The heart was retrogradely perfused at 3 ml/min, with pre-warmed (37.0 C) oxygenated (95%O2/5%CO2) calcium-free perfusion buffer for 4 minutes. The heart was then perfused for 10 minutes with pre-warmed oxygenated digestion buffer (220 U/ml of type 2 Collagenase (Worthington, UK) and 55 U/ml Hyaluronidase (Sigma, UK) dissolved in the calcium free perfusion buffer and supplemented with 12.5 microM CaCl2). The ventricles were collected in 10 mlof digestion buffer and gently teased apart for additional tissue disruption. The tissue was digested further by incubating the mixture with 95%O2/5%CO2 in a shaking incubator (180 rpm) at 37 C for 10 minutes. The supernatant was collected and the remaining tissue pellet was incubated with an additional 10 ml digestion buffer followed by 10 minutes incubation with 95%O2/5%CO2 in a shaking incubator at 37 C. Under sterile conditions each ventricular cell suspension was transferred to a fresh tube and 5% FBS was added. The cells were centrifuged at 600 relative centrifugal force (RCF) for 3 minutes to separate the larger, cardiomyocyte pellet. The smaller fibroblasts and remaining connective tissue in the supernatant were discarded. The cardiomyocyte pellet was re-suspended in a low calcium buffer, which consisted of the calcium free perfusion buffer supplemented with 12.5 microM CaCl2. Small volumes of calcium were re-introduced to the cardiomyocyte suspension every 4 minutes to gradually reach a final concentration of 1 mM. The cells were then centrifuged at 600 RCF for 3 min and re-suspended in 1-2 ml of plating media (Medium-199)(Sigma, UK) supplemented with 2 mg/ml bovine serum albumin, 0.66 mg/ml creatine, 0.66 mg/ml taurine, 0.32 mg/ml carnitine, 50 U/ml penicillin, 5 microg/ml streptomycin and 25 microM blebbistatin (Calbiochem, Nottingham, UK). The cell suspension was then added to a glass cover slip, 22 mm diameter (VWR, Lutterworth, UK) pre-coated with laminin (1 mg/ml) to aid cell adhesion. Cells were left to adhere for 1 hr at 37 C, 95%O2/5%CO2 and 90% humidity. Finally, each cover slip was washed with plating media and the adhered cardiomyocytes were incubated with 1 ml of fresh plating media without blebbistatin.   Measuring Mitochondrial Membrane Potential in PINK1-/- Cardiomyocytes     Primary adult cardiomyocytes were isolated from the myocardium of PINK1+/+ and -/- mice, as described above and loaded with 50 nM TMRM diluted in imaging buffer (which consisted of low calcium perfusion buffer without BDM and supplemented with 10 mM HEPES and 1.2 mM CaCl2 at pH 7.4) for 30 minutes. This was used to measure the mitochondrial membrane potential. The isolated cardiomyocytes were mounted onto the confocal apparatus. The HeNe laser (543 nm) used to excite the TMRM was set to 2% power to prevent bleaching. Images were captured and the fluorescent intensity of each cell was recorded using the Leica application suite for Advanced Fluorescence (LAS AF Leica TCS SP5).     Measuring Oxygen Consumption in Intact Cardiomyocytes and Isolated Mitochondria To measure respiration rate in intact cells, approximately 2 x 106 cells were suspended in HBSS in a Clark-type oxygen electrode thermostatically maintained at 37 C. The oxygen electrode was calibrated with air-saturated water, assuming 406 nmol O atoms/ml at 37 C. Oxygen consumption was measured over time with addition of oligomycin (final concentration 2 microg/ml) and 1 microM FCCP. To measure respiratory control ratio, intact mitochondria were isolated from hearts of WT and PINK1 KO mice by a method of differential centrifugation and resuspended in medium containing 135 mM KCl, 10 mM NaCl, 20 mM HEPES, 0.5 mM KH2PO4, 1 mM MgCl2, 5 mM EGTA at pH 7.1. Oxygen consumption was measured in a Clark-type oxygen electrode thermostatically maintained at 25 C. Glutamate (5 mM) and malate (5 mM) were added to measure Complex I-linked respiration, succinate (5 mM) with rotenone (5 microM) were added to measure Complex II-linked respiration. All data were obtained using an Oxygraph Plus system with Chart recording software. Measuring Time to Contracture in PINK1-/- Cardiomyocytes     Primary adult cardiomyocytes were isolated from PINK1+/+ and -/- hearts, as described above, and, while imaging the cells, 10 microM carbonyl cyanide m-chlorophenyl hydrazone (CCCP) was added to the imaging buffer. In the presence of this uncoupling agent, the F0F1ATPase runs in \"reverse\" mode, consuming ATP in order to pump protons out of the mitochondria and maintain the membrane potential. When ATP decreases to a threshold level, adult cardiomyocytes undergo rigor contracture.      The time to contracture can therefore be used as an indirect measure of basal levels of ATP or the activity of F0F1ATPase. Sequential images of cells incubated with CCCP were taken at intervals of one minute using a standard light microscope affixed with a SPOT camera (Diagnostics Instruments, USA) connected to SPOT imaging software version 4.6 (Diagnostic Instruments, USA). The time to contracture was recorded and compared in the isolated PINK1+/+ and -/- cardiomyocytes.     Measuring ROS during SIRI in PINK1-/- Cardiomyocytes     The generation of ROS following SIRI was investigated in isolated adult cardiomyocytes isolated from PINK1+/+ and PINK1-/- mouse hearts. Cardiomyocytes were subjected to 45 min simulated ischemia followed by 30 min re-oxygenation (SIRI) in the presence of 2 microM dihydroethidium (DHE, Molecular Probes, Invitrogen, UK), which is oxidized in the presence of superoxide to become fluorescent. The fluorescence intensity, reflecting ROS levels, using SPOT imaging software version 4.6 (Diagnostic Instruments, USA) and NIH-Image, values were normalized to PINK1+/+ normoxic control.  Statistical Analysis Values are mean +- SEM. Data were analyzed using either the Student's t-test or one-way analysis of variance (ANOVA), followed by Bonferroni's multiple comparison post hoc test. P<0.05 was considered significant.   Results PINK1 Over-expression Protects HL-1 Cells against SIRI PINK1 over-expression significantly reduced HL-1 cardiac cell death following SIRI: 49.0+-2.4% in the vector control to 29.0+-5.2% with PINK1 (Figure 1; P<0.05). The proportion of dead cells in the time-matched normoxic control conditions was <5.0% and this was not significantly altered by transgene expression. Over-expression of PINK1 in HL-1 cells significantly reduced cell death following simulated ischemia-reperfusion injury (SIRI) compared to Vector control. N = 4 independent experiments. *P<0.05.     PINK1 Over-expression in HL-1 Cells Decreases Susceptibility to MPTP Opening PINK1 over-expression in HL-1 cells delayed the time to MPTP opening by 1.3+-0.3 fold when compared to control values (P<0.01; Figure 2). The delay in MPTP opening was similar to that conferred by the known MPTP inhibitor, CsA (1.4+-0.1 fold;P<0.05; Figure 2). Over-expression of PINK1 in HL-1 cells significantly delayed the time taken to induce MPTP opening compared to vector control. Treatment with cyclosporin A (CsA), the known MPTP inhibitor, also delayed the time taken to induce MPTP opening. Data are normalized to control. N = 4 independent experiments. *P<0.05.     Myocardial Infarct Size is Increased in PINK1 Knockout Mice PINK1-/- mice developed significantly larger myocardial infarcts following an episode of sustained ischemia-reperfusion injury compared to PINK1+/+ mice, with PINK1+/- mice sustaining an intermediate sized infarct (25.1+-2.0% in PINK1+/+ hearts versus 38.9+-3.4% in PINK1+/- hearts; P<0.01) and (25.1+-2.0% in PINK1+/+ hearts versus 51.5+-4.3% in PINK1-/- hearts (P<0.001)(see Figure 3).             Effect of PINK1 ablation on myocardial infarct size expressed as a percentage of the area at risk (I/R%) in isolated perfused murine hearts. Compared to WT litter-mate control hearts, PINK1-/- hearts sustained significantly larger myocardial infarct sizes. PINK1+/- hearts sustained myocardial infarct sizes which were larger than WT littermate control hearts but smaller than PINK1-/- hearts. N = 6 per group.*P<0.01 and **P<0.001 compared to PINK1+/+ hearts.               Mitochondrial Membrane Potential and Time to Contracture in PINK1-/- Cardiomyocytes     Since PINK1 has been implicated in mitochondrial function we evaluated mitochondrial membrane potential in primary adult cardiomyocytes under basal conditions. This was found to be lower in PINK1-/- cardiomyocytes compared to PINK1+/+ cardiomyocytes (Figure 4), as evidenced by decreased TMRM fluorescence (In arbitrary units: 12.1+-2.8 in PINK1-/- cardiomyocytes versus 17.9+-2.6 in PINK1+/+ cardiomyocytes; P<0.05; Figure 5).         The effect of PINK1 deficiency on TMRM fluorescence in adult cardiomyocytes. Representative fluorescent images of adult murine cardiomyocytes isolated from i) PINK1+/+ mice and ii) PINK1-/- mice demonstrating a lower mitochondrial membrane potential (decreased TMRM fluorescence) in PINK1-/- cardiomyocytes. N = 5 independent experiments.*P<0.05.             The effect of PINK1 deficiency on mitochondrial membrane potential. Mitochondrial resting membrane potential measured by TMRM fluorescence (in arbitrary units A.U.) in PINK1+/+ and PINK1-/- adult cardiomyocytes, demonstrating a lower mitochondrial membrane potential (decreased TMRM fluorescence) in PINK1-/- cardiomyocytes. N = 5 independent experiments.*P<0.05.             Oxygen Consumption in Isolated Intact Cardiomyocytes The basal oxygen consumption rate was significantly reduced in the PINK1 KO cardiomyocytes (0.48+-0.04 nmol/O2/min/106 cells, N = 4 experiments; Figure 6) compared to control cells (0.81+-0.01 nmol O/min/106 cells, N = 4 experiments, P<0.001). Oligomycin (2 microg/ml) inhibited the respiration coupled to oxidative phosphorylation in control cells (to 0.11+-0.01 nmol O/min/106 cells, P<0.05) but significantly less in PINK1 KO cardiomyocytes (0.37+-0.03 nmol O2/min/106 cells, compared to basal 0.48+-0.04 nmol/O2/min/106 cells; P<0.001; Figure 6). 1 microM FCCP accelerated respiration to maximal levels in control cells, but to a lesser extent in PINK1 KO cardiomyocytes (4.2+-0.19 vs. 3.4+-0.03 nmol/O2/min/106 cells; P<0.001; Figure 6). This data suggest a generalised impairment of respiration in PINK1 KO heart cells. To identify the mechanism underlying the impaired mitochondrial respiration we investigated isolated mitochondria.   Oxygen consumption in intact cardiomyocytes isolated from WT and PINK1 KO mice under basal conditions and in response to oligomycin (2 microg/ml) and the uncoupler, FCCP (1 microM). Oxygen Consumption in Isolated Mitochondria We evaluated the effect of PINK1 deficiency on oxygen consumption in isolated mitochondria. Compared to WT, oxygen consumption in PINK1 deficient mitochondria in the presence of the substrate of Complex I (5 mM Malate/5 mM Glutamate) was not significantly different (N = 6 experiments; Figure 7a,c). Application of Complex II substrate (succinate in the presence of rotenone; N = 6 experiments; Figure 7b,c) activated oxygen consumption equally in PINK1-KO and WT heart mitochondria. The respiratory control ratio (RCR), the ratio of state 3 (ADP-stimulated) to state 4 respiration (no ADP present), is an indication of the degree of coupling of the mitochondrial respiratory chain activity to oxidative phosphorylation. The RCR was unchanged in PINK1 KO, when compared to WT mitochondria.         Oxygen consumption in isolated mitochondria isolated from WT and PINK1 KO mice. in the presence of the (a) Complex I substrate (5 mM Malate/5 mM Glutamate) (b) Complex II substrate (succinate in the presence of rotenone) (c) The respiratory control ratio (RCR), the ratio of state 3 (ADP-stimulated) to state 4 respiration (no ADP present), which is an indication of the degree of coupling of the mitochondrial respiratory chain activity to oxidative phosphorylation. Time to Uncoupler-induced Hypercontracture The time taken to hypercontracture following the administration of mitochondrial uncoupler, CCCP was recorded in cardiomyocytes. This time was significantly decreased in PINK1-/- cardiomyocytes (22.8+-1.8 min in PINK1+/+ cells to 13.3+-1.6 min in PINK1-/- cells; P<0.01; Figure 7) indicating either a significantly lower basal level of cellular ATP or decreased function of the F0F1ATPase. However, it must be important to bear in mind that this is an indirect measure of cellular ATP levels.         Oxidative Stress Post-SIRI is Increased in PINK1-/- Mice     At baseline, there was no significant difference in oxidative stress in isolated PINK1+/+ and PINK1-/- cardiomyocytes (Figure 8). However, following SIRI, the PINK1-/- cardiomyocytes exhibited a significantly greater level of superoxide production when compared to PINK1+/+ cardiomyocytes (145+-12% in PINK1+/+ cardiomyocytes compared to 216+-27% in PINK1-/- cardiomyocytes following SIRI (P<0.05; Figure 9).             Time taken to induce contracture following administration of the uncoupler, CCCP (10 microM) in PINK1+/+ and PINK1-/- adult cardiomyocytes.  N = 5 independent experiments.*P<0.01.     Cardiomyocytes isolated from PINK1-/- mice exhibit similar amounts of oxidative stress at baseline, but exhibit significantly greater amounts of oxidative stress following simulated ischemia-reperfusion injury (SIRI) when compared to cardiomyocytes isolated from PINK1+/+ mice.     N = 4 hearts per group.*P<0.05 compared to PINK1+/+ at baseline. **P<0.05 compared to PINK1-/- following SIRI.         Discussion The major findings of the current study are as follows: (1) Over-expressing PINK1 in the HL-1 cardiac cell line delayed the time taken to induce MPTP opening and reduced cell death following SIRI; (2) Mice lacking PINK1 sustained larger myocardial infarcts compared to wild type littermates (PINK1+/+), suggesting that the absence of PINK1 in the heart makes it more vulnerable to IRI. Interestingly, mice heterozygous for PINK1 sustained myocardial infarcts which were intermediate in size; (3) The increased susceptibility to IRI of PINK1-/- mice may be due to impaired mitochondrial function, as evidenced by a lower mitochondrial potential under basal conditions, impaired mitochondrial respiration, increased susceptibility to rigor contracture, and enhanced oxidative stress production during SIRI.     Our study suggests a role for mitochondrial PINK1 as a target for cardioprotection in the heart. This mitochondrial protein appears to be required for endogenous protection against SIRI, as its genetic ablation resulted in an enhanced susceptibility to myocardial infarction, a response which was graded according to whether one or both PINK1 alleles were knocked-out. Our data suggests that the loss of PINK1 increases the heart's vulnerability to ischemia-reperfusion injury by worsening mitochondrial function. Its absence was associated with mitochondrial membrane depolarization, impaired mitochondrial respiration, increased susceptibility to rigor contracture, and more oxidative stress production during SIRI. In contrast, the over-expression of PINK1 was able to prevent the opening of the MPTP in the HL-1 cardiac cell line. A minor limitation of our study is that we did not investigate whether MPTP opening susceptibility was increased in adult cardiomyocytes deficient in PINK1. A recently published experimental study has also reported detrimental effects on mitochondrial function and cardiomyocyte homeostasis in mice lacking PINK1, but the effects of PINK1 on susceptibility to IRI was not explored in that study. Furthermore, these authors reported cardiac hypertrophy and cardiac fibrosis from 2 months of age. Despite many studies implicating PINK1 as a neuroprotective mitochondrial protein kinase, there have been a limited number of studies investigating the protective effect of PINK1 against ischemic neuronal injury. Shan and co-workers have reported that PINK1 can protect neonatal rat cortical neurons against simulated ischemia. Emerging studies have suggested that a functional impairment in activity of complex I of the electron transport chain underlies the mitochondrial dysfunction central to Parkinson's disease. The involvement of complex I inhibition in the pathogenesis of Parkinson's disease has long been appreciated with reduced complex I activity noted in patients with Parkinson's disease, and the use of complex I inhibitors such as rotenone to reproduce robust animal models of Parkinson's disease. Complex I inhibition may also explain some of the other known features of Parkinson's mitochondrial dysfunction including mitochondrial membrane depolarization, increase production of oxidative stress from complex I, reduced mitochondrial respiration and ATP depletion and predisposition to MPTP opening.           Interestingly, in our studies, we found that in isolated PINK1 deficient mitochondria there were no changes in the rate of mitochondrial respiration in the presence of substrates for Complex I and Complex II. Furthermore, PINK1 deficiency had no effect on uncoupling of oxidative phosphorylation as the respiratory control ratio remained unchanged. These findings are in agreement with experimental data, which have been performed in other cell types. However, in intact cardiomyocytes, PINK1 deficiency did significantly depress oxygen consumption, suggesting that the absence of PINK1 does not impair respiratory complex function but affects the delivery of substrates to the mitochondria (such as inhibition of glycolysis or the TCA cycle or inhibition of glucose uptake). The MPTP is a non-selective high-conductance channel of the inner mitochondrial membrane whose opening results in cell death by uncoupling oxidative phosphorylation. In the absence of PINK1, a number of factors can result in an increased susceptibility to MPTP opening including mitochondrial membrane depolarization, reduced mitochondrial calcium retention, increased oxidative stress particularly from complex I inhibition. Of course there may be other beneficial effects on mitochondrial function which may explain the cardioprotective effects of PINK1. PINK1 has been reported to phosphorylate TNF receptor-associated protein 1 (TRAP1), a mitochondrial chaperone protein, which protects against oxidative stress-induced apoptotic cell death. It has been proposed that PINK1 promotes the translocation of Parkin (an E3 ubiquitin ligase) to dysfunctional mitochondria, where outer mitochondrial membrane Mitofusins are ubiquinated, to provide a signal for mitophagy (the autophagic removal of dysfunctional mitochondria). Changes in mitochondrial morphology can impact on a variety of cellular functions including metabolism, development and more recently cardioprotection. However, the effect of PINK1 on mitochondrial morphology has been variable and inconclusive. Whether any of these other effects of PINK1 on mitochondrial function occur in the heart remains to be determined. Conclusions In conclusion, our data suggests that the loss of PINK1 increases the heart's vulnerability to ischemia-reperfusion injury, which may be due, in part, to worsened mitochondrial function. The mechanism underlying its cardioprotective effect appears to be mediated at the level of the mitochondria with improved mitochondrial function, less oxidative stress, and reduced susceptibility to MPTP opening. Therefore, the discovery of novel pharmacological activators of PINK1 may provide a novel therapeutic strategy for cardioprotection. Furthermore, its importance for endogenous cardioprotection lends further support to the importance of mitochondria in cardioprotection. References Mitochondrial PINK1-a novel cardioprotective kinase?   Hereditary early-onset Parkinson's disease caused by mutations in PINK1 PINK1 is necessary for long term survival and mitochondrial function in human dopaminergic neurons PINK1-associated Parkinson's disease is caused by neuronal vulnerability to calcium-induced cell death Mitochondrial dysfunction in Drosophila PINK1 mutants is complemented by parkin Drosophila pink1 is required for mitochondrial function and interacts genetically with parkin Antioxidants protect PINK1-dependent dopaminergic neurons in Drosophila Loss of PINK1 causes mitochondrial functional defects and increased sensitivity to oxidative stress Dagda RK, Cherra SJ III, Kulich SM, Tandon A, Park D, .. (2009) Loss of pink1 function promotes mitophagy through effects on oxidative stress and mitochondrial fission. J Biol Chem. Wild-type PINK1 prevents basal and induced neuronal apoptosis, a protective effect abrogated by Parkinson disease-related mutations PINK1 mutants associated with recessive Parkinson's disease are defective in inhibiting mitochondrial release of cytochrome c Growth-suppressive effects of BPOZ and EGR2, two genes involved in the PTEN signaling pathway Ischemia-reperfusion injury and cardioprotection: investigating PTEN, the phosphatase that negatively regulates PI3K, using a congenital model of PTEN haploinsufficiency HL-1 cells: a cardiac muscle cell line that contracts and retains phenotypic characteristics of the adult cardiomyocyte The novel adipocytokine visfatin exerts direct cardioprotective effects Temporal changes in myocardial salvage kinases during reperfusion following ischemia: studies involving the cardioprotective adipocytokine apelin Reactive oxygen species (ROS)-induced ROS release: a new phenomenon accompanying induction of the mitochondrial permeability transition in cardiac myocytes Assessing mitochondrial potential, calcium, and redox state in isolated mammalian cells using confocal microscopy Preconditioning protects by inhibiting the mitochondrial permeability transition The mitochondrial permeability transition pore: its fundamental role in mediating cell death during ischaemia and reperfusion Signalling via the reperfusion injury signalling kinase (RISK) pathway links closure of the mitochondrial permeability transition pore to cardioprotection Cardiac mitochondria in heart failure: decrease in respirasomes and oxidative phosphorylation Energy depletion-repletion and calcium transients in single cardiomyocytes Effects of CCCP-induced mitochondrial uncoupling and cyclosporin A on cell volume, cell injury and preconditioning protection of isolated rabbit cardiomyocytes Oxidant injury to isolated heart cells Selective fluorescent imaging of superoxide in vivo using ethidium-based probes PTEN-inducible kinase 1 (PINK1)/Park6 is indispensable for normal heart function Regulation of PINK1 by NR2B-containing NMDA receptors in ischemic neuronal injury Parkinson's disease mutations in PINK1 result in decreased Complex I activity and deficient synaptic function Mitochondrial complex I deficiency in Parkinson's disease Chronic systemic pesticide exposure reproduces features of Parkinson's disease Cell metabolism affects selective vulnerability in PINK1-associated Parkinson's disease Mitochondria and reperfusion injury of the heart-a holey death but not beyond salvation   The mitochondrial permeability transition pore and cyclophilin D in cardioprotection Opening of the mitochondrial permeability transition pore induces reactive oxygen species production at the level of the respiratory chain complex I. J Biol Chem PINK1 Protects against Oxidative Stress by Phosphorylating Mitochondrial Chaperone TRAP1 The mitochondrial fusion-promoting factor mitofusin is a substrate of the PINK1/parkin pathway Drosophila parkin requires PINK1 for mitochondrial translocation and ubiquitinates mitofusin Inhibiting mitochondrial fission protects the heart against ischemia/reperfusion injury Mitochondrial dynamics, cell death and the pathogenesis of Parkinson's disease",
+    "entities": [
+        {
+            "entityId": "8_13",
+            "span": {
+                "begin": 8,
+                "end": 13
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "53_80",
+            "span": {
+                "begin": 53,
+                "end": 80
+            },
+            "entityType": "disease",
+            "entityName": "Ischemia-Reperfusion Injury",
+            "id": "mesh:D015427"
+        },
+        {
+            "entityId": "105_128",
+            "span": {
+                "begin": 105,
+                "end": 128
+            },
+            "entityType": "gene",
+            "entityName": "PTEN inducible kinase-1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "130_135",
+            "span": {
+                "begin": 130,
+                "end": 135
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "173_193",
+            "span": {
+                "begin": 173,
+                "end": 193
+            },
+            "entityType": "cell",
+            "entityName": "dopaminergic neurons",
+            "id": "UMLS:C1512035"
+        },
+        {
+            "entityId": "228_247",
+            "span": {
+                "begin": 228,
+                "end": 247
+            },
+            "entityType": "disease",
+            "entityName": "Parkinson's disease",
+            "id": "mesh:D010300"
+        },
+        {
+            "entityId": "258_263",
+            "span": {
+                "begin": 258,
+                "end": 263
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "342_347",
+            "span": {
+                "begin": 342,
+                "end": 347
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "410_413",
+            "span": {
+                "begin": 410,
+                "end": 413
+            },
+            "entityType": "disease",
+            "entityName": "IRI",
+            "id": "mesh:D007499"
+        },
+        {
+            "entityId": "494_499",
+            "span": {
+                "begin": 494,
+                "end": 499
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "503_521",
+            "span": {
+                "begin": 503,
+                "end": 521
+            },
+            "entityType": "cell",
+            "entityName": "HL-1 cardiac cells",
+            "id": "UMLS:C0920751"
+        },
+        {
+            "entityId": "577_582",
+            "span": {
+                "begin": 577,
+                "end": 582
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "708_712",
+            "span": {
+                "begin": 708,
+                "end": 712
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "765_771",
+            "span": {
+                "begin": 765,
+                "end": 771
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "775_781",
+            "span": {
+                "begin": 775,
+                "end": 781
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "788_794",
+            "span": {
+                "begin": 788,
+                "end": 794
+            },
+            "entityType": "gene",
+            "entityName": "PINK1-",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "797_801",
+            "span": {
+                "begin": 797,
+                "end": 801
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "900_918",
+            "span": {
+                "begin": 900,
+                "end": 918
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarct",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "941_946",
+            "span": {
+                "begin": 941,
+                "end": 946
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "969_974",
+            "span": {
+                "begin": 969,
+                "end": 974
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "1022_1027",
+            "span": {
+                "begin": 1022,
+                "end": 1027
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "1050_1055",
+            "span": {
+                "begin": 1050,
+                "end": 1055
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "1071_1076",
+            "span": {
+                "begin": 1071,
+                "end": 1076
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "1098_1103",
+            "span": {
+                "begin": 1098,
+                "end": 1103
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "1143_1157",
+            "span": {
+                "begin": 1143,
+                "end": 1157
+            },
+            "entityType": "cell",
+            "entityName": "Cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "1172_1180",
+            "span": {
+                "begin": 1172,
+                "end": 1180
+            },
+            "entityType": "gene",
+            "entityName": "PINK1-/-",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "1332_1335",
+            "span": {
+                "begin": 1332,
+                "end": 1335
+            },
+            "entityType": "disease",
+            "entityName": "IRI",
+            "id": "mesh:D007499"
+        },
+        {
+            "entityId": "1482_1488",
+            "span": {
+                "begin": 1482,
+                "end": 1488
+            },
+            "entityType": "disease",
+            "entityName": "hearts",
+            "id": "mesh:D006331"
+        },
+        {
+            "entityId": "1572_1577",
+            "span": {
+                "begin": 1572,
+                "end": 1577
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "1617_1644",
+            "span": {
+                "begin": 1617,
+                "end": 1644
+            },
+            "entityType": "disease",
+            "entityName": "ischemia-reperfusion injury",
+            "id": "mesh:D015427"
+        },
+        {
+            "entityId": "1737_1742",
+            "span": {
+                "begin": 1737,
+                "end": 1742
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "1858_1871",
+            "span": {
+                "begin": 1858,
+                "end": 1871
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "2080_2083",
+            "span": {
+                "begin": 2080,
+                "end": 2083
+            },
+            "entityType": "disease",
+            "entityName": "IRI",
+            "id": "mesh:D007499"
+        },
+        {
+            "entityId": "2142_2155",
+            "span": {
+                "begin": 2142,
+                "end": 2155
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "2363_2371",
+            "span": {
+                "begin": 2363,
+                "end": 2371
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "2377_2399",
+            "span": {
+                "begin": 2377,
+                "end": 2399
+            },
+            "entityType": "disease",
+            "entityName": "ischemic heart disease",
+            "id": "UMLS:C0010054"
+        },
+        {
+            "entityId": "2421_2466",
+            "span": {
+                "begin": 2421,
+                "end": 2466
+            },
+            "entityType": "gene",
+            "entityName": "mitochondrial serine-threonine protein kinase",
+            "id": "UMLS:C1335197"
+        },
+        {
+            "entityId": "2468_2472",
+            "span": {
+                "begin": 2468,
+                "end": 2472
+            },
+            "entityType": "gene",
+            "entityName": "PTEN",
+            "id": "UMLS:C0694888"
+        },
+        {
+            "entityId": "2474_2541",
+            "span": {
+                "begin": 2474,
+                "end": 2541
+            },
+            "entityType": "gene",
+            "entityName": "phosphatase and tensin homologue on chromosome 10)-induced kinase 1",
+            "id": "UMLS:C0031678"
+        },
+        {
+            "entityId": "2543_2548",
+            "span": {
+                "begin": 2543,
+                "end": 2548
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "2629_2639",
+            "span": {
+                "begin": 2629,
+                "end": 2639
+            },
+            "entityType": "gene",
+            "entityName": "PINK1 gene",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "2720_2737",
+            "span": {
+                "begin": 2720,
+                "end": 2737
+            },
+            "entityType": "disease",
+            "entityName": "Parkinson disease",
+            "id": "UMLS:C0030567"
+        },
+        {
+            "entityId": "2741_2767",
+            "span": {
+                "begin": 2741,
+                "end": 2767
+            },
+            "entityType": "disease",
+            "entityName": "neurodegenerative disorder",
+            "id": "UMLS:C0524851"
+        },
+        {
+            "entityId": "2797_2817",
+            "span": {
+                "begin": 2797,
+                "end": 2817
+            },
+            "entityType": "cell",
+            "entityName": "dopaminergic neurons",
+            "id": "UMLS:C1512035"
+        },
+        {
+            "entityId": "2863_2868",
+            "span": {
+                "begin": 2863,
+                "end": 2868
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "2872_2879",
+            "span": {
+                "begin": 2872,
+                "end": 2879
+            },
+            "entityType": "cell",
+            "entityName": "neurons",
+            "id": "UMLS:C0027882"
+        },
+        {
+            "entityId": "3012_3015",
+            "span": {
+                "begin": 3012,
+                "end": 3015
+            },
+            "entityType": "drug",
+            "entityName": "ATP",
+            "id": "UMLS:CHEBI:30616"
+        },
+        {
+            "entityId": "3066_3073",
+            "span": {
+                "begin": 3066,
+                "end": 3073
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "3159_3163",
+            "span": {
+                "begin": 3159,
+                "end": 3163
+            },
+            "entityType": "gene",
+            "entityName": "MPTP",
+            "id": "UMLS:C0908146"
+        },
+        {
+            "entityId": "3187_3202",
+            "span": {
+                "begin": 3187,
+                "end": 3202
+            },
+            "entityType": "gene",
+            "entityName": "wild-type PINK1",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "3232_3239",
+            "span": {
+                "begin": 3232,
+                "end": 3239
+            },
+            "entityType": "cell",
+            "entityName": "neurons",
+            "id": "UMLS:C0027882"
+        },
+        {
+            "entityId": "3293_3305",
+            "span": {
+                "begin": 3293,
+                "end": 3305
+            },
+            "entityType": "gene",
+            "entityName": "cytochrome C",
+            "id": "UMLS:C1426584"
+        },
+        {
+            "entityId": "3318_3333",
+            "span": {
+                "begin": 3318,
+                "end": 3333
+            },
+            "entityType": "gene",
+            "entityName": "caspase 3 and 9",
+            "id": "UMLS:C1413132"
+        },
+        {
+            "entityId": "3397_3410",
+            "span": {
+                "begin": 3397,
+                "end": 3410
+            },
+            "entityType": "gene",
+            "entityName": "PINK1 protein",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "3601_3606",
+            "span": {
+                "begin": 3601,
+                "end": 3606
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "3650_3653",
+            "span": {
+                "begin": 3650,
+                "end": 3653
+            },
+            "entityType": "disease",
+            "entityName": "IRI",
+            "id": "mesh:D007499"
+        },
+        {
+            "entityId": "3680_3685",
+            "span": {
+                "begin": 3680,
+                "end": 3685
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "3725_3752",
+            "span": {
+                "begin": 3725,
+                "end": 3752
+            },
+            "entityType": "disease",
+            "entityName": "ischemia-reperfusion injury",
+            "id": "mesh:D015427"
+        },
+        {
+            "entityId": "4271_4276",
+            "span": {
+                "begin": 4271,
+                "end": 4276
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "4311_4343",
+            "span": {
+                "begin": 4311,
+                "end": 4343
+            },
+            "entityType": "cell",
+            "entityName": "adherent murine atrial cell line",
+            "id": "UMLS:C0007600"
+        },
+        {
+            "entityId": "4506_4517",
+            "span": {
+                "begin": 4506,
+                "end": 4517
+            },
+            "entityType": "gene",
+            "entityName": "fibronectin",
+            "id": "UMLS:C1570610"
+        },
+        {
+            "entityId": "4608_4619",
+            "span": {
+                "begin": 4608,
+                "end": 4619
+            },
+            "entityType": "drug",
+            "entityName": "L glutamine",
+            "id": "UMLS:C0017797"
+        },
+        {
+            "entityId": "4648_4662",
+            "span": {
+                "begin": 4648,
+                "end": 4662
+            },
+            "entityType": "drug",
+            "entityName": "norepinephrine",
+            "id": "UMLS:C0028351"
+        },
+        {
+            "entityId": "4682_4695",
+            "span": {
+                "begin": 4682,
+                "end": 4695
+            },
+            "entityType": "drug",
+            "entityName": "ascorbic acid",
+            "id": "UMLS:C0003968"
+        },
+        {
+            "entityId": "4705_4715",
+            "span": {
+                "begin": 4705,
+                "end": 4715
+            },
+            "entityType": "drug",
+            "entityName": "penicillin",
+            "id": "UMLS:C0030842"
+        },
+        {
+            "entityId": "4731_4743",
+            "span": {
+                "begin": 4731,
+                "end": 4743
+            },
+            "entityType": "drug",
+            "entityName": "streptomycin",
+            "id": "UMLS:C0038425"
+        },
+        {
+            "entityId": "4831_4833",
+            "span": {
+                "begin": 4831,
+                "end": 4833
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "4836_4839",
+            "span": {
+                "begin": 4836,
+                "end": 4839
+            },
+            "entityType": "drug",
+            "entityName": "CO2",
+            "id": "UMLS:C2347816"
+        },
+        {
+            "entityId": "4887_4892",
+            "span": {
+                "begin": 4887,
+                "end": 4892
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "5033_5038",
+            "span": {
+                "begin": 5033,
+                "end": 5038
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "5068_5079",
+            "span": {
+                "begin": 5068,
+                "end": 5079
+            },
+            "entityType": "gene",
+            "entityName": "fibronectin",
+            "id": "UMLS:C1570610"
+        },
+        {
+            "entityId": "5505_5510",
+            "span": {
+                "begin": 5505,
+                "end": 5510
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "5651_5656",
+            "span": {
+                "begin": 5651,
+                "end": 5656
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "6046_6060",
+            "span": {
+                "begin": 6046,
+                "end": 6060
+            },
+            "entityType": "gene",
+            "entityName": "PINK1 antibody",
+            "id": "UMLS:C0003241"
+        },
+        {
+            "entityId": "6090_6103",
+            "span": {
+                "begin": 6090,
+                "end": 6103
+            },
+            "entityType": "gene",
+            "entityName": "PINK1 protein",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "6153_6180",
+            "span": {
+                "begin": 6153,
+                "end": 6180
+            },
+            "entityType": "disease",
+            "entityName": "Ischemia-reperfusion Injury",
+            "id": "mesh:D015427"
+        },
+        {
+            "entityId": "6211_6216",
+            "span": {
+                "begin": 6211,
+                "end": 6216
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "6253_6258",
+            "span": {
+                "begin": 6253,
+                "end": 6258
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "6405_6412",
+            "span": {
+                "begin": 6405,
+                "end": 6412
+            },
+            "entityType": "disease",
+            "entityName": "hypoxia",
+            "id": "UMLS:C0242184"
+        },
+        {
+            "entityId": "6523_6529",
+            "span": {
+                "begin": 6523,
+                "end": 6529
+            },
+            "entityType": "drug",
+            "entityName": "NaHCO3",
+            "id": "UMLS:C0074722"
+        },
+        {
+            "entityId": "6536_6546",
+            "span": {
+                "begin": 6536,
+                "end": 6546
+            },
+            "entityType": "drug",
+            "entityName": "MgCl2.6H2O",
+            "id": "UMLS:C0024472"
+        },
+        {
+            "entityId": "6566_6570",
+            "span": {
+                "begin": 6566,
+                "end": 6570
+            },
+            "entityType": "drug",
+            "entityName": "NaCl",
+            "id": "UMLS:C0037494"
+        },
+        {
+            "entityId": "6577_6580",
+            "span": {
+                "begin": 6577,
+                "end": 6580
+            },
+            "entityType": "drug",
+            "entityName": "KCl",
+            "id": "UMLS:C0032825"
+        },
+        {
+            "entityId": "6585_6590",
+            "span": {
+                "begin": 6585,
+                "end": 6590
+            },
+            "entityType": "drug",
+            "entityName": "CaCl2",
+            "id": "mesh:D002122"
+        },
+        {
+            "entityId": "6641_6649",
+            "span": {
+                "begin": 6641,
+                "end": 6649
+            },
+            "entityType": "drug",
+            "entityName": "nitrogen",
+            "id": "mesh:D009584"
+        },
+        {
+            "entityId": "6749_6757",
+            "span": {
+                "begin": 6749,
+                "end": 6757
+            },
+            "entityType": "disease",
+            "entityName": "ischemia",
+            "id": "UMLS:C0022116"
+        },
+        {
+            "entityId": "6911_6927",
+            "span": {
+                "begin": 6911,
+                "end": 6927
+            },
+            "entityType": "drug",
+            "entityName": "propidium iodide",
+            "id": "UMLS:C0033470"
+        },
+        {
+            "entityId": "7099_7115",
+            "span": {
+                "begin": 7099,
+                "end": 7115
+            },
+            "entityType": "drug",
+            "entityName": "propidium iodide",
+            "id": "UMLS:C0033470"
+        },
+        {
+            "entityId": "7583_7589",
+            "span": {
+                "begin": 7583,
+                "end": 7589
+            },
+            "entityType": "drug",
+            "entityName": "NaHCO3",
+            "id": "UMLS:C0074722"
+        },
+        {
+            "entityId": "7596_7606",
+            "span": {
+                "begin": 7596,
+                "end": 7606
+            },
+            "entityType": "drug",
+            "entityName": "MgCl2.6H2O",
+            "id": "UMLS:C0024472"
+        },
+        {
+            "entityId": "7626_7630",
+            "span": {
+                "begin": 7626,
+                "end": 7630
+            },
+            "entityType": "drug",
+            "entityName": "NaCl",
+            "id": "UMLS:C0037494"
+        },
+        {
+            "entityId": "7637_7642",
+            "span": {
+                "begin": 7637,
+                "end": 7642
+            },
+            "entityType": "drug",
+            "entityName": "KCl 3",
+            "id": "UMLS:C0032825"
+        },
+        {
+            "entityId": "7644_7649",
+            "span": {
+                "begin": 7644,
+                "end": 7649
+            },
+            "entityType": "drug",
+            "entityName": "CaCl2",
+            "id": "mesh:D002122"
+        },
+        {
+            "entityId": "7657_7664",
+            "span": {
+                "begin": 7657,
+                "end": 7664
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "7671_7682",
+            "span": {
+                "begin": 7671,
+                "end": 7682
+            },
+            "entityType": "drug",
+            "entityName": "Na pyruvate",
+            "id": "UMLS:C0034354"
+        },
+        {
+            "entityId": "7714_7717",
+            "span": {
+                "begin": 7714,
+                "end": 7717
+            },
+            "entityType": "drug",
+            "entityName": "CO2",
+            "id": "UMLS:C2347816"
+        },
+        {
+            "entityId": "7722_7724",
+            "span": {
+                "begin": 7722,
+                "end": 7724
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "7834_7838",
+            "span": {
+                "begin": 7834,
+                "end": 7838
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "7877_7882",
+            "span": {
+                "begin": 7877,
+                "end": 7882
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "7910_7915",
+            "span": {
+                "begin": 7910,
+                "end": 7915
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "7957_7961",
+            "span": {
+                "begin": 7957,
+                "end": 7961
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "8008_8012",
+            "span": {
+                "begin": 8008,
+                "end": 8012
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "8081_8110",
+            "span": {
+                "begin": 8081,
+                "end": 8110
+            },
+            "entityType": "drug",
+            "entityName": "tetra methyl rhodamine methyl",
+            "id": "UMLS:C0600322"
+        },
+        {
+            "entityId": "8112_8116",
+            "span": {
+                "begin": 8112,
+                "end": 8116
+            },
+            "entityType": "drug",
+            "entityName": "TMRM",
+            "id": "UMLS:C0600322"
+        },
+        {
+            "entityId": "8175_8181",
+            "span": {
+                "begin": 8175,
+                "end": 8181
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "8336_8340",
+            "span": {
+                "begin": 8336,
+                "end": 8340
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "8518_8522",
+            "span": {
+                "begin": 8518,
+                "end": 8522
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "8574_8581",
+            "span": {
+                "begin": 8574,
+                "end": 8581
+            },
+            "entityType": "drug",
+            "entityName": "calcein",
+            "id": "UMLS:C0060549"
+        },
+        {
+            "entityId": "8728_8732",
+            "span": {
+                "begin": 8728,
+                "end": 8732
+            },
+            "entityType": "drug",
+            "entityName": "TMRM",
+            "id": "UMLS:C0600322"
+        },
+        {
+            "entityId": "8899_8903",
+            "span": {
+                "begin": 8899,
+                "end": 8903
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "8974_8978",
+            "span": {
+                "begin": 8974,
+                "end": 8978
+            },
+            "entityType": "drug",
+            "entityName": "TMRM",
+            "id": "UMLS:C0600322"
+        },
+        {
+            "entityId": "9086_9090",
+            "span": {
+                "begin": 9086,
+                "end": 9090
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "9335_9339",
+            "span": {
+                "begin": 9335,
+                "end": 9339
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "9359_9363",
+            "span": {
+                "begin": 9359,
+                "end": 9363
+            },
+            "entityType": "drug",
+            "entityName": "TMRM",
+            "id": "UMLS:C0600322"
+        },
+        {
+            "entityId": "9431_9435",
+            "span": {
+                "begin": 9431,
+                "end": 9435
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "9447_9460",
+            "span": {
+                "begin": 9447,
+                "end": 9460
+            },
+            "entityType": "drug",
+            "entityName": "cyclosporin A",
+            "id": "UMLS:C0010592"
+        },
+        {
+            "entityId": "9503_9507",
+            "span": {
+                "begin": 9503,
+                "end": 9507
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "9680_9685",
+            "span": {
+                "begin": 9680,
+                "end": 9685
+            },
+            "entityType": "drug",
+            "entityName": "Argon",
+            "id": "mesh:D001128"
+        },
+        {
+            "entityId": "9807_9810",
+            "span": {
+                "begin": 9807,
+                "end": 9810
+            },
+            "entityType": "gene",
+            "entityName": "GFP",
+            "id": "UMLS:C0120285"
+        },
+        {
+            "entityId": "9828_9832",
+            "span": {
+                "begin": 9828,
+                "end": 9832
+            },
+            "entityType": "drug",
+            "entityName": "TMRM",
+            "id": "UMLS:C0600322"
+        },
+        {
+            "entityId": "9922_9926",
+            "span": {
+                "begin": 9922,
+                "end": 9926
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "10255_10260",
+            "span": {
+                "begin": 10255,
+                "end": 10260
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "10270_10274",
+            "span": {
+                "begin": 10270,
+                "end": 10274
+            },
+            "entityType": "species",
+            "entityName": "Mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "10275_10280",
+            "span": {
+                "begin": 10275,
+                "end": 10280
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "10290_10294",
+            "span": {
+                "begin": 10290,
+                "end": 10294
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "10451_10459",
+            "span": {
+                "begin": 10451,
+                "end": 10459
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+/+",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "10547_10552",
+            "span": {
+                "begin": 10547,
+                "end": 10552
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "10599_10611",
+            "span": {
+                "begin": 10599,
+                "end": 10611
+            },
+            "entityType": "gene",
+            "entityName": "proteinase K",
+            "id": "UMLS:C0059256"
+        },
+        {
+            "entityId": "10690_10711",
+            "span": {
+                "begin": 10690,
+                "end": 10711
+            },
+            "entityType": "disease",
+            "entityName": "Myocardial Infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "10715_10720",
+            "span": {
+                "begin": 10715,
+                "end": 10720
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "10730_10735",
+            "span": {
+                "begin": 10730,
+                "end": 10735
+            },
+            "entityType": "species",
+            "entityName": "Mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "10755_10763",
+            "span": {
+                "begin": 10755,
+                "end": 10763
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+/+",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "10765_10771",
+            "span": {
+                "begin": 10765,
+                "end": 10771
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "10778_10784",
+            "span": {
+                "begin": 10778,
+                "end": 10784
+            },
+            "entityType": "gene",
+            "entityName": "PINK1-",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "10787_10791",
+            "span": {
+                "begin": 10787,
+                "end": 10791
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "10912_10916",
+            "span": {
+                "begin": 10912,
+                "end": 10916
+            },
+            "entityType": "species",
+            "entityName": "Mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "11199_11203",
+            "span": {
+                "begin": 11199,
+                "end": 11203
+            },
+            "entityType": "drug",
+            "entityName": "NaCl",
+            "id": "UMLS:C0037494"
+        },
+        {
+            "entityId": "11212_11218",
+            "span": {
+                "begin": 11212,
+                "end": 11218
+            },
+            "entityType": "drug",
+            "entityName": "NaHCO3",
+            "id": "UMLS:C0074722"
+        },
+        {
+            "entityId": "11226_11229",
+            "span": {
+                "begin": 11226,
+                "end": 11229
+            },
+            "entityType": "drug",
+            "entityName": "KCl",
+            "id": "UMLS:C0032825"
+        },
+        {
+            "entityId": "11236_11243",
+            "span": {
+                "begin": 11236,
+                "end": 11243
+            },
+            "entityType": "drug",
+            "entityName": "NaH2PO4",
+            "id": "mesh:C018279"
+        },
+        {
+            "entityId": "11250_11255",
+            "span": {
+                "begin": 11250,
+                "end": 11255
+            },
+            "entityType": "drug",
+            "entityName": "CaCl2",
+            "id": "mesh:D002122"
+        },
+        {
+            "entityId": "11264_11269",
+            "span": {
+                "begin": 11264,
+                "end": 11269
+            },
+            "entityType": "drug",
+            "entityName": "MgCl2",
+            "id": "UMLS:C0024472"
+        },
+        {
+            "entityId": "11281_11288",
+            "span": {
+                "begin": 11281,
+                "end": 11288
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "11548_11577",
+            "span": {
+                "begin": 11548,
+                "end": 11577
+            },
+            "entityType": "drug",
+            "entityName": "triphenyltetrazolium chloride",
+            "id": "UMLS:C0146883"
+        },
+        {
+            "entityId": "11579_11582",
+            "span": {
+                "begin": 11579,
+                "end": 11582
+            },
+            "entityType": "drug",
+            "entityName": "TTC",
+            "id": "mesh:C009591"
+        },
+        {
+            "entityId": "11760_11768",
+            "span": {
+                "begin": 11760,
+                "end": 11768
+            },
+            "entityType": "drug",
+            "entityName": "formalin",
+            "id": "UMLS:C0949307"
+        },
+        {
+            "entityId": "12008_12035",
+            "span": {
+                "begin": 12008,
+                "end": 12035
+            },
+            "entityType": "cell",
+            "entityName": "Adult Murine Cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "12060_12068",
+            "span": {
+                "begin": 12060,
+                "end": 12068
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+/+",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "12073_12081",
+            "span": {
+                "begin": 12073,
+                "end": 12081
+            },
+            "entityType": "gene",
+            "entityName": "PINK1-/-",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "12082_12086",
+            "span": {
+                "begin": 12082,
+                "end": 12086
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "12226_12234",
+            "span": {
+                "begin": 12226,
+                "end": 12234
+            },
+            "entityType": "drug",
+            "entityName": "Ketamine",
+            "id": "UMLS:C0022614"
+        },
+        {
+            "entityId": "12244_12252",
+            "span": {
+                "begin": 12244,
+                "end": 12252
+            },
+            "entityType": "drug",
+            "entityName": "Xylazine",
+            "id": "UMLS:C0043366"
+        },
+        {
+            "entityId": "12268_12276",
+            "span": {
+                "begin": 12268,
+                "end": 12276
+            },
+            "entityType": "drug",
+            "entityName": "Atropine",
+            "id": "UMLS:C0004259"
+        },
+        {
+            "entityId": "12358_12365",
+            "span": {
+                "begin": 12358,
+                "end": 12365
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "12396_12400",
+            "span": {
+                "begin": 12396,
+                "end": 12400
+            },
+            "entityType": "drug",
+            "entityName": "NaCl",
+            "id": "UMLS:C0037494"
+        },
+        {
+            "entityId": "12409_12412",
+            "span": {
+                "begin": 12409,
+                "end": 12412
+            },
+            "entityType": "drug",
+            "entityName": "KCL",
+            "id": "UMLS:C0032825"
+        },
+        {
+            "entityId": "12436_12443",
+            "span": {
+                "begin": 12436,
+                "end": 12443
+            },
+            "entityType": "drug",
+            "entityName": "Na2HPO4",
+            "id": "UMLS:CHEBI:34683"
+        },
+        {
+            "entityId": "12452_12462",
+            "span": {
+                "begin": 12452,
+                "end": 12462
+            },
+            "entityType": "drug",
+            "entityName": "MgSO4.7H2O",
+            "id": "UMLS:C0024480"
+        },
+        {
+            "entityId": "12470_12476",
+            "span": {
+                "begin": 12470,
+                "end": 12476
+            },
+            "entityType": "drug",
+            "entityName": "NaHCO3",
+            "id": "UMLS:C0074722"
+        },
+        {
+            "entityId": "12484_12489",
+            "span": {
+                "begin": 12484,
+                "end": 12489
+            },
+            "entityType": "drug",
+            "entityName": "KHCO3",
+            "id": "UMLS:C0071751"
+        },
+        {
+            "entityId": "12497_12504",
+            "span": {
+                "begin": 12497,
+                "end": 12504
+            },
+            "entityType": "drug",
+            "entityName": "Taurine",
+            "id": "UMLS:C0039350"
+        },
+        {
+            "entityId": "12512_12517",
+            "span": {
+                "begin": 12512,
+                "end": 12517
+            },
+            "entityType": "drug",
+            "entityName": "HEPES",
+            "id": "UMLS:C0019215"
+        },
+        {
+            "entityId": "12525_12532",
+            "span": {
+                "begin": 12525,
+                "end": 12532
+            },
+            "entityType": "drug",
+            "entityName": "Glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "12543_12567",
+            "span": {
+                "begin": 12543,
+                "end": 12567
+            },
+            "entityType": "drug",
+            "entityName": "2,3-Butanedione monoxime",
+            "id": "UMLS:C0057676"
+        },
+        {
+            "entityId": "12773_12775",
+            "span": {
+                "begin": 12773,
+                "end": 12775
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "12778_12781",
+            "span": {
+                "begin": 12778,
+                "end": 12781
+            },
+            "entityType": "drug",
+            "entityName": "CO2",
+            "id": "UMLS:C2347816"
+        },
+        {
+            "entityId": "12783_12790",
+            "span": {
+                "begin": 12783,
+                "end": 12790
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "12928_12946",
+            "span": {
+                "begin": 12928,
+                "end": 12946
+            },
+            "entityType": "gene",
+            "entityName": "type 2 Collagenase",
+            "id": "UMLS:C0162745"
+        },
+        {
+            "entityId": "12977_12990",
+            "span": {
+                "begin": 12977,
+                "end": 12990
+            },
+            "entityType": "gene",
+            "entityName": "Hyaluronidase",
+            "id": "UMLS:C0020197"
+        },
+        {
+            "entityId": "13020_13027",
+            "span": {
+                "begin": 13020,
+                "end": 13027
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "13084_13089",
+            "span": {
+                "begin": 13084,
+                "end": 13089
+            },
+            "entityType": "drug",
+            "entityName": "CaCl2",
+            "id": "mesh:D002122"
+        },
+        {
+            "entityId": "13274_13276",
+            "span": {
+                "begin": 13274,
+                "end": 13276
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "13279_13282",
+            "span": {
+                "begin": 13279,
+                "end": 13282
+            },
+            "entityType": "drug",
+            "entityName": "CO2",
+            "id": "UMLS:C2347816"
+        },
+        {
+            "entityId": "13500_13502",
+            "span": {
+                "begin": 13500,
+                "end": 13502
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "13505_13508",
+            "span": {
+                "begin": 13505,
+                "end": 13508
+            },
+            "entityType": "drug",
+            "entityName": "CO2",
+            "id": "UMLS:C2347816"
+        },
+        {
+            "entityId": "13758_13771",
+            "span": {
+                "begin": 13758,
+                "end": 13771
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "13792_13803",
+            "span": {
+                "begin": 13792,
+                "end": 13803
+            },
+            "entityType": "cell",
+            "entityName": "fibroblasts",
+            "id": "UMLS:C0016030"
+        },
+        {
+            "entityId": "13875_13888",
+            "span": {
+                "begin": 13875,
+                "end": 13888
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "13922_13929",
+            "span": {
+                "begin": 13922,
+                "end": 13929
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "13961_13968",
+            "span": {
+                "begin": 13961,
+                "end": 13968
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "14021_14026",
+            "span": {
+                "begin": 14021,
+                "end": 14026
+            },
+            "entityType": "drug",
+            "entityName": "CaCl2",
+            "id": "mesh:D002122"
+        },
+        {
+            "entityId": "14045_14052",
+            "span": {
+                "begin": 14045,
+                "end": 14052
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "14079_14092",
+            "span": {
+                "begin": 14079,
+                "end": 14092
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "14317_14337",
+            "span": {
+                "begin": 14317,
+                "end": 14337
+            },
+            "entityType": "gene",
+            "entityName": "bovine serum albumin",
+            "id": "UMLS:C0036774"
+        },
+        {
+            "entityId": "14350_14358",
+            "span": {
+                "begin": 14350,
+                "end": 14358
+            },
+            "entityType": "drug",
+            "entityName": "creatine",
+            "id": "UMLS:C0010286"
+        },
+        {
+            "entityId": "14371_14378",
+            "span": {
+                "begin": 14371,
+                "end": 14378
+            },
+            "entityType": "drug",
+            "entityName": "taurine",
+            "id": "UMLS:C0039350"
+        },
+        {
+            "entityId": "14391_14400",
+            "span": {
+                "begin": 14391,
+                "end": 14400
+            },
+            "entityType": "drug",
+            "entityName": "carnitine",
+            "id": "UMLS:C0007258"
+        },
+        {
+            "entityId": "14410_14420",
+            "span": {
+                "begin": 14410,
+                "end": 14420
+            },
+            "entityType": "drug",
+            "entityName": "penicillin",
+            "id": "UMLS:C0030842"
+        },
+        {
+            "entityId": "14434_14446",
+            "span": {
+                "begin": 14434,
+                "end": 14446
+            },
+            "entityType": "drug",
+            "entityName": "streptomycin",
+            "id": "UMLS:C0038425"
+        },
+        {
+            "entityId": "14461_14473",
+            "span": {
+                "begin": 14461,
+                "end": 14473
+            },
+            "entityType": "drug",
+            "entityName": "blebbistatin",
+            "id": "UMLS:C1175344"
+        },
+        {
+            "entityId": "14616_14623",
+            "span": {
+                "begin": 14616,
+                "end": 14623
+            },
+            "entityType": "gene",
+            "entityName": "laminin",
+            "id": "UMLS:C0022984"
+        },
+        {
+            "entityId": "14703_14705",
+            "span": {
+                "begin": 14703,
+                "end": 14705
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "14801_14815",
+            "span": {
+                "begin": 14801,
+                "end": 14815
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "14872_14884",
+            "span": {
+                "begin": 14872,
+                "end": 14884
+            },
+            "entityType": "drug",
+            "entityName": "blebbistatin",
+            "id": "UMLS:C1175344"
+        },
+        {
+            "entityId": "14934_14957",
+            "span": {
+                "begin": 14934,
+                "end": 14957
+            },
+            "entityType": "cell",
+            "entityName": "PINK1-/- Cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "14962_14990",
+            "span": {
+                "begin": 14962,
+                "end": 14990
+            },
+            "entityType": "cell",
+            "entityName": "Primary adult cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "15028_15036",
+            "span": {
+                "begin": 15028,
+                "end": 15036
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+/+",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "15045_15049",
+            "span": {
+                "begin": 15045,
+                "end": 15049
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "15092_15096",
+            "span": {
+                "begin": 15092,
+                "end": 15096
+            },
+            "entityType": "drug",
+            "entityName": "TMRM",
+            "id": "UMLS:C0600322"
+        },
+        {
+            "entityId": "15147_15154",
+            "span": {
+                "begin": 15147,
+                "end": 15154
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "15212_15217",
+            "span": {
+                "begin": 15212,
+                "end": 15217
+            },
+            "entityType": "drug",
+            "entityName": "HEPES",
+            "id": "UMLS:C0019215"
+        },
+        {
+            "entityId": "15229_15234",
+            "span": {
+                "begin": 15229,
+                "end": 15234
+            },
+            "entityType": "drug",
+            "entityName": "CaCl2",
+            "id": "mesh:D002122"
+        },
+        {
+            "entityId": "15338_15352",
+            "span": {
+                "begin": 15338,
+                "end": 15352
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "15438_15442",
+            "span": {
+                "begin": 15438,
+                "end": 15442
+            },
+            "entityType": "drug",
+            "entityName": "TMRM",
+            "id": "UMLS:C0600322"
+        },
+        {
+            "entityId": "15660_15666",
+            "span": {
+                "begin": 15660,
+                "end": 15666
+            },
+            "entityType": "drug",
+            "entityName": "Oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "15682_15703",
+            "span": {
+                "begin": 15682,
+                "end": 15703
+            },
+            "entityType": "cell",
+            "entityName": "Intact Cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "15761_15773",
+            "span": {
+                "begin": 15761,
+                "end": 15773
+            },
+            "entityType": "cell",
+            "entityName": "intact cells",
+            "id": "UMLS:C0682538"
+        },
+        {
+            "entityId": "15842_15848",
+            "span": {
+                "begin": 15842,
+                "end": 15848
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "15900_15906",
+            "span": {
+                "begin": 15900,
+                "end": 15906
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "15996_16002",
+            "span": {
+                "begin": 15996,
+                "end": 16002
+            },
+            "entityType": "drug",
+            "entityName": "Oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "16113_16117",
+            "span": {
+                "begin": 16113,
+                "end": 16117
+            },
+            "entityType": "drug",
+            "entityName": "FCCP",
+            "id": "UMLS:C0007044"
+        },
+        {
+            "entityId": "16213_16218",
+            "span": {
+                "begin": 16213,
+                "end": 16218
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "16222_16226",
+            "span": {
+                "begin": 16222,
+                "end": 16226
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "16314_16317",
+            "span": {
+                "begin": 16314,
+                "end": 16317
+            },
+            "entityType": "drug",
+            "entityName": "KCl",
+            "id": "UMLS:C0032825"
+        },
+        {
+            "entityId": "16325_16329",
+            "span": {
+                "begin": 16325,
+                "end": 16329
+            },
+            "entityType": "drug",
+            "entityName": "NaCl",
+            "id": "UMLS:C0037494"
+        },
+        {
+            "entityId": "16337_16342",
+            "span": {
+                "begin": 16337,
+                "end": 16342
+            },
+            "entityType": "drug",
+            "entityName": "HEPES",
+            "id": "UMLS:C0019215"
+        },
+        {
+            "entityId": "16364_16369",
+            "span": {
+                "begin": 16364,
+                "end": 16369
+            },
+            "entityType": "drug",
+            "entityName": "MgCl2",
+            "id": "UMLS:C0024472"
+        },
+        {
+            "entityId": "16376_16380",
+            "span": {
+                "begin": 16376,
+                "end": 16380
+            },
+            "entityType": "drug",
+            "entityName": "EGTA",
+            "id": "UMLS:C0013714"
+        },
+        {
+            "entityId": "16392_16398",
+            "span": {
+                "begin": 16392,
+                "end": 16398
+            },
+            "entityType": "drug",
+            "entityName": "Oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "16440_16446",
+            "span": {
+                "begin": 16440,
+                "end": 16446
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "16494_16503",
+            "span": {
+                "begin": 16494,
+                "end": 16503
+            },
+            "entityType": "drug",
+            "entityName": "Glutamate",
+            "id": "UMLS:C0220839"
+        },
+        {
+            "entityId": "16515_16521",
+            "span": {
+                "begin": 16515,
+                "end": 16521
+            },
+            "entityType": "drug",
+            "entityName": "malate",
+            "id": "UMLS:C0220873"
+        },
+        {
+            "entityId": "16551_16560",
+            "span": {
+                "begin": 16551,
+                "end": 16560
+            },
+            "entityType": "gene",
+            "entityName": "Complex I",
+            "id": "UMLS:C0171406"
+        },
+        {
+            "entityId": "16581_16590",
+            "span": {
+                "begin": 16581,
+                "end": 16590
+            },
+            "entityType": "drug",
+            "entityName": "succinate",
+            "id": "UMLS:C0220918"
+        },
+        {
+            "entityId": "16603_16611",
+            "span": {
+                "begin": 16603,
+                "end": 16611
+            },
+            "entityType": "drug",
+            "entityName": "rotenone",
+            "id": "UMLS:C0035871"
+        },
+        {
+            "entityId": "16645_16655",
+            "span": {
+                "begin": 16645,
+                "end": 16655
+            },
+            "entityType": "gene",
+            "entityName": "Complex II",
+            "id": "UMLS:C1453024"
+        },
+        {
+            "entityId": "16793_16816",
+            "span": {
+                "begin": 16793,
+                "end": 16816
+            },
+            "entityType": "cell",
+            "entityName": "PINK1-/- Cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "16821_16849",
+            "span": {
+                "begin": 16821,
+                "end": 16849
+            },
+            "entityType": "cell",
+            "entityName": "Primary adult cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "16869_16877",
+            "span": {
+                "begin": 16869,
+                "end": 16877
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+/+",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "16954_16995",
+            "span": {
+                "begin": 16954,
+                "end": 16995
+            },
+            "entityType": "drug",
+            "entityName": "carbonyl cyanide m-chlorophenyl hydrazone",
+            "id": "UMLS:C0007043"
+        },
+        {
+            "entityId": "16997_17001",
+            "span": {
+                "begin": 16997,
+                "end": 17001
+            },
+            "entityType": "drug",
+            "entityName": "CCCP",
+            "id": "UMLS:C0007043"
+        },
+        {
+            "entityId": "17082_17092",
+            "span": {
+                "begin": 17082,
+                "end": 17092
+            },
+            "entityType": "gene",
+            "entityName": "F0F1ATPase",
+            "id": "NCBIGene:514"
+        },
+        {
+            "entityId": "17127_17130",
+            "span": {
+                "begin": 17127,
+                "end": 17130
+            },
+            "entityType": "drug",
+            "entityName": "ATP",
+            "id": "UMLS:CHEBI:30616"
+        },
+        {
+            "entityId": "17222_17225",
+            "span": {
+                "begin": 17222,
+                "end": 17225
+            },
+            "entityType": "drug",
+            "entityName": "ATP",
+            "id": "UMLS:CHEBI:30616"
+        },
+        {
+            "entityId": "17264_17278",
+            "span": {
+                "begin": 17264,
+                "end": 17278
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "17399_17402",
+            "span": {
+                "begin": 17399,
+                "end": 17402
+            },
+            "entityType": "drug",
+            "entityName": "ATP",
+            "id": "UMLS:CHEBI:30616"
+        },
+        {
+            "entityId": "17422_17432",
+            "span": {
+                "begin": 17422,
+                "end": 17432
+            },
+            "entityType": "gene",
+            "entityName": "F0F1ATPase",
+            "id": "NCBIGene:514"
+        },
+        {
+            "entityId": "17476_17480",
+            "span": {
+                "begin": 17476,
+                "end": 17480
+            },
+            "entityType": "drug",
+            "entityName": "CCCP",
+            "id": "UMLS:C0007043"
+        },
+        {
+            "entityId": "17755_17786",
+            "span": {
+                "begin": 17755,
+                "end": 17786
+            },
+            "entityType": "cell",
+            "entityName": "PINK1+/+ and -/- cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "17821_17844",
+            "span": {
+                "begin": 17821,
+                "end": 17844
+            },
+            "entityType": "cell",
+            "entityName": "PINK1-/- Cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "17921_17935",
+            "span": {
+                "begin": 17921,
+                "end": 17935
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "17950_17958",
+            "span": {
+                "begin": 17950,
+                "end": 17958
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+/+",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "17963_17971",
+            "span": {
+                "begin": 17963,
+                "end": 17971
+            },
+            "entityType": "gene",
+            "entityName": "PINK1-/-",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "17972_17977",
+            "span": {
+                "begin": 17972,
+                "end": 17977
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "17986_18000",
+            "span": {
+                "begin": 17986,
+                "end": 18000
+            },
+            "entityType": "cell",
+            "entityName": "Cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "18114_18129",
+            "span": {
+                "begin": 18114,
+                "end": 18129
+            },
+            "entityType": "drug",
+            "entityName": "dihydroethidium",
+            "id": "UMLS:C0644810"
+        },
+        {
+            "entityId": "18131_18134",
+            "span": {
+                "begin": 18131,
+                "end": 18134
+            },
+            "entityType": "drug",
+            "entityName": "DHE",
+            "id": "UMLS:C0058031"
+        },
+        {
+            "entityId": "18208_18218",
+            "span": {
+                "begin": 18208,
+                "end": 18218
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "18404_18412",
+            "span": {
+                "begin": 18404,
+                "end": 18412
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+/+",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "18676_18681",
+            "span": {
+                "begin": 18676,
+                "end": 18681
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "18731_18736",
+            "span": {
+                "begin": 18731,
+                "end": 18736
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "18775_18792",
+            "span": {
+                "begin": 18775,
+                "end": 18792
+            },
+            "entityType": "cell",
+            "entityName": "HL-1 cardiac cell",
+            "id": "UMLS:C0920751"
+        },
+        {
+            "entityId": "18867_18872",
+            "span": {
+                "begin": 18867,
+                "end": 18872
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "19243_19248",
+            "span": {
+                "begin": 19243,
+                "end": 19248
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "19307_19311",
+            "span": {
+                "begin": 19307,
+                "end": 19311
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "19320_19325",
+            "span": {
+                "begin": 19320,
+                "end": 19325
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "19376_19380",
+            "span": {
+                "begin": 19376,
+                "end": 19380
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "19471_19475",
+            "span": {
+                "begin": 19471,
+                "end": 19475
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "19527_19531",
+            "span": {
+                "begin": 19527,
+                "end": 19531
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "19543_19546",
+            "span": {
+                "begin": 19543,
+                "end": 19546
+            },
+            "entityType": "drug",
+            "entityName": "CsA",
+            "id": "UMLS:CHEBI:55379"
+        },
+        {
+            "entityId": "19898_19916",
+            "span": {
+                "begin": 19898,
+                "end": 19916
+            },
+            "entityType": "disease",
+            "entityName": "Myocardial Infarct",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "19938_19943",
+            "span": {
+                "begin": 19938,
+                "end": 19943
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "19953_19957",
+            "span": {
+                "begin": 19953,
+                "end": 19957
+            },
+            "entityType": "species",
+            "entityName": "Mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "19958_19966",
+            "span": {
+                "begin": 19958,
+                "end": 19966
+            },
+            "entityType": "gene",
+            "entityName": "PINK1-/-",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "19967_19971",
+            "span": {
+                "begin": 19967,
+                "end": 19971
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "20003_20022",
+            "span": {
+                "begin": 20003,
+                "end": 20022
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarcts",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "20097_20103",
+            "span": {
+                "begin": 20097,
+                "end": 20103
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "20106_20110",
+            "span": {
+                "begin": 20106,
+                "end": 20110
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "20117_20122",
+            "span": {
+                "begin": 20117,
+                "end": 20122
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "20126_20130",
+            "span": {
+                "begin": 20126,
+                "end": 20130
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "20187_20192",
+            "span": {
+                "begin": 20187,
+                "end": 20192
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "20224_20232",
+            "span": {
+                "begin": 20224,
+                "end": 20232
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+/-",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "20268_20273",
+            "span": {
+                "begin": 20268,
+                "end": 20273
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "20305_20310",
+            "span": {
+                "begin": 20305,
+                "end": 20310
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "20893_20901",
+            "span": {
+                "begin": 20893,
+                "end": 20901
+            },
+            "entityType": "gene",
+            "entityName": "PINK1-/-",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "20927_20932",
+            "span": {
+                "begin": 20927,
+                "end": 20932
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "21028_21056",
+            "span": {
+                "begin": 21028,
+                "end": 21056
+            },
+            "entityType": "cell",
+            "entityName": "primary adult cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "21111_21134",
+            "span": {
+                "begin": 21111,
+                "end": 21134
+            },
+            "entityType": "cell",
+            "entityName": "PINK1-/- cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "21147_21170",
+            "span": {
+                "begin": 21147,
+                "end": 21170
+            },
+            "entityType": "cell",
+            "entityName": "PINK1+/+ cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "21209_21213",
+            "span": {
+                "begin": 21209,
+                "end": 21213
+            },
+            "entityType": "drug",
+            "entityName": "TMRM",
+            "id": "UMLS:C0600322"
+        },
+        {
+            "entityId": "21261_21266",
+            "span": {
+                "begin": 21261,
+                "end": 21266
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "21270_21284",
+            "span": {
+                "begin": 21270,
+                "end": 21284
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "21305_21310",
+            "span": {
+                "begin": 21305,
+                "end": 21310
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "21314_21328",
+            "span": {
+                "begin": 21314,
+                "end": 21328
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "22092_22098",
+            "span": {
+                "begin": 22092,
+                "end": 22098
+            },
+            "entityType": "drug",
+            "entityName": "Oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "22114_22144",
+            "span": {
+                "begin": 22114,
+                "end": 22144
+            },
+            "entityType": "cell",
+            "entityName": "Isolated Intact Cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "22155_22161",
+            "span": {
+                "begin": 22155,
+                "end": 22161
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "22212_22235",
+            "span": {
+                "begin": 22212,
+                "end": 22235
+            },
+            "entityType": "cell",
+            "entityName": "PINK1 KO cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "22253_22255",
+            "span": {
+                "begin": 22253,
+                "end": 22255
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "22389_22399",
+            "span": {
+                "begin": 22389,
+                "end": 22399
+            },
+            "entityType": "drug",
+            "entityName": "Oligomycin",
+            "id": "UMLS:C0028951"
+        },
+        {
+            "entityId": "22565_22588",
+            "span": {
+                "begin": 22565,
+                "end": 22588
+            },
+            "entityType": "cell",
+            "entityName": "PINK1 KO cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "22606_22608",
+            "span": {
+                "begin": 22606,
+                "end": 22608
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "22658_22660",
+            "span": {
+                "begin": 22658,
+                "end": 22660
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "22796_22819",
+            "span": {
+                "begin": 22796,
+                "end": 22819
+            },
+            "entityType": "cell",
+            "entityName": "PINK1 KO cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "22850_22852",
+            "span": {
+                "begin": 22850,
+                "end": 22852
+            },
+            "entityType": "drug",
+            "entityName": "O2",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "22949_22969",
+            "span": {
+                "begin": 22949,
+                "end": 22969
+            },
+            "entityType": "cell",
+            "entityName": "PINK1 KO heart cells",
+            "id": "UMLS:C0920751"
+        },
+        {
+            "entityId": "23270_23276",
+            "span": {
+                "begin": 23270,
+                "end": 23276
+            },
+            "entityType": "drug",
+            "entityName": "Oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "23341_23357",
+            "span": {
+                "begin": 23341,
+                "end": 23357
+            },
+            "entityType": "disease",
+            "entityName": "PINK1 deficiency",
+            "id": "UMLS:C0162429"
+        },
+        {
+            "entityId": "23361_23367",
+            "span": {
+                "begin": 23361,
+                "end": 23367
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "23418_23420",
+            "span": {
+                "begin": 23418,
+                "end": 23420
+            },
+            "entityType": "cell",
+            "entityName": "WT",
+            "id": "cellosaurus:CVCL_6D82"
+        },
+        {
+            "entityId": "23422_23428",
+            "span": {
+                "begin": 23422,
+                "end": 23428
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "23509_23518",
+            "span": {
+                "begin": 23509,
+                "end": 23518
+            },
+            "entityType": "gene",
+            "entityName": "Complex I",
+            "id": "UMLS:C0171406"
+        },
+        {
+            "entityId": "23525_23531",
+            "span": {
+                "begin": 23525,
+                "end": 23531
+            },
+            "entityType": "drug",
+            "entityName": "Malate",
+            "id": "UMLS:C0220873"
+        },
+        {
+            "entityId": "23537_23546",
+            "span": {
+                "begin": 23537,
+                "end": 23546
+            },
+            "entityType": "drug",
+            "entityName": "Glutamate",
+            "id": "UMLS:C0220839"
+        },
+        {
+            "entityId": "23629_23639",
+            "span": {
+                "begin": 23629,
+                "end": 23639
+            },
+            "entityType": "gene",
+            "entityName": "Complex II",
+            "id": "UMLS:C1453024"
+        },
+        {
+            "entityId": "23651_23660",
+            "span": {
+                "begin": 23651,
+                "end": 23660
+            },
+            "entityType": "drug",
+            "entityName": "succinate",
+            "id": "UMLS:C0220918"
+        },
+        {
+            "entityId": "23680_23688",
+            "span": {
+                "begin": 23680,
+                "end": 23688
+            },
+            "entityType": "drug",
+            "entityName": "rotenone",
+            "id": "UMLS:C0035871"
+        },
+        {
+            "entityId": "23732_23738",
+            "span": {
+                "begin": 23732,
+                "end": 23738
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "23762_23767",
+            "span": {
+                "begin": 23762,
+                "end": 23767
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "23857_23860",
+            "span": {
+                "begin": 23857,
+                "end": 23860
+            },
+            "entityType": "drug",
+            "entityName": "ADP",
+            "id": "UMLS:CHEBI:73342"
+        },
+        {
+            "entityId": "23900_23903",
+            "span": {
+                "begin": 23900,
+                "end": 23903
+            },
+            "entityType": "drug",
+            "entityName": "ADP",
+            "id": "UMLS:CHEBI:73342"
+        },
+        {
+            "entityId": "24715_24719",
+            "span": {
+                "begin": 24715,
+                "end": 24719
+            },
+            "entityType": "drug",
+            "entityName": "CCCP",
+            "id": "UMLS:C0007043"
+        },
+        {
+            "entityId": "24736_24750",
+            "span": {
+                "begin": 24736,
+                "end": 24750
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "24793_24798",
+            "span": {
+                "begin": 24793,
+                "end": 24798
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "24968_24971",
+            "span": {
+                "begin": 24968,
+                "end": 24971
+            },
+            "entityType": "drug",
+            "entityName": "ATP",
+            "id": "UMLS:CHEBI:30616"
+        },
+        {
+            "entityId": "25001_25011",
+            "span": {
+                "begin": 25001,
+                "end": 25011
+            },
+            "entityType": "gene",
+            "entityName": "F0F1ATPase",
+            "id": "NCBIGene:514"
+        },
+        {
+            "entityId": "25104_25107",
+            "span": {
+                "begin": 25104,
+                "end": 25107
+            },
+            "entityType": "drug",
+            "entityName": "ATP",
+            "id": "UMLS:CHEBI:30616"
+        },
+        {
+            "entityId": "25167_25175",
+            "span": {
+                "begin": 25167,
+                "end": 25175
+            },
+            "entityType": "gene",
+            "entityName": "PINK1-/-",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "25176_25180",
+            "span": {
+                "begin": 25176,
+                "end": 25180
+            },
+            "entityType": "species",
+            "entityName": "Mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "25257_25302",
+            "span": {
+                "begin": 25257,
+                "end": 25302
+            },
+            "entityType": "cell",
+            "entityName": "isolated PINK1+/+ and PINK1-/- cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "25344_25367",
+            "span": {
+                "begin": 25344,
+                "end": 25367
+            },
+            "entityType": "cell",
+            "entityName": "PINK1-/- cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "25411_25421",
+            "span": {
+                "begin": 25411,
+                "end": 25421
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "25450_25473",
+            "span": {
+                "begin": 25450,
+                "end": 25473
+            },
+            "entityType": "cell",
+            "entityName": "PINK1+/+ cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "25487_25495",
+            "span": {
+                "begin": 25487,
+                "end": 25495
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+/+",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "25535_25540",
+            "span": {
+                "begin": 25535,
+                "end": 25540
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "26278_26283",
+            "span": {
+                "begin": 26278,
+                "end": 26283
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "26291_26313",
+            "span": {
+                "begin": 26291,
+                "end": 26313
+            },
+            "entityType": "cell",
+            "entityName": "HL-1 cardiac cell line",
+            "id": "UMLS:C0007600"
+        },
+        {
+            "entityId": "26347_26351",
+            "span": {
+                "begin": 26347,
+                "end": 26351
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "26403_26407",
+            "span": {
+                "begin": 26403,
+                "end": 26407
+            },
+            "entityType": "species",
+            "entityName": "Mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "26416_26421",
+            "span": {
+                "begin": 26416,
+                "end": 26421
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "26439_26458",
+            "span": {
+                "begin": 26439,
+                "end": 26458
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarcts",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "26494_26501",
+            "span": {
+                "begin": 26494,
+                "end": 26501
+            },
+            "entityType": "gene",
+            "entityName": "PINK1+/",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "26536_26541",
+            "span": {
+                "begin": 26536,
+                "end": 26541
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "26583_26586",
+            "span": {
+                "begin": 26583,
+                "end": 26586
+            },
+            "entityType": "disease",
+            "entityName": "IRI",
+            "id": "mesh:D007499"
+        },
+        {
+            "entityId": "26603_26607",
+            "span": {
+                "begin": 26603,
+                "end": 26607
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "26625_26630",
+            "span": {
+                "begin": 26625,
+                "end": 26630
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "26641_26660",
+            "span": {
+                "begin": 26641,
+                "end": 26660
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarcts",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "26730_26733",
+            "span": {
+                "begin": 26730,
+                "end": 26733
+            },
+            "entityType": "disease",
+            "entityName": "IRI",
+            "id": "mesh:D007499"
+        },
+        {
+            "entityId": "26737_26745",
+            "span": {
+                "begin": 26737,
+                "end": 26745
+            },
+            "entityType": "gene",
+            "entityName": "PINK1-/-",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "26746_26750",
+            "span": {
+                "begin": 26746,
+                "end": 26750
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "26934_26951",
+            "span": {
+                "begin": 26934,
+                "end": 26951
+            },
+            "entityType": "disease",
+            "entityName": "rigor contracture",
+            "id": "UMLS:C0009917"
+        },
+        {
+            "entityId": "27041_27060",
+            "span": {
+                "begin": 27041,
+                "end": 27060
+            },
+            "entityType": "gene",
+            "entityName": "mitochondrial PINK1",
+            "id": "UMLS:C1422771"
+        },
+        {
+            "entityId": "27264_27285",
+            "span": {
+                "begin": 27264,
+                "end": 27285
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "27348_27361",
+            "span": {
+                "begin": 27348,
+                "end": 27361
+            },
+            "entityType": "gene",
+            "entityName": "PINK1 alleles",
+            "id": "UMLS:C0002085"
+        },
+        {
+            "entityId": "27415_27420",
+            "span": {
+                "begin": 27415,
+                "end": 27420
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "27460_27487",
+            "span": {
+                "begin": 27460,
+                "end": 27487
+            },
+            "entityType": "disease",
+            "entityName": "ischemia-reperfusion injury",
+            "id": "mesh:D015427"
+        },
+        {
+            "entityId": "27765_27770",
+            "span": {
+                "begin": 27765,
+                "end": 27770
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "27810_27814",
+            "span": {
+                "begin": 27810,
+                "end": 27814
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "27822_27844",
+            "span": {
+                "begin": 27822,
+                "end": 27844
+            },
+            "entityType": "cell",
+            "entityName": "HL-1 cardiac cell line",
+            "id": "UMLS:C0007600"
+        },
+        {
+            "entityId": "27917_27921",
+            "span": {
+                "begin": 27917,
+                "end": 27921
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "27968_27982",
+            "span": {
+                "begin": 27968,
+                "end": 27982
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "28111_28124",
+            "span": {
+                "begin": 28111,
+                "end": 28124
+            },
+            "entityType": "cell",
+            "entityName": "cardiomyocyte",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "28140_28144",
+            "span": {
+                "begin": 28140,
+                "end": 28144
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "28153_28158",
+            "span": {
+                "begin": 28153,
+                "end": 28158
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "28179_28184",
+            "span": {
+                "begin": 28179,
+                "end": 28184
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "28206_28209",
+            "span": {
+                "begin": 28206,
+                "end": 28209
+            },
+            "entityType": "disease",
+            "entityName": "IRI",
+            "id": "mesh:D007499"
+        },
+        {
+            "entityId": "28278_28297",
+            "span": {
+                "begin": 28278,
+                "end": 28297
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "28302_28318",
+            "span": {
+                "begin": 28302,
+                "end": 28318
+            },
+            "entityType": "disease",
+            "entityName": "cardiac fibrosis",
+            "id": "UMLS:C1397307"
+        },
+        {
+            "entityId": "28374_28379",
+            "span": {
+                "begin": 28374,
+                "end": 28379
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "28514_28519",
+            "span": {
+                "begin": 28514,
+                "end": 28519
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "28593_28598",
+            "span": {
+                "begin": 28593,
+                "end": 28598
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "28611_28640",
+            "span": {
+                "begin": 28611,
+                "end": 28640
+            },
+            "entityType": "cell",
+            "entityName": "neonatal rat cortical neurons",
+            "id": "UMLS:C0027882"
+        },
+        {
+            "entityId": "28745_28754",
+            "span": {
+                "begin": 28745,
+                "end": 28754
+            },
+            "entityType": "gene",
+            "entityName": "complex I",
+            "id": "UMLS:C0171406"
+        },
+        {
+            "entityId": "28838_28857",
+            "span": {
+                "begin": 28838,
+                "end": 28857
+            },
+            "entityType": "disease",
+            "entityName": "Parkinson's disease",
+            "id": "mesh:D010300"
+        },
+        {
+            "entityId": "28878_28887",
+            "span": {
+                "begin": 28878,
+                "end": 28887
+            },
+            "entityType": "gene",
+            "entityName": "complex I",
+            "id": "UMLS:C0171406"
+        },
+        {
+            "entityId": "28922_28941",
+            "span": {
+                "begin": 28922,
+                "end": 28941
+            },
+            "entityType": "disease",
+            "entityName": "Parkinson's disease",
+            "id": "mesh:D010300"
+        },
+        {
+            "entityId": "28981_28990",
+            "span": {
+                "begin": 28981,
+                "end": 28990
+            },
+            "entityType": "gene",
+            "entityName": "complex I",
+            "id": "UMLS:C0171406"
+        },
+        {
+            "entityId": "29009_29017",
+            "span": {
+                "begin": 29009,
+                "end": 29017
+            },
+            "entityType": "species",
+            "entityName": "patients",
+            "id": "NCBITaxon:9606"
+        },
+        {
+            "entityId": "29023_29042",
+            "span": {
+                "begin": 29023,
+                "end": 29042
+            },
+            "entityType": "disease",
+            "entityName": "Parkinson's disease",
+            "id": "mesh:D010300"
+        },
+        {
+            "entityId": "29059_29068",
+            "span": {
+                "begin": 29059,
+                "end": 29068
+            },
+            "entityType": "gene",
+            "entityName": "complex I",
+            "id": "UMLS:C0171406"
+        },
+        {
+            "entityId": "29088_29096",
+            "span": {
+                "begin": 29088,
+                "end": 29096
+            },
+            "entityType": "drug",
+            "entityName": "rotenone",
+            "id": "UMLS:C0035871"
+        },
+        {
+            "entityId": "29134_29153",
+            "span": {
+                "begin": 29134,
+                "end": 29153
+            },
+            "entityType": "disease",
+            "entityName": "Parkinson's disease",
+            "id": "mesh:D010300"
+        },
+        {
+            "entityId": "29155_29164",
+            "span": {
+                "begin": 29155,
+                "end": 29164
+            },
+            "entityType": "gene",
+            "entityName": "Complex I",
+            "id": "UMLS:C0171406"
+        },
+        {
+            "entityId": "29446_29450",
+            "span": {
+                "begin": 29446,
+                "end": 29450
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "29527_29532",
+            "span": {
+                "begin": 29527,
+                "end": 29532
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "29653_29662",
+            "span": {
+                "begin": 29653,
+                "end": 29662
+            },
+            "entityType": "gene",
+            "entityName": "Complex I",
+            "id": "UMLS:C0171406"
+        },
+        {
+            "entityId": "29667_29677",
+            "span": {
+                "begin": 29667,
+                "end": 29677
+            },
+            "entityType": "gene",
+            "entityName": "Complex II",
+            "id": "UMLS:C1453024"
+        },
+        {
+            "entityId": "29692_29708",
+            "span": {
+                "begin": 29692,
+                "end": 29708
+            },
+            "entityType": "disease",
+            "entityName": "PINK1 deficiency",
+            "id": "UMLS:C0162429"
+        },
+        {
+            "entityId": "29934_29955",
+            "span": {
+                "begin": 29934,
+                "end": 29955
+            },
+            "entityType": "cell",
+            "entityName": "intact cardiomyocytes",
+            "id": "UMLS:C0225828"
+        },
+        {
+            "entityId": "29957_29973",
+            "span": {
+                "begin": 29957,
+                "end": 29973
+            },
+            "entityType": "disease",
+            "entityName": "PINK1 deficiency",
+            "id": "UMLS:C0162429"
+        },
+        {
+            "entityId": "30000_30006",
+            "span": {
+                "begin": 30000,
+                "end": 30006
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "30051_30056",
+            "span": {
+                "begin": 30051,
+                "end": 30056
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "30229_30236",
+            "span": {
+                "begin": 30229,
+                "end": 30236
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "30250_30254",
+            "span": {
+                "begin": 30250,
+                "end": 30254
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "30430_30435",
+            "span": {
+                "begin": 30430,
+                "end": 30435
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "30502_30506",
+            "span": {
+                "begin": 30502,
+                "end": 30506
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "30586_30593",
+            "span": {
+                "begin": 30586,
+                "end": 30593
+            },
+            "entityType": "drug",
+            "entityName": "calcium",
+            "id": "UMLS:C0006675"
+        },
+        {
+            "entityId": "30650_30659",
+            "span": {
+                "begin": 30650,
+                "end": 30659
+            },
+            "entityType": "gene",
+            "entityName": "complex I",
+            "id": "UMLS:C0171406"
+        },
+        {
+            "entityId": "30796_30801",
+            "span": {
+                "begin": 30796,
+                "end": 30801
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "30803_30808",
+            "span": {
+                "begin": 30803,
+                "end": 30808
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "30844_30877",
+            "span": {
+                "begin": 30844,
+                "end": 30877
+            },
+            "entityType": "gene",
+            "entityName": "TNF receptor-associated protein 1",
+            "id": "UMLS:C0258439"
+        },
+        {
+            "entityId": "30879_30884",
+            "span": {
+                "begin": 30879,
+                "end": 30884
+            },
+            "entityType": "gene",
+            "entityName": "TRAP1",
+            "id": "UMLS:C3890018"
+        },
+        {
+            "entityId": "30889_30920",
+            "span": {
+                "begin": 30889,
+                "end": 30920
+            },
+            "entityType": "gene",
+            "entityName": "mitochondrial chaperone protein",
+            "id": "UMLS:C0949610"
+        },
+        {
+            "entityId": "31018_31023",
+            "span": {
+                "begin": 31018,
+                "end": 31023
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "31054_31060",
+            "span": {
+                "begin": 31054,
+                "end": 31060
+            },
+            "entityType": "gene",
+            "entityName": "Parkin",
+            "id": "UMLS:C1311470"
+        },
+        {
+            "entityId": "31065_31084",
+            "span": {
+                "begin": 31065,
+                "end": 31084
+            },
+            "entityType": "gene",
+            "entityName": "E3 ubiquitin ligase",
+            "id": "UMLS:C1418270"
+        },
+        {
+            "entityId": "31445_31450",
+            "span": {
+                "begin": 31445,
+                "end": 31450
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "31553_31558",
+            "span": {
+                "begin": 31553,
+                "end": 31558
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "31692_31697",
+            "span": {
+                "begin": 31692,
+                "end": 31697
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "31737_31764",
+            "span": {
+                "begin": 31737,
+                "end": 31764
+            },
+            "entityType": "disease",
+            "entityName": "ischemia-reperfusion injury",
+            "id": "mesh:D015427"
+        },
+        {
+            "entityId": "32029_32033",
+            "span": {
+                "begin": 32029,
+                "end": 32033
+            },
+            "entityType": "drug",
+            "entityName": "MPTP",
+            "id": "UMLS:C0000097"
+        },
+        {
+            "entityId": "32107_32112",
+            "span": {
+                "begin": 32107,
+                "end": 32112
+            },
+            "entityType": "gene",
+            "entityName": "PINK1",
+            "id": "UMLS:C0669372"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "503_521",
+            "subjectText": "HL-1 cardiac cells",
+            "rel_name": "reduces",
+            "objectId": "577_582",
+            "objectText": "PINK1"
+        },
+        {
+            "subjectID": "1172_1180",
+            "subjectText": "PINK1-/-",
+            "rel_name": "inhibit",
+            "objectId": "1332_1335",
+            "objectText": "IRI"
+        },
+        {
+            "subjectID": "130_135",
+            "subjectText": "PINK1",
+            "rel_name": "stimulate",
+            "objectId": "173_193",
+            "objectText": "dopaminergic neurons"
+        }
+    ]
+}

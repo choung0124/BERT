@@ -1,0 +1,5173 @@
+{
+    "sourcid": "PMC3655013",
+    "publisher": "Public Library of Science",
+    "journal": "PLoS ONE",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3655013/",
+    "text": "Inhibition of TNF in the Brain Reverses Alterations in RAS Components and Attenuates Angiotensin II-Induced Hypertension Dysfunction of brain renin-angiotensin system (RAS) components is implicated in the development of hypertension. We previously showed that angiotensin (Ang) II-induced hypertension is mediated by increased production of proinflammatory cytokines (PIC), including tumor necrosis factor (TNF), in brain cardiovascular regulatory centers such as the paraventricular nucleus (PVN). Presently, we tested the hypothesis that central TNF blockade prevents dysregulation of brain RAS components and attenuates Ang II-induced hypertension. Male Sprague-Dawley rats were implanted with radio-telemetry transmitters to measure mean arterial pressure (MAP) and subjected to intracerebroventricular (ICV) infusion of etanercept (10 microg/kg/day) with/without concurrent subcutaneous 4-week Ang II (200 ng/kg/min) infusion. Chronic Ang II infusion resulted in a significant increase in MAP and cardiac hypertrophy, which was attenuated by inhibition of brain TNF with etanercept. Etanercept treatment also attenuated Ang II-induced increases in PIC and decreases in IL-10 expression in the PVN. Additionally, Ang II infusion increased expression of pro-hypertensive RAS components (ACE and AT1R), while decreasing anti-hypertensive RAS components (ACE2, Mas, and AT2 receptors), within the PVN. ICV etanercept treatment reversed these changes. Ang II-infusion was associated with increased oxidative stress as indicated by increased NAD(P)H oxidase activity and super oxide production in the PVN, which was prevented by inhibition of TNF. Moreover, brain targeted TNF blockade significantly reduced Ang II-induced NOX-2 and NOX-4 mRNA and protein expression in the PVN. These findings suggest that chronic TNF blockade in the brain protects rats against Ang II-dependent hypertension and cardiac hypertrophy by restoring the balance between pro- and anti-hypertensive RAS axes and inhibiting PIC and oxidative stress genes and proteins in the PVN. Introduction The renin-angiotensin system (RAS) plays a central role in the development and regulation of blood pressure response. Angiotensin II (Ang II), the effector peptide of the pro-hypertensive axis of the RAS that also includes angiotensin converting enzyme (ACE) and the Angiotensin -type 1 receptor (AT1R), exerts diverse physiological actions in both the peripheral and central neural systems. The anti-hypertensive counterbalance to these mediators includes ACE2, Ang-(1-7) and the Mas receptor. Importantly, all these essential components of the RAS, including renin and angiotensinogen, as well as various cardiovascular-modulatory aminopeptidases, are synthesized within the brain, suggesting the existence of a comprehensive intrinsic brain RAS. Recent evidence suggests that dysregulation of the individual brain RAS axes may play a critical role in the development and maintenance of hypertension. Ang II, acting through the AT1R, plays a prominent role in the central regulation of blood pressure by activating the sympathetic nervous system, regulating fluid and salt balance and the secretion of aldosterone, amongst other actions. Previous studies suggest that systemically delivered Ang II likely acts upon the circumventricular organs, where the blood brain barrier is weak or absent, and subsequently activates hypothalamic and brain stem sites such as the paraventricular nucleus (PVN) and ventrolateral medulla, contributing to sympathoexcitation and hypertensive response. Experimental evidence indicates that the hypothalamic PVN is an important center for integrating Ang II-induced neural outflow signals for the pressor response and sympathetic vasomotor tone.   Recent findings from our lab and others suggest that the RAS, in addition to inducing neurohumoral excitation, also increases the production of proinflammatory cytokines (PICs), such as tumor necrosis factor-alpha (TNF), in brain cardiovascular regulatory centers, and has been shown to contribute to the neurogenic component of hypertension, both through direct actions and through modulating reactive oxygen species (ROS) signaling pathways. A chronic increase in peripheral Ang II levels is proposed to initiate a cascade of signaling events involving PICs and ROS in brain cardioregulatory sites raising sympathetic activity, hypertension and end organ damage. A study by Marvar et al. showed that Ang II-mediated hypertension is caused by central mechanisms and described a feed-forward process in which the central pressor effects of Ang II lead to activation of T cells, which in turn, promote vascular inflammation and further raise blood pressure, leading to severe hypertension. In addition, PICs can be produced locally in the brain by glia and neurons, thereby contributing to the neuroinflammatory response implicated in the pathogenesis of hypertension. These observations, coupled with the emerging role of PICs and the little known role of the anti-hypertensive axis of the RAS in hypertension, led to hypothesize that the central effects of Ang II are, at least in part, mediated by the activation of PICs, especially TNF. The resultant of these actions are the differentially dysregulated RAS axes within cardiovascular relevant brain regions, including the PVN, ultimately enhancing the neurogenic hypertensive response. In the current study, we investigate this hypothesis by examining central TNF inhibition via intracerebroventricular (ICV) etanercept infusion, a soluble TNF receptor fusion protein, on pro- and anti-hypertensive RAS components in the PVN in Ang II-induced hypertension. Materials and Methods Ethics Statement All animal and experimental procedures in this study were reviewed and approved by the Institutional Animal Care and Use Committee (IACUC) at Louisiana State University in compliance with National Institutes of Health Guide for the Care and Use of Laboratory Animals. Experimental Design Male Sprague-Dawley rats (10-12 weeks old) were used in this study. Animals were housed in a temperature-controlled room (25+-1 C) and maintained on a 12:12 hour light:dark cycle with free access to food and water. The rats were implanted with radio-telemetry transmitters to measure blood pressure, and subjected to ICV infusion of etanercept (ETN; 10 microg/kg/day) or artificial cerebrospinal fluid (aCSF) (Alzet, model 1004; 0.11 microl/hr), with and without subcutaneous infusion of Ang II (200 ng/kg/min) for 4 weeks. Osmotic minipumps (Alzet, model 2004; 0.25 microl/hr) were filled with Ang II dissolved in 0.9% saline or saline alone, and were implanted subcutaneously in the retroscapular area. The rats were divided into 4 groups: 1) Control group: saline minipumps+ICV aCSF, 2) ETN group: saline minipumps+ICV etanercept, 3) Ang II group: Ang II minipump+ICV aCSF, and 4) Ang II+ETN group: Ang II minipump+ICV etanercept. At the end of the study, rats were euthanized; the hearts and brains were collected and stored at -80 C until further analysis. Blood Pressure Measurement Blood pressure was measured continuously in conscious rats implanted with radio-telemetry transmitters (Model TA11PA-C40, Data Sciences International, St. Paul, MN). Rats were anesthetized with a ketamine (90 mg/kg) and xylazine (10 mg/kg) mixture (i.p.) and placed dorsally on a heated surgical table. The adequacy of anesthesia was monitored by limb withdrawal response to toe pinching. An incision was made on the ventral surface of the left leg, and the femoral artery and vein were exposed and dissected apart. The femoral artery was ligated distally, and a small clamp was used to temporarily interrupt the blood flow. The catheter tip was introduced through a small incision in the femoral artery, advanced into the abdominal aorta such that the catheter tip was distal to the origin of the renal arteries, and secured into place. The body of the transmitter was placed into the abdominal cavity and secured to the abdominal wall. The abdominal musculature was sutured and the skin layer was closed following implantation. Rats received benzathine penicillin (30000 U, i.m.) and buprenorphine (0.1 mg/kg, s.c.) immediately following surgery and 12 h postoperatively and allowed to recover for seven days. ICV Cannula Implantation Following the transmitter recovery period, the rats were implanted with ICV cannula for infusion of etanercept or aCSF. The rats were anesthetized with ketamine (90 mg/kg) and xylazine (10 mg/kg) mixture (i.p.) and the head was positioned in a Kopf stereotaxic apparatus. An ICV cannula was implanted into the right lateral cerebroventricle (1.3 mm caudal to bregma, 1.5 mm lateral to the midline, and 3.5 mm ventral to the dura) according to Paxinos and Watson, and fixed to the cranium using small screws and dental cement. A 4-week osmotic minipump was implanted subcutaneously and connected to the infusion cannula via the catheter tube to deliver etanercept or aCSF into the brain. Measurement of Plasma IL-10 At the end of the study, blood was collected in chilled EDTA tubes; plasma was separated and stored at -80 C until assayed. Circulating levels of IL-10 were quantified in the plasma using a commercially available rat IL-10 ELISA kit (Invitrogen) according to manufacturer's instructions.      Real Time RT-PCR The PVN punches were made from frozen brain sections using a Stoelting brain punch (Stoelting). Total RNA was isolated from PVN tissue using RNeasy plus micro kit (Qiagen) and cDNA was synthesized using iScript cDNA synthesis kit (Bio-Rad). Real Time PCR amplification reactions were performed with iQ SYBR Green Super mix with ROX (Bio-Rad) using the ABI Prism 7900 Real time PCR machine (Applied Biosystems). Data were normalized to GAPDH expression by the DeltaDeltaCT comparative method. Western Blot Analysis Western blot analysis was performed according to standard protocols. The PVN tissue was homogenized with RIPA lysis buffer. The protein concentration was measured using a bicinchioninic acid protein assay kit (Pierce). Equal amounts of protein (5 microg) were separated by SDS-PAGE on 10% or 12% gels, transferred on to PVDF membrane (Immobilon-P, Millipore), and blocked with 1% BSA in TBS-T at room temperature for 60 min. The membranes were subjected to immunoblot analyses with anti-ACE (Santa Cruz, 1:500), anti-AT1R (Santa Cruz, 1:500), anti-ACE2 (Santa Cruz, 1:500), anti-AT2R (Santa Cruz, 1:200), anti-Mas (Alomone Labs, 1:500), anti-NOX-2 (BD Biosciences, 1:500), anti-NOX-4 (Santa Cruz, 1:1000), anti-iNOS (Santa Cruz, 1:500), anti-nNOS (Santa Cruz, 1:500), and anti-GAPDH (Santa Cruz, 1:1000) antibodies. The membranes were washed and incubated with anti-rabbit or anti-goat secondary antibodies (Santa Cruz, 1:5000) for 1 hour at room temperature. Specific bands were detected using an enhanced chemiluminescence kit (Amersham). The bands were quantified by densitometry using Chemidoc XRS system and Quantity-One software (Bio-Rad) and were normalized to GAPDH expression.                    Determination of NAD(P)H Oxidase Activity in the PVN Homogenates were prepared from PVN samples and total protein concentration was determined using a bicinchoninic acid protein assay kit (Pierce). The NAD(P)H oxidase activity was measured using lucigenin enhanced chemiluminiscence detection of superoxide as previously described. In brief, the homogenates were diluted in modified HEPES buffer containing 140 mM NaCl, 5 mM KCl, 0.8 mM MgCl2, 1.8 mM CaCl2, 1 mM Na2 HPO4, 25 mM HEPES, and 1% glucose (pH 7.0). The reaction was started by addition of NAD(P)H (100 microM) and dark adapted lucigenin (5 microM). Light emission was recorded and expressed as mean light unit (MLU) per minute per milligram of protein over 10 min. Using this method, the superoxide anion production also represents NAD(P)H oxidase activity. The specificity of superoxide measured was confirmed either by adding superoxide dismutase (200 units/ml) or apocynin (1 mM). In situ Detection of Superoxide Production in the PVN  Dihydroethidium, an oxidative fluorescent dye, was used to detect in situ superoxide in the PVN of rats as previously described. At the end of the experiment, the brains were removed, quickly frozen, embedded into OCT, and cryostat sectioned (30 microm, coronal) directly onto chilled microscope slides. Sections were then incubated in a light protected humidified chamber at 37 C for 30 minutes with 1 micromol/L dihydroethidium (Molecular Probes). After washing with phosphate-buffered saline, red fluorescence was visualized by confocal laser scanning microscopy using an excitation wavelength of 490 nm and emission wavelength of 610 nm. Statistical Analysis All results are expressed as mean+-SEM. For statistical analysis of the data, Student's t test, one-way ANOVA or repeated measures ANOVA followed by Bonferroni's post hoc test was performed using GraphPad Prism version 5.0 for Windows (Graph Pad Software, San Diego California, USA) to determine differences among groups. A value of p<0.05 was considered statistically significant.     Results Effect of Central TNF Blockade on Mean Arterial Pressure and Cardiac Hypertrophy To assess the effect of central TNF blockade on the Ang II-induced hypertensive response, mean arterial pressure (MAP) was measured using a radio-telemetry system. After 28 days, chronic Ang II infusion significantly increased the MAP in rats when compared with control rats (165+-5 mmHg vs 108+-8 mmHg, respectively; p<0.05) (Figure 1A). In contrast, ICV treatment with etanercept attenuated the Ang II-induced increase in MAP (126+-21 mmHg vs 165+-5 mmHg, respectively; p<0.05), while etanercept treatment alone had no effect on MAP (104+-4 mmHg). Effect of central TNF blockade on mean arterial pressure (MAP) and cardiac hypertrophy. Ang II infusion for 28 days significantly increased the MAP versus control group, which was attenuated by central blockade of TNF using etanercept (A). Chronic Ang II infusion resulted in increased cardiac hypertrophy, as assessed by the ratio of heart weight to body weight (HW/BW) (B) and mRNA expression of atrial natriuretic peptide (ANP) in the left ventricular tissue (C), which was reduced following central etanercept treatment. n = 10-12 per group, *p<0.05 vs Control, #p<0.05 vs Ang II.       To evaluate Ang II-induced changes on cardiac hypertrophy in these rats, the hearts were harvested and weighed at the end of experimental period. The ratio of heart weight/body weight (HW/BW) was calculated as an indicator of cardiac hypertrophy. Chronic Ang II infusion lead to increased cardiac hypertrophy versus controls as indicated by the increased HW/BW ratio (Figure 1B). ICV treatment with etanercept inhibited Ang II-mediated cardiac hypertrophy. Furthermore, mRNA expression of a molecular marker of cardiac hypertrophy, atrial natriuretic peptide (ANP), was measured in cardiac tissue using real time RT-PCR. Chronic Ang II infusion showed increased mRNA expression of ANP in the heart, which was decreased by ICV treatment with etanercept (Figure 1C). These data suggests a role for TNF in the brain on Ang II-induced blood pressure regulation and cardiac hypertrophy in the hypertensive state. Effect of Central TNF Blockade on the Expression of Pro- and Anti-inflammatory Cytokines To determine the effect of Ang II on the production of PICs and chemokines, the mRNA expression of TNF, IL-6, IL-1beta, and the chemokine MCP-1 were measured in the PVN by real time RT-PCR (Figures 2A, B, C, and D). Ang II infusion induced an increase in the gene expression of the PICs TNF, IL-6 and IL-1beta, and the chemokine MCP-1, in the PVN, when compared to the control group. These PICs were attenuated in the PVN of Ang II-infused rats treated ICV with etanercept, demonstrating that chronic Ang II infusion increases the pro-inflammatory response within the PVN through TNF in Ang II-induced hypertension. Effect of central TNF blockade on pro-and anti-inflammatory cytokine expression. Chronic Ang II infusion significantly increased the expression of TNF (A), IL-6 (B), IL-1beta (C), and the chemokine MCP-1 (D) in the PVN. This increase in PIC expression was attenuated in rats treated with etanercept. Furthermore, Ang II infusion significantly decreased the mRNA expression of the anti-inflammatory cytokine IL-10 in the PVN (E) and plasma (F) compared with controls. This decrease was restored by central TNF blockade with etanercept. n = 8-10 per group, *p<0.05 vs Control, #p<0.05 vs Ang II.     We also examined the effect of TNF inhibition on the expression of the anti-inflammatory cytokine IL-10. Chronic subcutaneous Ang II infusion resulted in significant decrease in PVN mRNA and plasma protein levels of IL-10. However, Ang II infusion and simultaneous inhibition of TNF in the brain using etanercept restored the PVN mRNA expression of IL-10 (Figure 2E) and plasma levels of IL-10 (Figure 2F). Effect of Central TNF Blockade on the Expression of RAS Components in the PVN Both Ang II and TNF have been shown to modulate RAS component expression. To determine the manner by which Ang II infusion alters the expression of the pro- and anti-hypertensive components of the RAS in the PVN, we examined the mRNA and protein expression levels of ACE, ACE2, AT1R, AT2R, and the Mas receptor. The PVN mRNA and protein expression of the RAS pro-hypertensive components ACE and AT1R were significantly increased in Ang II-infused rats when compared with control rats; this was prevented by ICV treatment with etanercept (Figure 3). Conversely, the anti-hypertensive components of the RAS (ACE2, Mas receptor and AT2R) showed a decreased gene and protein expression in Ang II-treated rats. These levels were increased in the Ang II+ETN group (Figure 4). These data suggest that in Ang II-induced hypertension, the pro- and anti-hypertensive components of the RAS are differentially regulated within the PVN in a deleterious manner and TNF inhibition restores the balance between these RAS components. Effect of central TNF blockade on pro-hypertensive RAS component expression in the PVN. Chronic Ang II infusion for 4 weeks significantly increased the mRNA and protein expression of pro-hypertensive components, ACE and AT1R in the PVN, which was attenuated in Ang II+ETN rats. R.E. Relative expression, n = 8-12 per group, *p<0.05 vs Control, #p<0.05 vs Ang II.       Effect of central TNF blockade on anti-hypertensive RAS component expression in the PVN. Chronic 28-day Ang II infusion decreased the mRNA and protein expression of anti-hypertensive RAS components, ACE2, the Mas receptor, and AT2 receptors in the PVN. This decrease was prevented by central TNF blockade using etanercept. R.E. Relative expression, n = 8-12 per group, *p<0.05 vs Control, #p<0.05 vs Ang II.       Effect of Central TNF Blockade on the Oxidative Stress Markers in the PVN Ang II and TNF have both been shown to act through oxidative stress mediated pathways, especially within the PVN, in inducing elevated sympathetic outflow and a progressive hypertensive response. Thus, several experiments were performed to test the effect of central TNF inhibition on oxidative stress markers in the PVN in response to the Ang II infusion hypertension model. First, NAD(P)H oxidase dependent superoxide production in the PVN was measured using a lucigenin enhanced chemiluminiscence method. Consistent with earlier reports, Ang II caused a significant increase in NAD(P)H oxidase dependent superoxide production in the PVN homogenates compared with control rats. This response was abolished by ICV inhibition of TNF using etanercept (Figure 5A). Next, in situ dihydroethidium fluorescence was used to assess Ang II-induced superoxide production in the PVN of rats receiving systemic Ang II-infusions concomitant with ICV infusions of either etanercept or aCSF. Consistent with earlier reports, dihydroethidium fluorescence was increased in the PVN of Ang II-infused rats compared with control rats. This response was markedly inhibited in rats receiving ICV etanercept (Figure 5B). Furthermore, Ang II infusion significantly increased the NOX-2 and NOX-4 mRNA (Figures 5C and D) and protein expression (Figures 5E and F) in the PVN of Ang II infused rats. These changes were attenuated in Ang II-infused rats treated centrally with etanercept. To further determine the effect of TNF blockade on Ang II-induced NO signaling, we analyzed mRNA and protein expression of inducible NOS (iNOS) and neuronal NOS (nNOS) within the PVN. Four weeks of Ang II infusion significantly increased iNOS mRNA and protein expression and decreased the nNOS mRNA and protein expression. These changes were prevented in rats with central infusion of etanercept (Figure 6). Overall, these data suggest that increased oxidative stress in Ang II-induced hypertension is potentially through a TNF-driven mechanism and the effects of central TNF blockade on attenuation of Ang II-induced hypertension, at least in part, are mediated by a decrease in oxidative stress. Effect of central TNF blockade on oxidative stress markers in the PVN. Ang II-infused rats demonstrated an increase in the NAD(P)H oxidase activity (A) and superoxide production (B) in the PVN compared with vehicle treated rats. These increases were reduced by TNF blockade with etanercept following Ang II infusion. Also, brain targeted TNF blockade significantly reduced Ang II-induced NOX-2 and NOX-4 mRNA (C and D) and protein (E and F) expression in the PVN. R.E. Relative expression, n = 8-12 per group, *p<0.05 vs Control, #p<0.05 vs Ang II.       Effect of central TNF blockade on iNOS and nNOS mRNA and protein expression in the PVN. Ang II-infused rats demonstrated an increase in the mRNA and protein expression of iNOS, and decrease in expression of nNOS within the PVN. These alterations were reversed by TNF blockade with ICV etanercept treatment. R.E. Relative expression, n = 8-12 per group, *p<0.05 vs Control, #p<0.05 vs Ang II.       Discussion In the present study, the role of central TNF on Ang II-induced hypertension and cardiac hypertrophy was investigated. These data suggest for the first time that inhibition of TNF in the brain using etanercept lowered blood pressure, reduced inflammation, decreased oxidative stress, and restored the balance between the pro- and anti-hypertensive axes of the RAS. Our findings demonstrate that the changes observed in Ang II-induced hypertension are regulated, at least in part, through the central actions of TNF and potentially via the dysregulation of components of the RAS within the hypothalamic PVN. Recent evidence suggests that hypertension is an inflammatory condition where various PICs such as TNF, IL-6 and IL-1beta, both centrally and peripherally, have been shown to play an important role in the pathogenesis of hypertension. A recent study from our lab demonstrated that chronic peripheral Ang II infusion results in increased production of PICs within the PVN. Etanercept is a soluble recombinant fusion protein that inhibits TNF by posing as a TNF receptor decoy and acting through competitive inhibition of TNF and an overall reduction in free TNF to act on endogenous receptors. Blockade of TNF by etanercept has been shown to prevent renal damage in a genetic hypertensive rat model, as well as lower blood pressure in rats with Ang II- and salt-induced hypertension, suggesting a role for TNF in blood pressure regulation and renal injury. Another study also showed that mice treated with etanercept had an attenuated hypertension and a blunted increase in superoxide production in response to Ang II. In our study, using ICV etanercept infusion techniques, we inhibited the TNF levels specifically in the brain. Our present observations complement those prior findings and show that blockade of TNF by ICV administration of etanercept into the brain protects rats against Ang II-dependent cardiac hypertrophy and hypertension. Ang II can act as a potent proinflammatory agent and stimulate the production of chemokines such as MCP-1, and PICs, such as TNF, IL-6 and IL-1beta in the brain. TNF is commonly considered as one of the initiators of the pro-inflammatory cascade, which can induce production of other cytokines, and inhibition of its action during inflammatory events abrogates many of the ensuing responses, including the production of IL-1beta and IL-6. A recent study by Shi et al. demonstrated that Ang II-induced hypertension involves activation of microglia and increased expression of PICs within the PVN. A previous study from our group demonstrated that chronic Ang II infusion increases proinflammatory cytokines expression in the PVN of rats. In our study, TNF blockade with etanercept decreased the PVN expression not only of TNF, but of other PICs such as IL-6, IL-1beta, and the chemokine MCP-1, supporting the hypothesis that PICs are involved in the Ang II-induced hypertensive response. It has been shown that central gene transfer of IL-10 reduces hypothalamic inflammation in heart failure rats after myocardial infarction. In addition, IL-10 overexpression in the PVN attenuates Ang II-induced hypertension. In our study, chronic Ang II infusion resulted in decreased mRNA and protein expression of anti-inflammatory cytokine IL-10, which was restored by central TNF blockade suggesting that some of beneficial effects of TNF blockade are mediated by restoring the levels of anti-inflammatory IL-10. Neurogenic hypertension is characterized by an overactive brain RAS. In addition to locally generated Ang II within the brain, blood borne Ang II can enter the brain via circumventricular organs and modulate the pathogenesis of hypertension and fluid homeostasis. Elevated activity and expression of RAS components in central cardiovascular regulatory regions has been shown to be involved in the pathogenesis of hypertension in several genetic and experimental models. Treatment with ACE inhibitors and Ang receptor blockers has been shown to prevent this RAS overactivity and restore normal cardiovascular function. In the brain, the AT1R mediates the central effects of Ang II, including vasopressin release, water and salt intake and balance, and increased sympathetic drive, all of which contribute to the development of hypertension. In many animal models of hypertension, the expression of the AT1R is up-regulated in central cardiovascular regulatory centers, including the hypothalamic PVN. Both in vitro and in vivo studies have demonstrated a cross-talk between Ang II and TNF, a mechanism we have also shown using TNF knockout mice where Ang II-induced hypertension was attenuated via a decreased expression of AT1R. Within the last decade, the discovery of an alternate set of components of the RAS which may act as a counterbalance to the actions of the ACE/Ang II/AT1R pathway added complexity to the understanding of RAS regulation, especially within the brain. These components, termed anti-hypertensive due to their cardio-protective effects, along with all the components of the pro-hypertensive RAS axis, are known to be expressed throughout the various central cardio-regulatory regions, including the PVN. In various experimental hypertensive models, the components of anti-hypertensive RAS axis (ACE2, Ang (1-7), the Mas receptor and AT2 receptors) are shown to be down-regulated, while the pro-hypertensive components are increased. This dysregulation may be the lynch pin trigger towards developing the hypertensive state, but it remains poorly understood. It has been shown that the brain ACE2 activity was inhibited in a chronically hypertensive mouse model with high Ang II levels and this decrease was mediated by AT1R. We previously showed that ACE2 overexpression within the PVN attenuated Ang II-induced hypertension by abolishing PIC production in the PVN in combination with restoring the balance between pro- and anti-hypertensive axes of the RAS. In the present study, ICV treatment with etanercept resulted in reduction of Ang II-induced pro-hypertensive RAS components expression in the PVN, including ACE and AT1R, as well as the restoration of the anti-hypertensive RAS components ACE2, Mas receptor, and AT2 receptors. These results suggest that this RAS dysregulation and perpetuation of the hypertensive state may be the result of a pro-inflammatory response through the actions of TNF.   Excessive ROS production in brain cardio-regulatory centers such as the PVN can contribute to the neurogenic component of the hypertensive response by enhancing sympathetic activity and outflow. It has been previously shown that NAD(P)H oxidase is the primary source of Ang II-induced ROS in neurons and that treatment with Tempol, a cell permeable superoxide dismutase (SOD) mimetic, inhibits Ang II-mediated superoxide production and hypertension. Enhanced NAD(P)H oxidase activity associated with increased expression of several NAD(P)H oxidase subunits including NOX-2 and NOX-4, have been shown to be predominant homologues expressed in the forebrain, including the PVN. A recent study showed that in an aldosterone/salt induced hypertensive animal model, both NOX-2 and NOX-4 are necessary to generate functional NAD(P)H oxidase within the PVN. Furthermore, TNF can induce activation of NADPH oxidase leading to enhanced oxidative stress and decreased bioavailability of NO. In the present study, we found that central TNF inhibition abolished the Ang II-induced oxidative stress as indicated by decreased super oxide production, NAD(P)H oxidase activity as well as attenuated NOX-2 and NOX-4 subunit expression within the PVN (Figure 5). These results indicate that TNF mediates NAD(P)H oxidase-derived superoxide production during Ang II-induced hypertension. In addition, the decreased nNOS expression and increased iNOS expression in the PVN indicates NO signaling dysregulation in Ang II-induced hypertensive rats. Neuronal NOS is an inverse indirect indicator of sympathoexcitation, in that a decrease in nNOS correlates with an increase in sympathetic outflow. Therefore, a reduction in beneficial NO not only decreases with the reduction in nNOS expression and activity, but also due to the rapid interconversion of NO to peroxynitrite (ONOO-) due to the increased production of NADPH oxidase-derived superoxide. This is further complicated by the involvement of iNOS, which rapidly uses up available L-arginine for NO production and commences with superoxide production and thereby increasing free radical concentrations. This combination of factors can lead to an increased PIC response, sympathoexcitation and a continued propagation of neurogenic hypertension. The present study provides further support for these observations by showing that central TNF blockade with etanercept results in reduced oxidative stress within the PVN of hypertensive rats.   In summary, chronic Ang II infusion resulted in cardiac hypertrophy and elevated MAP, and within the PVN, an increased expression of PICs and markers of oxidative stress. More importantly, Ang II-infused rats had an increased expression of the injurious pro-hypertensive RAS components ACE and AT1R, and a decreased expression of the protective anti-hypertensive RAS components ACE2, the Mas receptor and AT2 receptors. These findings suggest that elevated TNF levels by Ang II hypertension are associated with initiation of inflammatory cascade, which in turn, promote downstream events and further raise blood pressure, leading to severe hypertension. Central blockade of TNF with etanercept resulted in attenuation of hypertension, cardiac hypertrophy and PIC expression, decreased oxidative stress, as well as a restored the balance between the protective and deleterious axes of the RAS, within the hypothalamic PVN. The beneficial effects of central TNF blockade in Ang II-induced hypertensive responses appears to be mediated by the returned balance of the central RAS components, especially within the PVN. It is important to note, however, that due to the administration of etanercept ICV, the TNF inhibitory effects may have impacted additional cardio-regulatory regions in the brain and elicited a similar response as in the PVN, but in light of its central integrative function versus the other regions, the PVN was of utmost concern. Future studies should investigate these additional cardio-regulatory regions, as well as looking more specifically at the pathway between Ang II, TNF and the differential regulation of the RAS arms in the Ang II hypertension-induced animal model. Our findings provide further evidence and insight for the involvement of the RAS within the PVN and its interaction and mediation through TNF in the neurogenic component of hypertension. Further exploration of these system interactions within the brain may be beneficial towards the development of novel hypertensive therapeutics. References Physiological genomic analysis of the brain renin-angiotensin system ACE2/ANG-(1-7)/Mas pathway in the brain: the axis of good   It's renin in the brain: transgenic animals elucidate the brain renin angiotensin system   Molecular evidence of tissue renin-angiotensin systems: a focus on the brain The brain renin-angiotensin system: location and physiological roles Local renin-angiotensin system and the brain-a continuous quest for knowledge   Brain renin-angiotensin system dysfunction in hypertension: recent advances and perspectives Neurohumoral contributions to chronic angiotensin-induced hypertension The circumventricular organs and the central actions of angiotensin Area postrema is critical for angiotensin-induced hypertension in rats Cardiovascular responses to bicuculline in the paraventricular nucleus of the rat ANG II in the paraventricular nucleus potentiates the cardiac sympathetic afferent reflex in rats with heart failure Brain nuclear factor-kappa B activation contributes to neurohumoral excitation in angiotensin II-induced hypertension Brain microglial cytokines in neurogenic hypertension ACE2 overexpression in the paraventricular nucleus attenuates angiotensin II-induced hypertension Autonomic-immune-vascular interaction: an emerging concept for neurogenic hypertension Central and peripheral mechanisms of T-lymphocyte activation and vascular inflammation produced by angiotensin II-induced hypertension Central mineralocorticoid receptor blockade decreases plasma TNF-alpha after coronary artery ligation in rats Superoxide mediates sympathoexcitation in heart failure: roles of angiotensin II and NAD(P)H oxidase Involvement of tumor necrosis factor-alpha in angiotensin II-mediated effects on salt appetite, hypertension, and cardiac hypertrophy Angiotensin II receptor 1 involved in the central pressor response induced by interleukin-1 beta in the paraventricular nucleus Etanercept: An overview Immunosuppressive treatment protects against angiotensin II-induced renal damage Tumor necrosis factor alpha blockade increases renal Cyp2c23 expression and slows the progression of renal damage in salt-sensitive hypertension Role of the T cell in the genesis of angiotensin II induced hypertension and vascular dysfunction Activation of JNK and xanthine oxidase by TNF-alpha impairs nitric oxide-mediated dilation of coronary arterioles Inhibition of tumor necrosis factor-alpha action within the CNS markedly reduces the plasma adrenocorticotropin response to peripheral local inflammation in rats Central gene transfer of interleukin-10 reduces hypothalamic inflammation and evidence of heart failure in rats after myocardial infarction Physiology of local renin-angiotensin systems Regulation of vascular type 1 angiotensin receptors by cytokines Angiotensin II-induced MMP-2 release from endothelial cells is mediated by TNF-alpha Chronic exercise modulates RAS components and improves balance between pro- and anti-inflammatory cytokines in the brain of SHR Angiotensin II type 1 receptor-mediated reduction of angiotensin-converting enzyme 2 activity in the brain impairs baroreflex function in hypertensive mice Redox signaling in hypertension Systemic and regional hemodynamic responses to tempol in angiotensin II-infused hypertensive rats NADPH oxidases of the brain: distribution, regulation, and function PVN adenovirus-siRNA injections silencing either NOX2 or NOX4 attenuate aldosterone/NaCl-induced hypertension in mice Sympathoexcitation by oxidative stress in the brain mediates arterial pressure elevation in salt-sensitive hypertension",
+    "entities": [
+        {
+            "entityId": "14_17",
+            "span": {
+                "begin": 14,
+                "end": 17
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "85_99",
+            "span": {
+                "begin": 85,
+                "end": 99
+            },
+            "entityType": "gene",
+            "entityName": "Angiotensin II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "142_159",
+            "span": {
+                "begin": 142,
+                "end": 159
+            },
+            "entityType": "gene",
+            "entityName": "renin-angiotensin",
+            "id": "UMLS:C4521302"
+        },
+        {
+            "entityId": "220_232",
+            "span": {
+                "begin": 220,
+                "end": 232
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "260_280",
+            "span": {
+                "begin": 260,
+                "end": 280
+            },
+            "entityType": "gene",
+            "entityName": "angiotensin (Ang) II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "289_301",
+            "span": {
+                "begin": 289,
+                "end": 301
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "341_366",
+            "span": {
+                "begin": 341,
+                "end": 366
+            },
+            "entityType": "gene",
+            "entityName": "proinflammatory cytokines",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "368_371",
+            "span": {
+                "begin": 368,
+                "end": 371
+            },
+            "entityType": "gene",
+            "entityName": "PIC",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "384_405",
+            "span": {
+                "begin": 384,
+                "end": 405
+            },
+            "entityType": "gene",
+            "entityName": "tumor necrosis factor",
+            "id": "UMLS:C1456820"
+        },
+        {
+            "entityId": "407_410",
+            "span": {
+                "begin": 407,
+                "end": 410
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "548_551",
+            "span": {
+                "begin": 548,
+                "end": 551
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "623_629",
+            "span": {
+                "begin": 623,
+                "end": 629
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "638_650",
+            "span": {
+                "begin": 638,
+                "end": 650
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "657_676",
+            "span": {
+                "begin": 657,
+                "end": 676
+            },
+            "entityType": "species",
+            "entityName": "Sprague-Dawley rats",
+            "id": "UMLS:C0034715"
+        },
+        {
+            "entityId": "825_835",
+            "span": {
+                "begin": 825,
+                "end": 835
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "899_905",
+            "span": {
+                "begin": 899,
+                "end": 905
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "940_946",
+            "span": {
+                "begin": 940,
+                "end": 946
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "1002_1021",
+            "span": {
+                "begin": 1002,
+                "end": 1021
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "1061_1070",
+            "span": {
+                "begin": 1061,
+                "end": 1070
+            },
+            "entityType": "gene",
+            "entityName": "brain TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "1076_1086",
+            "span": {
+                "begin": 1076,
+                "end": 1086
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "1125_1131",
+            "span": {
+                "begin": 1125,
+                "end": 1131
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "1153_1156",
+            "span": {
+                "begin": 1153,
+                "end": 1156
+            },
+            "entityType": "gene",
+            "entityName": "PIC",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "1174_1179",
+            "span": {
+                "begin": 1174,
+                "end": 1179
+            },
+            "entityType": "gene",
+            "entityName": "IL-10",
+            "id": "UMLS:C2983956"
+        },
+        {
+            "entityId": "1217_1223",
+            "span": {
+                "begin": 1217,
+                "end": 1223
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "1290_1293",
+            "span": {
+                "begin": 1290,
+                "end": 1293
+            },
+            "entityType": "gene",
+            "entityName": "ACE",
+            "id": "UMLS:C1452534"
+        },
+        {
+            "entityId": "1298_1302",
+            "span": {
+                "begin": 1298,
+                "end": 1302
+            },
+            "entityType": "gene",
+            "entityName": "AT1R",
+            "id": "UMLS:C1439284"
+        },
+        {
+            "entityId": "1356_1360",
+            "span": {
+                "begin": 1356,
+                "end": 1360
+            },
+            "entityType": "gene",
+            "entityName": "ACE2",
+            "id": "UMLS:C1422064"
+        },
+        {
+            "entityId": "1371_1384",
+            "span": {
+                "begin": 1371,
+                "end": 1384
+            },
+            "entityType": "gene",
+            "entityName": "AT2 receptors",
+            "id": "UMLS:C4320607"
+        },
+        {
+            "entityId": "1407_1417",
+            "span": {
+                "begin": 1407,
+                "end": 1417
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "1452_1458",
+            "span": {
+                "begin": 1452,
+                "end": 1458
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "1541_1556",
+            "span": {
+                "begin": 1541,
+                "end": 1556
+            },
+            "entityType": "gene",
+            "entityName": "NAD(P)H oxidase",
+            "id": "UMLS:C0068355"
+        },
+        {
+            "entityId": "1570_1581",
+            "span": {
+                "begin": 1570,
+                "end": 1581
+            },
+            "entityType": "drug",
+            "entityName": "super oxide",
+            "id": "UMLS:C0030015"
+        },
+        {
+            "entityId": "1642_1645",
+            "span": {
+                "begin": 1642,
+                "end": 1645
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "1672_1675",
+            "span": {
+                "begin": 1672,
+                "end": 1675
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "1707_1742",
+            "span": {
+                "begin": 1707,
+                "end": 1742
+            },
+            "entityType": "DNA",
+            "entityName": "Ang II-induced NOX-2 and NOX-4 mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "1814_1817",
+            "span": {
+                "begin": 1814,
+                "end": 1817
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "1849_1853",
+            "span": {
+                "begin": 1849,
+                "end": 1853
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "1862_1868",
+            "span": {
+                "begin": 1862,
+                "end": 1868
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "1879_1891",
+            "span": {
+                "begin": 1879,
+                "end": 1891
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "1896_1915",
+            "span": {
+                "begin": 1896,
+                "end": 1915
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "2000_2003",
+            "span": {
+                "begin": 2000,
+                "end": 2003
+            },
+            "entityType": "gene",
+            "entityName": "PIC",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "2073_2078",
+            "span": {
+                "begin": 2073,
+                "end": 2078
+            },
+            "entityType": "gene",
+            "entityName": "renin",
+            "id": "UMLS:C0035094"
+        },
+        {
+            "entityId": "2079_2090",
+            "span": {
+                "begin": 2079,
+                "end": 2090
+            },
+            "entityType": "gene",
+            "entityName": "angiotensin",
+            "id": "UMLS:C0003018"
+        },
+        {
+            "entityId": "2187_2201",
+            "span": {
+                "begin": 2187,
+                "end": 2201
+            },
+            "entityType": "gene",
+            "entityName": "Angiotensin II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "2203_2209",
+            "span": {
+                "begin": 2203,
+                "end": 2209
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "2292_2321",
+            "span": {
+                "begin": 2292,
+                "end": 2321
+            },
+            "entityType": "gene",
+            "entityName": "angiotensin converting enzyme",
+            "id": "UMLS:C1452534"
+        },
+        {
+            "entityId": "2323_2326",
+            "span": {
+                "begin": 2323,
+                "end": 2326
+            },
+            "entityType": "gene",
+            "entityName": "ACE",
+            "id": "UMLS:C1452534"
+        },
+        {
+            "entityId": "2336_2364",
+            "span": {
+                "begin": 2336,
+                "end": 2364
+            },
+            "entityType": "gene",
+            "entityName": "Angiotensin -type 1 receptor",
+            "id": "UMLS:C0529330"
+        },
+        {
+            "entityId": "2366_2370",
+            "span": {
+                "begin": 2366,
+                "end": 2370
+            },
+            "entityType": "gene",
+            "entityName": "AT1R",
+            "id": "UMLS:C1439284"
+        },
+        {
+            "entityId": "2526_2530",
+            "span": {
+                "begin": 2526,
+                "end": 2530
+            },
+            "entityType": "gene",
+            "entityName": "ACE2",
+            "id": "UMLS:C1422064"
+        },
+        {
+            "entityId": "2532_2541",
+            "span": {
+                "begin": 2532,
+                "end": 2541
+            },
+            "entityType": "gene",
+            "entityName": "Ang-(1-7)",
+            "id": "UMLS:C0103306"
+        },
+        {
+            "entityId": "2550_2562",
+            "span": {
+                "begin": 2550,
+                "end": 2562
+            },
+            "entityType": "gene",
+            "entityName": "Mas receptor",
+            "id": "UMLS:C0597357"
+        },
+        {
+            "entityId": "2630_2635",
+            "span": {
+                "begin": 2630,
+                "end": 2635
+            },
+            "entityType": "gene",
+            "entityName": "renin",
+            "id": "UMLS:C0035094"
+        },
+        {
+            "entityId": "2640_2655",
+            "span": {
+                "begin": 2640,
+                "end": 2655
+            },
+            "entityType": "gene",
+            "entityName": "angiotensinogen",
+            "id": "UMLS:C0003017"
+        },
+        {
+            "entityId": "2958_2970",
+            "span": {
+                "begin": 2958,
+                "end": 2970
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "2972_2978",
+            "span": {
+                "begin": 2972,
+                "end": 2978
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "2999_3003",
+            "span": {
+                "begin": 2999,
+                "end": 3003
+            },
+            "entityType": "gene",
+            "entityName": "AT1R",
+            "id": "UMLS:C1439284"
+        },
+        {
+            "entityId": "3173_3184",
+            "span": {
+                "begin": 3173,
+                "end": 3184
+            },
+            "entityType": "drug",
+            "entityName": "aldosterone",
+            "id": "UMLS:C0002006"
+        },
+        {
+            "entityId": "3262_3268",
+            "span": {
+                "begin": 3262,
+                "end": 3268
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "3534_3546",
+            "span": {
+                "begin": 3534,
+                "end": 3546
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "3654_3660",
+            "span": {
+                "begin": 3654,
+                "end": 3660
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "3895_3920",
+            "span": {
+                "begin": 3895,
+                "end": 3920
+            },
+            "entityType": "gene",
+            "entityName": "proinflammatory cytokines",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "3937_3964",
+            "span": {
+                "begin": 3937,
+                "end": 3964
+            },
+            "entityType": "gene",
+            "entityName": "tumor necrosis factor-alpha",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "3966_3969",
+            "span": {
+                "begin": 3966,
+                "end": 3969
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "4080_4092",
+            "span": {
+                "begin": 4080,
+                "end": 4092
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "4154_4160",
+            "span": {
+                "begin": 4154,
+                "end": 4160
+            },
+            "entityType": "drug",
+            "entityName": "oxygen",
+            "id": "UMLS:C0030054"
+        },
+        {
+            "entityId": "4228_4234",
+            "span": {
+                "begin": 4228,
+                "end": 4234
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "4381_4393",
+            "span": {
+                "begin": 4381,
+                "end": 4393
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "4453_4459",
+            "span": {
+                "begin": 4453,
+                "end": 4459
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "4469_4481",
+            "span": {
+                "begin": 4469,
+                "end": 4481
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "4591_4597",
+            "span": {
+                "begin": 4591,
+                "end": 4597
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "4620_4627",
+            "span": {
+                "begin": 4620,
+                "end": 4627
+            },
+            "entityType": "cell",
+            "entityName": "T cells",
+            "id": "UMLS:C0039194"
+        },
+        {
+            "entityId": "4652_4673",
+            "span": {
+                "begin": 4652,
+                "end": 4673
+            },
+            "entityType": "disease",
+            "entityName": "vascular inflammation",
+            "id": "UMLS:C0947751"
+        },
+        {
+            "entityId": "4726_4738",
+            "span": {
+                "begin": 4726,
+                "end": 4738
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "4798_4802",
+            "span": {
+                "begin": 4798,
+                "end": 4802
+            },
+            "entityType": "cell",
+            "entityName": "glia",
+            "id": "UMLS:C0027836"
+        },
+        {
+            "entityId": "4807_4814",
+            "span": {
+                "begin": 4807,
+                "end": 4814
+            },
+            "entityType": "cell",
+            "entityName": "neurons",
+            "id": "UMLS:C0027882"
+        },
+        {
+            "entityId": "4905_4917",
+            "span": {
+                "begin": 4905,
+                "end": 4917
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "5048_5060",
+            "span": {
+                "begin": 5048,
+                "end": 5060
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "5109_5115",
+            "span": {
+                "begin": 5109,
+                "end": 5115
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "5186_5189",
+            "span": {
+                "begin": 5186,
+                "end": 5189
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "5465_5468",
+            "span": {
+                "begin": 5465,
+                "end": 5468
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "5514_5524",
+            "span": {
+                "begin": 5514,
+                "end": 5524
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "5545_5572",
+            "span": {
+                "begin": 5545,
+                "end": 5572
+            },
+            "entityType": "gene",
+            "entityName": "TNF receptor fusion protein",
+            "id": "UMLS:C0077503"
+        },
+        {
+            "entityId": "5633_5639",
+            "span": {
+                "begin": 5633,
+                "end": 5639
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "5648_5660",
+            "span": {
+                "begin": 5648,
+                "end": 5660
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "5994_6013",
+            "span": {
+                "begin": 5994,
+                "end": 6013
+            },
+            "entityType": "species",
+            "entityName": "Sprague-Dawley rats",
+            "id": "UMLS:C0034715"
+        },
+        {
+            "entityId": "6208_6212",
+            "span": {
+                "begin": 6208,
+                "end": 6212
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "6322_6332",
+            "span": {
+                "begin": 6322,
+                "end": 6332
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "6334_6337",
+            "span": {
+                "begin": 6334,
+                "end": 6337
+            },
+            "entityType": "gene",
+            "entityName": "ETN",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "6477_6483",
+            "span": {
+                "begin": 6477,
+                "end": 6483
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "6584_6590",
+            "span": {
+                "begin": 6584,
+                "end": 6590
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "6698_6702",
+            "span": {
+                "begin": 6698,
+                "end": 6702
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "6779_6782",
+            "span": {
+                "begin": 6779,
+                "end": 6782
+            },
+            "entityType": "gene",
+            "entityName": "ETN",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "6811_6821",
+            "span": {
+                "begin": 6811,
+                "end": 6821
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "6826_6832",
+            "span": {
+                "begin": 6826,
+                "end": 6832
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "6840_6846",
+            "span": {
+                "begin": 6840,
+                "end": 6846
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "6873_6879",
+            "span": {
+                "begin": 6873,
+                "end": 6879
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "6880_6883",
+            "span": {
+                "begin": 6880,
+                "end": 6883
+            },
+            "entityType": "gene",
+            "entityName": "ETN",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "6891_6897",
+            "span": {
+                "begin": 6891,
+                "end": 6897
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "6911_6921",
+            "span": {
+                "begin": 6911,
+                "end": 6921
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "6948_6952",
+            "span": {
+                "begin": 6948,
+                "end": 6952
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "7132_7136",
+            "span": {
+                "begin": 7132,
+                "end": 7136
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "7244_7248",
+            "span": {
+                "begin": 7244,
+                "end": 7248
+            },
+            "entityType": "species",
+            "entityName": "Rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "7274_7282",
+            "span": {
+                "begin": 7274,
+                "end": 7282
+            },
+            "entityType": "drug",
+            "entityName": "ketamine",
+            "id": "UMLS:C0022614"
+        },
+        {
+            "entityId": "7298_7306",
+            "span": {
+                "begin": 7298,
+                "end": 7306
+            },
+            "entityType": "drug",
+            "entityName": "xylazine",
+            "id": "UMLS:C0043366"
+        },
+        {
+            "entityId": "8108_8112",
+            "span": {
+                "begin": 8108,
+                "end": 8112
+            },
+            "entityType": "species",
+            "entityName": "Rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "8122_8143",
+            "span": {
+                "begin": 8122,
+                "end": 8143
+            },
+            "entityType": "drug",
+            "entityName": "benzathine penicillin",
+            "id": "UMLS:C0030829"
+        },
+        {
+            "entityId": "8164_8177",
+            "span": {
+                "begin": 8164,
+                "end": 8177
+            },
+            "entityType": "drug",
+            "entityName": "buprenorphine",
+            "id": "UMLS:C0006405"
+        },
+        {
+            "entityId": "8362_8366",
+            "span": {
+                "begin": 8362,
+                "end": 8366
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "8415_8425",
+            "span": {
+                "begin": 8415,
+                "end": 8425
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "8439_8443",
+            "span": {
+                "begin": 8439,
+                "end": 8443
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "8467_8475",
+            "span": {
+                "begin": 8467,
+                "end": 8475
+            },
+            "entityType": "drug",
+            "entityName": "ketamine",
+            "id": "UMLS:C0022614"
+        },
+        {
+            "entityId": "8491_8499",
+            "span": {
+                "begin": 8491,
+                "end": 8499
+            },
+            "entityType": "drug",
+            "entityName": "xylazine",
+            "id": "UMLS:C0043366"
+        },
+        {
+            "entityId": "8967_8977",
+            "span": {
+                "begin": 8967,
+                "end": 8977
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "9017_9029",
+            "span": {
+                "begin": 9017,
+                "end": 9029
+            },
+            "entityType": "gene",
+            "entityName": "Plasma IL-10",
+            "id": "UMLS:C2983956"
+        },
+        {
+            "entityId": "9086_9090",
+            "span": {
+                "begin": 9086,
+                "end": 9090
+            },
+            "entityType": "drug",
+            "entityName": "EDTA",
+            "id": "UMLS:C0013618"
+        },
+        {
+            "entityId": "9176_9181",
+            "span": {
+                "begin": 9176,
+                "end": 9181
+            },
+            "entityType": "gene",
+            "entityName": "IL-10",
+            "id": "UMLS:C2983956"
+        },
+        {
+            "entityId": "9243_9246",
+            "span": {
+                "begin": 9243,
+                "end": 9246
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "9247_9252",
+            "span": {
+                "begin": 9247,
+                "end": 9252
+            },
+            "entityType": "gene",
+            "entityName": "IL-10",
+            "id": "UMLS:C2983956"
+        },
+        {
+            "entityId": "9442_9445",
+            "span": {
+                "begin": 9442,
+                "end": 9445
+            },
+            "entityType": "DNA",
+            "entityName": "RNA",
+            "id": "UMLS:C0035668"
+        },
+        {
+            "entityId": "9775_9780",
+            "span": {
+                "begin": 9775,
+                "end": 9780
+            },
+            "entityType": "gene",
+            "entityName": "GAPDH",
+            "id": "UMLS:C1414968"
+        },
+        {
+            "entityId": "10025_10044",
+            "span": {
+                "begin": 10025,
+                "end": 10044
+            },
+            "entityType": "drug",
+            "entityName": "bicinchioninic acid",
+            "id": "UMLS:C0001128"
+        },
+        {
+            "entityId": "10336_10344",
+            "span": {
+                "begin": 10336,
+                "end": 10344
+            },
+            "entityType": "gene",
+            "entityName": "anti-ACE",
+            "id": "UMLS:C1452534"
+        },
+        {
+            "entityId": "10366_10375",
+            "span": {
+                "begin": 10366,
+                "end": 10375
+            },
+            "entityType": "gene",
+            "entityName": "anti-AT1R",
+            "id": "UMLS:C1439284"
+        },
+        {
+            "entityId": "10397_10406",
+            "span": {
+                "begin": 10397,
+                "end": 10406
+            },
+            "entityType": "gene",
+            "entityName": "anti-ACE2",
+            "id": "UMLS:C1422064"
+        },
+        {
+            "entityId": "10560_10569",
+            "span": {
+                "begin": 10560,
+                "end": 10569
+            },
+            "entityType": "gene",
+            "entityName": "anti-iNOS",
+            "id": "UMLS:C1968833"
+        },
+        {
+            "entityId": "10591_10600",
+            "span": {
+                "begin": 10591,
+                "end": 10600
+            },
+            "entityType": "gene",
+            "entityName": "anti-nNOS",
+            "id": "UMLS:C1417759"
+        },
+        {
+            "entityId": "10626_10636",
+            "span": {
+                "begin": 10626,
+                "end": 10636
+            },
+            "entityType": "gene",
+            "entityName": "anti-GAPDH",
+            "id": "UMLS:C1414968"
+        },
+        {
+            "entityId": "10720_10726",
+            "span": {
+                "begin": 10720,
+                "end": 10726
+            },
+            "entityType": "species",
+            "entityName": "rabbit",
+            "id": "UMLS:C3887509"
+        },
+        {
+            "entityId": "10735_10739",
+            "span": {
+                "begin": 10735,
+                "end": 10739
+            },
+            "entityType": "species",
+            "entityName": "goat",
+            "id": "UMLS:C1510458"
+        },
+        {
+            "entityId": "11022_11027",
+            "span": {
+                "begin": 11022,
+                "end": 11027
+            },
+            "entityType": "gene",
+            "entityName": "GAPDH",
+            "id": "UMLS:C1414968"
+        },
+        {
+            "entityId": "11076_11091",
+            "span": {
+                "begin": 11076,
+                "end": 11091
+            },
+            "entityType": "gene",
+            "entityName": "NAD(P)H Oxidase",
+            "id": "UMLS:C0068355"
+        },
+        {
+            "entityId": "11210_11228",
+            "span": {
+                "begin": 11210,
+                "end": 11228
+            },
+            "entityType": "drug",
+            "entityName": "bicinchoninic acid",
+            "id": "UMLS:C0053554"
+        },
+        {
+            "entityId": "11261_11276",
+            "span": {
+                "begin": 11261,
+                "end": 11276
+            },
+            "entityType": "gene",
+            "entityName": "NAD(P)H oxidase",
+            "id": "UMLS:C0068355"
+        },
+        {
+            "entityId": "11305_11314",
+            "span": {
+                "begin": 11305,
+                "end": 11314
+            },
+            "entityType": "drug",
+            "entityName": "lucigenin",
+            "id": "UMLS:C0126266"
+        },
+        {
+            "entityId": "11355_11365",
+            "span": {
+                "begin": 11355,
+                "end": 11365
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "11473_11477",
+            "span": {
+                "begin": 11473,
+                "end": 11477
+            },
+            "entityType": "drug",
+            "entityName": "NaCl",
+            "id": "UMLS:C0037494"
+        },
+        {
+            "entityId": "11484_11487",
+            "span": {
+                "begin": 11484,
+                "end": 11487
+            },
+            "entityType": "drug",
+            "entityName": "KCl",
+            "id": "UMLS:C0032825"
+        },
+        {
+            "entityId": "11496_11501",
+            "span": {
+                "begin": 11496,
+                "end": 11501
+            },
+            "entityType": "drug",
+            "entityName": "MgCl2",
+            "id": "UMLS:C0024472"
+        },
+        {
+            "entityId": "11510_11515",
+            "span": {
+                "begin": 11510,
+                "end": 11515
+            },
+            "entityType": "drug",
+            "entityName": "CaCl2",
+            "id": "mesh:D002122"
+        },
+        {
+            "entityId": "11522_11530",
+            "span": {
+                "begin": 11522,
+                "end": 11530
+            },
+            "entityType": "drug",
+            "entityName": "Na2 HPO4",
+            "id": "UMLS:CHEBI:34683"
+        },
+        {
+            "entityId": "11538_11543",
+            "span": {
+                "begin": 11538,
+                "end": 11543
+            },
+            "entityType": "drug",
+            "entityName": "HEPES",
+            "id": "UMLS:C0019215"
+        },
+        {
+            "entityId": "11552_11559",
+            "span": {
+                "begin": 11552,
+                "end": 11559
+            },
+            "entityType": "drug",
+            "entityName": "glucose",
+            "id": "UMLS:C0017725"
+        },
+        {
+            "entityId": "11610_11617",
+            "span": {
+                "begin": 11610,
+                "end": 11617
+            },
+            "entityType": "drug",
+            "entityName": "NAD(P)H",
+            "id": "UMLS:C0027289"
+        },
+        {
+            "entityId": "11648_11657",
+            "span": {
+                "begin": 11648,
+                "end": 11657
+            },
+            "entityType": "drug",
+            "entityName": "lucigenin",
+            "id": "UMLS:C0126266"
+        },
+        {
+            "entityId": "11809_11819",
+            "span": {
+                "begin": 11809,
+                "end": 11819
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "11853_11868",
+            "span": {
+                "begin": 11853,
+                "end": 11868
+            },
+            "entityType": "gene",
+            "entityName": "NAD(P)H oxidase",
+            "id": "UMLS:C0068355"
+        },
+        {
+            "entityId": "11898_11908",
+            "span": {
+                "begin": 11898,
+                "end": 11908
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "11949_11969",
+            "span": {
+                "begin": 11949,
+                "end": 11969
+            },
+            "entityType": "gene",
+            "entityName": "superoxide dismutase",
+            "id": "UMLS:C0038838"
+        },
+        {
+            "entityId": "11988_11996",
+            "span": {
+                "begin": 11988,
+                "end": 11996
+            },
+            "entityType": "drug",
+            "entityName": "apocynin",
+            "id": "UMLS:C0050465"
+        },
+        {
+            "entityId": "12026_12036",
+            "span": {
+                "begin": 12026,
+                "end": 12036
+            },
+            "entityType": "drug",
+            "entityName": "Superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "12060_12075",
+            "span": {
+                "begin": 12060,
+                "end": 12075
+            },
+            "entityType": "drug",
+            "entityName": "Dihydroethidium",
+            "id": "UMLS:C0644810"
+        },
+        {
+            "entityId": "12134_12144",
+            "span": {
+                "begin": 12134,
+                "end": 12144
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "12159_12163",
+            "span": {
+                "begin": 12159,
+                "end": 12163
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "12474_12489",
+            "span": {
+                "begin": 12474,
+                "end": 12489
+            },
+            "entityType": "drug",
+            "entityName": "dihydroethidium",
+            "id": "UMLS:C0644810"
+        },
+        {
+            "entityId": "12529_12538",
+            "span": {
+                "begin": 12529,
+                "end": 12538
+            },
+            "entityType": "drug",
+            "entityName": "phosphate",
+            "id": "UMLS:C0031603"
+        },
+        {
+            "entityId": "13135_13138",
+            "span": {
+                "begin": 13135,
+                "end": 13138
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "13178_13197",
+            "span": {
+                "begin": 13178,
+                "end": 13197
+            },
+            "entityType": "disease",
+            "entityName": "Cardiac Hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "13230_13233",
+            "span": {
+                "begin": 13230,
+                "end": 13233
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "13250_13256",
+            "span": {
+                "begin": 13250,
+                "end": 13256
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "13385_13391",
+            "span": {
+                "begin": 13385,
+                "end": 13391
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "13436_13440",
+            "span": {
+                "begin": 13436,
+                "end": 13440
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "13468_13472",
+            "span": {
+                "begin": 13468,
+                "end": 13472
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "13569_13579",
+            "span": {
+                "begin": 13569,
+                "end": 13579
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "13595_13601",
+            "span": {
+                "begin": 13595,
+                "end": 13601
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "13685_13695",
+            "span": {
+                "begin": 13685,
+                "end": 13695
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "14351_14357",
+            "span": {
+                "begin": 14351,
+                "end": 14357
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "14377_14396",
+            "span": {
+                "begin": 14377,
+                "end": 14396
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "14406_14410",
+            "span": {
+                "begin": 14406,
+                "end": 14410
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "14565_14584",
+            "span": {
+                "begin": 14565,
+                "end": 14584
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "14594_14600",
+            "span": {
+                "begin": 14594,
+                "end": 14600
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "14628_14647",
+            "span": {
+                "begin": 14628,
+                "end": 14647
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "14738_14748",
+            "span": {
+                "begin": 14738,
+                "end": 14748
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "14759_14765",
+            "span": {
+                "begin": 14759,
+                "end": 14765
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "14775_14794",
+            "span": {
+                "begin": 14775,
+                "end": 14794
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "14809_14813",
+            "span": {
+                "begin": 14809,
+                "end": 14813
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "14850_14869",
+            "span": {
+                "begin": 14850,
+                "end": 14869
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "14871_14897",
+            "span": {
+                "begin": 14871,
+                "end": 14897
+            },
+            "entityType": "gene",
+            "entityName": "atrial natriuretic peptide",
+            "id": "UMLS:C0027481"
+        },
+        {
+            "entityId": "14899_14902",
+            "span": {
+                "begin": 14899,
+                "end": 14902
+            },
+            "entityType": "gene",
+            "entityName": "ANP",
+            "id": "UMLS:C4553325"
+        },
+        {
+            "entityId": "14968_14974",
+            "span": {
+                "begin": 14968,
+                "end": 14974
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "15001_15005",
+            "span": {
+                "begin": 15001,
+                "end": 15005
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "15020_15023",
+            "span": {
+                "begin": 15020,
+                "end": 15023
+            },
+            "entityType": "gene",
+            "entityName": "ANP",
+            "id": "UMLS:C4553325"
+        },
+        {
+            "entityId": "15080_15090",
+            "span": {
+                "begin": 15080,
+                "end": 15090
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "15135_15138",
+            "span": {
+                "begin": 15135,
+                "end": 15138
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "15155_15161",
+            "span": {
+                "begin": 15155,
+                "end": 15161
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "15200_15219",
+            "span": {
+                "begin": 15200,
+                "end": 15219
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "15227_15239",
+            "span": {
+                "begin": 15227,
+                "end": 15239
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "15265_15268",
+            "span": {
+                "begin": 15265,
+                "end": 15268
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "15363_15369",
+            "span": {
+                "begin": 15363,
+                "end": 15369
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "15416_15420",
+            "span": {
+                "begin": 15416,
+                "end": 15420
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "15435_15438",
+            "span": {
+                "begin": 15435,
+                "end": 15438
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "15440_15444",
+            "span": {
+                "begin": 15440,
+                "end": 15444
+            },
+            "entityType": "gene",
+            "entityName": "IL-6",
+            "id": "UMLS:C1334122"
+        },
+        {
+            "entityId": "15446_15454",
+            "span": {
+                "begin": 15446,
+                "end": 15454
+            },
+            "entityType": "gene",
+            "entityName": "IL-1beta",
+            "id": "UMLS:C1334112"
+        },
+        {
+            "entityId": "15474_15479",
+            "span": {
+                "begin": 15474,
+                "end": 15479
+            },
+            "entityType": "gene",
+            "entityName": "MCP-1",
+            "id": "UMLS:C1449159"
+        },
+        {
+            "entityId": "15552_15558",
+            "span": {
+                "begin": 15552,
+                "end": 15558
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "15618_15622",
+            "span": {
+                "begin": 15618,
+                "end": 15622
+            },
+            "entityType": "gene",
+            "entityName": "PICs",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "15623_15626",
+            "span": {
+                "begin": 15623,
+                "end": 15626
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "15628_15632",
+            "span": {
+                "begin": 15628,
+                "end": 15632
+            },
+            "entityType": "gene",
+            "entityName": "IL-6",
+            "id": "UMLS:C1334122"
+        },
+        {
+            "entityId": "15637_15645",
+            "span": {
+                "begin": 15637,
+                "end": 15645
+            },
+            "entityType": "gene",
+            "entityName": "IL-1beta",
+            "id": "UMLS:C1334112"
+        },
+        {
+            "entityId": "15665_15670",
+            "span": {
+                "begin": 15665,
+                "end": 15670
+            },
+            "entityType": "gene",
+            "entityName": "MCP-1",
+            "id": "UMLS:C1449159"
+        },
+        {
+            "entityId": "15761_15767",
+            "span": {
+                "begin": 15761,
+                "end": 15767
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "15776_15780",
+            "span": {
+                "begin": 15776,
+                "end": 15780
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "15798_15808",
+            "span": {
+                "begin": 15798,
+                "end": 15808
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "15837_15843",
+            "span": {
+                "begin": 15837,
+                "end": 15843
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "15916_15919",
+            "span": {
+                "begin": 15916,
+                "end": 15919
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "15923_15929",
+            "span": {
+                "begin": 15923,
+                "end": 15929
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "15938_15950",
+            "span": {
+                "begin": 15938,
+                "end": 15950
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "16581_16584",
+            "span": {
+                "begin": 16581,
+                "end": 16584
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "16648_16653",
+            "span": {
+                "begin": 16648,
+                "end": 16653
+            },
+            "entityType": "gene",
+            "entityName": "IL-10",
+            "id": "UMLS:C2983956"
+        },
+        {
+            "entityId": "16676_16682",
+            "span": {
+                "begin": 16676,
+                "end": 16682
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "16766_16771",
+            "span": {
+                "begin": 16766,
+                "end": 16771
+            },
+            "entityType": "gene",
+            "entityName": "IL-10",
+            "id": "UMLS:C2983956"
+        },
+        {
+            "entityId": "16782_16788",
+            "span": {
+                "begin": 16782,
+                "end": 16788
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "16829_16832",
+            "span": {
+                "begin": 16829,
+                "end": 16832
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "16852_16862",
+            "span": {
+                "begin": 16852,
+                "end": 16862
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "16876_16884",
+            "span": {
+                "begin": 16876,
+                "end": 16884
+            },
+            "entityType": "DNA",
+            "entityName": "PVN mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "16899_16904",
+            "span": {
+                "begin": 16899,
+                "end": 16904
+            },
+            "entityType": "gene",
+            "entityName": "IL-10",
+            "id": "UMLS:C2983956"
+        },
+        {
+            "entityId": "16938_16943",
+            "span": {
+                "begin": 16938,
+                "end": 16943
+            },
+            "entityType": "gene",
+            "entityName": "IL-10",
+            "id": "UMLS:C2983956"
+        },
+        {
+            "entityId": "16975_16978",
+            "span": {
+                "begin": 16975,
+                "end": 16978
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "17009_17012",
+            "span": {
+                "begin": 17009,
+                "end": 17012
+            },
+            "entityType": "gene",
+            "entityName": "RAS",
+            "id": "UMLS:C0034678"
+        },
+        {
+            "entityId": "17040_17046",
+            "span": {
+                "begin": 17040,
+                "end": 17046
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "17051_17054",
+            "span": {
+                "begin": 17051,
+                "end": 17054
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "17083_17086",
+            "span": {
+                "begin": 17083,
+                "end": 17086
+            },
+            "entityType": "gene",
+            "entityName": "RAS",
+            "id": "UMLS:C0034678"
+        },
+        {
+            "entityId": "17142_17148",
+            "span": {
+                "begin": 17142,
+                "end": 17148
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "17264_17268",
+            "span": {
+                "begin": 17264,
+                "end": 17268
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "17302_17305",
+            "span": {
+                "begin": 17302,
+                "end": 17305
+            },
+            "entityType": "gene",
+            "entityName": "ACE",
+            "id": "UMLS:C1452534"
+        },
+        {
+            "entityId": "17307_17311",
+            "span": {
+                "begin": 17307,
+                "end": 17311
+            },
+            "entityType": "gene",
+            "entityName": "ACE2",
+            "id": "UMLS:C1422064"
+        },
+        {
+            "entityId": "17313_17317",
+            "span": {
+                "begin": 17313,
+                "end": 17317
+            },
+            "entityType": "gene",
+            "entityName": "AT1R",
+            "id": "UMLS:C1439284"
+        },
+        {
+            "entityId": "17333_17345",
+            "span": {
+                "begin": 17333,
+                "end": 17345
+            },
+            "entityType": "gene",
+            "entityName": "Mas receptor",
+            "id": "UMLS:C0597357"
+        },
+        {
+            "entityId": "17351_17359",
+            "span": {
+                "begin": 17351,
+                "end": 17359
+            },
+            "entityType": "DNA",
+            "entityName": "PVN mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "17422_17425",
+            "span": {
+                "begin": 17422,
+                "end": 17425
+            },
+            "entityType": "gene",
+            "entityName": "ACE",
+            "id": "UMLS:C1452534"
+        },
+        {
+            "entityId": "17430_17434",
+            "span": {
+                "begin": 17430,
+                "end": 17434
+            },
+            "entityType": "gene",
+            "entityName": "AT1R",
+            "id": "UMLS:C1439284"
+        },
+        {
+            "entityId": "17467_17473",
+            "span": {
+                "begin": 17467,
+                "end": 17473
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "17482_17486",
+            "span": {
+                "begin": 17482,
+                "end": 17486
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "17514_17518",
+            "span": {
+                "begin": 17514,
+                "end": 17518
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "17561_17571",
+            "span": {
+                "begin": 17561,
+                "end": 17571
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "17641_17645",
+            "span": {
+                "begin": 17641,
+                "end": 17645
+            },
+            "entityType": "gene",
+            "entityName": "ACE2",
+            "id": "UMLS:C1422064"
+        },
+        {
+            "entityId": "17647_17659",
+            "span": {
+                "begin": 17647,
+                "end": 17659
+            },
+            "entityType": "gene",
+            "entityName": "Mas receptor",
+            "id": "UMLS:C0597357"
+        },
+        {
+            "entityId": "17720_17726",
+            "span": {
+                "begin": 17720,
+                "end": 17726
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "17735_17739",
+            "span": {
+                "begin": 17735,
+                "end": 17739
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "17776_17782",
+            "span": {
+                "begin": 17776,
+                "end": 17782
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "17783_17786",
+            "span": {
+                "begin": 17783,
+                "end": 17786
+            },
+            "entityType": "drug",
+            "entityName": "ETN",
+            "id": "UMLS:C0014758"
+        },
+        {
+            "entityId": "17832_17838",
+            "span": {
+                "begin": 17832,
+                "end": 17838
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "17847_17859",
+            "span": {
+                "begin": 17847,
+                "end": 17859
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "17986_17989",
+            "span": {
+                "begin": 17986,
+                "end": 17989
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "18036_18039",
+            "span": {
+                "begin": 18036,
+                "end": 18039
+            },
+            "entityType": "gene",
+            "entityName": "RAS",
+            "id": "UMLS:C0034678"
+        },
+        {
+            "entityId": "18853_18856",
+            "span": {
+                "begin": 18853,
+                "end": 18856
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "18909_18915",
+            "span": {
+                "begin": 18909,
+                "end": 18915
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "18920_18923",
+            "span": {
+                "begin": 18920,
+                "end": 18923
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "19082_19094",
+            "span": {
+                "begin": 19082,
+                "end": 19094
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "19176_19179",
+            "span": {
+                "begin": 19176,
+                "end": 19179
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "19249_19255",
+            "span": {
+                "begin": 19249,
+                "end": 19255
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "19265_19277",
+            "span": {
+                "begin": 19265,
+                "end": 19277
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "19292_19307",
+            "span": {
+                "begin": 19292,
+                "end": 19307
+            },
+            "entityType": "gene",
+            "entityName": "NAD(P)H oxidase",
+            "id": "UMLS:C0068355"
+        },
+        {
+            "entityId": "19318_19328",
+            "span": {
+                "begin": 19318,
+                "end": 19328
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "19372_19381",
+            "span": {
+                "begin": 19372,
+                "end": 19381
+            },
+            "entityType": "drug",
+            "entityName": "lucigenin",
+            "id": "UMLS:C0126266"
+        },
+        {
+            "entityId": "19450_19456",
+            "span": {
+                "begin": 19450,
+                "end": 19456
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "19490_19505",
+            "span": {
+                "begin": 19490,
+                "end": 19505
+            },
+            "entityType": "gene",
+            "entityName": "NAD(P)H oxidase",
+            "id": "UMLS:C0068355"
+        },
+        {
+            "entityId": "19516_19526",
+            "span": {
+                "begin": 19516,
+                "end": 19526
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "19583_19587",
+            "span": {
+                "begin": 19583,
+                "end": 19587
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "19638_19641",
+            "span": {
+                "begin": 19638,
+                "end": 19641
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "19648_19658",
+            "span": {
+                "begin": 19648,
+                "end": 19658
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "19686_19701",
+            "span": {
+                "begin": 19686,
+                "end": 19701
+            },
+            "entityType": "drug",
+            "entityName": "dihydroethidium",
+            "id": "UMLS:C0644810"
+        },
+        {
+            "entityId": "19734_19740",
+            "span": {
+                "begin": 19734,
+                "end": 19740
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "19749_19759",
+            "span": {
+                "begin": 19749,
+                "end": 19759
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "19785_19789",
+            "span": {
+                "begin": 19785,
+                "end": 19789
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "19809_19815",
+            "span": {
+                "begin": 19809,
+                "end": 19815
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "19867_19877",
+            "span": {
+                "begin": 19867,
+                "end": 19877
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "19920_19935",
+            "span": {
+                "begin": 19920,
+                "end": 19935
+            },
+            "entityType": "drug",
+            "entityName": "dihydroethidium",
+            "id": "UMLS:C0644810"
+        },
+        {
+            "entityId": "19977_19983",
+            "span": {
+                "begin": 19977,
+                "end": 19983
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "19992_19996",
+            "span": {
+                "begin": 19992,
+                "end": 19996
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "20019_20023",
+            "span": {
+                "begin": 20019,
+                "end": 20023
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "20065_20069",
+            "span": {
+                "begin": 20065,
+                "end": 20069
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "20084_20094",
+            "span": {
+                "begin": 20084,
+                "end": 20094
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "20121_20127",
+            "span": {
+                "begin": 20121,
+                "end": 20127
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "20165_20185",
+            "span": {
+                "begin": 20165,
+                "end": 20185
+            },
+            "entityType": "DNA",
+            "entityName": "NOX-2 and NOX-4 mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "20261_20267",
+            "span": {
+                "begin": 20261,
+                "end": 20267
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "20276_20280",
+            "span": {
+                "begin": 20276,
+                "end": 20280
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "20315_20321",
+            "span": {
+                "begin": 20315,
+                "end": 20321
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "20330_20334",
+            "span": {
+                "begin": 20330,
+                "end": 20334
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "20358_20368",
+            "span": {
+                "begin": 20358,
+                "end": 20368
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "20405_20408",
+            "span": {
+                "begin": 20405,
+                "end": 20408
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "20421_20427",
+            "span": {
+                "begin": 20421,
+                "end": 20427
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "20436_20438",
+            "span": {
+                "begin": 20436,
+                "end": 20438
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "20462_20466",
+            "span": {
+                "begin": 20462,
+                "end": 20466
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "20493_20506",
+            "span": {
+                "begin": 20493,
+                "end": 20506
+            },
+            "entityType": "gene",
+            "entityName": "inducible NOS",
+            "id": "UMLS:C0669372"
+        },
+        {
+            "entityId": "20503_20506",
+            "span": {
+                "begin": 20503,
+                "end": 20506
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4842"
+        },
+        {
+            "entityId": "20508_20512",
+            "span": {
+                "begin": 20508,
+                "end": 20512
+            },
+            "entityType": "gene",
+            "entityName": "iNOS",
+            "id": "UMLS:C1968833"
+        },
+        {
+            "entityId": "20518_20526",
+            "span": {
+                "begin": 20518,
+                "end": 20526
+            },
+            "entityType": "cell",
+            "entityName": "neuronal",
+            "id": "UMLS:C0521390"
+        },
+        {
+            "entityId": "20527_20530",
+            "span": {
+                "begin": 20527,
+                "end": 20530
+            },
+            "entityType": "gene",
+            "entityName": "NOS",
+            "id": "NCBIGene:4842"
+        },
+        {
+            "entityId": "20532_20536",
+            "span": {
+                "begin": 20532,
+                "end": 20536
+            },
+            "entityType": "gene",
+            "entityName": "nNOS",
+            "id": "UMLS:C1417759"
+        },
+        {
+            "entityId": "20568_20574",
+            "span": {
+                "begin": 20568,
+                "end": 20574
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "20608_20617",
+            "span": {
+                "begin": 20608,
+                "end": 20617
+            },
+            "entityType": "gene",
+            "entityName": "iNOS mRNA",
+            "id": "UMLS:C1968833"
+        },
+        {
+            "entityId": "20659_20668",
+            "span": {
+                "begin": 20659,
+                "end": 20668
+            },
+            "entityType": "gene",
+            "entityName": "nNOS mRNA",
+            "id": "UMLS:C1417759"
+        },
+        {
+            "entityId": "20725_20729",
+            "span": {
+                "begin": 20725,
+                "end": 20729
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "20755_20765",
+            "span": {
+                "begin": 20755,
+                "end": 20765
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "20841_20847",
+            "span": {
+                "begin": 20841,
+                "end": 20847
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "20856_20868",
+            "span": {
+                "begin": 20856,
+                "end": 20868
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "20894_20897",
+            "span": {
+                "begin": 20894,
+                "end": 20897
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "20942_20945",
+            "span": {
+                "begin": 20942,
+                "end": 20945
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "20973_20979",
+            "span": {
+                "begin": 20973,
+                "end": 20979
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "20988_21000",
+            "span": {
+                "begin": 20988,
+                "end": 21000
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "22074_22077",
+            "span": {
+                "begin": 22074,
+                "end": 22077
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "22081_22087",
+            "span": {
+                "begin": 22081,
+                "end": 22087
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "22096_22108",
+            "span": {
+                "begin": 22096,
+                "end": 22108
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "22113_22132",
+            "span": {
+                "begin": 22113,
+                "end": 22132
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "22208_22211",
+            "span": {
+                "begin": 22208,
+                "end": 22211
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "22231_22241",
+            "span": {
+                "begin": 22231,
+                "end": 22241
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "22451_22457",
+            "span": {
+                "begin": 22451,
+                "end": 22457
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "22466_22478",
+            "span": {
+                "begin": 22466,
+                "end": 22478
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "22543_22546",
+            "span": {
+                "begin": 22543,
+                "end": 22546
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "22669_22681",
+            "span": {
+                "begin": 22669,
+                "end": 22681
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "22738_22741",
+            "span": {
+                "begin": 22738,
+                "end": 22741
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "22743_22747",
+            "span": {
+                "begin": 22743,
+                "end": 22747
+            },
+            "entityType": "gene",
+            "entityName": "IL-6",
+            "id": "UMLS:C1334122"
+        },
+        {
+            "entityId": "22752_22760",
+            "span": {
+                "begin": 22752,
+                "end": 22760
+            },
+            "entityType": "gene",
+            "entityName": "IL-1beta",
+            "id": "UMLS:C1334112"
+        },
+        {
+            "entityId": "22860_22872",
+            "span": {
+                "begin": 22860,
+                "end": 22872
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "22939_22945",
+            "span": {
+                "begin": 22939,
+                "end": 22945
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "23011_23021",
+            "span": {
+                "begin": 23011,
+                "end": 23021
+            },
+            "entityType": "gene",
+            "entityName": "Etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "23076_23079",
+            "span": {
+                "begin": 23076,
+                "end": 23079
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "23095_23107",
+            "span": {
+                "begin": 23095,
+                "end": 23107
+            },
+            "entityType": "gene",
+            "entityName": "TNF receptor",
+            "id": "UMLS:C0077503"
+        },
+        {
+            "entityId": "23159_23162",
+            "span": {
+                "begin": 23159,
+                "end": 23162
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "23196_23199",
+            "span": {
+                "begin": 23196,
+                "end": 23199
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "23244_23247",
+            "span": {
+                "begin": 23244,
+                "end": 23247
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "23251_23261",
+            "span": {
+                "begin": 23251,
+                "end": 23261
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "23314_23326",
+            "span": {
+                "begin": 23314,
+                "end": 23326
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "23327_23330",
+            "span": {
+                "begin": 23327,
+                "end": 23330
+            },
+            "entityType": "species",
+            "entityName": "rat",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "23373_23377",
+            "span": {
+                "begin": 23373,
+                "end": 23377
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "23383_23389",
+            "span": {
+                "begin": 23383,
+                "end": 23389
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "23444_23447",
+            "span": {
+                "begin": 23444,
+                "end": 23447
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "23526_23530",
+            "span": {
+                "begin": 23526,
+                "end": 23530
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "23544_23554",
+            "span": {
+                "begin": 23544,
+                "end": 23554
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "23573_23585",
+            "span": {
+                "begin": 23573,
+                "end": 23585
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "23612_23622",
+            "span": {
+                "begin": 23612,
+                "end": 23622
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "23649_23655",
+            "span": {
+                "begin": 23649,
+                "end": 23655
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "23681_23691",
+            "span": {
+                "begin": 23681,
+                "end": 23691
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "23730_23733",
+            "span": {
+                "begin": 23730,
+                "end": 23733
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "23851_23854",
+            "span": {
+                "begin": 23851,
+                "end": 23854
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "23880_23890",
+            "span": {
+                "begin": 23880,
+                "end": 23890
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "23915_23919",
+            "span": {
+                "begin": 23915,
+                "end": 23919
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "23928_23934",
+            "span": {
+                "begin": 23928,
+                "end": 23934
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "23945_23964",
+            "span": {
+                "begin": 23945,
+                "end": 23964
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "23969_23981",
+            "span": {
+                "begin": 23969,
+                "end": 23981
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "23983_23989",
+            "span": {
+                "begin": 23983,
+                "end": 23989
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "24083_24088",
+            "span": {
+                "begin": 24083,
+                "end": 24088
+            },
+            "entityType": "gene",
+            "entityName": "MCP-1",
+            "id": "UMLS:C1449159"
+        },
+        {
+            "entityId": "24108_24111",
+            "span": {
+                "begin": 24108,
+                "end": 24111
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "24113_24117",
+            "span": {
+                "begin": 24113,
+                "end": 24117
+            },
+            "entityType": "gene",
+            "entityName": "IL-6",
+            "id": "UMLS:C1334122"
+        },
+        {
+            "entityId": "24122_24130",
+            "span": {
+                "begin": 24122,
+                "end": 24130
+            },
+            "entityType": "gene",
+            "entityName": "IL-1beta",
+            "id": "UMLS:C1334112"
+        },
+        {
+            "entityId": "24145_24148",
+            "span": {
+                "begin": 24145,
+                "end": 24148
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "24403_24411",
+            "span": {
+                "begin": 24403,
+                "end": 24411
+            },
+            "entityType": "gene",
+            "entityName": "IL-1beta",
+            "id": "UMLS:C1334112"
+        },
+        {
+            "entityId": "24416_24420",
+            "span": {
+                "begin": 24416,
+                "end": 24420
+            },
+            "entityType": "gene",
+            "entityName": "IL-6",
+            "id": "UMLS:C1334122"
+        },
+        {
+            "entityId": "24469_24475",
+            "span": {
+                "begin": 24469,
+                "end": 24475
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "24484_24496",
+            "span": {
+                "begin": 24484,
+                "end": 24496
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "24520_24529",
+            "span": {
+                "begin": 24520,
+                "end": 24529
+            },
+            "entityType": "cell",
+            "entityName": "microglia",
+            "id": "UMLS:C0206116"
+        },
+        {
+            "entityId": "24558_24562",
+            "span": {
+                "begin": 24558,
+                "end": 24562
+            },
+            "entityType": "gene",
+            "entityName": "PICs",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "24637_24643",
+            "span": {
+                "begin": 24637,
+                "end": 24643
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "24663_24688",
+            "span": {
+                "begin": 24663,
+                "end": 24688
+            },
+            "entityType": "gene",
+            "entityName": "proinflammatory cytokines",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "24714_24718",
+            "span": {
+                "begin": 24714,
+                "end": 24718
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "24734_24737",
+            "span": {
+                "begin": 24734,
+                "end": 24737
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "24752_24762",
+            "span": {
+                "begin": 24752,
+                "end": 24762
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "24804_24807",
+            "span": {
+                "begin": 24804,
+                "end": 24807
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "24835_24839",
+            "span": {
+                "begin": 24835,
+                "end": 24839
+            },
+            "entityType": "gene",
+            "entityName": "IL-6",
+            "id": "UMLS:C1334122"
+        },
+        {
+            "entityId": "24841_24849",
+            "span": {
+                "begin": 24841,
+                "end": 24849
+            },
+            "entityType": "gene",
+            "entityName": "IL-1beta",
+            "id": "UMLS:C1334112"
+        },
+        {
+            "entityId": "24869_24874",
+            "span": {
+                "begin": 24869,
+                "end": 24874
+            },
+            "entityType": "gene",
+            "entityName": "MCP-1",
+            "id": "UMLS:C1449159"
+        },
+        {
+            "entityId": "24932_24938",
+            "span": {
+                "begin": 24932,
+                "end": 24938
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "25018_25023",
+            "span": {
+                "begin": 25018,
+                "end": 25023
+            },
+            "entityType": "gene",
+            "entityName": "IL-10",
+            "id": "UMLS:C2983956"
+        },
+        {
+            "entityId": "25061_25074",
+            "span": {
+                "begin": 25061,
+                "end": 25074
+            },
+            "entityType": "disease",
+            "entityName": "heart failure",
+            "id": "UMLS:C0018801"
+        },
+        {
+            "entityId": "25075_25079",
+            "span": {
+                "begin": 25075,
+                "end": 25079
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "25086_25107",
+            "span": {
+                "begin": 25086,
+                "end": 25107
+            },
+            "entityType": "disease",
+            "entityName": "myocardial infarction",
+            "id": "UMLS:C0027051"
+        },
+        {
+            "entityId": "25122_25127",
+            "span": {
+                "begin": 25122,
+                "end": 25127
+            },
+            "entityType": "gene",
+            "entityName": "IL-10",
+            "id": "UMLS:C2983956"
+        },
+        {
+            "entityId": "25165_25171",
+            "span": {
+                "begin": 25165,
+                "end": 25171
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "25180_25192",
+            "span": {
+                "begin": 25180,
+                "end": 25192
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "25216_25222",
+            "span": {
+                "begin": 25216,
+                "end": 25222
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "25254_25258",
+            "span": {
+                "begin": 25254,
+                "end": 25258
+            },
+            "entityType": "DNA",
+            "entityName": "mRNA",
+            "id": "UMLS:C0035696"
+        },
+        {
+            "entityId": "25312_25317",
+            "span": {
+                "begin": 25312,
+                "end": 25317
+            },
+            "entityType": "gene",
+            "entityName": "IL-10",
+            "id": "UMLS:C2983956"
+        },
+        {
+            "entityId": "25349_25352",
+            "span": {
+                "begin": 25349,
+                "end": 25352
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "25408_25411",
+            "span": {
+                "begin": 25408,
+                "end": 25411
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "25486_25509",
+            "span": {
+                "begin": 25486,
+                "end": 25509
+            },
+            "entityType": "disease",
+            "entityName": "Neurogenic hypertension",
+            "id": "UMLS:C0597048"
+        },
+        {
+            "entityId": "25588_25594",
+            "span": {
+                "begin": 25588,
+                "end": 25594
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "25625_25631",
+            "span": {
+                "begin": 25625,
+                "end": 25631
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "25714_25726",
+            "span": {
+                "begin": 25714,
+                "end": 25726
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "25786_25789",
+            "span": {
+                "begin": 25786,
+                "end": 25789
+            },
+            "entityType": "gene",
+            "entityName": "RAS",
+            "id": "UMLS:C0034678"
+        },
+        {
+            "entityId": "25899_25911",
+            "span": {
+                "begin": 25899,
+                "end": 25911
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "25971_25974",
+            "span": {
+                "begin": 25971,
+                "end": 25974
+            },
+            "entityType": "gene",
+            "entityName": "ACE",
+            "id": "UMLS:C1452534"
+        },
+        {
+            "entityId": "25990_26002",
+            "span": {
+                "begin": 25990,
+                "end": 26002
+            },
+            "entityType": "gene",
+            "entityName": "Ang receptor",
+            "id": "UMLS:C0597357"
+        },
+        {
+            "entityId": "26122_26126",
+            "span": {
+                "begin": 26122,
+                "end": 26126
+            },
+            "entityType": "gene",
+            "entityName": "AT1R",
+            "id": "UMLS:C1439284"
+        },
+        {
+            "entityId": "26159_26165",
+            "span": {
+                "begin": 26159,
+                "end": 26165
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "26177_26188",
+            "span": {
+                "begin": 26177,
+                "end": 26188
+            },
+            "entityType": "gene",
+            "entityName": "vasopressin",
+            "id": "UMLS:C1527128"
+        },
+        {
+            "entityId": "26312_26324",
+            "span": {
+                "begin": 26312,
+                "end": 26324
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "26351_26363",
+            "span": {
+                "begin": 26351,
+                "end": 26363
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "26387_26391",
+            "span": {
+                "begin": 26387,
+                "end": 26391
+            },
+            "entityType": "gene",
+            "entityName": "AT1R",
+            "id": "UMLS:C1439284"
+        },
+        {
+            "entityId": "26559_26565",
+            "span": {
+                "begin": 26559,
+                "end": 26565
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "26570_26573",
+            "span": {
+                "begin": 26570,
+                "end": 26573
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "26612_26615",
+            "span": {
+                "begin": 26612,
+                "end": 26615
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "26625_26629",
+            "span": {
+                "begin": 26625,
+                "end": 26629
+            },
+            "entityType": "species",
+            "entityName": "mice",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "26636_26642",
+            "span": {
+                "begin": 26636,
+                "end": 26642
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "26651_26663",
+            "span": {
+                "begin": 26651,
+                "end": 26663
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "26709_26713",
+            "span": {
+                "begin": 26709,
+                "end": 26713
+            },
+            "entityType": "gene",
+            "entityName": "AT1R",
+            "id": "UMLS:C1439284"
+        },
+        {
+            "entityId": "26854_26857",
+            "span": {
+                "begin": 26854,
+                "end": 26857
+            },
+            "entityType": "gene",
+            "entityName": "ACE",
+            "id": "UMLS:C1452534"
+        },
+        {
+            "entityId": "26858_26864",
+            "span": {
+                "begin": 26858,
+                "end": 26864
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "26858_26861",
+            "span": {
+                "begin": 26858,
+                "end": 26861
+            },
+            "entityType": "gene",
+            "entityName": "Ang",
+            "id": "UMLS:C0003018"
+        },
+        {
+            "entityId": "26865_26869",
+            "span": {
+                "begin": 26865,
+                "end": 26869
+            },
+            "entityType": "gene",
+            "entityName": "AT1R",
+            "id": "UMLS:C1439284"
+        },
+        {
+            "entityId": "26919_26922",
+            "span": {
+                "begin": 26919,
+                "end": 26922
+            },
+            "entityType": "gene",
+            "entityName": "RAS",
+            "id": "UMLS:C0034678"
+        },
+        {
+            "entityId": "27238_27250",
+            "span": {
+                "begin": 27238,
+                "end": 27250
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "27305_27309",
+            "span": {
+                "begin": 27305,
+                "end": 27309
+            },
+            "entityType": "gene",
+            "entityName": "ACE2",
+            "id": "UMLS:C1422064"
+        },
+        {
+            "entityId": "27311_27319",
+            "span": {
+                "begin": 27311,
+                "end": 27319
+            },
+            "entityType": "gene",
+            "entityName": "Ang (1-7",
+            "id": "UMLS:C0103306"
+        },
+        {
+            "entityId": "27326_27338",
+            "span": {
+                "begin": 27326,
+                "end": 27338
+            },
+            "entityType": "gene",
+            "entityName": "Mas receptor",
+            "id": "UMLS:C0597357"
+        },
+        {
+            "entityId": "27343_27356",
+            "span": {
+                "begin": 27343,
+                "end": 27356
+            },
+            "entityType": "gene",
+            "entityName": "AT2 receptors",
+            "id": "UMLS:C4320607"
+        },
+        {
+            "entityId": "27514_27526",
+            "span": {
+                "begin": 27514,
+                "end": 27526
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "27595_27605",
+            "span": {
+                "begin": 27595,
+                "end": 27605
+            },
+            "entityType": "gene",
+            "entityName": "brain ACE2",
+            "id": "UMLS:C1422064"
+        },
+        {
+            "entityId": "27659_27664",
+            "span": {
+                "begin": 27659,
+                "end": 27664
+            },
+            "entityType": "species",
+            "entityName": "mouse",
+            "id": "UMLS:C0025914"
+        },
+        {
+            "entityId": "27681_27687",
+            "span": {
+                "begin": 27681,
+                "end": 27687
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "27729_27733",
+            "span": {
+                "begin": 27729,
+                "end": 27733
+            },
+            "entityType": "gene",
+            "entityName": "AT1R",
+            "id": "UMLS:C1439284"
+        },
+        {
+            "entityId": "27761_27765",
+            "span": {
+                "begin": 27761,
+                "end": 27765
+            },
+            "entityType": "gene",
+            "entityName": "ACE2",
+            "id": "UMLS:C1422064"
+        },
+        {
+            "entityId": "27807_27813",
+            "span": {
+                "begin": 27807,
+                "end": 27813
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "27822_27834",
+            "span": {
+                "begin": 27822,
+                "end": 27834
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "27849_27852",
+            "span": {
+                "begin": 27849,
+                "end": 27852
+            },
+            "entityType": "drug",
+            "entityName": "PIC",
+            "id": "UMLS:CHEBI:53806"
+        },
+        {
+            "entityId": "28010_28020",
+            "span": {
+                "begin": 28010,
+                "end": 28020
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "28046_28052",
+            "span": {
+                "begin": 28046,
+                "end": 28052
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "28126_28129",
+            "span": {
+                "begin": 28126,
+                "end": 28129
+            },
+            "entityType": "gene",
+            "entityName": "ACE",
+            "id": "UMLS:C1452534"
+        },
+        {
+            "entityId": "28134_28138",
+            "span": {
+                "begin": 28134,
+                "end": 28138
+            },
+            "entityType": "gene",
+            "entityName": "AT1R",
+            "id": "UMLS:C1439284"
+        },
+        {
+            "entityId": "28207_28211",
+            "span": {
+                "begin": 28207,
+                "end": 28211
+            },
+            "entityType": "gene",
+            "entityName": "ACE2",
+            "id": "UMLS:C1422064"
+        },
+        {
+            "entityId": "28213_28225",
+            "span": {
+                "begin": 28213,
+                "end": 28225
+            },
+            "entityType": "gene",
+            "entityName": "Mas receptor",
+            "id": "UMLS:C0597357"
+        },
+        {
+            "entityId": "28231_28244",
+            "span": {
+                "begin": 28231,
+                "end": 28244
+            },
+            "entityType": "gene",
+            "entityName": "AT2 receptors",
+            "id": "UMLS:C4320607"
+        },
+        {
+            "entityId": "28320_28332",
+            "span": {
+                "begin": 28320,
+                "end": 28332
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "28411_28414",
+            "span": {
+                "begin": 28411,
+                "end": 28414
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "28544_28556",
+            "span": {
+                "begin": 28544,
+                "end": 28556
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "28647_28662",
+            "span": {
+                "begin": 28647,
+                "end": 28662
+            },
+            "entityType": "gene",
+            "entityName": "NAD(P)H oxidase",
+            "id": "UMLS:C0068355"
+        },
+        {
+            "entityId": "28688_28694",
+            "span": {
+                "begin": 28688,
+                "end": 28694
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "28710_28717",
+            "span": {
+                "begin": 28710,
+                "end": 28717
+            },
+            "entityType": "cell",
+            "entityName": "neurons",
+            "id": "UMLS:C0027882"
+        },
+        {
+            "entityId": "28742_28748",
+            "span": {
+                "begin": 28742,
+                "end": 28748
+            },
+            "entityType": "drug",
+            "entityName": "Tempol",
+            "id": "UMLS:C0045283"
+        },
+        {
+            "entityId": "28767_28787",
+            "span": {
+                "begin": 28767,
+                "end": 28787
+            },
+            "entityType": "gene",
+            "entityName": "superoxide dismutase",
+            "id": "UMLS:C0038838"
+        },
+        {
+            "entityId": "28789_28792",
+            "span": {
+                "begin": 28789,
+                "end": 28792
+            },
+            "entityType": "gene",
+            "entityName": "SOD",
+            "id": "UMLS:C0038838"
+        },
+        {
+            "entityId": "28812_28818",
+            "span": {
+                "begin": 28812,
+                "end": 28818
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "28828_28838",
+            "span": {
+                "begin": 28828,
+                "end": 28838
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "28854_28866",
+            "span": {
+                "begin": 28854,
+                "end": 28866
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "28877_28892",
+            "span": {
+                "begin": 28877,
+                "end": 28892
+            },
+            "entityType": "gene",
+            "entityName": "NAD(P)H oxidase",
+            "id": "UMLS:C0068355"
+        },
+        {
+            "entityId": "28950_28974",
+            "span": {
+                "begin": 28950,
+                "end": 28974
+            },
+            "entityType": "gene",
+            "entityName": "NAD(P)H oxidase subunits",
+            "id": "UMLS:C0068355"
+        },
+        {
+            "entityId": "28985_28990",
+            "span": {
+                "begin": 28985,
+                "end": 28990
+            },
+            "entityType": "gene",
+            "entityName": "NOX-2",
+            "id": "NCBIGene:1536"
+        },
+        {
+            "entityId": "28995_29000",
+            "span": {
+                "begin": 28995,
+                "end": 29000
+            },
+            "entityType": "gene",
+            "entityName": "NOX-4",
+            "id": "NCBIGene:50507"
+        },
+        {
+            "entityId": "29127_29138",
+            "span": {
+                "begin": 29127,
+                "end": 29138
+            },
+            "entityType": "drug",
+            "entityName": "aldosterone",
+            "id": "UMLS:C0002006"
+        },
+        {
+            "entityId": "29152_29164",
+            "span": {
+                "begin": 29152,
+                "end": 29164
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "29184_29189",
+            "span": {
+                "begin": 29184,
+                "end": 29189
+            },
+            "entityType": "gene",
+            "entityName": "NOX-2",
+            "id": "NCBIGene:1536"
+        },
+        {
+            "entityId": "29194_29199",
+            "span": {
+                "begin": 29194,
+                "end": 29199
+            },
+            "entityType": "gene",
+            "entityName": "NOX-4",
+            "id": "NCBIGene:50507"
+        },
+        {
+            "entityId": "29237_29240",
+            "span": {
+                "begin": 29237,
+                "end": 29240
+            },
+            "entityType": "drug",
+            "entityName": "NAD",
+            "id": "UMLS:C0027270"
+        },
+        {
+            "entityId": "29282_29285",
+            "span": {
+                "begin": 29282,
+                "end": 29285
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "29311_29324",
+            "span": {
+                "begin": 29311,
+                "end": 29324
+            },
+            "entityType": "gene",
+            "entityName": "NADPH oxidase",
+            "id": "UMLS:C0068355"
+        },
+        {
+            "entityId": "29395_29397",
+            "span": {
+                "begin": 29395,
+                "end": 29397
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "29443_29446",
+            "span": {
+                "begin": 29443,
+                "end": 29446
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "29472_29478",
+            "span": {
+                "begin": 29472,
+                "end": 29478
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "29530_29541",
+            "span": {
+                "begin": 29530,
+                "end": 29541
+            },
+            "entityType": "drug",
+            "entityName": "super oxide",
+            "id": "UMLS:C0030015"
+        },
+        {
+            "entityId": "29554_29561",
+            "span": {
+                "begin": 29554,
+                "end": 29561
+            },
+            "entityType": "drug",
+            "entityName": "NAD(P)H",
+            "id": "UMLS:C0027289"
+        },
+        {
+            "entityId": "29601_29606",
+            "span": {
+                "begin": 29601,
+                "end": 29606
+            },
+            "entityType": "gene",
+            "entityName": "NOX-2",
+            "id": "NCBIGene:1536"
+        },
+        {
+            "entityId": "29611_29624",
+            "span": {
+                "begin": 29611,
+                "end": 29624
+            },
+            "entityType": "gene",
+            "entityName": "NOX-4 subunit",
+            "id": "UMLS:C0599220"
+        },
+        {
+            "entityId": "29691_29694",
+            "span": {
+                "begin": 29691,
+                "end": 29694
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "29704_29719",
+            "span": {
+                "begin": 29704,
+                "end": 29719
+            },
+            "entityType": "gene",
+            "entityName": "NAD(P)H oxidase",
+            "id": "UMLS:C0068355"
+        },
+        {
+            "entityId": "29728_29738",
+            "span": {
+                "begin": 29728,
+                "end": 29738
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "29757_29763",
+            "span": {
+                "begin": 29757,
+                "end": 29763
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "29772_29784",
+            "span": {
+                "begin": 29772,
+                "end": 29784
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "29813_29817",
+            "span": {
+                "begin": 29813,
+                "end": 29817
+            },
+            "entityType": "gene",
+            "entityName": "nNOS",
+            "id": "UMLS:C1417759"
+        },
+        {
+            "entityId": "29843_29847",
+            "span": {
+                "begin": 29843,
+                "end": 29847
+            },
+            "entityType": "gene",
+            "entityName": "iNOS",
+            "id": "UMLS:C1968833"
+        },
+        {
+            "entityId": "29880_29882",
+            "span": {
+                "begin": 29880,
+                "end": 29882
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "29910_29916",
+            "span": {
+                "begin": 29910,
+                "end": 29916
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "29925_29937",
+            "span": {
+                "begin": 29925,
+                "end": 29937
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "29938_29942",
+            "span": {
+                "begin": 29938,
+                "end": 29942
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "29944_29956",
+            "span": {
+                "begin": 29944,
+                "end": 29956
+            },
+            "entityType": "gene",
+            "entityName": "Neuronal NOS",
+            "id": "NCBIGene:4842"
+        },
+        {
+            "entityId": "30035_30039",
+            "span": {
+                "begin": 30035,
+                "end": 30039
+            },
+            "entityType": "gene",
+            "entityName": "nNOS",
+            "id": "UMLS:C1417759"
+        },
+        {
+            "entityId": "30129_30131",
+            "span": {
+                "begin": 30129,
+                "end": 30131
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "30173_30177",
+            "span": {
+                "begin": 30173,
+                "end": 30177
+            },
+            "entityType": "gene",
+            "entityName": "nNOS",
+            "id": "UMLS:C1417759"
+        },
+        {
+            "entityId": "30248_30250",
+            "span": {
+                "begin": 30248,
+                "end": 30250
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "30254_30267",
+            "span": {
+                "begin": 30254,
+                "end": 30267
+            },
+            "entityType": "drug",
+            "entityName": "peroxynitrite",
+            "id": "UMLS:C0136157"
+        },
+        {
+            "entityId": "30269_30274",
+            "span": {
+                "begin": 30269,
+                "end": 30274
+            },
+            "entityType": "drug",
+            "entityName": "ONOO-",
+            "id": "mesh:D030421"
+        },
+        {
+            "entityId": "30311_30324",
+            "span": {
+                "begin": 30311,
+                "end": 30324
+            },
+            "entityType": "gene",
+            "entityName": "NADPH oxidase",
+            "id": "UMLS:C0068355"
+        },
+        {
+            "entityId": "30333_30343",
+            "span": {
+                "begin": 30333,
+                "end": 30343
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "30395_30399",
+            "span": {
+                "begin": 30395,
+                "end": 30399
+            },
+            "entityType": "gene",
+            "entityName": "iNOS",
+            "id": "UMLS:C1968833"
+        },
+        {
+            "entityId": "30433_30443",
+            "span": {
+                "begin": 30433,
+                "end": 30443
+            },
+            "entityType": "drug",
+            "entityName": "L-arginine",
+            "id": "UMLS:C0003765"
+        },
+        {
+            "entityId": "30448_30450",
+            "span": {
+                "begin": 30448,
+                "end": 30450
+            },
+            "entityType": "drug",
+            "entityName": "NO",
+            "id": "UMLS:C0028128"
+        },
+        {
+            "entityId": "30481_30491",
+            "span": {
+                "begin": 30481,
+                "end": 30491
+            },
+            "entityType": "drug",
+            "entityName": "superoxide",
+            "id": "mesh:D013481"
+        },
+        {
+            "entityId": "30608_30611",
+            "span": {
+                "begin": 30608,
+                "end": 30611
+            },
+            "entityType": "gene",
+            "entityName": "PIC",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "30672_30695",
+            "span": {
+                "begin": 30672,
+                "end": 30695
+            },
+            "entityType": "disease",
+            "entityName": "neurogenic hypertension",
+            "id": "UMLS:C0597048"
+        },
+        {
+            "entityId": "30787_30790",
+            "span": {
+                "begin": 30787,
+                "end": 30790
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "30805_30815",
+            "span": {
+                "begin": 30805,
+                "end": 30815
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "30870_30882",
+            "span": {
+                "begin": 30870,
+                "end": 30882
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "30883_30887",
+            "span": {
+                "begin": 30883,
+                "end": 30887
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "30911_30917",
+            "span": {
+                "begin": 30911,
+                "end": 30917
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "30939_30958",
+            "span": {
+                "begin": 30939,
+                "end": 30958
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "31024_31028",
+            "span": {
+                "begin": 31024,
+                "end": 31028
+            },
+            "entityType": "gene",
+            "entityName": "PICs",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "31080_31086",
+            "span": {
+                "begin": 31080,
+                "end": 31086
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "31095_31099",
+            "span": {
+                "begin": 31095,
+                "end": 31099
+            },
+            "entityType": "species",
+            "entityName": "rats",
+            "id": "UMLS:C0034721"
+        },
+        {
+            "entityId": "31177_31180",
+            "span": {
+                "begin": 31177,
+                "end": 31180
+            },
+            "entityType": "gene",
+            "entityName": "ACE",
+            "id": "UMLS:C1452534"
+        },
+        {
+            "entityId": "31185_31189",
+            "span": {
+                "begin": 31185,
+                "end": 31189
+            },
+            "entityType": "gene",
+            "entityName": "AT1R",
+            "id": "UMLS:C1439284"
+        },
+        {
+            "entityId": "31269_31273",
+            "span": {
+                "begin": 31269,
+                "end": 31273
+            },
+            "entityType": "gene",
+            "entityName": "ACE2",
+            "id": "UMLS:C1422064"
+        },
+        {
+            "entityId": "31279_31291",
+            "span": {
+                "begin": 31279,
+                "end": 31291
+            },
+            "entityType": "gene",
+            "entityName": "Mas receptor",
+            "id": "UMLS:C0597357"
+        },
+        {
+            "entityId": "31296_31309",
+            "span": {
+                "begin": 31296,
+                "end": 31309
+            },
+            "entityType": "gene",
+            "entityName": "AT2 receptors",
+            "id": "UMLS:C4320607"
+        },
+        {
+            "entityId": "31348_31351",
+            "span": {
+                "begin": 31348,
+                "end": 31351
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "31362_31381",
+            "span": {
+                "begin": 31362,
+                "end": 31381
+            },
+            "entityType": "disease",
+            "entityName": "Ang II hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "31531_31543",
+            "span": {
+                "begin": 31531,
+                "end": 31543
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "31565_31568",
+            "span": {
+                "begin": 31565,
+                "end": 31568
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "31574_31584",
+            "span": {
+                "begin": 31574,
+                "end": 31584
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "31612_31624",
+            "span": {
+                "begin": 31612,
+                "end": 31624
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "31626_31645",
+            "span": {
+                "begin": 31626,
+                "end": 31645
+            },
+            "entityType": "disease",
+            "entityName": "cardiac hypertrophy",
+            "id": "UMLS:C1383860"
+        },
+        {
+            "entityId": "31650_31653",
+            "span": {
+                "begin": 31650,
+                "end": 31653
+            },
+            "entityType": "gene",
+            "entityName": "PIC",
+            "id": "UMLS:C0369773"
+        },
+        {
+            "entityId": "31847_31850",
+            "span": {
+                "begin": 31847,
+                "end": 31850
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "31863_31869",
+            "span": {
+                "begin": 31863,
+                "end": 31869
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "31878_31890",
+            "span": {
+                "begin": 31878,
+                "end": 31890
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        },
+        {
+            "entityId": "32074_32084",
+            "span": {
+                "begin": 32074,
+                "end": 32084
+            },
+            "entityType": "gene",
+            "entityName": "etanercept",
+            "id": "UMLS:C0717758"
+        },
+        {
+            "entityId": "32094_32097",
+            "span": {
+                "begin": 32094,
+                "end": 32097
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "32476_32482",
+            "span": {
+                "begin": 32476,
+                "end": 32482
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "32484_32487",
+            "span": {
+                "begin": 32484,
+                "end": 32487
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "32543_32549",
+            "span": {
+                "begin": 32543,
+                "end": 32549
+            },
+            "entityType": "gene",
+            "entityName": "Ang II",
+            "id": "UMLS:C1366631"
+        },
+        {
+            "entityId": "32550_32562",
+            "span": {
+                "begin": 32550,
+                "end": 32562
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "32723_32726",
+            "span": {
+                "begin": 32723,
+                "end": 32726
+            },
+            "entityType": "gene",
+            "entityName": "TNF",
+            "id": "UMLS:C1448177"
+        },
+        {
+            "entityId": "32758_32770",
+            "span": {
+                "begin": 32758,
+                "end": 32770
+            },
+            "entityType": "disease",
+            "entityName": "hypertension",
+            "id": "UMLS:C0020538"
+        },
+        {
+            "entityId": "32889_32901",
+            "span": {
+                "begin": 32889,
+                "end": 32901
+            },
+            "entityType": "disease",
+            "entityName": "hypertensive",
+            "id": "mesh:D006973"
+        }
+    ],
+    "relation_info": [
+        {
+            "subjectID": "85_99",
+            "subjectText": "Angiotensin II",
+            "rel_name": "inhibit",
+            "objectId": "14_17",
+            "objectText": "TNF"
+        },
+        {
+            "subjectID": "548_551",
+            "subjectText": "TNF",
+            "rel_name": "prevent",
+            "objectId": "623_629",
+            "objectText": "Ang II"
+        },
+        {
+            "subjectID": "623_629",
+            "subjectText": "Ang II",
+            "rel_name": "stimulate",
+            "objectId": "638_650",
+            "objectText": "hypertension"
+        },
+        {
+            "subjectID": "1002_1021",
+            "subjectText": "cardiac hypertrophy",
+            "rel_name": "inhibit",
+            "objectId": "1061_1070",
+            "objectText": "brain TNF"
+        },
+        {
+            "subjectID": "1896_1915",
+            "subjectText": "cardiac hypertrophy",
+            "rel_name": "inhibit",
+            "objectId": "2000_2003",
+            "objectText": "PIC"
+        },
+        {
+            "subjectID": "260_280",
+            "subjectText": "angiotensin (Ang) II",
+            "rel_name": "stimulate",
+            "objectId": "289_301",
+            "objectText": "hypertension"
+        }
+    ]
+}
