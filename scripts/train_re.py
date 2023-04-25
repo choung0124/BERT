@@ -72,7 +72,7 @@ for file_name in os.listdir(json_data_dir):
 
                 
 if len(re_input_ids) > 0:
-    re_input_ids = torch.cat(re_input_ids, dim=0)
+    re_input_ids = torch.stack(re_input_ids, dim=0)
     re_attention_masks = torch.cat(re_attention_masks, dim=0)
     re_labels = torch.tensor(re_labels)
 else:
