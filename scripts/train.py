@@ -12,21 +12,28 @@ from generate_label_dicts import generate_label_dicts
 
 def train_epoch(model, data_loader, optimizer, device):
     model.train()
+    train_loss = 0.0
     for batch in tqdm(data_loader):
-        input_ids, attention_mask, ner_labels, re_labels = batch
+        input_ids, attention_mask, subject_labels, object_labels, relation_labels, entity_positions = batch
         input_ids = input_ids.to(device)
         attention_mask = attention_mask.to(device)
-        ner_labels = ner_labels.to(device)
-        re_labels = re_labels.to(device)
+        subject_labels = subject_labels.to(device)
+        object_labels = object_labels.to(device)
+        relation_labels = relation_labels.to(device)
 
         optimizer.zero_grad()
-        ner_logits, re_logits = model(input_ids, attention_mask)
-        loss_fn = torch.nn.CrossEntropyLoss()
-        ner_loss = loss_fn(ner_logits.view(-1, ner_logits.shape[-1]), ner_labels.view(-1))
-        re_loss = loss_fn(re_logits.view(-1, re_logits.shape[-1]), re_labels.view(-1))
-        total_loss = ner_loss + re_loss
-        total_loss.backward()
+        outputs = model(input_ids, attention_mask)
+        subject_loss = F.cross_entropy(outputs['subject_logits'], subject_labels)
+        object_loss = F.cross_entropy(outputs['object_logits'], object_labels)
+        relation_loss = F.cross_entropy(outputs['relation_logits'], relation_labels)
+        loss = subject_loss + object_loss + relation_loss
+        loss.backward()
         optimizer.step()
+
+        train_loss += loss.item()
+
+    return train_loss / len(data_loader)
+
 
 dir_path = "test"
 subject_label2idx, object_label2idx, re_label2idx, ner_label2idx = generate_label_dicts(dir_path)
