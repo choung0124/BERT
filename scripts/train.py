@@ -4,7 +4,7 @@ from torch.optim import AdamW
 from tqdm import tqdm
 from transformers import BertTokenizerFast
 from model_definition import NER_RE_Model
-from data_prep import tokenize_data, create_data_loader, NERRE_Dataset, process_directory
+from data_prep import tokenize_our_data, create_data_loader, NERRE_Dataset, process_directory
 import os
 import pickle
 
