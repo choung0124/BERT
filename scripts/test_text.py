@@ -11,6 +11,9 @@ def extract_relationship(text, ner_model, re_model, tokenizer, label_to_id, rela
     encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=512, return_tensors="pt")
     input_ids = encoded["input_ids"]
     attention_mask = encoded["attention_mask"]
+    
+    # Set the confidence threshold for NER predictions
+    conf_threshold = 0.5
 
     # Predict NER labels
     ner_model.eval()
@@ -73,8 +76,12 @@ if __name__ == "__main__":
     parser.add_argument("input_text", help="Input text to extract relationships from.")
     parser.add_argument("--label_to_id_file", default="label_to_id.json", help="Path to the JSON file containing label-to-ID mapping for NER.")
     parser.add_argument("--relation_to_id_file", default="relation_to_id.json", help="Path to the JSON file containing relation-to-ID mapping for RE.")
+    parser.add_argument("--conf_threshold", type=float, default=0.5, help="Threshold for confidence of NER predictions to consider as valid.")
     args = parser.parse_args()
+
+    # Load the input text
     input_text = args.input_text
+
     # Load the fine-tuned NER model and tokenizer
     ner_output_dir = "models/ner"
     ner_model = BertForTokenClassification.from_pretrained(ner_output_dir)
@@ -86,17 +93,20 @@ if __name__ == "__main__":
 
     # Specify label-to-ID mapping for NER
     label_to_id = load_mapping_from_json(args.label_to_id_file)
-        # Add your label-to-ID mapping here
-    
+
     # Specify relation-to-ID mapping for RE
     relation_to_id = load_mapping_from_json(args.relation_to_id_file)
-        # Add your relation-to-ID mapping here
-    relationships = extract_relationship(input_text, ner_model, re_model, tokenizer, label_to_id, relation_to_id)
-    
+
+    # Extract relationships
+    conf_threshold = args.conf_threshold
+    relationships = extract_relationship(input_text, ner_model, re_model, tokenizer, label_to_id, relation_to_id, conf_threshold)
+
+    # Print the extracted relationships
     if relationships:
         print("Extracted relationships:")
         for relationship in relationships:
             subject_label, subject, relation, object_label, obj = relationship
             print(f"{subject} [{subject_label}] --{relation}--> {obj} [{object_label}]")
     else:
-        print("No relationships found.")
+    print("No relationships found.")
+
