@@ -48,29 +48,25 @@ json_directory = "test"
 
 # Loop through all JSON files in the directory
 for file_name in os.listdir(json_directory):
-    if not file_name.endswith(".json"):
-        continue
+    if file_name.endswith(".json"):
+        json_path = os.path.join(json_directory, file_name)
 
-    # Load the JSON data
-    json_path = os.path.join(json_directory, file_name)
-    with open(json_path, "r") as json_file:
-        json_data = json.load(json_file)
+        # Load the JSON data
+        with open(json_path, "r") as json_file:
+            json_data = json.load(json_file)
 
-    # Preprocess the data for the RE task
-    entities = {entity["id"]: entity for entity in json_data["entities"]}
-    re_data = []
-    for relation in json_data["relation_info"]:
-        subject = entities[relation["subject"]]["text"]
-        obj = entities[relation["object"]]["text"]
-        re_data.append((subject, relation["rel_name"], obj))
+        # Preprocess the data for the RE task
+        re_data = preprocess_re(json_data)
 
-    # Tokenize and encode the RE data
-    for subject, relation, obj in re_data:
-        tokens = tokenizer.tokenize(f"{subject} [SEP] {obj}")
-        encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
-        re_input_ids.append(encoded["input_ids"])
-        re_attention_masks.append(encoded["attention_mask"])
-        re_labels.append(torch.tensor(relation_to_id[relation]))
+        # Tokenize and encode the RE data
+        for subject, rel_name, obj in re_data:
+            tokens = tokenizer.tokenize(f"{subject} [SEP] {obj}")
+            encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
+            
+            # Add the encoded relation and its label to the lists
+            re_input_ids.append(encoded["input_ids"])
+            re_attention_masks.append(encoded["attention_mask"])
+            re_labels.append(torch.tensor(relation_to_id[rel_name]))
 
 # Concatenate the input IDs, attention masks, and labels into tensors
 re_input_ids = torch.cat(re_input_ids, dim=0)
