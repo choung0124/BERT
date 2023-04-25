@@ -35,7 +35,7 @@ filtered_data = process_directory(dir_path, subject_label2idx, object_label2idx,
 train_dataset = NERRE_Dataset(*zip(*filtered_data))
 
 tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
-tokenized_train_data = tokenize_data(train_dataset)
+tokenized_train_data = tokenize_our_data(train_dataset)
 train_data_loader = DataLoader(tokenized_train_data, batch_size=8, shuffle=True)
 
 model = NER_RE_Model(len(ner_label2idx), len(re_label2idx), ner_label2idx, re_label2idx)
