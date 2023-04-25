@@ -28,14 +28,15 @@ for file_name in os.listdir(ner_data_dir):
     if file_name.endswith("_ner_data.txt"):
         with open(os.path.join(ner_data_dir, file_name), "r") as f:
             lines = f.readlines()
-            tokens = [line.split()[0] for line in lines if len(line.split()) > 1]
+            tokens = []
             labels = []
             for line in lines:
-                try:
+                if len(line.split()) > 1:
+                    token = line.split()[0]
                     label = line.split()[1]
                     labels.append(label)
-                except IndexError:
-                    pass  # Ignore the line if it doesn't have at least two elements after splitting
+                    sub_tokens = tokenizer.tokenize(token)
+                    tokens.extend(sub_tokens)
             all_labels.extend(labels)
             if len(tokens) != len(labels):
                 print(f"Skipping {file_name} because the number of tokens ({len(tokens)}) is different from the number of labels ({len(labels)})")
@@ -43,12 +44,16 @@ for file_name in os.listdir(ner_data_dir):
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=512, return_tensors="pt")
             ner_input_ids.append(encoded["input_ids"])
             ner_attention_masks.append(encoded["attention_mask"])
-            padded_labels = [label_to_id[label] if label in label_to_id else -100 for label in labels]
-            padded_labels = padded_labels[:512]  # Truncate to match the max_length
+            
+            aligned_labels = []
+            for label in labels:
+                if label in label_to_id:
+                    label_id = label_to_id[label]
+                    sub_tokens = tokenizer.tokenize(label.split()[0])
+                    aligned_labels.extend([label_id] + [-100] * (len(sub_tokens) - 1))
+            padded_labels = aligned_labels[:512]  # Truncate to match the max_length
             padded_labels.extend([-100] * (512 - len(padded_labels)))  # Pad to match the max_length
             ner_labels.append(torch.tensor(padded_labels))
-
-
 
 ner_input_ids = torch.cat(ner_input_ids, dim=0)
 ner_attention_masks = torch.cat(ner_attention_masks, dim=0)
