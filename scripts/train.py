@@ -24,9 +24,9 @@ def train_epoch(model, data_loader, optimizer, device):
 
         optimizer.zero_grad()
         outputs = model(input_ids, attention_mask)
-        subject_loss = F.cross_entropy(outputs['subject_logits'], subject_labels)
-        object_loss = F.cross_entropy(outputs['object_logits'], object_labels)
-        relation_loss = F.cross_entropy(outputs['relation_logits'], relation_labels)
+        subject_loss = F.cross_entropy(outputs['ner_logits'], subject_labels)
+        object_loss = F.cross_entropy(outputs['ner_logits'], object_labels)
+        relation_loss = F.cross_entropy(outputs['re_logits'], relation_labels)
         loss = subject_loss + object_loss + relation_loss
         loss.backward()
         optimizer.step()
