@@ -80,7 +80,7 @@ else:
 
 # Create a DataLoader for the RE data
 re_dataset = TensorDataset(re_input_ids, re_attention_masks, re_labels)
-re_loader = DataLoader(re_dataset, batch_size=batch_size)
+re_loader = DataLoader(re_dataset, batch_size=batch_size, drop_last=True, shuffle=True)
 
 # Fine-tune the BERT RE model
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
