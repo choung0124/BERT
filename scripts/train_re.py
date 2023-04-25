@@ -4,6 +4,18 @@ from torch.utils.data import DataLoader, TensorDataset
 from transformers import BertTokenizer, BertForSequenceClassification
 import json
 
+def preprocess_re(json_data):
+    re_data = []
+    entities = {entity["id"]: entity for entity in json_data["entities"]}
+    
+    for relation in json_data["relation_info"]:
+        subject = entities[relation["subjectID"]]["text"]
+        obj = entities[relation["objectId"]]["text"]
+        re_data.append((subject, relation["rel_name"], obj))
+    
+    return re_data
+
+
 # Set the hyperparameters for fine-tuning
 num_epochs = 10
 batch_size = 16
