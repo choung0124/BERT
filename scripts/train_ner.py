@@ -64,6 +64,10 @@ ner_input_ids = torch.cat(ner_input_ids, dim=0)
 ner_attention_masks = torch.cat(ner_attention_masks, dim=0)
 ner_labels = torch.cat(ner_labels, dim=0)
 
+print(f"ner_input_ids shape: {ner_input_ids.shape}")
+print(f"ner_attention_masks shape: {ner_attention_masks.shape}")
+print(f"ner_labels shape: {ner_labels.shape}")
+
 # Create a DataLoader for the NER data
 ner_dataset = TensorDataset(ner_input_ids, ner_attention_masks, ner_labels)
 ner_loader = DataLoader(ner_dataset, batch_size=batch_size)
