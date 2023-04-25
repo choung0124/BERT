@@ -18,7 +18,7 @@ relations = [
     "suppress",
     "regulate",
     "stimulate",
-    'associate",
+    "associate",
     "biomarker"
 ]
 relation_to_id = {relation: idx for idx, relation in enumerate(relations)}
