@@ -9,6 +9,8 @@ def preprocess_re(json_data):
     entities = {entity["id"]: entity for entity in json_data["entities"]}
     
     for relation in json_data["relation_info"]:
+        if relation["subjectID"] not in entities:
+            continue
         subject = entities[relation["subjectID"]]["text"]
         obj = entities[relation["objectId"]]["text"]
         re_data.append((subject, relation["rel_name"], obj))
