@@ -42,9 +42,6 @@ relations = [
 ]
 relation_to_id = {relation: idx for idx, relation in enumerate(relations)}
 
-with open("relation_to_id.json", "w") as f:
-    json.dump(relation_to_id, f, indent=4)
-
 tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
 re_model = BertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels=len(relation_to_id))
 
