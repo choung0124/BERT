@@ -73,7 +73,7 @@ ner_dataset = TensorDataset(ner_input_ids, ner_attention_masks, ner_labels)
 ner_loader = DataLoader(ner_dataset, batch_size=batch_size)
 
 # Fine-tune the BERT NER model
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+device = torch.device("cpu")
 ner_model.to(device)
 
 optimizer = torch.optim.AdamW(ner_model.parameters(), lr=learning_rate)
