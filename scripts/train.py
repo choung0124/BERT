@@ -4,14 +4,15 @@ from torch.optim import AdamW
 from tqdm import tqdm
 from transformers import BertTokenizerFast
 from model_definition import NER_RE_Model
-from data_prep import tokenize_data, create_data_loader, NERRE_Dataset, filtered_data
+from data_prep import tokenize_data, create_data_loader, NERRE_Dataset, process_directory
 import os
 
 from generate_label_dicts import generate_label_dicts
 
-dir_path = "path/to/your/json/files"
+dir_path = "test"
 subject_label2idx, object_label2idx, re_label2idx, ner_label2idx = generate_label_dicts(dir_path)
 
+filtered_data = process_directory(dir_path, subject_label2idx, object_label2idx, re_label2idx)
 train_dataset = NERRE_Dataset(*zip(*filtered_data))
 
 tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
