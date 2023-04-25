@@ -67,6 +67,15 @@ for file_name in os.listdir(json_data_dir):
                 re_attention_masks.append(encoded["attention_mask"])
                 re_labels.append(torch.tensor(relation_to_id[relation]))
 
+                
+if len(re_input_ids) > 0:
+    re_input_ids = torch.cat(re_input_ids, dim=0)
+    re_attention_masks = torch.cat(re_attention_masks, dim=0)
+    re_labels = torch.tensor(re_labels)
+else:
+    print("No valid inputs found. Aborting training.")
+    exit()     
+    
 # Concatenate the input IDs, attention masks, and labels into tensors
 re_input_ids = torch.cat(re_input_ids, dim=0)
 re_attention_masks = torch.cat(re_attention_masks, dim=0)
