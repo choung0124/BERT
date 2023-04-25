@@ -16,6 +16,9 @@ from generate_label_dicts import generate_label_dicts
 def train_epoch(model, data_loader, optimizer, device):
     model = model.train()
 
+    # Initialize train_loss
+    train_loss = 0
+
     for batch in data_loader:
         input_ids, attention_mask, subject_labels, object_labels, relation_labels, _ = batch
 
@@ -43,9 +46,10 @@ def train_epoch(model, data_loader, optimizer, device):
 
         loss.backward()
         optimizer.step()
-        
+
         train_loss += loss.item()
 
+    # Return the average train_loss
     return train_loss / len(data_loader)
 
 
