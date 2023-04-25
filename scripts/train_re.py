@@ -105,3 +105,8 @@ output_dir = "models/re"
 os.makedirs(output_dir, exist_ok=True)
 re_model.save_pretrained(output_dir)
 tokenizer.save_pretrained(output_dir)
+
+mapping_file = "models/ner/relation_to_id.json"
+
+with open(mapping_file, "w") as f:
+    json.dump(relation_to_id, f)
