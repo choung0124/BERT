@@ -16,7 +16,7 @@ from generate_label_dicts import generate_label_dicts
 def train_epoch(model, data_loader, optimizer, device):
     model.train()
     train_loss = 0.0
-    criterion = nn.MSELoss()
+    criterion = nn.CrossEntropyLoss()
 
     for batch in tqdm(data_loader):
         input_ids, attention_mask, subject_labels, object_labels, relation_labels, entity_positions = batch
