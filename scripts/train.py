@@ -67,6 +67,10 @@ torch.save({
 # Save the tokenizer
 tokenizer.save_pretrained(model_dir)
 
+# Create reverse label dictionaries
+ner_idx2label = {v: k for k, v in ner_label2idx.items()}
+re_idx2label = {v: k for k, v in re_label2idx.items()}
+
 # Save the label dictionaries
 label_dicts = {
     'ner': (ner_label2idx, ner_idx2label),
