@@ -95,6 +95,6 @@ if __name__ == "__main__":
         print("Extracted relationships:")
         for relationship in relationships:
             subject_label, subject, relation, object_label, obj = relationship
-            print(f"{subject_label} ({subject}) --{relation}--> {object_label} ({obj})")
+            print(f"{subject} [{subject_label}] --{relation}--> {obj} [{object_label}]")
     else:
         print("No relationships found.")
