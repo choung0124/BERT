@@ -57,10 +57,11 @@ for file_name in os.listdir(json_directory):
         # Preprocess the data for NER tasks
         ner_data = preprocess_ner(json_data)
         preprocessed_data.append(ner_data)
+        print(f"Processed: {file_name}")
 
 # Hyperparameters
 num_epochs = 10
-batch_size = 16
+batch_size = 8
 learning_rate = 2e-5
 
 # Load the pre-trained BERT model and tokenizer
@@ -76,7 +77,7 @@ ner_input_ids, ner_attention_masks, ner_labels = [], [], []
 label_to_id = {label: idx for idx, label in enumerate(set(all_labels))}
 
 # Tokenize and align the labels
-for ner_data in preprocessed_data:
+for ner_data in tqdm(preprocessed_data, desc="Tokenizing and aligning labels"):
     tokens, labels = zip(*ner_data)
     sub_tokens_list = [tokenizer.tokenize(token) for token in tokens]
     tokens = [sub_token for sub_tokens in sub_tokens_list for sub_token in sub_tokens]
