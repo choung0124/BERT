@@ -1,73 +1,64 @@
-import torch
-import os
-import sys
 import argparse
-import pickle
-from transformers import BertTokenizerFast, BertModel
+import torch
+from transformers import BertTokenizerFast
 from model_definition import NER_RE_Model
+import json
 
-def load_model(model_dir):
-    # Load the pretrained BERT model
-    bert = BertModel.from_pretrained(model_dir)
+# Load the trained model
+model_dir = "model"
+tokenizer = BertTokenizerFast.from_pretrained(model_dir)
+model = NER_RE_Model.from_pretrained(model_dir)
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+model.to(device)
+model.eval()
 
-    # Load the custom head
-    checkpoint = torch.load(os.path.join(model_dir, 'custom_head.pt'))
-    ner_classifier_state_dict = checkpoint['ner_classifier']
-    re_classifier_state_dict = checkpoint['re_classifier']
+# Define command line arguments
+parser = argparse.ArgumentParser(description='Extract relationships from text')
+parser.add_argument('text', type=str, help='Input text')
 
-    # Load the label dictionaries
-    with open(os.path.join(model_dir, 'label_dicts.pkl'), 'rb') as f:
-        label_dicts = pickle.load(f)
-        ner_label2idx, ner_idx2label = label_dicts['ner']
-        re_label2idx, re_idx2label = label_dicts['re']
+# Parse command line arguments
+args = parser.parse_args()
+text = args.text
 
-    # Initialize the model
-    model = NER_RE_Model(len(ner_label2idx), len(re_label2idx), ner_label2idx, re_label2idx)
-    model.bert = bert
-    model.ner_classifier.load_state_dict(ner_classifier_state_dict)
-    model.re_classifier.load_state_dict(re_classifier_state_dict)
+# Tokenize input text
+encoding = tokenizer(text, return_tensors='pt', padding=True, truncation=True, max_length=512)
+input_ids = encoding['input_ids'].to(device)
+attention_mask = encoding['attention_mask'].to(device)
 
-    return model, ner_idx2label, re_idx2label
+# Make predictions on input text
+with torch.no_grad():
+    outputs = model(input_ids=input_ids, attention_mask=attention_mask)
+    
+# Extract subject, object and relationship labels from predictions
+ner_logits = outputs['ner_logits'].argmax(dim=-1).cpu().numpy().tolist()[0][1:-1]
+ner_labels = [model.ner_idx2label[label_idx] for label_idx in ner_logits]
+re_logits = outputs['re_logits'].argmax(dim=-1).cpu().numpy().tolist()[0][1:-1]
+re_labels = [model.re_idx2label[label_idx] for label_idx in re_logits]
 
-def predict_relations(model, tokenizer, text):
-    model.eval()
-    with torch.no_grad():
-        inputs = tokenizer(text, return_tensors="pt")
-        input_ids = inputs['input_ids']
-        attention_mask = inputs['attention_mask']
+# Extract relationship tuples
+relations = []
+subject_text = None
+object_text = None
+for i, (ner_label, re_label) in enumerate(zip(ner_labels, re_labels)):
+    if ner_label.startswith('B-'):
+        # Start of a new entity
+        if ner_label[2:] == 'SUB':
+            subject_text = tokenizer.decode(input_ids[0, i+1].unsqueeze(dim=0).cpu().numpy().tolist()[0])
+        elif ner_label[2:] == 'OBJ':
+            object_text = tokenizer.decode(input_ids[0, i+1].unsqueeze(dim=0).cpu().numpy().tolist()[0])
+    elif ner_label.startswith('I-'):
+        # Continuation of the current entity
+        continue
+    else:
+        # End of an entity
+        if subject_text is not None and object_text is not None:
+            relation_tuple = {'subject': subject_text, 'object': object_text, 'relation': re_label}
+            relations.append(relation_tuple)
+        subject_text = None
+        object_text = None
 
-        ner_logits, re_logits = model(input_ids, attention_mask)
-
-        ner_predictions = torch.argmax(ner_logits, dim=-1).squeeze().tolist()
-        re_predictions = torch.argmax(re_logits, dim=-1).squeeze().tolist()
-
-    entities = []
-    relations = []
-
-    for i, ner_pred in enumerate(ner_predictions):
-        if ner_pred != 0:  # Ignore 'O' label
-            entity = (tokenizer.convert_ids_to_tokens(input_ids[0][i]), ner_idx2label[ner_pred])
-            entities.append(entity)
-
-    for i, re_pred in enumerate(re_predictions):
-        if re_pred != 0:  # Ignore 'no_relation' label
-            subject = entities[i]
-            object = entities[i+1]
-            relation = re_idx2label[re_pred]
-            relations.append((subject, object, relation))
-
-    return relations
-
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--input_text', type=str, required=True, help='Input text to extract relations from')
-    args = parser.parse_args()
-
-    model_dir = "model"
-    model, ner_idx2label, re_idx2label = load_model(model_dir)
-
-    tokenizer = BertTokenizerFast.from_pretrained(model_dir)
-    text = args.input_text
-
-    relations = predict_relations(model, tokenizer, text)
-    print("Extracted relations:", relations)
+# Print out the extracted relationships
+if len(relations) == 0:
+    print("No relationships found in the input text")
+else:
+    print(json.dumps(relations, indent=4))
