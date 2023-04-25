@@ -3,6 +3,14 @@ import torch
 from torch.utils.data import DataLoader, TensorDataset
 from transformers import BertTokenizer, BertForSequenceClassification
 
+# Function to extract subject, relation, and object from a line of text
+def extract_subject_relation_object(line):
+    words = line.split()
+    relation = words[-1]
+    obj = words[-2]
+    subject = ' '.join(words[:-2])
+    return subject, relation, obj
+
 # Set the directory containing the preprocessed data
 re_data_dir = "training_data"
 
