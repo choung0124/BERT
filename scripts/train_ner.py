@@ -25,7 +25,7 @@ for file_name in os.listdir(ner_data_dir):
     if file_name.endswith("_ner_data.txt"):
         with open(os.path.join(ner_data_dir, file_name), "r") as f:
             lines = f.readlines()
-            tokens = [line.split()[0] for line in lines]
+            tokens = [line.split()[0] for line in lines if len(line.split()) > 1]
             labels = []
             for line in lines:
                 try:
@@ -46,8 +46,14 @@ for file_name in os.listdir(ner_data_dir):
     if file_name.endswith("_ner_data.txt"):
         with open(os.path.join(ner_data_dir, file_name), "r") as f:
             lines = f.readlines()
-            labels = [line.split()[1] for line in lines]
-            ner_labels.append(torch.tensor([label_to_id[label] for label in labels]))
+            labels = []
+            for line in lines:
+                try:
+                    label = line.split()[1]
+                    labels.append(label)
+                except IndexError:
+                    pass  # Ignore the line if it doesn't have at least two elements after splitting
+            ner_labels.append(torch.tensor([label_to_id[label] for label in labels if label in label_to_id]))
 
 ner_input_ids = torch.cat(ner_input_ids, dim=0)
 ner_attention_masks = torch.cat(ner_attention_masks, dim=0)
