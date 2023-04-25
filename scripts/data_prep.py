@@ -80,14 +80,20 @@ def create_data_loader(tokenized_data, batch_size):
 def collate_fn(batch):
     input_ids, attention_mask, subject_labels, object_labels, relation_labels, entity_positions = zip(*batch)
     batch_size = len(input_ids)
-    input_ids = torch.stack(input_ids)
-    attention_mask = torch.stack(attention_mask)
+    max_seq_len = max(len(ids) for ids in input_ids)
+
+    input_ids_padded = torch.zeros((batch_size, max_seq_len), dtype=torch.long)
+    attention_mask_padded = torch.zeros((batch_size, max_seq_len), dtype=torch.long)
+
+    for i, ids in enumerate(input_ids):
+        input_ids_padded[i, :len(ids)] = ids
+        attention_mask_padded[i, :len(ids)] = 1
+
     subject_labels = torch.tensor(subject_labels, dtype=torch.long)
-    subject_labels = F.pad(subject_labels, (0, batch_size - len(subject_labels)))
     object_labels = torch.tensor(object_labels, dtype=torch.long)
-    object_labels = F.pad(object_labels, (0, batch_size - len(object_labels)))
     relation_labels = torch.tensor(relation_labels, dtype=torch.long)
-    relation_labels = F.pad(relation_labels, (0, batch_size - len(relation_labels)))
-    return input_ids, attention_mask, subject_labels, object_labels, relation_labels, entity_positions
+
+    return input_ids_padded, attention_mask_padded, subject_labels, object_labels, relation_labels, entity_positions
+
 
 
