@@ -40,7 +40,7 @@ for file_name in os.listdir(ner_data_dir):
             if len(tokens) != len(labels):
                 print(f"Skipping {file_name} because the number of tokens ({len(tokens)}) is different from the number of labels ({len(labels)})")
                 continue
-            encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
+            encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=512, return_tensors="pt")
             ner_input_ids.append(encoded["input_ids"])
             ner_attention_masks.append(encoded["attention_mask"])
             ner_labels.append(torch.tensor([label_to_id[label] for label in labels if label in label_to_id]))
