@@ -60,7 +60,7 @@ def process_directory(dir_path, subject_label2idx, object_label2idx, re_label2id
     return processed_data
 
 
-def tokenize_data(dataset):
+def tokenize_our_data(dataset):
     tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
     tokenized_data = []
 
