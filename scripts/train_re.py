@@ -66,9 +66,10 @@ for file_name in os.listdir(json_directory):
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
             
             # Add the encoded relation and its label to the lists
-            re_input_ids.append(encoded["input_ids"])
-            re_attention_masks.append(encoded["attention_mask"])
-            re_labels.append(torch.tensor(relation_to_id[rel_name]))
+        if len(encoded["input_ids"]) > 0:
+            re_input_ids.append(encoded["input_ids"][0])
+            re_attention_masks.append(encoded["attention_mask"][0])
+            re_labels.append(torch.tensor(relation_to_id[relation]))
 
 # Concatenate the input IDs, attention masks, and labels into tensors
 re_input_ids = torch.cat(re_input_ids, dim=0)
