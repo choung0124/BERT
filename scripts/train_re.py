@@ -7,9 +7,10 @@ from transformers import BertTokenizer, BertForSequenceClassification
 def extract_subject_relation_object(line):
     # Update this function to extract subject, relation, and object from your dataset
     # For example, if your dataset is in the format "subject [RELATION] object":
-    subject, relation, obj = line.split(" [RELATION] ")
+    subject, relation_obj = line.split(": ")
+    relation, obj = relation_obj.split(" ", 1)
 
-    return subject, relation, obj
+    return subject.strip(), relation.strip(), obj.strip()
 
 # Set the directory containing the preprocessed data
 re_data_dir = "training_data"
