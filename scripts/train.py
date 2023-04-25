@@ -15,6 +15,8 @@ from generate_label_dicts import generate_label_dicts
 def train_epoch(model, data_loader, optimizer, device):
     model.train()
     train_loss = 0.0
+    criterion = nn.MSELoss()
+
     for batch in tqdm(data_loader):
         input_ids, attention_mask, subject_labels, object_labels, relation_labels, entity_positions = batch
         input_ids = input_ids.to(device)
@@ -24,10 +26,10 @@ def train_epoch(model, data_loader, optimizer, device):
         relation_labels = relation_labels.to(device)
 
         optimizer.zero_grad()
-        ner_logits, re_logits = model(input_ids, attention_mask)
-        subject_loss = F.cross_entropy(ner_logits, subject_labels)
-        object_loss = F.cross_entropy(ner_logits, object_labels)
-        relation_loss = F.cross_entropy(re_logits, relation_labels)
+        outputs = model(input_ids, attention_mask)
+        subject_loss = criterion(outputs['ner_logits'], subject_labels)
+        object_loss = criterion(outputs['re_logits'], object_labels)
+        relation_loss = criterion(outputs['re_logits'], relation_labels)
         loss = subject_loss + object_loss + relation_loss
         loss.backward()
         optimizer.step()
@@ -35,8 +37,6 @@ def train_epoch(model, data_loader, optimizer, device):
         train_loss += loss.item()
 
     return train_loss / len(data_loader)
-
-
 
 dir_path = "test"
 subject_label2idx, object_label2idx, re_label2idx, ner_label2idx = generate_label_dicts(dir_path)
