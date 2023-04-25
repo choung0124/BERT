@@ -1,4 +1,8 @@
 import torch
+import os
+import sys
+import argparse
+import pickle
 from transformers import BertTokenizerFast, BertModel
 from model_definition import NER_RE_Model
 
@@ -55,11 +59,15 @@ def predict_relations(model, tokenizer, text):
     return relations
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--input_text', type=str, required=True, help='Input text to extract relations from')
+    args = parser.parse_args()
+
     model_dir = "model"
     model, ner_idx2label, re_idx2label = load_model(model_dir)
 
     tokenizer = BertTokenizerFast.from_pretrained(model_dir)
-    text = "Your input text here"
+    text = args.input_text
 
     relations = predict_relations(model, tokenizer, text)
     print("Extracted relations:", relations)
