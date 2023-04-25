@@ -108,5 +108,5 @@ if __name__ == "__main__":
             subject_label, subject, relation, object_label, obj = relationship
             print(f"{subject} [{subject_label}] --{relation}--> {obj} [{object_label}]")
     else:
-    print("No relationships found.")
+        print("No relationships found.")
 
