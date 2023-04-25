@@ -45,32 +45,26 @@ re_input_ids = []
 re_attention_masks = []
 re_labels = []
 
-# Set the directory containing the JSON files
-json_directory = "test"
+# Loop through all files in the training_data directory
+for file_name in os.listdir(re_data_dir):
+    if not file_name.endswith("_re_data.txt"):
+        continue
 
-# Loop through all JSON files in the directory
-for file_name in os.listdir(json_directory):
-    if file_name.endswith(".json"):
-        json_path = os.path.join(json_directory, file_name)
+    # Read the relation data from the file
+    with open(os.path.join(re_data_dir, file_name), "r") as f:
+        for line in f:
+            subject, relation, obj = extract_subject_relation_object(line)
 
-        # Load the JSON data
-        with open(json_path, "r") as json_file:
-            json_data = json.load(json_file)
-
-        # Preprocess the data for the RE task
-        re_data = preprocess_re(json_data)
-
-        # Tokenize and encode the RE data
-        for subject, rel_name, obj in re_data:
+            # Tokenize and encode the relation
             tokens = tokenizer.tokenize(f"{subject} [SEP] {obj}")
             encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=128, return_tensors="pt")
             
-            # Add the encoded relation and its label to the lists
-        if len(encoded["input_ids"]) > 0:
-            re_input_ids.append(encoded["input_ids"][0])
-            re_attention_masks.append(encoded["attention_mask"][0])
-            re_labels.append(torch.tensor(relation_to_id[relation]))
-
+            if encoded["input_ids"].shape[1] > 0:
+                # Add the encoded relation and its label to the lists
+                re_input_ids.append(encoded["input_ids"])
+                re_attention_masks.append(encoded["attention_mask"])
+                re_labels.append(torch.tensor(relation_to_id[relation]))
+        
 # Concatenate the input IDs, attention masks, and labels into tensors
 re_input_ids = torch.cat(re_input_ids, dim=0)
 re_attention_masks = torch.cat(re_attention_masks, dim=0)
