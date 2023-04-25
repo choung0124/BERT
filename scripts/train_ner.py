@@ -4,6 +4,11 @@ import torch
 from tqdm import tqdm
 from torch.utils.data import DataLoader, TensorDataset
 from transformers import BertTokenizer, BertForTokenClassification
+import warnings
+from transformers import logging
+
+logging.set_verbosity_error()
+warnings.filterwarnings("ignore", category=UserWarning, module="transformers.modeling_utils")
 
 # Set the directory containing the preprocessed data
 ner_data_dir = "training_data"
@@ -79,7 +84,7 @@ ner_loader = DataLoader(ner_dataset, batch_size=batch_size)
 
 # Fine-tune the BERT NER model
 # Fine-tune the BERT NER model
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+device = torch.device("cpu")
 ner_model.to(device)
 
 optimizer = torch.optim.AdamW(ner_model.parameters(), lr=learning_rate)
