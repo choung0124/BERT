@@ -98,8 +98,6 @@ for ner_data in tqdm(preprocessed_data, desc="Tokenizing and aligning labels"):
     encoded = tokenizer.encode_plus(tokens, add_special_tokens=True, padding="max_length", truncation=True, max_length=512, return_tensors="pt")
     ner_input_ids.append(encoded["input_ids"])
     ner_attention_masks.append(encoded["attention_mask"])
-    ner_labels.append(torch.tensor(labels))
-
     aligned_labels = []
     for label in labels:
         label_id = label_to_id[label]
