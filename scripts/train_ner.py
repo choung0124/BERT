@@ -10,14 +10,15 @@ from transformers import logging
 logging.set_verbosity_error()
 warnings.filterwarnings("ignore", category=UserWarning, module="transformers.modeling_utils")
 
-def preprocess_ner(json_data):
+def preprocess_ner(json_data, tokenizer):
     ner_data = []
     
     for entity in json_data["entities"]:
         begin = entity["span"]["begin"]
         end = entity["span"]["end"]
         entity_type = entity["entityType"]
-        ner_data.append((begin, end, entity_type))
+        entity_text = json_data["text"][begin:end]
+        ner_data.append((begin, end, entity_type, entity_text))
     
     ner_data.sort(key=lambda x: x[0])
     
@@ -25,17 +26,18 @@ def preprocess_ner(json_data):
     ner_tags = []
     current_idx = 0
     
-    for begin, end, entity_type in ner_data:
+    for begin, end, entity_type, entity_text in ner_data:
         while current_idx < begin:
             ner_tags.append((text[current_idx], "O"))
             current_idx += 1
         
-        entity_text = text[begin:end]
         entity_tokens = tokenizer.tokenize(entity_text)
-        entity_labels = [f"B-{entity_type}"] + [f"I-{entity_type}"] * (len(entity_tokens) - 1)
-        for i, token in enumerate(entity_tokens):
-            ner_tags.append((token, entity_labels[i]))
-        
+        first = True
+        for i in range(len(entity_tokens)):
+            ner_tags.append((entity_tokens[i], f"B-{entity_type}" if first else f"I-{entity_type}"))
+            first = False
+            current_idx += 1
+    
         current_idx = end
     
     while current_idx < len(text):
@@ -43,7 +45,6 @@ def preprocess_ner(json_data):
         current_idx += 1
     
     return ner_tags
-
 
 
 # Set the directory containing the JSON files
