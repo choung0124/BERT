@@ -10,6 +10,9 @@ from transformers import logging
 logging.set_verbosity_error()
 warnings.filterwarnings("ignore", category=UserWarning, module="transformers.modeling_utils")
 
+# Load the pre-trained BERT model and tokenizer
+tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+
 def preprocess_ner(json_data, tokenizer):
     ner_data = []
     
@@ -74,9 +77,6 @@ for file_name in os.listdir(json_directory):
 num_epochs = 10
 batch_size = 8
 learning_rate = 2e-5
-
-# Load the pre-trained BERT model and tokenizer
-tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
 
 # Initialize the BERT model for token classification
 all_labels = [tag for ner_data in preprocessed_data for _, tag in ner_data]
