@@ -1,7 +1,7 @@
 import sys
 import json
 import torch
-from transformers import pipeline, BertTokenizer, BertForSequenceClassification
+from transformers import pipeline, BertTokenizer, BertForSequenceClassification, BertForTokenClassification
 from itertools import groupby
 
 def extract_entities(text, ner_model, tokenizer, id_to_label):
