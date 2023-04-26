@@ -35,10 +35,8 @@ def preprocess_ner(json_data, tokenizer):
             current_idx += 1
         
         entity_tokens = tokenizer.tokenize(entity_text)
-        first = True
         for i in range(len(entity_tokens)):
-            ner_tags.append((entity_tokens[i], f"B-{entity_type}" if first else f"I-{entity_type}"))
-            first = False
+            ner_tags.append((entity_tokens[i], f"{entity_type}"))
             current_idx += 1
     
         current_idx = end
@@ -48,6 +46,7 @@ def preprocess_ner(json_data, tokenizer):
         current_idx += 1
     
     return ner_tags
+
 
 
 # Set the directory containing the JSON files
