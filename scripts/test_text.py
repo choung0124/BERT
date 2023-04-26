@@ -4,12 +4,12 @@ import torch
 from transformers import BertTokenizer, BertForTokenClassification, BertForSequenceClassification, pipeline
 from itertools import groupby
 
+
 def extract_entities(text, ner_model, tokenizer, id_to_label):
     inputs = tokenizer(text, return_tensors="pt")
     input_ids = inputs["input_ids"]
     attention_mask = inputs["attention_mask"]
 
-    ner_model.eval()
     with torch.no_grad():
         outputs = ner_model(input_ids, attention_mask=attention_mask)
     predictions = torch.argmax(outputs.logits, dim=2)
@@ -24,6 +24,7 @@ def extract_entities(text, ner_model, tokenizer, id_to_label):
             entities.append((tag, entity))
     return entities
 
+
 def extract_relationships(entities, re_model, tokenizer, id_to_relation):
     relationships = []
 
@@ -34,7 +35,6 @@ def extract_relationships(entities, re_model, tokenizer, id_to_relation):
                 input_ids = inputs["input_ids"]
                 attention_mask = inputs["attention_mask"]
 
-                re_model.eval()
                 with torch.no_grad():
                     outputs = re_model(input_ids, attention_mask=attention_mask)
                 prediction = torch.argmax(outputs.logits, dim=1).item()
@@ -43,6 +43,7 @@ def extract_relationships(entities, re_model, tokenizer, id_to_relation):
                 if relation != "no_relation":
                     relationships.append((entity1, relation, entity2))
     return relationships
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
