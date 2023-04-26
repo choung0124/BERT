@@ -18,7 +18,6 @@ def preprocess_ner(json_data):
         end = entity["span"]["end"]
         entity_type = entity["entityType"]
         ner_data.append((begin, end, entity_type))
-        print(f"entity: {entity}, ner_data[-1]: {ner_data[-1]}")
     
     ner_data.sort(key=lambda x: x[0])
     
@@ -31,12 +30,12 @@ def preprocess_ner(json_data):
             ner_tags.append((text[current_idx], "O"))
             current_idx += 1
         
-        first = True
-        for i in range(begin, end):
-            ner_tags.append((text[i], f"B-{entity_type}" if first else f"I-{entity_type}"))
-            first = False
-            current_idx += 1
-    
+        entity_text = text[begin:end]
+        entity_tokens = tokenizer.tokenize(entity_text)
+        entity_labels = [f"B-{entity_type}"] + [f"I-{entity_type}"] * (len(entity_tokens) - 1)
+        for i, token in enumerate(entity_tokens):
+            ner_tags.append((token, entity_labels[i]))
+        
         current_idx = end
     
     while current_idx < len(text):
@@ -44,6 +43,7 @@ def preprocess_ner(json_data):
         current_idx += 1
     
     return ner_tags
+
 
 
 # Set the directory containing the JSON files
