@@ -3,7 +3,7 @@ import torch
 import json
 from torch.utils.data import DataLoader, TensorDataset
 from transformers import BertTokenizer, BertForSequenceClassification
-
+from tqdm import tqdm
 
 def preprocess_re(json_data):
     re_data = []
@@ -55,10 +55,9 @@ re_attention_masks = []
 re_labels = []
 
 json_data_dir = "test"
-for file_name in os.listdir(json_data_dir):
-    if not file_name.endswith(".json"):
-        continue
+json_files = [f for f in os.listdir(json_data_dir) if f.endswith(".json")]
 
+for file_name in tqdm(json_files, desc="Processing JSON files"):
     with open(os.path.join(json_data_dir, file_name), "r") as f:
         json_data = json.load(f)
         re_data = preprocess_re(json_data)
@@ -94,20 +93,30 @@ optimizer = torch.optim.AdamW(re_model.parameters(), lr=learning_rate)
 total_steps = len(re_loader) * num_epochs
 
 for epoch in range(num_epochs):
-    for batch in re_loader:
+    print(f"Epoch {epoch + 1}/{num_epochs}")
+    print("-" * 40)
+
+    re_model.train()
+    epoch_loss = 0
+    num_batches = 0
+
+    # Add a progress bar for the batches
+    for batch in tqdm(re_loader, desc="Training", unit="batch"):
         input_ids, attention_masks, labels = tuple(t.to(device) for t in batch)
-        print(input_ids.shape)
-        print(attention_masks.shape)
         outputs = re_model(input_ids, attention_mask=attention_masks, labels=labels)
         loss = outputs.loss
+        epoch_loss += loss.item()
+        num_batches += 1
+
         loss.backward()
         optimizer.step()
         optimizer.zero_grad()
+
+    avg_epoch_loss = epoch_loss / num_batches
+    print(f"Average training loss: {avg_epoch_loss:.4f}")
 
 # Save the fine-tuned BERT RE model
 output_dir = "models/re"
 os.makedirs(output_dir, exist_ok=True)
 re_model.save_pretrained(output_dir)
 tokenizer.save_pretrained(output_dir)
-
-
