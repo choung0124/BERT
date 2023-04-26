@@ -64,6 +64,9 @@ for file_name in os.listdir(json_directory):
         ner_data = preprocess_ner(json_data)
         preprocessed_data.append(ner_data)
         print(f"Processed: {file_name}")
+        print(f"Number of entities: {len(json_data['entities'])}")
+        for entity in json_data['entities']:
+            print(entity)
 
 # Hyperparameters
 num_epochs = 10
