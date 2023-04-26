@@ -5,16 +5,25 @@ from transformers import pipeline, BertTokenizer, BertForSequenceClassification,
 from itertools import groupby
 
 def extract_entities(text, ner_model, tokenizer, id_to_label):
-    outputs = ner_model(text)
-    tokens = outputs[0]['tokens']
-    tags = outputs[0]['entity']
+    inputs = tokenizer(text, return_tensors="pt")
+    input_ids = inputs["input_ids"]
+    attention_mask = inputs["attention_mask"]
+
+    ner_model.eval()
+    with torch.no_grad():
+        outputs = ner_model(input_ids, attention_mask=attention_mask)
+    predictions = torch.argmax(outputs.logits, dim=2)
+
+    tokens = tokenizer.convert_ids_to_tokens(input_ids.squeeze().tolist())
+    tags = [id_to_label[prediction.item()] for prediction in predictions.squeeze()]
 
     entities = []
     for tag, group in groupby(zip(tokens, tags), lambda x: x[1]):
         if tag != "O":
-            entity = "".join([t if t.startswith("##") else " "+t for t, _ in group]).strip()
+            entity = "".join([t[2:] if t.startswith("##") else t for t, _ in group]).replace("[SEP]", "").replace("[CLS]", "").strip()
             entities.append((tag, entity))
     return entities
+
 
 def extract_relationships(entities, re_model, tokenizer, id_to_relation):
     relationships = []
