@@ -18,6 +18,7 @@ def preprocess_ner(json_data):
         end = entity["span"]["end"]
         entity_type = entity["entityType"]
         ner_data.append((begin, end, entity_type))
+        print(f"entity: {entity}, ner_data[-1]: {ner_data[-1]}")
     
     ner_data.sort(key=lambda x: x[0])
     
