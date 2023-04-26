@@ -5,24 +5,23 @@ from transformers import BertTokenizer, BertForTokenClassification, BertForSeque
 from itertools import groupby
 
 
-def extract_entities(text, ner_model, tokenizer, id_to_label):
+def extract_entities(text, ner_model_pipeline, tokenizer, id_to_label):
     inputs = tokenizer(text, return_tensors="pt")
     input_ids = inputs["input_ids"]
     attention_mask = inputs["attention_mask"]
 
     with torch.no_grad():
-        outputs = ner_model(input_ids, attention_mask=attention_mask)
-    predictions = torch.argmax(outputs.logits, dim=2)
+        outputs = ner_model_pipeline(text)
 
-    tokens = tokenizer.convert_ids_to_tokens(input_ids.squeeze().tolist())
-    tags = [id_to_label[prediction.item()] for prediction in predictions.squeeze()]
+    tags = [output["entity"] for output in outputs]
 
     entities = []
-    for tag, group in groupby(zip(tokens, tags), lambda x: x[1]):
+    for tag, group in groupby(zip(text.split(), tags), lambda x: x[1]):
         if tag != "O":
-            entity = "".join([t[2:] if t.startswith("##") else t for t, _ in group]).replace("[SEP]", "").replace("[CLS]", "").strip()
+            entity = " ".join([t for t, _ in group])
             entities.append((tag, entity))
     return entities
+
 
 
 def extract_relationships(entities, re_model, tokenizer, id_to_relation):
@@ -53,7 +52,8 @@ if __name__ == "__main__":
     input_text = sys.argv[1]
 
     # Load the trained NER and RE models
-    ner_model = pipeline('ner', model='models/ner', tokenizer='bert-base-cased')
+    ner_model = BertForTokenClassification.from_pretrained("models/ner")
+    ner_model_pipeline = pipeline('ner', model=ner_model, tokenizer='bert-base-cased')
     re_model = BertForSequenceClassification.from_pretrained("models/re")
     tokenizer = BertTokenizer.from_pretrained("models/ner")
 
