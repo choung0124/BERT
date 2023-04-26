@@ -63,7 +63,7 @@ for file_name in os.listdir(json_directory):
             json_data = json.load(json_file)
 
         # Preprocess the data for NER tasks
-        ner_data = preprocess_ner(json_data)
+        ner_data = preprocess_ner(json_data, tokenizer)
         preprocessed_data.append(ner_data)
         print(f"Processed: {file_name}")
         print(f"Number of entities: {len(json_data['entities'])}")
