@@ -1,28 +1,20 @@
 import sys
 import json
 import torch
-from transformers import BertTokenizer, BertForTokenClassification, BertForSequenceClassification, pipeline
+from transformers import pipeline, BertTokenizer, BertForSequenceClassification
 from itertools import groupby
 
-
-def extract_entities(text, ner_model_pipeline, tokenizer, id_to_label):
-    inputs = tokenizer(text, return_tensors="pt")
-    input_ids = inputs["input_ids"]
-    attention_mask = inputs["attention_mask"]
-
-    with torch.no_grad():
-        outputs = ner_model_pipeline(text)
-
-    tags = [output["entity"] for output in outputs]
+def extract_entities(text, ner_model, tokenizer, id_to_label):
+    outputs = ner_model(text)
+    tokens = outputs[0]['tokens']
+    tags = outputs[0]['entity']
 
     entities = []
-    for tag, group in groupby(zip(text.split(), tags), lambda x: x[1]):
+    for tag, group in groupby(zip(tokens, tags), lambda x: x[1]):
         if tag != "O":
-            entity = " ".join([t for t, _ in group])
+            entity = "".join([t if t.startswith("##") else " "+t for t, _ in group]).strip()
             entities.append((tag, entity))
     return entities
-
-
 
 def extract_relationships(entities, re_model, tokenizer, id_to_relation):
     relationships = []
@@ -34,6 +26,7 @@ def extract_relationships(entities, re_model, tokenizer, id_to_relation):
                 input_ids = inputs["input_ids"]
                 attention_mask = inputs["attention_mask"]
 
+                re_model.eval()
                 with torch.no_grad():
                     outputs = re_model(input_ids, attention_mask=attention_mask)
                 prediction = torch.argmax(outputs.logits, dim=1).item()
@@ -42,7 +35,6 @@ def extract_relationships(entities, re_model, tokenizer, id_to_relation):
                 if relation != "no_relation":
                     relationships.append((entity1, relation, entity2))
     return relationships
-
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
@@ -53,10 +45,9 @@ if __name__ == "__main__":
 
     # Load the trained NER and RE models
     ner_model = BertForTokenClassification.from_pretrained("models/ner")
-    ner_model_pipeline = pipeline('ner', model=ner_model, tokenizer='bert-base-cased')
     re_model = BertForSequenceClassification.from_pretrained("models/re")
     tokenizer = BertTokenizer.from_pretrained("models/ner")
-
+    
     # Load the label mappings
     with open("label_to_id.json", "r") as f:
         label_to_id = json.load(f)
